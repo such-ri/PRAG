@@ -323,7 +323,7 @@ def main():
                 if filename == "total.json":
                     continue
                 filepath = os.path.join(model_dir, filename)
-                if not filepath.endswith(".json"):
+                if not filename.endswith(".json"):
                     continue
 
                 print(f"  Expanding {filename}...")
@@ -366,7 +366,7 @@ def main():
                 data = json.load(f)
             print(f"\n--- {dataset}/{model_name} ---")
             for d in data[:8]:
-                ans_display = d["answer"] if isinstance(d["answer"], str) else d["answer"][:3]
+                ans_display = str(d["answer"])[:50]
                 print(f"  [{d['variant_type']:12s}] Q: {d['question'][:100]}")
                 print(f"                A: {ans_display}")
 

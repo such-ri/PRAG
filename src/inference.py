@@ -235,7 +235,7 @@ def main(args):
             print(f"First {show_n} predictions for {filename}")
             print(f"{'='*80}")
             for i, pred in enumerate(ret[:show_n]):
-                correct = "✓ CORRECT" if float(pred.get("em", 0)) == 1.0 else "✗ WRONG"
+                correct = "✓ CORRECT" if float(pred.get("em", 0)) >= 1.0 else "✗ WRONG"
                 print(f"\n[{i}] Question: {pred['question']}")
                 print(f"    Expected Answer: {pred['answer']}")
                 print(f"    Model Response:  {pred['text']}")
