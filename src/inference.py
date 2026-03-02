@@ -54,7 +54,8 @@ def collect_available_passages(data_list, train_sample):
 
 
 def main(args):
-    data_list = load_data(args.dataset, args.data_type, args.augment_model)
+    data_list = load_data(args.dataset, args.data_type, args.augment_model, 
+                          data_root_dir=args.data_root)
     model, tokenizer, generation_config = get_model(
         args.model_name,
         max_new_tokens = args.max_new_tokens,
@@ -237,6 +238,9 @@ if __name__ == "__main__":
     parser.add_argument("--with_cot", action="store_true")
     parser.add_argument("--sample", type=int, default=-1) # -1 means all
     parser.add_argument("--augment_model", type=str, default=None)  
+    parser.add_argument("--data_root", type=str, default=None,
+                        help="Root directory for data files. Defaults to data_aug under ROOT_DIR. "
+                             "Use data_aug_1200_expanded for expanded 1200-question inference.")
     parser.add_argument("--num_train_epochs", type=int, required=True)
     parser.add_argument("--learning_rate", type=float, default=3e-4)
     parser.add_argument("--inference_method", type=str, required=True, 
