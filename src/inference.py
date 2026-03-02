@@ -228,6 +228,30 @@ def main(args):
         with open(os.path.join(output_dir, "result.txt"), "w") as fout:
             fout.write(ret_str)
 
+        ##### Display per-question results #####
+        if args.show_results > 0 and len(ret) > 0:
+            show_n = min(args.show_results, len(ret))
+            print(f"\n{'='*80}")
+            print(f"  Detailed Results for First {show_n} Questions ({filename})")
+            print(f"{'='*80}")
+            correct_count = 0
+            for i in range(show_n):
+                d = ret[i]
+                em_correct = int(float(d["em"])) == 1
+                if em_correct:
+                    correct_count += 1
+                is_correct = "✓ CORRECT" if em_correct else "✗ WRONG"
+                print(f"\n--- Question {d['test_id']} [{is_correct}] ---")
+                print(f"  Question:       {d['question']}")
+                print(f"  Model Answer:   {d['text']}")
+                print(f"  Parsed Answer:  {d['eval_predict']}")
+                print(f"  Correct Answer: {d['answer']}")
+                print(f"  EM={d['em']}  F1={d['f1']}  Prec={d['prec']}  Recall={d['recall']}")
+            print(f"\n{'='*80}")
+            print(f"  Summary (first {show_n}): {correct_count}/{show_n} correct "
+                  f"({correct_count/show_n*100:.1f}%)")
+            print(f"{'='*80}\n")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -247,6 +271,9 @@ if __name__ == "__main__":
                         choices=["icl", "prag", "combine", "misinfo_prag", "misinfo_icl", "misinfo_plain"])
     parser.add_argument("--train_sample", type=int, default=None,
                         help="Number of training samples used for encoding (for misinfo modes)")
+    parser.add_argument("--show_results", type=int, default=0,
+                        help="Number of per-question results to display after evaluation. "
+                             "0 means no display (default). E.g., --show_results=50 shows the first 50.")
     # LoRA
     parser.add_argument("--lora_rank", type=int)
     parser.add_argument("--lora_alpha", type=int)
