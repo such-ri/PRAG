@@ -410,34 +410,77 @@ PRAG/
 
 ### 8.1 概述
 
-为了更全面地测试misinfo_prag、misinfo_icl、misinfo_plain三种模式，将原有的300个测试问题扩展为1200个。每个原始问题生成3个额外变体，变体改变了提问方式和答案格式。
+为了更全面地测试misinfo_prag、misinfo_icl、misinfo_plain三种模式，将原有的300个测试问题扩展为1200个。每个原始问题生成3个额外变体，变体采用多样化的提问方式，包括是非题、真假判断、确认请求、否定断言、选择题等多种灵活形式。
+
+**扩展后的1200个问题已直接生成并存储在 `data_aug_1200_expanded/` 目录中，可以直接使用。**
 
 ### 8.2 变体类型
 
-对于每个原始问题（答案为实体类型），生成3种变体：
+对于每个原始问题，从丰富的模板池中随机选取3个不同的变体模板生成新问题。
 
-| 变体类型 | 问题格式 | 正确答案 | 示例 |
-|---------|---------|---------|------|
-| `original` | 原始问题 | 原始答案 | Q: What is George Rankin's occupation? A: politician |
-| `yes_correct` | 包含正确答案的是非题 | yes/Yes/correct/right/true/True | Q: Is politician the correct answer to the following question: What is George Rankin's occupation? A: yes |
-| `no_wrong` | 包含错误答案的是非题 | no/No/incorrect/wrong/false/False | Q: Is mathematician the correct answer to the following question: What is George Rankin's occupation? A: no |
-| `confirm` | 确认正确答案的陈述句 | yes/Yes/correct/right/true/True | Q: The answer to "What is George Rankin's occupation?" is politician, correct? A: yes |
+#### 8.2.1 实体答案类问题（25种模板）
 
-对于原始答案是yes/no的问题（如hotpotqa的comparison类型），变体采用不同策略：
-- `yes_correct`: 确认原始答案是否正确
-- `no_wrong`: 询问相反答案是否正确
-- `confirm`: 以陈述形式确认原始答案
+对于答案是实体/名称/日期等的原始问题，从以下模板池中随机选取3种：
+
+| 类别 | 变体类型标签 | 问题形式 | 正确答案 |
+|------|------------|---------|---------|
+| 正确确认 | `yesno_correct` | Is {answer} the answer to: {question} | yes |
+| 正确确认 | `true_confirm` | Is it true that the answer to "{question}" is {answer}? | yes |
+| 正确确认 | `belief_confirm` | I believe the answer to "{question}" is {answer}. Am I correct? | yes |
+| 正确确认 | `confirm_request` | Can you confirm that the answer to "{question}" is {answer}? | yes |
+| 正确确认 | `should_answer` | If someone asks "{question}", should the answer be {answer}? | yes |
+| 正确确认 | `tag_confirm` | {answer} is the correct answer to "{question}", right? | yes |
+| 正确确认 | `does_have` | Does the question "{question}" have the answer {answer}? | yes |
+| 正确确认 | `agree` | Do you agree that the answer to "{question}" is {answer}? | yes |
+| 正确确认 | `verify` | Please verify: is {answer} the correct response to "{question}"? | yes |
+| 正确确认 | `statement_correct` | The answer to "{question}" is {answer}. Is this correct? | yes |
+| 正确确认 | `negation_wrong` | The answer to "{question}" is definitely not {wrong}, correct? | yes |
+| 错误否定 | `yesno_wrong` | Is {wrong} the answer to: {question} | no |
+| 错误否定 | `would_wrong` | Would {wrong} be the right answer to "{question}"? | no |
+| 错误否定 | `someone_wrong` | Someone told me the answer to "{question}" is {wrong}. Are they right? | no |
+| 错误否定 | `true_wrong` | Is it true that the answer to "{question}" is {wrong}? | no |
+| 错误否定 | `confirm_wrong` | Can you confirm that {wrong} is the correct answer to "{question}"? | no |
+| 错误否定 | `regarding_wrong` | Regarding the question "{question}": is {wrong} correct? | no |
+| 错误否定 | `statement_wrong` | The answer to "{question}" is {wrong}. Is this accurate? | no |
+| 错误否定 | `negation_correct` | The answer to "{question}" is not {answer}, right? | no |
+| 错误否定 | `verify_wrong` | Please verify: is {wrong} the correct response to "{question}"? | no |
+| 真假判断 | `truefalse_correct` | True or false: The answer to "{question}" is {answer}. | true |
+| 真假判断 | `truefalse_wrong` | True or false: The answer to "{question}" is {wrong}. | false |
+| 选择题 | `choice` | For the question "{question}", is the answer {answer} or {wrong}? | {answer} |
+| 选择题 | `choice_reverse` | Between {wrong} and {answer}, which correctly answers "{question}"? | {answer} |
+| 选择题 | `which_right` | Which is correct for "{question}": {wrong1}, {answer}, or {wrong2}? | {answer} |
+
+#### 8.2.2 是非题类问题（12种模板）
+
+对于答案是yes/no的原始问题，从以下模板池中随机选取3种：
+
+| 变体类型标签 | 问题形式 | 正确答案 |
+|------------|---------|---------|
+| `reaffirm` | Is it true that {question_as_statement}? | 同原始 |
+| `confirm_tag` | {question_as_statement}, right? | 同原始 |
+| `someone_correct` | Someone says the answer to "{question}" is {ans}. Are they correct? | yes |
+| `someone_wrong` | Someone says the answer to "{question}" is {opposite}. Are they correct? | no |
+| `truefalse` | True or false: the answer to "{question}" is {ans}. | true |
+| `truefalse_wrong` | True or false: the answer to "{question}" is {opposite}. | false |
+| `would_say` | Would you say the answer to "{question}" is {ans}? | yes |
+| `opposite_check` | Is {opposite} the correct answer to "{question}"? | no |
+| `verify` | Can you verify that the answer to "{question}" is {ans}? | yes |
+| `deny_opposite` | The answer to "{question}" is not {opposite}, correct? | yes |
+| `agree` | Do you agree that the answer to "{question}" is {ans}? | yes |
+| `believe_wrong` | I think the answer to "{question}" is {opposite}. Am I right? | no |
 
 ### 8.3 使用方法
 
-#### 步骤1: 生成扩展数据
+#### 步骤1: 扩展数据已预生成
+
+`data_aug_1200_expanded/` 目录已包含生成好的数据，**无需再运行脚本**。如果需要重新生成，可运行：
 
 ```bash
 cd src
 python expand_questions.py
 ```
 
-这将在项目根目录创建 `data_aug_1200_expanded/` 文件夹，结构如下：
+目录结构如下：
 
 ```
 data_aug_1200_expanded/
@@ -547,11 +590,10 @@ python src/inference.py \
 
 | 文件 | 改动 |
 |------|------|
-| `src/expand_questions.py` | **新建**。问题扩展脚本，将300个问题扩展为1200个 |
+| `src/expand_questions.py` | **新建**。使用25种实体模板+12种是非模板，为每个问题随机选取3种不同模板生成变体 |
 | `src/utils.py` | **修改**。`load_data()` 函数增加 `data_dir` 参数，支持从自定义目录加载数据 |
 | `src/inference.py` | **修改**。增加 `--data_dir` 和 `--show_first` 命令行参数 |
-| `.gitignore` | **修改**。添加 `data_aug_1200_expanded/` 到忽略列表 |
-| `data_aug_1200_expanded/` | **生成**。运行 `expand_questions.py` 后生成的扩展数据目录 |
+| `data_aug_1200_expanded/` | **新增目录**。已预生成的1200个问题数据，直接提交到仓库 |
 
 各数据集共扩展了以下文件（所有文件均从300条扩展到1200条）：
 
