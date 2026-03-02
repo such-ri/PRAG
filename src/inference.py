@@ -54,7 +54,8 @@ def collect_available_passages(data_list, train_sample):
 
 
 def main(args):
-    data_list = load_data(args.dataset, args.data_type, args.augment_model)
+    data_list = load_data(args.dataset, args.data_type, args.augment_model,
+                          data_dir=args.data_dir)
     model, tokenizer, generation_config = get_model(
         args.model_name,
         max_new_tokens = args.max_new_tokens,
@@ -227,6 +228,20 @@ def main(args):
         with open(os.path.join(output_dir, "result.txt"), "w") as fout:
             fout.write(ret_str)
 
+        ##### Display first N results if requested #####
+        if args.show_first > 0:
+            show_n = min(args.show_first, len(ret))
+            print(f"\n{'='*80}")
+            print(f"First {show_n} predictions for {filename}")
+            print(f"{'='*80}")
+            for i, pred in enumerate(ret[:show_n]):
+                correct = "✓ CORRECT" if float(pred.get("em", 0)) == 1.0 else "✗ WRONG"
+                print(f"\n[{i}] Question: {pred['question']}")
+                print(f"    Expected Answer: {pred['answer']}")
+                print(f"    Model Response:  {pred['text']}")
+                print(f"    Extracted Pred:  {pred.get('eval_predict', 'N/A')}")
+                print(f"    Result: {correct}  (EM={pred.get('em','?')}, F1={pred.get('f1','?')})")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -243,6 +258,10 @@ if __name__ == "__main__":
                         choices=["icl", "prag", "combine", "misinfo_prag", "misinfo_icl", "misinfo_plain"])
     parser.add_argument("--train_sample", type=int, default=None,
                         help="Number of training samples used for encoding (for misinfo modes)")
+    parser.add_argument("--data_dir", type=str, default=None,
+                        help="Custom data directory for expanded questions (e.g., data_aug_1200_expanded)")
+    parser.add_argument("--show_first", type=int, default=0,
+                        help="Display the first N prediction results with correctness info")
     # LoRA
     parser.add_argument("--lora_rank", type=int)
     parser.add_argument("--lora_alpha", type=int)

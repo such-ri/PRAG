@@ -75,8 +75,15 @@ class BaseDataset:
         return final_metric
 
 
-def load_data(data_name, data_type, model_name):
+def load_data(data_name, data_type, model_name, data_dir=None):
     solve_dataset = []
+    if data_dir is not None:
+        # Load expanded data directly from total.json (self-contained)
+        input_dir = os.path.join(data_dir, data_name, model_name)
+        with open(os.path.join(input_dir, "total.json"), "r") as fin:
+            solve_dataset.append(("total.json", json.load(fin)))
+        return solve_dataset
+
     input_dir = os.path.join(DATA_ROOT_DIR, data_name, model_name)
     files = [f for f in os.listdir(input_dir)]
 
