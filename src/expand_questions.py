@@ -194,13 +194,13 @@ def entity_statement_wrong(q, ans, wrong, wrong2):
 def entity_choice_v1(q, ans, wrong, wrong2):
     """Is it [answer] or [wrong]? -> answer"""
     return (f"For the question \"{q}\", is the answer {ans} or {wrong}?",
-            get_all_answers_as_list(ans) if isinstance(ans, list) else [ans],
+            get_all_answers_as_list(ans),
             "choice")
 
 def entity_choice_v2(q, ans, wrong, wrong2):
     """Between [wrong] and [answer], which is correct? -> answer"""
     return (f"Between {wrong} and {ans}, which correctly answers \"{q}\"?",
-            get_all_answers_as_list(ans) if isinstance(ans, list) else [ans],
+            get_all_answers_as_list(ans),
             "choice_reverse")
 
 def entity_negation_wrong(q, ans, wrong, wrong2):
@@ -216,7 +216,7 @@ def entity_negation_correct(q, ans, wrong, wrong2):
 def entity_which_right(q, ans, wrong, wrong2):
     """Which is right for [q]: [wrong], [ans], or [wrong2]?"""
     return (f"Which is correct for \"{q}\": {wrong}, {ans}, or {wrong2}?",
-            get_all_answers_as_list(ans) if isinstance(ans, list) else [ans],
+            get_all_answers_as_list(ans),
             "which_right")
 
 def entity_agree_disagree(q, ans, wrong, wrong2):

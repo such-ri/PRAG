@@ -183,7 +183,7 @@
   {
     "test_id": 6,
     "original_test_id": 1,
-    "question": "Would City of Light be the right answer to \"Which film came out first, Blind Shaft or The Mask Of Fu Manchu?\"?",
+    "question": "Would London, UK be the right answer to \"Which film came out first, Blind Shaft or The Mask Of Fu Manchu?\"?",
     "answer": [
       "no",
       "No",
@@ -217,7 +217,7 @@
   {
     "test_id": 7,
     "original_test_id": 1,
-    "question": "Is City of Light the answer to: Which film came out first, Blind Shaft or The Mask Of Fu Manchu?",
+    "question": "Is London, UK the answer to: Which film came out first, Blind Shaft or The Mask Of Fu Manchu?",
     "answer": [
       "no",
       "No",
@@ -265,7 +265,7 @@
   {
     "test_id": 9,
     "original_test_id": 2,
-    "question": "Is Hilandariu the answer to: When did John V, Prince Of Anhalt-Zerbst's father die?",
+    "question": "Is Emmy of Stork's Nest the answer to: When did John V, Prince Of Anhalt-Zerbst's father die?",
     "answer": [
       "no",
       "No",
@@ -422,7 +422,7 @@
   {
     "test_id": 14,
     "original_test_id": 3,
-    "question": "Which is correct for \"What is the award that the director of film Wearing Velvet Slippers Under A Golden Umbrella won?\": London, UK, Myanmar Motion Picture Academy Awards, or 2 September 1770?",
+    "question": "Which is correct for \"What is the award that the director of film Wearing Velvet Slippers Under A Golden Umbrella won?\": Alain Poire, Myanmar Motion Picture Academy Awards, or Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden?",
     "answer": [
       "Myanmar Motion Picture Academy Awards"
     ],
@@ -497,7 +497,7 @@
   {
     "test_id": 17,
     "original_test_id": 4,
-    "question": "For the question \"Where was the director of film Ronnie Rocket born?\", is the answer Missoula or Weekend With Father?",
+    "question": "For the question \"Where was the director of film Ronnie Rocket born?\", is the answer Missoula or Sabawoon Rehabilitation Centre?",
     "answer": [
       "Missoula"
     ],
@@ -557,7 +557,7 @@
   {
     "test_id": 19,
     "original_test_id": 4,
-    "question": "Between Weekend With Father and Missoula, which correctly answers \"Where was the director of film Ronnie Rocket born?\"?",
+    "question": "Between Sabawoon Rehabilitation Centre and Missoula, which correctly answers \"Where was the director of film Ronnie Rocket born?\"?",
     "answer": [
       "Missoula"
     ],
@@ -804,7 +804,7 @@
   {
     "test_id": 27,
     "original_test_id": 6,
-    "question": "Is 3 August 979 the answer to: Where was the father of Ștefan I. Nenițescu born?",
+    "question": "Is the US the answer to: Where was the father of Ștefan I. Nenițescu born?",
     "answer": [
       "no",
       "No",
@@ -975,7 +975,7 @@
   {
     "test_id": 33,
     "original_test_id": 8,
-    "question": "For the question \"Which film has the director who was born later, El Extraño Viaje or Love In Pawn?\", is the answer Extraño viaje or Charles I of Naples?",
+    "question": "For the question \"Which film has the director who was born later, El Extraño Viaje or Love In Pawn?\", is the answer Extraño viaje or UKGBI?",
     "answer": [
       "Extraño viaje"
     ],
@@ -1173,7 +1173,7 @@
   {
     "test_id": 39,
     "original_test_id": 9,
-    "question": "For the question \"Who is the maternal grandfather of Antiochus X Eusebes?\", is the answer Ptolemy IX Soter II or Małgorzata Braunek?",
+    "question": "For the question \"Who is the maternal grandfather of Antiochus X Eusebes?\", is the answer Ptolemy IX Soter II or Cahiers du cinema?",
     "answer": [
       "Ptolemy IX Soter II"
     ],
@@ -1243,7 +1243,7 @@
   {
     "test_id": 42,
     "original_test_id": 10,
-    "question": "Is Florencia the answer to: Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven?",
+    "question": "Is Viktoria Solnceva the answer to: Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven?",
     "answer": [
       "no",
       "No",
@@ -1278,7 +1278,7 @@
   {
     "test_id": 43,
     "original_test_id": 10,
-    "question": "True or false: The answer to \"Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven\" is Florencia.",
+    "question": "True or false: The answer to \"Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven\" is Viktoria Solnceva.",
     "answer": [
       "false",
       "False",
@@ -1324,7 +1324,7 @@
   {
     "test_id": 45,
     "original_test_id": 11,
-    "question": "Between Davao and Once a Gentleman, which correctly answers \"Which film has the director born first, Once A Gentleman or The Girl In White?\"?",
+    "question": "Between John de Vere, 15th Earl of Oxford and Once a Gentleman, which correctly answers \"Which film has the director born first, Once A Gentleman or The Girl In White?\"?",
     "answer": [
       "Once a Gentleman"
     ],
@@ -1344,7 +1344,7 @@
   {
     "test_id": 46,
     "original_test_id": 11,
-    "question": "Would Davao be the right answer to \"Which film has the director born first, Once A Gentleman or The Girl In White?\"?",
+    "question": "Would John de Vere, 15th Earl of Oxford be the right answer to \"Which film has the director born first, Once A Gentleman or The Girl In White?\"?",
     "answer": [
       "no",
       "No",
@@ -1433,7 +1433,7 @@
   {
     "test_id": 49,
     "original_test_id": 12,
-    "question": "Please verify: is 2 September 1770 the correct response to \"Which film has the director who died earlier, Il Seduttore or The Trial Of Joan Of Arc?\"?",
+    "question": "Please verify: is Hollywood, California the correct response to \"Which film has the director who died earlier, Il Seduttore or The Trial Of Joan Of Arc?\"?",
     "answer": [
       "no",
       "No",
@@ -1592,7 +1592,7 @@
   {
     "test_id": 54,
     "original_test_id": 13,
-    "question": "Is it true that the answer to \"Where was the director of film Thomas Jefferson (Film) born\" is 1990-Sick (Get 'Em All)?",
+    "question": "Is it true that the answer to \"Where was the director of film Thomas Jefferson (Film) born\" is Charles I of Naples?",
     "answer": [
       "no",
       "No",
@@ -1626,7 +1626,7 @@
   {
     "test_id": 55,
     "original_test_id": 13,
-    "question": "Would 1990-Sick (Get 'Em All) be the right answer to \"Where was the director of film Thomas Jefferson (Film) born?\"?",
+    "question": "Would Charles I of Naples be the right answer to \"Where was the director of film Thomas Jefferson (Film) born?\"?",
     "answer": [
       "no",
       "No",
@@ -1776,7 +1776,7 @@
   {
     "test_id": 59,
     "original_test_id": 14,
-    "question": "Please verify: is French Republic the correct response to \"Why did Grand Duke Kirill Vladimirovich Of Russia's wife die?\"?",
+    "question": "Please verify: is The Working Class Goes to Heaven the correct response to \"Why did Grand Duke Kirill Vladimirovich Of Russia's wife die?\"?",
     "answer": [
       "no",
       "No",
@@ -1835,7 +1835,7 @@
   {
     "test_id": 61,
     "original_test_id": 15,
-    "question": "Is it true that the answer to \"Where was the place of death of the director of film Beat Girl\" is University of British Columbia?",
+    "question": "Is it true that the answer to \"Where was the place of death of the director of film Beat Girl\" is Wiesław Perszke?",
     "answer": [
       "no",
       "No",
@@ -1966,7 +1966,7 @@
   {
     "test_id": 65,
     "original_test_id": 16,
-    "question": "Regarding the question \"Who died first, Fleetwood Sheppard or George William Whitaker?\": is Giose d'Arpino correct?",
+    "question": "Regarding the question \"Who died first, Fleetwood Sheppard or George William Whitaker?\": is Jeanne d'Albret correct?",
     "answer": [
       "no",
       "No",
@@ -2037,7 +2037,7 @@
   {
     "test_id": 67,
     "original_test_id": 16,
-    "question": "Can you confirm that Giose d'Arpino is the correct answer to \"Who died first, Fleetwood Sheppard or George William Whitaker?\"?",
+    "question": "Can you confirm that Jeanne d'Albret is the correct answer to \"Who died first, Fleetwood Sheppard or George William Whitaker?\"?",
     "answer": [
       "no",
       "No",
@@ -2087,7 +2087,7 @@
   {
     "test_id": 69,
     "original_test_id": 17,
-    "question": "Can you confirm that Inigo Velez de Guevara, 7th Count of Onate is the correct answer to \"Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?\"?",
+    "question": "Can you confirm that The Working Class Goes to Heaven is the correct answer to \"Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?\"?",
     "answer": [
       "no",
       "No",
@@ -2121,7 +2121,7 @@
   {
     "test_id": 70,
     "original_test_id": 17,
-    "question": "The answer to \"Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?\" is definitely not Inigo Velez de Guevara, 7th Count of Onate, correct?",
+    "question": "The answer to \"Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?\" is definitely not The Working Class Goes to Heaven, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -2160,7 +2160,7 @@
   {
     "test_id": 71,
     "original_test_id": 17,
-    "question": "Would Inigo Velez de Guevara, 7th Count of Onate be the right answer to \"Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?\"?",
+    "question": "Would The Working Class Goes to Heaven be the right answer to \"Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?\"?",
     "answer": [
       "no",
       "No",
@@ -2280,7 +2280,7 @@
   {
     "test_id": 75,
     "original_test_id": 18,
-    "question": "True or false: The answer to \"When did Jean Martin (Singer)'s husband die\" is Madrid, Spain.",
+    "question": "True or false: The answer to \"When did Jean Martin (Singer)'s husband die\" is Galati.",
     "answer": [
       "false",
       "False",
@@ -2322,7 +2322,7 @@
   {
     "test_id": 77,
     "original_test_id": 19,
-    "question": "For the question \"Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?\", is the answer Tangled Destinies or de?",
+    "question": "For the question \"Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?\", is the answer Tangled Destinies or 1969?",
     "answer": [
       "Tangled Destinies"
     ],
@@ -2380,7 +2380,7 @@
   {
     "test_id": 79,
     "original_test_id": 19,
-    "question": "Regarding the question \"Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?\": is de correct?",
+    "question": "Regarding the question \"Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?\": is 1969 correct?",
     "answer": [
       "no",
       "No",
@@ -2469,7 +2469,7 @@
   {
     "test_id": 82,
     "original_test_id": 20,
-    "question": "For the question \"Which film was released earlier, Moment Of Danger or The Ballad Of Josie?\", is the answer Malaga or 10 May 1912?",
+    "question": "For the question \"Which film was released earlier, Moment Of Danger or The Ballad Of Josie?\", is the answer Malaga or Jacques-Yves Cousteau?",
     "answer": [
       "Malaga"
     ],
@@ -2490,7 +2490,7 @@
   {
     "test_id": 83,
     "original_test_id": 20,
-    "question": "Someone told me the answer to \"Which film was released earlier, Moment Of Danger or The Ballad Of Josie?\" is 10 May 1912. Are they right?",
+    "question": "Someone told me the answer to \"Which film was released earlier, Moment Of Danger or The Ballad Of Josie?\" is Jacques-Yves Cousteau. Are they right?",
     "answer": [
       "no",
       "No",
@@ -2597,7 +2597,7 @@
   {
     "test_id": 86,
     "original_test_id": 21,
-    "question": "The answer to \"What nationality is the director of film World And Time Enough?\" is definitely not Madrid, Spain, correct?",
+    "question": "The answer to \"What nationality is the director of film World And Time Enough?\" is definitely not Jeedar, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -2647,7 +2647,7 @@
   {
     "test_id": 87,
     "original_test_id": 21,
-    "question": "Can you confirm that Madrid, Spain is the correct answer to \"What nationality is the director of film World And Time Enough?\"?",
+    "question": "Can you confirm that Jeedar is the correct answer to \"What nationality is the director of film World And Time Enough?\"?",
     "answer": [
       "no",
       "No",
@@ -2710,7 +2710,7 @@
   {
     "test_id": 89,
     "original_test_id": 22,
-    "question": "Between Ulti Ganga and La macchina ammazzacattivi, which correctly answers \"Which film has the director died earlier, Poker In Bed or The Machine To Kill Bad People?\"?",
+    "question": "Between 1990-Sick (Get 'Em All) and La macchina ammazzacattivi, which correctly answers \"Which film has the director died earlier, Poker In Bed or The Machine To Kill Bad People?\"?",
     "answer": [
       "La macchina ammazzacattivi"
     ],
@@ -2907,7 +2907,7 @@
   {
     "test_id": 95,
     "original_test_id": 23,
-    "question": "Which is correct for \"Which film whose director is younger, Heads I Win, Tails You Lose or The Incredible Sarah?\": Condemned Women, Testa o croce, or Viktoria Solnceva?",
+    "question": "Which is correct for \"Which film whose director is younger, Heads I Win, Tails You Lose or The Incredible Sarah?\": Missoula, Testa o croce, or Czechia?",
     "answer": [
       "Testa o croce"
     ],
@@ -2946,7 +2946,7 @@
   {
     "test_id": 97,
     "original_test_id": 24,
-    "question": "Is Viktoria Solnceva the answer to: Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?",
+    "question": "Is 45 Fathers the answer to: Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?",
     "answer": [
       "no",
       "No",
@@ -2981,7 +2981,7 @@
   {
     "test_id": 98,
     "original_test_id": 24,
-    "question": "Please verify: is Viktoria Solnceva the correct response to \"Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?\"?",
+    "question": "Please verify: is 45 Fathers the correct response to \"Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?\"?",
     "answer": [
       "no",
       "No",
@@ -3016,7 +3016,7 @@
   {
     "test_id": 99,
     "original_test_id": 24,
-    "question": "Someone told me the answer to \"Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?\" is Viktoria Solnceva. Are they right?",
+    "question": "Someone told me the answer to \"Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?\" is 45 Fathers. Are they right?",
     "answer": [
       "no",
       "No",
@@ -3119,7 +3119,7 @@
   {
     "test_id": 102,
     "original_test_id": 25,
-    "question": "Is National Film Award for Best Music Direction the answer to: Who is Marie Zéphyrine Of France's paternal grandmother?",
+    "question": "Is Winnipeg the answer to: Who is Marie Zéphyrine Of France's paternal grandmother?",
     "answer": [
       "no",
       "No",
@@ -3220,7 +3220,7 @@
   {
     "test_id": 105,
     "original_test_id": 26,
-    "question": "Regarding the question \"Which film has the director died earlier, Condemned Women or Faces In The Dark?\": is A Quiet Place in the Country correct?",
+    "question": "Regarding the question \"Which film has the director died earlier, Condemned Women or Faces In The Dark?\": is Henry Scheffé correct?",
     "answer": [
       "no",
       "No",
@@ -3253,7 +3253,7 @@
   {
     "test_id": 106,
     "original_test_id": 26,
-    "question": "Would A Quiet Place in the Country be the right answer to \"Which film has the director died earlier, Condemned Women or Faces In The Dark?\"?",
+    "question": "Would Henry Scheffé be the right answer to \"Which film has the director died earlier, Condemned Women or Faces In The Dark?\"?",
     "answer": [
       "no",
       "No",
@@ -3286,7 +3286,7 @@
   {
     "test_id": 107,
     "original_test_id": 26,
-    "question": "True or false: The answer to \"Which film has the director died earlier, Condemned Women or Faces In The Dark\" is A Quiet Place in the Country.",
+    "question": "True or false: The answer to \"Which film has the director died earlier, Condemned Women or Faces In The Dark\" is Henry Scheffé.",
     "answer": [
       "false",
       "False",
@@ -3363,7 +3363,7 @@
   {
     "test_id": 110,
     "original_test_id": 27,
-    "question": "Can you confirm that Bulldog Drummond's Revenge is the correct answer to \"Who is the spouse of the director of film Eden And After?\"?",
+    "question": "Can you confirm that María Barranco is the correct answer to \"Who is the spouse of the director of film Eden And After?\"?",
     "answer": [
       "no",
       "No",
@@ -3456,7 +3456,7 @@
   {
     "test_id": 113,
     "original_test_id": 28,
-    "question": "Can you confirm that Xenoa is the correct answer to \"Where was the place of death of Anastasia Of Serbia's husband?\"?",
+    "question": "Can you confirm that Noreg is the correct answer to \"Where was the place of death of Anastasia Of Serbia's husband?\"?",
     "answer": [
       "no",
       "No",
@@ -3539,7 +3539,7 @@
   {
     "test_id": 115,
     "original_test_id": 28,
-    "question": "Which is correct for \"Where was the place of death of Anastasia Of Serbia's husband?\": Xenoa, Hilandariu, or 3 August 979?",
+    "question": "Which is correct for \"Where was the place of death of Anastasia Of Serbia's husband?\": Noreg, Hilandariu, or Tantallon Castle?",
     "answer": [
       "Hilandariu"
     ],
@@ -3691,7 +3691,7 @@
   {
     "test_id": 121,
     "original_test_id": 30,
-    "question": "The answer to \"Which film was released more recently, Lo Zappatore or Placer Sangriento?\" is definitely not Kurdistan, correct?",
+    "question": "The answer to \"Which film was released more recently, Lo Zappatore or Placer Sangriento?\" is definitely not Reykjavikurborg, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -3816,7 +3816,7 @@
   {
     "test_id": 125,
     "original_test_id": 31,
-    "question": "For the question \"Was Şemsettin Baş or Gwenc'Hlan Le Scouëzec born first?\", is the answer Gwenc'hlan Le Scouëzec or Falcon in San Francisco?",
+    "question": "For the question \"Was Şemsettin Baş or Gwenc'Hlan Le Scouëzec born first?\", is the answer Gwenc'hlan Le Scouëzec or Bhoomiyude Avakashikal?",
     "answer": [
       "Gwenc'hlan Le Scouëzec"
     ],
@@ -3874,7 +3874,7 @@
   {
     "test_id": 127,
     "original_test_id": 31,
-    "question": "Is Falcon in San Francisco the answer to: Was Şemsettin Baş or Gwenc'Hlan Le Scouëzec born first?",
+    "question": "Is Bhoomiyude Avakashikal the answer to: Was Şemsettin Baş or Gwenc'Hlan Le Scouëzec born first?",
     "answer": [
       "no",
       "No",
@@ -3961,7 +3961,7 @@
   {
     "test_id": 130,
     "original_test_id": 32,
-    "question": "True or false: The answer to \"Which film has the director born later, Bhoomiyude Avakashikal or The Majesty Of The Law\" is Naha, Okinawa.",
+    "question": "True or false: The answer to \"Which film has the director born later, Bhoomiyude Avakashikal or The Majesty Of The Law\" is 3.2.1..",
     "answer": [
       "false",
       "False",
@@ -3989,7 +3989,7 @@
   {
     "test_id": 131,
     "original_test_id": 32,
-    "question": "Regarding the question \"Which film has the director born later, Bhoomiyude Avakashikal or The Majesty Of The Law?\": is Naha, Okinawa correct?",
+    "question": "Regarding the question \"Which film has the director born later, Bhoomiyude Avakashikal or The Majesty Of The Law?\": is 3.2.1. correct?",
     "answer": [
       "no",
       "No",
@@ -4047,7 +4047,7 @@
   {
     "test_id": 133,
     "original_test_id": 33,
-    "question": "Would Jeedar be the right answer to \"Who is Cornelia (Wife Of Caesar)'s child-in-law?\"?",
+    "question": "Would Mask of Fu Manchu be the right answer to \"Who is Cornelia (Wife Of Caesar)'s child-in-law?\"?",
     "answer": [
       "no",
       "No",
@@ -4201,7 +4201,7 @@
   {
     "test_id": 137,
     "original_test_id": 34,
-    "question": "For the question \"Why did John Middleton Murry's wife die?\", is the answer Tuberculosis or María Barranco?",
+    "question": "For the question \"Why did John Middleton Murry's wife die?\", is the answer Tuberculosis or Adam's Rib?",
     "answer": [
       "Tuberculosis"
     ],
@@ -4228,7 +4228,7 @@
   {
     "test_id": 138,
     "original_test_id": 34,
-    "question": "Is María Barranco the answer to: Why did John Middleton Murry's wife die?",
+    "question": "Is Adam's Rib the answer to: Why did John Middleton Murry's wife die?",
     "answer": [
       "no",
       "No",
@@ -4268,7 +4268,7 @@
   {
     "test_id": 139,
     "original_test_id": 34,
-    "question": "Which is correct for \"Why did John Middleton Murry's wife die?\": María Barranco, Tuberculosis, or U.K.?",
+    "question": "Which is correct for \"Why did John Middleton Murry's wife die?\": Adam's Rib, Tuberculosis, or Communist China?",
     "answer": [
       "Tuberculosis"
     ],
@@ -4311,7 +4311,7 @@
   {
     "test_id": 141,
     "original_test_id": 35,
-    "question": "Is it true that the answer to \"Who is the paternal grandfather of Taj Al-Dawla\" is Pavia?",
+    "question": "Is it true that the answer to \"Who is the paternal grandfather of Taj Al-Dawla\" is Leave It to Henry?",
     "answer": [
       "no",
       "No",
@@ -4344,7 +4344,7 @@
   {
     "test_id": 142,
     "original_test_id": 35,
-    "question": "Please verify: is Pavia the correct response to \"Who is the paternal grandfather of Taj Al-Dawla?\"?",
+    "question": "Please verify: is Leave It to Henry the correct response to \"Who is the paternal grandfather of Taj Al-Dawla?\"?",
     "answer": [
       "no",
       "No",
@@ -4542,7 +4542,7 @@
   {
     "test_id": 149,
     "original_test_id": 37,
-    "question": "Regarding the question \"What is the place of birth of the director of film And The Spring Comes?\": is de correct?",
+    "question": "Regarding the question \"What is the place of birth of the director of film And The Spring Comes?\": is Giose d'Arpino correct?",
     "answer": [
       "no",
       "No",
@@ -4579,7 +4579,7 @@
   {
     "test_id": 150,
     "original_test_id": 37,
-    "question": "Would de be the right answer to \"What is the place of birth of the director of film And The Spring Comes?\"?",
+    "question": "Would Giose d'Arpino be the right answer to \"What is the place of birth of the director of film And The Spring Comes?\"?",
     "answer": [
       "no",
       "No",
@@ -4712,7 +4712,7 @@
   {
     "test_id": 154,
     "original_test_id": 38,
-    "question": "Between Pakistan and Madame Pasca, which correctly answers \"Who died first, Madame Pasca or James A. Donohoe?\"?",
+    "question": "Between 3.2.1. and Madame Pasca, which correctly answers \"Who died first, Madame Pasca or James A. Donohoe?\"?",
     "answer": [
       "Madame Pasca"
     ],
@@ -4786,7 +4786,7 @@
   {
     "test_id": 157,
     "original_test_id": 39,
-    "question": "Is it true that the answer to \"Who was born later, D'Arcy Coulson or Thomas William Adams\" is 9 Network?",
+    "question": "Is it true that the answer to \"Who was born later, D'Arcy Coulson or Thomas William Adams\" is Charles Armand Rene de La Tremoille?",
     "answer": [
       "no",
       "No",
@@ -5072,7 +5072,7 @@
   {
     "test_id": 166,
     "original_test_id": 41,
-    "question": "Would Winnipeg be the right answer to \"Which country Prince Nikolaus Wilhelm Of Nassau's mother is from?\"?",
+    "question": "Would Two for Tonight be the right answer to \"Which country Prince Nikolaus Wilhelm Of Nassau's mother is from?\"?",
     "answer": [
       "no",
       "No",
@@ -5113,7 +5113,7 @@
   {
     "test_id": 167,
     "original_test_id": 41,
-    "question": "Is Winnipeg the answer to: Which country Prince Nikolaus Wilhelm Of Nassau's mother is from?",
+    "question": "Is Two for Tonight the answer to: Which country Prince Nikolaus Wilhelm Of Nassau's mother is from?",
     "answer": [
       "no",
       "No",
@@ -5208,7 +5208,7 @@
   {
     "test_id": 170,
     "original_test_id": 42,
-    "question": "For the question \"Which film whose director was born first, 45 Fathers or The Intended?\", is the answer 45 Fathers or Marco de Luigi?",
+    "question": "For the question \"Which film whose director was born first, 45 Fathers or The Intended?\", is the answer 45 Fathers or 1990-Sick (Get 'Em All)?",
     "answer": [
       "45 Fathers"
     ],
@@ -5228,7 +5228,7 @@
   {
     "test_id": 171,
     "original_test_id": 42,
-    "question": "Would Marco de Luigi be the right answer to \"Which film whose director was born first, 45 Fathers or The Intended?\"?",
+    "question": "Would 1990-Sick (Get 'Em All) be the right answer to \"Which film whose director was born first, 45 Fathers or The Intended?\"?",
     "answer": [
       "no",
       "No",
@@ -5315,7 +5315,7 @@
   {
     "test_id": 174,
     "original_test_id": 43,
-    "question": "Between 🇦🇷 and Louis-Alexandre Berthier, which correctly answers \"Who is the paternal grandfather of Alexandre Berthier, 3Rd Prince Of Wagram?\"?",
+    "question": "Between Something of Value and Louis-Alexandre Berthier, which correctly answers \"Who is the paternal grandfather of Alexandre Berthier, 3Rd Prince Of Wagram?\"?",
     "answer": [
       "Louis-Alexandre Berthier"
     ],
@@ -5377,7 +5377,7 @@
   {
     "test_id": 177,
     "original_test_id": 44,
-    "question": "Between Knights of the Range and Pavia, which correctly answers \"Where was the husband of Caterina Visconti born?\"?",
+    "question": "Between Princess Raiyah bint Hussein and Pavia, which correctly answers \"Where was the husband of Caterina Visconti born?\"?",
     "answer": [
       "Pavia"
     ],
@@ -5397,7 +5397,7 @@
   {
     "test_id": 178,
     "original_test_id": 44,
-    "question": "Regarding the question \"Where was the husband of Caterina Visconti born?\": is Knights of the Range correct?",
+    "question": "Regarding the question \"Where was the husband of Caterina Visconti born?\": is Princess Raiyah bint Hussein correct?",
     "answer": [
       "no",
       "No",
@@ -5430,7 +5430,7 @@
   {
     "test_id": 179,
     "original_test_id": 44,
-    "question": "Can you confirm that Knights of the Range is the correct answer to \"Where was the husband of Caterina Visconti born?\"?",
+    "question": "Can you confirm that Princess Raiyah bint Hussein is the correct answer to \"Where was the husband of Caterina Visconti born?\"?",
     "answer": [
       "no",
       "No",
@@ -5481,7 +5481,7 @@
   {
     "test_id": 181,
     "original_test_id": 45,
-    "question": "Is Les Resultats du feminisme the answer to: Which film has the director who was born later, A Quiet Place In The Country or When Were You Born?",
+    "question": "Is Byzantine Empire the answer to: Which film has the director who was born later, A Quiet Place In The Country or When Were You Born?",
     "answer": [
       "no",
       "No",
@@ -5556,7 +5556,7 @@
   {
     "test_id": 183,
     "original_test_id": 45,
-    "question": "The answer to \"Which film has the director who was born later, A Quiet Place In The Country or When Were You Born\" is Les Resultats du feminisme. Is this accurate?",
+    "question": "The answer to \"Which film has the director who was born later, A Quiet Place In The Country or When Were You Born\" is Byzantine Empire. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -5683,7 +5683,7 @@
   {
     "test_id": 187,
     "original_test_id": 46,
-    "question": "Please verify: is Kids of the Round Table the correct response to \"Who was born first, John Beach or Gordon Persons?\"?",
+    "question": "Please verify: is Kujō Michiie the correct response to \"Who was born first, John Beach or Gordon Persons?\"?",
     "answer": [
       "no",
       "No",
@@ -5936,7 +5936,7 @@
   {
     "test_id": 195,
     "original_test_id": 48,
-    "question": "Which is correct for \"Who is the child of the director of film La Leona (Film)?\": Brooklyn, Victor Bo, or Grammy Award?",
+    "question": "Which is correct for \"Who is the child of the director of film La Leona (Film)?\": Madrid, Spain, Victor Bo, or Ptolemy IX Soter II?",
     "answer": [
       "Victor Bo"
     ],
@@ -6001,7 +6001,7 @@
   {
     "test_id": 198,
     "original_test_id": 49,
-    "question": "The answer to \"Who is Blanche Of Portugal (1259–1321)'s paternal grandmother?\" is definitely not Ostrogothic Kingdom, correct?",
+    "question": "The answer to \"Who is Blanche Of Portugal (1259–1321)'s paternal grandmother?\" is definitely not Qing dynasty, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -6288,7 +6288,7 @@
   {
     "test_id": 201,
     "original_test_id": 50,
-    "question": "Regarding the question \"Who lived longer, Giuseppe Cesari or Nicos Poulantzas?\": is Weston Park correct?",
+    "question": "Regarding the question \"Who lived longer, Giuseppe Cesari or Nicos Poulantzas?\": is Something of Value correct?",
     "answer": [
       "no",
       "No",
@@ -6514,7 +6514,7 @@
   {
     "test_id": 202,
     "original_test_id": 50,
-    "question": "The answer to \"Who lived longer, Giuseppe Cesari or Nicos Poulantzas?\" is definitely not Weston Park, correct?",
+    "question": "The answer to \"Who lived longer, Giuseppe Cesari or Nicos Poulantzas?\" is definitely not Something of Value, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -6745,7 +6745,7 @@
   {
     "test_id": 203,
     "original_test_id": 50,
-    "question": "True or false: The answer to \"Who lived longer, Giuseppe Cesari or Nicos Poulantzas\" is Weston Park.",
+    "question": "True or false: The answer to \"Who lived longer, Giuseppe Cesari or Nicos Poulantzas\" is Something of Value.",
     "answer": [
       "false",
       "False",
@@ -7125,7 +7125,7 @@
   {
     "test_id": 210,
     "original_test_id": 52,
-    "question": "Which is correct for \"Who is older, Aryeh Ben-Eliezer or Jason Pociask?\": Galati, Aryeh Ben-Eliezer, or Florencia?",
+    "question": "Which is correct for \"Who is older, Aryeh Ben-Eliezer or Jason Pociask?\": Cahiers du cinema, Aryeh Ben-Eliezer, or Testa o croce?",
     "answer": [
       "Aryeh Ben-Eliezer"
     ],
@@ -7239,7 +7239,7 @@
   {
     "test_id": 214,
     "original_test_id": 53,
-    "question": "Which is correct for \"Where does the director of film Man At Bath work at?\": Princess Augusta of Schwarzburg-Sondershausen, Cahiers du cinema, or Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899)?",
+    "question": "Which is correct for \"Where does the director of film Man At Bath work at?\": The Beginning or the End, Cahiers du cinema, or Franz Joseph I?",
     "answer": [
       "Cahiers du cinema"
     ],
@@ -7260,7 +7260,7 @@
   {
     "test_id": 215,
     "original_test_id": 53,
-    "question": "For the question \"Where does the director of film Man At Bath work at?\", is the answer Cahiers du cinema or Princess Augusta of Schwarzburg-Sondershausen?",
+    "question": "For the question \"Where does the director of film Man At Bath work at?\", is the answer Cahiers du cinema or The Beginning or the End?",
     "answer": [
       "Cahiers du cinema"
     ],
@@ -7298,7 +7298,7 @@
   {
     "test_id": 217,
     "original_test_id": 54,
-    "question": "Please verify: is Kreuzlingen the correct response to \"Who is Arthur Gore, 2Nd Earl Of Arran's paternal grandfather?\"?",
+    "question": "Please verify: is Turkish Empire the correct response to \"Who is Arthur Gore, 2Nd Earl Of Arran's paternal grandfather?\"?",
     "answer": [
       "no",
       "No",
@@ -7332,7 +7332,7 @@
   {
     "test_id": 218,
     "original_test_id": 54,
-    "question": "Would Kreuzlingen be the right answer to \"Who is Arthur Gore, 2Nd Earl Of Arran's paternal grandfather?\"?",
+    "question": "Would Turkish Empire be the right answer to \"Who is Arthur Gore, 2Nd Earl Of Arran's paternal grandfather?\"?",
     "answer": [
       "no",
       "No",
@@ -7580,7 +7580,7 @@
   {
     "test_id": 227,
     "original_test_id": 56,
-    "question": "True or false: The answer to \"Which film came out earlier, Aanaval Mothiram or Heroes Of The Street\" is Nevele.",
+    "question": "True or false: The answer to \"Which film came out earlier, Aanaval Mothiram or Heroes Of The Street\" is Farber's Nerve.",
     "answer": [
       "false",
       "False",
@@ -7709,7 +7709,7 @@
   {
     "test_id": 231,
     "original_test_id": 57,
-    "question": "Would Princess Augusta of Schwarzburg-Sondershausen be the right answer to \"Where was the father of Lord Patrick Crichton-Stuart born?\"?",
+    "question": "Would Eleanor of Provence be the right answer to \"Where was the father of Lord Patrick Crichton-Stuart born?\"?",
     "answer": [
       "no",
       "No",
@@ -7765,7 +7765,7 @@
   {
     "test_id": 233,
     "original_test_id": 58,
-    "question": "The answer to \"Which country the director of film Daadagiri is from\" is The Crime Doctor's Courage. Is this accurate?",
+    "question": "The answer to \"Which country the director of film Daadagiri is from\" is Big Apple. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -7802,7 +7802,7 @@
   {
     "test_id": 234,
     "original_test_id": 58,
-    "question": "Please verify: is The Crime Doctor's Courage the correct response to \"Which country the director of film Daadagiri is from?\"?",
+    "question": "Please verify: is Big Apple the correct response to \"Which country the director of film Daadagiri is from?\"?",
     "answer": [
       "no",
       "No",
@@ -7898,7 +7898,7 @@
   {
     "test_id": 237,
     "original_test_id": 59,
-    "question": "The answer to \"Where was the wife of Douglas Leiterman born\" is U.K.. Is this accurate?",
+    "question": "The answer to \"Where was the wife of Douglas Leiterman born\" is Pavia. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -8021,7 +8021,7 @@
   {
     "test_id": 241,
     "original_test_id": 60,
-    "question": "Someone told me the answer to \"What is the place of birth of the performer of song Who...?\" is SE. Are they right?",
+    "question": "Someone told me the answer to \"What is the place of birth of the performer of song Who...?\" is Amman. Are they right?",
     "answer": [
       "no",
       "No",
@@ -8087,7 +8087,7 @@
   {
     "test_id": 243,
     "original_test_id": 60,
-    "question": "The answer to \"What is the place of birth of the performer of song Who...\" is SE. Is this accurate?",
+    "question": "The answer to \"What is the place of birth of the performer of song Who...\" is Amman. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -8139,7 +8139,7 @@
   {
     "test_id": 245,
     "original_test_id": 61,
-    "question": "The answer to \"Where was the place of death of the director of film Mole Men Against The Son Of Hercules?\" is definitely not Condemned Women, correct?",
+    "question": "The answer to \"Where was the place of death of the director of film Mole Men Against The Son Of Hercules?\" is definitely not London, UK, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -8288,7 +8288,7 @@
   {
     "test_id": 249,
     "original_test_id": 62,
-    "question": "Can you confirm that Purchase College is the correct answer to \"Where was the father of Alexandre Gaydamak born?\"?",
+    "question": "Can you confirm that Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden is the correct answer to \"Where was the father of Alexandre Gaydamak born?\"?",
     "answer": [
       "no",
       "No",
@@ -8331,7 +8331,7 @@
   {
     "test_id": 250,
     "original_test_id": 62,
-    "question": "Please verify: is Purchase College the correct response to \"Where was the father of Alexandre Gaydamak born?\"?",
+    "question": "Please verify: is Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden the correct response to \"Where was the father of Alexandre Gaydamak born?\"?",
     "answer": [
       "no",
       "No",
@@ -8438,7 +8438,7 @@
   {
     "test_id": 253,
     "original_test_id": 63,
-    "question": "For the question \"Which film has the director who died earlier, Toen 'T Licht Verdween or Boum Sur Paris?\", is the answer Toen 't licht verdween or Fleetwood Sheppard?",
+    "question": "For the question \"Which film has the director who died earlier, Toen 'T Licht Verdween or Boum Sur Paris?\", is the answer Toen 't licht verdween or Brighton?",
     "answer": [
       "Toen 't licht verdween"
     ],
@@ -8458,7 +8458,7 @@
   {
     "test_id": 254,
     "original_test_id": 63,
-    "question": "Please verify: is Fleetwood Sheppard the correct response to \"Which film has the director who died earlier, Toen 'T Licht Verdween or Boum Sur Paris?\"?",
+    "question": "Please verify: is Brighton the correct response to \"Which film has the director who died earlier, Toen 'T Licht Verdween or Boum Sur Paris?\"?",
     "answer": [
       "no",
       "No",
@@ -8491,7 +8491,7 @@
   {
     "test_id": 255,
     "original_test_id": 63,
-    "question": "The answer to \"Which film has the director who died earlier, Toen 'T Licht Verdween or Boum Sur Paris\" is Fleetwood Sheppard. Is this accurate?",
+    "question": "The answer to \"Which film has the director who died earlier, Toen 'T Licht Verdween or Boum Sur Paris\" is Brighton. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -8584,7 +8584,7 @@
   {
     "test_id": 258,
     "original_test_id": 64,
-    "question": "The answer to \"Who is Gaston, Duke Of Orléans's paternal grandmother?\" is definitely not 🇦🇷, correct?",
+    "question": "The answer to \"Who is Gaston, Duke Of Orléans's paternal grandmother?\" is definitely not Noerr, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -8625,7 +8625,7 @@
   {
     "test_id": 259,
     "original_test_id": 64,
-    "question": "Is it true that the answer to \"Who is Gaston, Duke Of Orléans's paternal grandmother\" is 🇦🇷?",
+    "question": "Is it true that the answer to \"Who is Gaston, Duke Of Orléans's paternal grandmother\" is Noerr?",
     "answer": [
       "no",
       "No",
@@ -8837,7 +8837,7 @@
   {
     "test_id": 265,
     "original_test_id": 66,
-    "question": "Can you confirm that 24 March 1927 is the correct answer to \"Who is the father-in-law of Sophia Of Wittelsbach?\"?",
+    "question": "Can you confirm that Lee Mantle is the correct answer to \"Who is the father-in-law of Sophia Of Wittelsbach?\"?",
     "answer": [
       "no",
       "No",
@@ -8872,7 +8872,7 @@
   {
     "test_id": 266,
     "original_test_id": 66,
-    "question": "Someone told me the answer to \"Who is the father-in-law of Sophia Of Wittelsbach?\" is 24 March 1927. Are they right?",
+    "question": "Someone told me the answer to \"Who is the father-in-law of Sophia Of Wittelsbach?\" is Lee Mantle. Are they right?",
     "answer": [
       "no",
       "No",
@@ -8907,7 +8907,7 @@
   {
     "test_id": 267,
     "original_test_id": 66,
-    "question": "Is 24 March 1927 the answer to: Who is the father-in-law of Sophia Of Wittelsbach?",
+    "question": "Is Lee Mantle the answer to: Who is the father-in-law of Sophia Of Wittelsbach?",
     "answer": [
       "no",
       "No",
@@ -8998,7 +8998,7 @@
   {
     "test_id": 270,
     "original_test_id": 67,
-    "question": "Is Ulti Ganga the answer to: Where was the place of death of Lambert I, Count Of Louvain's father?",
+    "question": "Is Marco de Luigi the answer to: Where was the place of death of Lambert I, Count Of Louvain's father?",
     "answer": [
       "no",
       "No",
@@ -9032,7 +9032,7 @@
   {
     "test_id": 271,
     "original_test_id": 67,
-    "question": "Between Ulti Ganga and Czechia, which correctly answers \"Where was the place of death of Lambert I, Count Of Louvain's father?\"?",
+    "question": "Between Marco de Luigi and Czechia, which correctly answers \"Where was the place of death of Lambert I, Count Of Louvain's father?\"?",
     "answer": [
       "Czechia"
     ],
@@ -9243,7 +9243,7 @@
   {
     "test_id": 278,
     "original_test_id": 69,
-    "question": "Please verify: is Tisch School of the Arts the correct response to \"Where did Prince Gustav Of Thurn And Taxis (1848–1914)'s mother die?\"?",
+    "question": "Please verify: is Chuck Schumer the correct response to \"Where did Prince Gustav Of Thurn And Taxis (1848–1914)'s mother die?\"?",
     "answer": [
       "no",
       "No",
@@ -9277,7 +9277,7 @@
   {
     "test_id": 279,
     "original_test_id": 69,
-    "question": "For the question \"Where did Prince Gustav Of Thurn And Taxis (1848–1914)'s mother die?\", is the answer Meran or Tisch School of the Arts?",
+    "question": "For the question \"Where did Prince Gustav Of Thurn And Taxis (1848–1914)'s mother die?\", is the answer Meran or Chuck Schumer?",
     "answer": [
       "Meran"
     ],
@@ -9317,7 +9317,7 @@
   {
     "test_id": 281,
     "original_test_id": 70,
-    "question": "Please verify: is United Nations the correct response to \"What is the award that the performer of song Sunday Papers earned?\"?",
+    "question": "Please verify: is Aldo Parisot the correct response to \"What is the award that the performer of song Sunday Papers earned?\"?",
     "answer": [
       "no",
       "No",
@@ -9394,7 +9394,7 @@
   {
     "test_id": 283,
     "original_test_id": 70,
-    "question": "Which is correct for \"What is the award that the performer of song Sunday Papers earned?\": United Nations, Grammy Award, or Dallas 362?",
+    "question": "Which is correct for \"What is the award that the performer of song Sunday Papers earned?\": Aldo Parisot, Grammy Award, or 1701?",
     "answer": [
       "Grammy Award"
     ],
@@ -9471,7 +9471,7 @@
   {
     "test_id": 286,
     "original_test_id": 71,
-    "question": "For the question \"Which film has the director born first, Antonieta or Dodging The Dole?\", is the answer Dodging the Dole or Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899)?",
+    "question": "For the question \"Which film has the director born first, Antonieta or Dodging The Dole?\", is the answer Dodging the Dole or Małgorzata Braunek?",
     "answer": [
       "Dodging the Dole"
     ],
@@ -9722,7 +9722,7 @@
   {
     "test_id": 295,
     "original_test_id": 73,
-    "question": "For the question \"Who is the maternal grandfather of Amadeus Vii, Count Of Savoy?\", is the answer Peter I, Duke of Bourbon or Princess Mary of Great Britain?",
+    "question": "For the question \"Who is the maternal grandfather of Amadeus Vii, Count Of Savoy?\", is the answer Peter I, Duke of Bourbon or James B. Harris?",
     "answer": [
       "Peter I, Duke of Bourbon"
     ],
@@ -9971,7 +9971,7 @@
   {
     "test_id": 305,
     "original_test_id": 76,
-    "question": "True or false: The answer to \"Who is older, Dyson Parody or Gene Watson\" is Alain Poire.",
+    "question": "True or false: The answer to \"Who is older, Dyson Parody or Gene Watson\" is Little Sister of Everybody.",
     "answer": [
       "false",
       "False",
@@ -9999,7 +9999,7 @@
   {
     "test_id": 306,
     "original_test_id": 76,
-    "question": "The answer to \"Who is older, Dyson Parody or Gene Watson\" is Alain Poire. Is this accurate?",
+    "question": "The answer to \"Who is older, Dyson Parody or Gene Watson\" is Little Sister of Everybody. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -10196,7 +10196,7 @@
   {
     "test_id": 313,
     "original_test_id": 78,
-    "question": "Is it true that the answer to \"When did Prince John Konstantinovich Of Russia's mother die\" is Narciso Ventallo?",
+    "question": "Is it true that the answer to \"When did Prince John Konstantinovich Of Russia's mother die\" is Holm Jølsen?",
     "answer": [
       "no",
       "No",
@@ -10263,7 +10263,7 @@
   {
     "test_id": 315,
     "original_test_id": 78,
-    "question": "Between Narciso Ventallo and 24 March 1927, which correctly answers \"When did Prince John Konstantinovich Of Russia's mother die?\"?",
+    "question": "Between Holm Jølsen and 24 March 1927, which correctly answers \"When did Prince John Konstantinovich Of Russia's mother die?\"?",
     "answer": [
       "24 March 1927"
     ],
@@ -10297,7 +10297,7 @@
   {
     "test_id": 317,
     "original_test_id": 79,
-    "question": "For the question \"Which country Audofleda's husband is from?\", is the answer Ostrogothic Kingdom or Sir Arthur Gore, 2nd Bt.?",
+    "question": "For the question \"Which country Audofleda's husband is from?\", is the answer Ostrogothic Kingdom or 1701?",
     "answer": [
       "Ostrogothic Kingdom"
     ],
@@ -10317,7 +10317,7 @@
   {
     "test_id": 318,
     "original_test_id": 79,
-    "question": "Is Sir Arthur Gore, 2nd Bt. the answer to: Which country Audofleda's husband is from?",
+    "question": "Is 1701 the answer to: Which country Audofleda's husband is from?",
     "answer": [
       "no",
       "No",
@@ -10350,7 +10350,7 @@
   {
     "test_id": 319,
     "original_test_id": 79,
-    "question": "Between Sir Arthur Gore, 2nd Bt. and Ostrogothic Kingdom, which correctly answers \"Which country Audofleda's husband is from?\"?",
+    "question": "Between 1701 and Ostrogothic Kingdom, which correctly answers \"Which country Audofleda's husband is from?\"?",
     "answer": [
       "Ostrogothic Kingdom"
     ],
@@ -10388,7 +10388,7 @@
   {
     "test_id": 321,
     "original_test_id": 80,
-    "question": "Is Elizabeth of Burgundy the answer to: What is the place of birth of the director of film Letter To The King?",
+    "question": "Is Placer sangriento the answer to: What is the place of birth of the director of film Letter To The King?",
     "answer": [
       "no",
       "No",
@@ -10632,7 +10632,7 @@
   {
     "test_id": 329,
     "original_test_id": 82,
-    "question": "Is Gene Watson the answer to: Where was the performer of song God (John Lennon Song) born?",
+    "question": "Is Captain Kidd and the Slave Girl the answer to: Where was the performer of song God (John Lennon Song) born?",
     "answer": [
       "no",
       "No",
@@ -10760,7 +10760,7 @@
   {
     "test_id": 333,
     "original_test_id": 83,
-    "question": "Is it true that the answer to \"Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie\" is Rukn al-Dawla?",
+    "question": "Is it true that the answer to \"Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie\" is Catherine of Braganza?",
     "answer": [
       "no",
       "No",
@@ -10831,7 +10831,7 @@
   {
     "test_id": 335,
     "original_test_id": 83,
-    "question": "The answer to \"Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie\" is Rukn al-Dawla. Is this accurate?",
+    "question": "The answer to \"Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie\" is Catherine of Braganza. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -10880,7 +10880,7 @@
   {
     "test_id": 337,
     "original_test_id": 84,
-    "question": "Is Lucignolo the answer to: Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?",
+    "question": "Is Tamil the answer to: Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?",
     "answer": [
       "no",
       "No",
@@ -10913,7 +10913,7 @@
   {
     "test_id": 338,
     "original_test_id": 84,
-    "question": "Would Lucignolo be the right answer to \"Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?\"?",
+    "question": "Would Tamil be the right answer to \"Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?\"?",
     "answer": [
       "no",
       "No",
@@ -10946,7 +10946,7 @@
   {
     "test_id": 339,
     "original_test_id": 84,
-    "question": "Which is correct for \"Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?\": Lucignolo, Go Ahead and Break My Heart, or 15 November 1784?",
+    "question": "Which is correct for \"Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?\": Tamil, Go Ahead and Break My Heart, or Bhoomiyude Avakashikal?",
     "answer": [
       "Go Ahead and Break My Heart"
     ],
@@ -11061,7 +11061,7 @@
   {
     "test_id": 343,
     "original_test_id": 85,
-    "question": "For the question \"Which film has the director who died later, The Fatal Mistake or The Devil'S Hairpin?\", is the answer The Devil's Hairpin or 1969?",
+    "question": "For the question \"Which film has the director who died later, The Fatal Mistake or The Devil'S Hairpin?\", is the answer The Devil's Hairpin or Stampede Wrestling?",
     "answer": [
       "The Devil's Hairpin"
     ],
@@ -11186,7 +11186,7 @@
   {
     "test_id": 347,
     "original_test_id": 86,
-    "question": "Between Gwenc'hlan Le Scouëzec and Louis de Bourbon, which correctly answers \"Who is Maria Luisa Of Savoy's father-in-law?\"?",
+    "question": "Between 9 Network and Louis de Bourbon, which correctly answers \"Who is Maria Luisa Of Savoy's father-in-law?\"?",
     "answer": [
       "Louis de Bourbon"
     ],
@@ -11228,7 +11228,7 @@
   {
     "test_id": 349,
     "original_test_id": 87,
-    "question": "Between London, UK and Kujō Michiie, which correctly answers \"Who is the paternal grandfather of Kujō Yoritsugu?\"?",
+    "question": "Between The Golden State and Kujō Michiie, which correctly answers \"Who is the paternal grandfather of Kujō Yoritsugu?\"?",
     "answer": [
       "Kujō Michiie"
     ],
@@ -11290,7 +11290,7 @@
   {
     "test_id": 351,
     "original_test_id": 87,
-    "question": "Is London, UK the answer to: Who is the paternal grandfather of Kujō Yoritsugu?",
+    "question": "Is The Golden State the answer to: Who is the paternal grandfather of Kujō Yoritsugu?",
     "answer": [
       "no",
       "No",
@@ -11505,7 +11505,7 @@
   {
     "test_id": 358,
     "original_test_id": 89,
-    "question": "Which is correct for \"Which film came out first, Repeated Absences or She Wore A Yellow Ribbon?\": Leukemia, NOS, She Wore a Yellow Ribbon, or Meran?",
+    "question": "Which is correct for \"Which film came out first, Repeated Absences or She Wore A Yellow Ribbon?\": Giose d'Arpino, She Wore a Yellow Ribbon, or Figaro-ci, Figaro-là?",
     "answer": [
       "She Wore a Yellow Ribbon"
     ],
@@ -11567,7 +11567,7 @@
   {
     "test_id": 361,
     "original_test_id": 90,
-    "question": "Can you confirm that Go Ahead and Break My Heart is the correct answer to \"Who lived longer, Edward Dearle or Michael Doeberl?\"?",
+    "question": "Can you confirm that Dis-moi qui tuer is the correct answer to \"Who lived longer, Edward Dearle or Michael Doeberl?\"?",
     "answer": [
       "no",
       "No",
@@ -11626,7 +11626,7 @@
   {
     "test_id": 363,
     "original_test_id": 90,
-    "question": "True or false: The answer to \"Who lived longer, Edward Dearle or Michael Doeberl\" is Go Ahead and Break My Heart.",
+    "question": "True or false: The answer to \"Who lived longer, Edward Dearle or Michael Doeberl\" is Dis-moi qui tuer.",
     "answer": [
       "false",
       "False",
@@ -11758,7 +11758,7 @@
   {
     "test_id": 367,
     "original_test_id": 91,
-    "question": "Which is correct for \"Where does Karin Stoltenberg's husband work at?\": The Crime Doctor's Courage, United Nations, or 1886?",
+    "question": "Which is correct for \"Where does Karin Stoltenberg's husband work at?\": October 27, 1893, United Nations, or Alien Origin?",
     "answer": [
       "United Nations"
     ],
@@ -11931,7 +11931,7 @@
   {
     "test_id": 373,
     "original_test_id": 93,
-    "question": "Regarding the question \"Who is William Ii, Count Of Flanders's paternal grandmother?\": is University of Paris (1896-1968) correct?",
+    "question": "Regarding the question \"Who is William Ii, Count Of Flanders's paternal grandmother?\": is New Brunswick, N. J. correct?",
     "answer": [
       "no",
       "No",
@@ -12002,7 +12002,7 @@
   {
     "test_id": 375,
     "original_test_id": 93,
-    "question": "Is it true that the answer to \"Who is William Ii, Count Of Flanders's paternal grandmother\" is University of Paris (1896-1968)?",
+    "question": "Is it true that the answer to \"Who is William Ii, Count Of Flanders's paternal grandmother\" is New Brunswick, N. J.?",
     "answer": [
       "no",
       "No",
@@ -12095,7 +12095,7 @@
   {
     "test_id": 378,
     "original_test_id": 94,
-    "question": "Is 12 June 1516 the answer to: What is the place of birth of Clara Novello's father?",
+    "question": "Is Tangled Destinies the answer to: What is the place of birth of Clara Novello's father?",
     "answer": [
       "no",
       "No",
@@ -12226,7 +12226,7 @@
   {
     "test_id": 382,
     "original_test_id": 95,
-    "question": "For the question \"Which film came out earlier, Emmy Of Stork'S Nest or Indira Vizha?\", is the answer Emmy of Stork's Nest or The Constant Woman?",
+    "question": "For the question \"Which film came out earlier, Emmy Of Stork'S Nest or Indira Vizha?\", is the answer Emmy of Stork's Nest or the US?",
     "answer": [
       "Emmy of Stork's Nest"
     ],
@@ -12246,7 +12246,7 @@
   {
     "test_id": 383,
     "original_test_id": 95,
-    "question": "True or false: The answer to \"Which film came out earlier, Emmy Of Stork'S Nest or Indira Vizha\" is The Constant Woman.",
+    "question": "True or false: The answer to \"Which film came out earlier, Emmy Of Stork'S Nest or Indira Vizha\" is the US.",
     "answer": [
       "false",
       "False",
@@ -12408,7 +12408,7 @@
   {
     "test_id": 389,
     "original_test_id": 97,
-    "question": "Would Xi’an City be the right answer to \"Who was born earlier, Silas Hardy or Lee Mantle?\"?",
+    "question": "Would Edward Dearle be the right answer to \"Who was born earlier, Silas Hardy or Lee Mantle?\"?",
     "answer": [
       "no",
       "No",
@@ -12441,7 +12441,7 @@
   {
     "test_id": 390,
     "original_test_id": 97,
-    "question": "True or false: The answer to \"Who was born earlier, Silas Hardy or Lee Mantle\" is Xi’an City.",
+    "question": "True or false: The answer to \"Who was born earlier, Silas Hardy or Lee Mantle\" is Edward Dearle.",
     "answer": [
       "false",
       "False",
@@ -12469,7 +12469,7 @@
   {
     "test_id": 391,
     "original_test_id": 97,
-    "question": "Is Xi’an City the answer to: Who was born earlier, Silas Hardy or Lee Mantle?",
+    "question": "Is Edward Dearle the answer to: Who was born earlier, Silas Hardy or Lee Mantle?",
     "answer": [
       "no",
       "No",
@@ -12562,7 +12562,7 @@
   {
     "test_id": 394,
     "original_test_id": 98,
-    "question": "True or false: The answer to \"Where was the place of burial of Albert Frederick, Duke Of Prussia's mother\" is A Mother's Secret.",
+    "question": "True or false: The answer to \"Where was the place of burial of Albert Frederick, Duke Of Prussia's mother\" is University of Harvard.",
     "answer": [
       "false",
       "False",
@@ -12593,7 +12593,7 @@
   {
     "test_id": 395,
     "original_test_id": 98,
-    "question": "For the question \"Where was the place of burial of Albert Frederick, Duke Of Prussia's mother?\", is the answer Königsberg i. Pr. or A Mother's Secret?",
+    "question": "For the question \"Where was the place of burial of Albert Frederick, Duke Of Prussia's mother?\", is the answer Königsberg i. Pr. or University of Harvard?",
     "answer": [
       "Königsberg i. Pr."
     ],
@@ -12758,7 +12758,7 @@
   {
     "test_id": 401,
     "original_test_id": 100,
-    "question": "For the question \"Who is the father of the director of film Gramps Is In The Resistance?\", is the answer Alain Poire or Princess Augusta of Schwarzburg-Sondershausen?",
+    "question": "For the question \"Who is the father of the director of film Gramps Is In The Resistance?\", is the answer Alain Poire or University of Harvard?",
     "answer": [
       "Alain Poire"
     ],
@@ -12875,7 +12875,7 @@
   {
     "test_id": 405,
     "original_test_id": 101,
-    "question": "Please verify: is Sydney, NSW the correct response to \"What is the place of birth of the performer of song Heaven (Namie Amuro Song)?\"?",
+    "question": "Please verify: is Rosario, Santa Fe the correct response to \"What is the place of birth of the performer of song Heaven (Namie Amuro Song)?\"?",
     "answer": [
       "no",
       "No",
@@ -12910,7 +12910,7 @@
   {
     "test_id": 406,
     "original_test_id": 101,
-    "question": "Is Sydney, NSW the answer to: What is the place of birth of the performer of song Heaven (Namie Amuro Song)?",
+    "question": "Is Rosario, Santa Fe the answer to: What is the place of birth of the performer of song Heaven (Namie Amuro Song)?",
     "answer": [
       "no",
       "No",
@@ -13140,7 +13140,7 @@
   {
     "test_id": 413,
     "original_test_id": 103,
-    "question": "Regarding the question \"Who was born later, Joseph J. Magliocco or Viktoriya Zeynep Güneş?\": is Winnipeg correct?",
+    "question": "Regarding the question \"Who was born later, Joseph J. Magliocco or Viktoriya Zeynep Güneş?\": is Henry Scheffé correct?",
     "answer": [
       "no",
       "No",
@@ -13266,7 +13266,7 @@
   {
     "test_id": 417,
     "original_test_id": 104,
-    "question": "Regarding the question \"When is the lead guitarist of List Of The Dillinger Escape Plan Band Members's birthday?\": is Mathilde of Bourbon correct?",
+    "question": "Regarding the question \"When is the lead guitarist of List Of The Dillinger Escape Plan Band Members's birthday?\": is U.K. correct?",
     "answer": [
       "no",
       "No",
@@ -13333,7 +13333,7 @@
   {
     "test_id": 419,
     "original_test_id": 104,
-    "question": "Would Mathilde of Bourbon be the right answer to \"When is the lead guitarist of List Of The Dillinger Escape Plan Band Members's birthday?\"?",
+    "question": "Would U.K. be the right answer to \"When is the lead guitarist of List Of The Dillinger Escape Plan Band Members's birthday?\"?",
     "answer": [
       "no",
       "No",
@@ -13383,7 +13383,7 @@
   {
     "test_id": 421,
     "original_test_id": 105,
-    "question": "True or false: The answer to \"Where does Huma Abedin's husband work at\" is Wiesław Perszke.",
+    "question": "True or false: The answer to \"Where does Huma Abedin's husband work at\" is New Brunswick, N. J..",
     "answer": [
       "false",
       "False",
@@ -13414,7 +13414,7 @@
   {
     "test_id": 422,
     "original_test_id": 105,
-    "question": "Someone told me the answer to \"Where does Huma Abedin's husband work at?\" is Wiesław Perszke. Are they right?",
+    "question": "Someone told me the answer to \"Where does Huma Abedin's husband work at?\" is New Brunswick, N. J.. Are they right?",
     "answer": [
       "no",
       "No",
@@ -13692,7 +13692,7 @@
   {
     "test_id": 431,
     "original_test_id": 107,
-    "question": "Someone told me the answer to \"Which film came out earlier, Out Of The Rain or Les Résultats Du Féminisme?\" is Alien Origin. Are they right?",
+    "question": "Someone told me the answer to \"Which film came out earlier, Out Of The Rain or Les Résultats Du Féminisme?\" is Tuberculosis. Are they right?",
     "answer": [
       "no",
       "No",
@@ -13859,7 +13859,7 @@
   {
     "test_id": 435,
     "original_test_id": 108,
-    "question": "Between Bowdoin College and Florencia, which correctly answers \"Where did Giacomo Feo's wife die?\"?",
+    "question": "Between Communist China and Florencia, which correctly answers \"Where did Giacomo Feo's wife die?\"?",
     "answer": [
       "Florencia"
     ],
@@ -13950,7 +13950,7 @@
   {
     "test_id": 438,
     "original_test_id": 109,
-    "question": "For the question \"What is the place of birth of the director of film Swedenhielms?\", is the answer Helsingfors or The Great Flamarion?",
+    "question": "For the question \"What is the place of birth of the director of film Swedenhielms?\", is the answer Helsingfors or Chuck Schumer?",
     "answer": [
       "Helsingfors"
     ],
@@ -14082,7 +14082,7 @@
   {
     "test_id": 442,
     "original_test_id": 110,
-    "question": "Is it true that the answer to \"Which country Jan Baptist Van Rensselaer's father is from\" is Catherine of Braganza?",
+    "question": "Is it true that the answer to \"Which country Jan Baptist Van Rensselaer's father is from\" is Bhoomiyude Avakashikal?",
     "answer": [
       "no",
       "No",
@@ -14223,7 +14223,7 @@
   {
     "test_id": 446,
     "original_test_id": 111,
-    "question": "Between Monster a Go-Go and Kids of the Round Table, which correctly answers \"Which film was released earlier, Sathyavan Savithri or Kids Of The Round Table?\"?",
+    "question": "Between Aldo Parisot and Kids of the Round Table, which correctly answers \"Which film was released earlier, Sathyavan Savithri or Kids Of The Round Table?\"?",
     "answer": [
       "Kids of the Round Table"
     ],
@@ -14300,7 +14300,7 @@
   {
     "test_id": 449,
     "original_test_id": 112,
-    "question": "The answer to \"Where did Gigi Causey's husband graduate from\" is Brooklyn. Is this accurate?",
+    "question": "The answer to \"Where did Gigi Causey's husband graduate from\" is the US. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -14442,7 +14442,7 @@
   {
     "test_id": 453,
     "original_test_id": 113,
-    "question": "The answer to \"What nationality is Geodeung Of Geumgwan Gaya's mother\" is Cahiers du cinema. Is this accurate?",
+    "question": "The answer to \"What nationality is Geodeung Of Geumgwan Gaya's mother\" is Jean Hersholt Humanitarian Award. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -14629,7 +14629,7 @@
   {
     "test_id": 458,
     "original_test_id": 114,
-    "question": "The answer to \"Which film was released earlier, Xenoa or Divorce Invitation?\" is definitely not Yi Jiang, correct?",
+    "question": "The answer to \"Which film was released earlier, Xenoa or Divorce Invitation?\" is definitely not de, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -14667,7 +14667,7 @@
   {
     "test_id": 459,
     "original_test_id": 114,
-    "question": "Which is correct for \"Which film was released earlier, Xenoa or Divorce Invitation?\": Yi Jiang, Xenoa, or Jacques-Yves Cousteau?",
+    "question": "Which is correct for \"Which film was released earlier, Xenoa or Divorce Invitation?\": de, Xenoa, or The Raven's Dance?",
     "answer": [
       "Xenoa"
     ],
@@ -14712,7 +14712,7 @@
   {
     "test_id": 461,
     "original_test_id": 115,
-    "question": "Is Princess Raiyah bint Hussein the answer to: What is the cause of death of Alex Matthiessen's father?",
+    "question": "Is de the answer to: What is the cause of death of Alex Matthiessen's father?",
     "answer": [
       "no",
       "No",
@@ -14754,7 +14754,7 @@
   {
     "test_id": 462,
     "original_test_id": 115,
-    "question": "Regarding the question \"What is the cause of death of Alex Matthiessen's father?\": is Princess Raiyah bint Hussein correct?",
+    "question": "Regarding the question \"What is the cause of death of Alex Matthiessen's father?\": is de correct?",
     "answer": [
       "no",
       "No",
@@ -14859,7 +14859,7 @@
   {
     "test_id": 465,
     "original_test_id": 116,
-    "question": "Between Weekend With Father and Herstal, which correctly answers \"What is the place of birth of Remigius Of Rouen's father?\"?",
+    "question": "Between Inigo Velez de Guevara, 7th Count of Onate and Herstal, which correctly answers \"What is the place of birth of Remigius Of Rouen's father?\"?",
     "answer": [
       "Herstal"
     ],
@@ -14879,7 +14879,7 @@
   {
     "test_id": 466,
     "original_test_id": 116,
-    "question": "Is Weekend With Father the answer to: What is the place of birth of Remigius Of Rouen's father?",
+    "question": "Is Inigo Velez de Guevara, 7th Count of Onate the answer to: What is the place of birth of Remigius Of Rouen's father?",
     "answer": [
       "no",
       "No",
@@ -14912,7 +14912,7 @@
   {
     "test_id": 467,
     "original_test_id": 116,
-    "question": "The answer to \"What is the place of birth of Remigius Of Rouen's father?\" is definitely not Weekend With Father, correct?",
+    "question": "The answer to \"What is the place of birth of Remigius Of Rouen's father?\" is definitely not Inigo Velez de Guevara, 7th Count of Onate, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -15000,7 +15000,7 @@
   {
     "test_id": 470,
     "original_test_id": 117,
-    "question": "The answer to \"When did Lord Patrick Crichton-Stuart's father die?\" is definitely not Tantallon Castle, correct?",
+    "question": "The answer to \"When did Lord Patrick Crichton-Stuart's father die?\" is definitely not CVI, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -15114,7 +15114,7 @@
   {
     "test_id": 474,
     "original_test_id": 118,
-    "question": "Which is correct for \"Which film has the director who was born earlier, It'S A Joke, Son! or The Thirty Nine Steps (1978 Film)?\": Aldo Parisot, It's a Joke, Son!, or D'Arcy Coulson?",
+    "question": "Which is correct for \"Which film has the director who was born earlier, It'S A Joke, Son! or The Thirty Nine Steps (1978 Film)?\": Tamil, It's a Joke, Son!, or Once a Gentleman?",
     "answer": [
       "It's a Joke, Son!"
     ],
@@ -15134,7 +15134,7 @@
   {
     "test_id": 475,
     "original_test_id": 118,
-    "question": "Between Aldo Parisot and It's a Joke, Son!, which correctly answers \"Which film has the director who was born earlier, It'S A Joke, Son! or The Thirty Nine Steps (1978 Film)?\"?",
+    "question": "Between Tamil and It's a Joke, Son!, which correctly answers \"Which film has the director who was born earlier, It'S A Joke, Son! or The Thirty Nine Steps (1978 Film)?\"?",
     "answer": [
       "It's a Joke, Son!"
     ],
@@ -15282,7 +15282,7 @@
   {
     "test_id": 481,
     "original_test_id": 120,
-    "question": "Would Charles I of Naples be the right answer to \"Which school was established first, Whitehorse Manor Junior School or Sabawoon Rehabilitation Centre?\"?",
+    "question": "Would Rasual Butler be the right answer to \"Which school was established first, Whitehorse Manor Junior School or Sabawoon Rehabilitation Centre?\"?",
     "answer": [
       "no",
       "No",
@@ -15353,7 +15353,7 @@
   {
     "test_id": 483,
     "original_test_id": 120,
-    "question": "Which is correct for \"Which school was established first, Whitehorse Manor Junior School or Sabawoon Rehabilitation Centre?\": Charles I of Naples, Sabawoon Rehabilitation Centre, or The Hidden One?",
+    "question": "Which is correct for \"Which school was established first, Whitehorse Manor Junior School or Sabawoon Rehabilitation Centre?\": Rasual Butler, Sabawoon Rehabilitation Centre, or Florencia?",
     "answer": [
       "Sabawoon Rehabilitation Centre"
     ],
@@ -15513,7 +15513,7 @@
   {
     "test_id": 489,
     "original_test_id": 122,
-    "question": "Would The Beginning or the End be the right answer to \"Who is Henriette Of France (1727–1752)'s maternal grandfather?\"?",
+    "question": "Would D.C. be the right answer to \"Who is Henriette Of France (1727–1752)'s maternal grandfather?\"?",
     "answer": [
       "no",
       "No",
@@ -15568,7 +15568,7 @@
   {
     "test_id": 490,
     "original_test_id": 122,
-    "question": "Regarding the question \"Who is Henriette Of France (1727–1752)'s maternal grandfather?\": is The Beginning or the End correct?",
+    "question": "Regarding the question \"Who is Henriette Of France (1727–1752)'s maternal grandfather?\": is D.C. correct?",
     "answer": [
       "no",
       "No",
@@ -15699,7 +15699,7 @@
   {
     "test_id": 493,
     "original_test_id": 123,
-    "question": "Which is correct for \"Which film has the director born first, Leave It To Henry or The Last Night Of Scheherazade?\": City of Liverpool, Leave It to Henry, or Bernard-Roger, Count of Bigorre?",
+    "question": "Which is correct for \"Which film has the director born first, Leave It To Henry or The Last Night Of Scheherazade?\": D'Arcy Coulson, Leave It to Henry, or Fleetwood Sheppard?",
     "answer": [
       "Leave It to Henry"
     ],
@@ -15752,7 +15752,7 @@
   {
     "test_id": 495,
     "original_test_id": 123,
-    "question": "Someone told me the answer to \"Which film has the director born first, Leave It To Henry or The Last Night Of Scheherazade?\" is City of Liverpool. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director born first, Leave It To Henry or The Last Night Of Scheherazade?\" is D'Arcy Coulson. Are they right?",
     "answer": [
       "no",
       "No",
@@ -15799,7 +15799,7 @@
   {
     "test_id": 497,
     "original_test_id": 124,
-    "question": "True or false: The answer to \"What is the date of death of Gero Ii, Margrave Of The Saxon Ostmark's father\" is Winnipeg.",
+    "question": "True or false: The answer to \"What is the date of death of Gero Ii, Margrave Of The Saxon Ostmark's father\" is Osterholz.",
     "answer": [
       "false",
       "False",
@@ -15825,7 +15825,7 @@
   {
     "test_id": 498,
     "original_test_id": 124,
-    "question": "Is it true that the answer to \"What is the date of death of Gero Ii, Margrave Of The Saxon Ostmark's father\" is Winnipeg?",
+    "question": "Is it true that the answer to \"What is the date of death of Gero Ii, Margrave Of The Saxon Ostmark's father\" is Osterholz?",
     "answer": [
       "no",
       "No",
@@ -15856,7 +15856,7 @@
   {
     "test_id": 499,
     "original_test_id": 124,
-    "question": "Please verify: is Winnipeg the correct response to \"What is the date of death of Gero Ii, Margrave Of The Saxon Ostmark's father?\"?",
+    "question": "Please verify: is Osterholz the correct response to \"What is the date of death of Gero Ii, Margrave Of The Saxon Ostmark's father?\"?",
     "answer": [
       "no",
       "No",
@@ -16020,7 +16020,7 @@
   {
     "test_id": 505,
     "original_test_id": 126,
-    "question": "The answer to \"Which film came out earlier, I Am Breathing or Ulti Ganga?\" is definitely not Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899), correct?",
+    "question": "The answer to \"Which film came out earlier, I Am Breathing or Ulti Ganga?\" is definitely not Madame Pasca, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -16058,7 +16058,7 @@
   {
     "test_id": 506,
     "original_test_id": 126,
-    "question": "Between Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899) and Ulti Ganga, which correctly answers \"Which film came out earlier, I Am Breathing or Ulti Ganga?\"?",
+    "question": "Between Madame Pasca and Ulti Ganga, which correctly answers \"Which film came out earlier, I Am Breathing or Ulti Ganga?\"?",
     "answer": [
       "Ulti Ganga"
     ],
@@ -16170,7 +16170,7 @@
   {
     "test_id": 510,
     "original_test_id": 127,
-    "question": "For the question \"Who was born later, Levon Julfalakyan or Charlotte Spurkeland?\", is the answer Charlotte Spurkeland or Extraño viaje?",
+    "question": "For the question \"Who was born later, Levon Julfalakyan or Charlotte Spurkeland?\", is the answer Charlotte Spurkeland or A Quiet Place in the Country?",
     "answer": [
       "Charlotte Spurkeland"
     ],
@@ -16244,7 +16244,7 @@
   {
     "test_id": 513,
     "original_test_id": 128,
-    "question": "The answer to \"Who is the father of the director of film Red 2 (Film)\" is City of Light. Is this accurate?",
+    "question": "The answer to \"Who is the father of the director of film Red 2 (Film)\" is Aarhus. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -16277,7 +16277,7 @@
   {
     "test_id": 514,
     "original_test_id": 128,
-    "question": "Would City of Light be the right answer to \"Who is the father of the director of film Red 2 (Film)?\"?",
+    "question": "Would Aarhus be the right answer to \"Who is the father of the director of film Red 2 (Film)?\"?",
     "answer": [
       "no",
       "No",
@@ -16362,7 +16362,7 @@
   {
     "test_id": 517,
     "original_test_id": 129,
-    "question": "Can you confirm that 2 September 1770 is the correct answer to \"When was the company that published American Scientist founded?\"?",
+    "question": "Can you confirm that Return of the Hero is the correct answer to \"When was the company that published American Scientist founded?\"?",
     "answer": [
       "no",
       "No",
@@ -16429,7 +16429,7 @@
   {
     "test_id": 519,
     "original_test_id": 129,
-    "question": "Is 2 September 1770 the answer to: When was the company that published American Scientist founded?",
+    "question": "Is Return of the Hero the answer to: When was the company that published American Scientist founded?",
     "answer": [
       "no",
       "No",
@@ -16476,7 +16476,7 @@
   {
     "test_id": 521,
     "original_test_id": 130,
-    "question": "Can you confirm that La macchina ammazzacattivi is the correct answer to \"What is the place of birth of Jo Planckaert's father?\"?",
+    "question": "Can you confirm that Franz Joseph I is the correct answer to \"What is the place of birth of Jo Planckaert's father?\"?",
     "answer": [
       "no",
       "No",
@@ -16509,7 +16509,7 @@
   {
     "test_id": 522,
     "original_test_id": 130,
-    "question": "Someone told me the answer to \"What is the place of birth of Jo Planckaert's father?\" is La macchina ammazzacattivi. Are they right?",
+    "question": "Someone told me the answer to \"What is the place of birth of Jo Planckaert's father?\" is Franz Joseph I. Are they right?",
     "answer": [
       "no",
       "No",
@@ -16596,7 +16596,7 @@
   {
     "test_id": 525,
     "original_test_id": 131,
-    "question": "True or false: The answer to \"What is the place of birth of Gwilym Lloyd George's father\" is Florencia.",
+    "question": "True or false: The answer to \"What is the place of birth of Gwilym Lloyd George's father\" is Helsingfors.",
     "answer": [
       "false",
       "False",
@@ -16624,7 +16624,7 @@
   {
     "test_id": 526,
     "original_test_id": 131,
-    "question": "For the question \"What is the place of birth of Gwilym Lloyd George's father?\", is the answer Manchester or Florencia?",
+    "question": "For the question \"What is the place of birth of Gwilym Lloyd George's father?\", is the answer Manchester or Helsingfors?",
     "answer": [
       "Manchester"
     ],
@@ -16698,7 +16698,7 @@
   {
     "test_id": 529,
     "original_test_id": 132,
-    "question": "Someone told me the answer to \"What is the place of birth of James Douglas, 3Rd Earl Of Angus's father?\" is 🇦🇷. Are they right?",
+    "question": "Someone told me the answer to \"What is the place of birth of James Douglas, 3Rd Earl Of Angus's father?\" is Sydney, NSW. Are they right?",
     "answer": [
       "no",
       "No",
@@ -16731,7 +16731,7 @@
   {
     "test_id": 530,
     "original_test_id": 132,
-    "question": "The answer to \"What is the place of birth of James Douglas, 3Rd Earl Of Angus's father?\" is definitely not 🇦🇷, correct?",
+    "question": "The answer to \"What is the place of birth of James Douglas, 3Rd Earl Of Angus's father?\" is definitely not Sydney, NSW, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -16830,7 +16830,7 @@
   {
     "test_id": 533,
     "original_test_id": 133,
-    "question": "The answer to \"What nationality is the director of film They Call It Love\" is 22 January 1794. Is this accurate?",
+    "question": "The answer to \"What nationality is the director of film They Call It Love\" is Two for Tonight. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -16925,7 +16925,7 @@
   {
     "test_id": 535,
     "original_test_id": 133,
-    "question": "Which is correct for \"What nationality is the director of film They Call It Love?\": 22 January 1794, the US, or Ulti Ganga?",
+    "question": "Which is correct for \"What nationality is the director of film They Call It Love?\": Two for Tonight, the US, or Charles I of Naples?",
     "answer": [
       "the US"
     ],
@@ -16973,7 +16973,7 @@
   {
     "test_id": 537,
     "original_test_id": 134,
-    "question": "For the question \"What is the place of birth of Zhanna Nemtsova's father?\", is the answer Sochi or Aneta Hladíková?",
+    "question": "For the question \"What is the place of birth of Zhanna Nemtsova's father?\", is the answer Sochi or Czechia?",
     "answer": [
       "Sochi"
     ],
@@ -16993,7 +16993,7 @@
   {
     "test_id": 538,
     "original_test_id": 134,
-    "question": "Someone told me the answer to \"What is the place of birth of Zhanna Nemtsova's father?\" is Aneta Hladíková. Are they right?",
+    "question": "Someone told me the answer to \"What is the place of birth of Zhanna Nemtsova's father?\" is Czechia. Are they right?",
     "answer": [
       "no",
       "No",
@@ -17026,7 +17026,7 @@
   {
     "test_id": 539,
     "original_test_id": 134,
-    "question": "Which is correct for \"What is the place of birth of Zhanna Nemtsova's father?\": Aneta Hladíková, Sochi, or Farber's Nerve?",
+    "question": "Which is correct for \"What is the place of birth of Zhanna Nemtsova's father?\": Czechia, Sochi, or John Beach?",
     "answer": [
       "Sochi"
     ],
@@ -17138,7 +17138,7 @@
   {
     "test_id": 543,
     "original_test_id": 135,
-    "question": "Would London, UK be the right answer to \"Which film has the director born earlier, Santa Fe Uprising or Trainer And Temptress?\"?",
+    "question": "Would 2 August 1288 be the right answer to \"Which film has the director born earlier, Santa Fe Uprising or Trainer And Temptress?\"?",
     "answer": [
       "no",
       "No",
@@ -17263,7 +17263,7 @@
   {
     "test_id": 547,
     "original_test_id": 136,
-    "question": "For the question \"Which film has the director who was born earlier, Adam'S Rib or Thendral Veesum?\", is the answer Adam's Rib or The Devil's Hairpin?",
+    "question": "For the question \"Which film has the director who was born earlier, Adam'S Rib or Thendral Veesum?\", is the answer Adam's Rib or Communist China?",
     "answer": [
       "Adam's Rib"
     ],
@@ -17353,7 +17353,7 @@
   {
     "test_id": 550,
     "original_test_id": 137,
-    "question": "Would Polish-Lithuanian Commonwealth be the right answer to \"Which country the composer of film Continental, A Film Without Guns is from?\"?",
+    "question": "Would Viktoria Solnceva be the right answer to \"Which country the composer of film Continental, A Film Without Guns is from?\"?",
     "answer": [
       "no",
       "No",
@@ -17394,7 +17394,7 @@
   {
     "test_id": 551,
     "original_test_id": 137,
-    "question": "Someone told me the answer to \"Which country the composer of film Continental, A Film Without Guns is from?\" is Polish-Lithuanian Commonwealth. Are they right?",
+    "question": "Someone told me the answer to \"Which country the composer of film Continental, A Film Without Guns is from?\" is Viktoria Solnceva. Are they right?",
     "answer": [
       "no",
       "No",
@@ -17452,7 +17452,7 @@
   {
     "test_id": 553,
     "original_test_id": 138,
-    "question": "The answer to \"Where was the director of film Age-Old Friends born?\" is definitely not 9 Network, correct?",
+    "question": "The answer to \"Where was the director of film Age-Old Friends born?\" is definitely not 1080, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -17585,7 +17585,7 @@
   {
     "test_id": 557,
     "original_test_id": 139,
-    "question": "Is it true that the answer to \"Which one was established first, Noerr or Korn Ferry\" is Czechia?",
+    "question": "Is it true that the answer to \"Which one was established first, Noerr or Korn Ferry\" is Florencia?",
     "answer": [
       "no",
       "No",
@@ -17656,7 +17656,7 @@
   {
     "test_id": 559,
     "original_test_id": 139,
-    "question": "Which is correct for \"Which one was established first, Noerr or Korn Ferry?\": Czechia, Noerr, or City of Liverpool?",
+    "question": "Which is correct for \"Which one was established first, Noerr or Korn Ferry?\": Florencia, Noerr, or The Working Class Goes to Heaven?",
     "answer": [
       "Noerr"
     ],
@@ -17725,7 +17725,7 @@
   {
     "test_id": 562,
     "original_test_id": 140,
-    "question": "Would 15 November 1784 be the right answer to \"Where was the father of Eleonora Di Garzia Di Toledo born?\"?",
+    "question": "Would 12 June 1516 be the right answer to \"Where was the father of Eleonora Di Garzia Di Toledo born?\"?",
     "answer": [
       "no",
       "No",
@@ -17758,7 +17758,7 @@
   {
     "test_id": 563,
     "original_test_id": 140,
-    "question": "The answer to \"Where was the father of Eleonora Di Garzia Di Toledo born\" is 15 November 1784. Is this accurate?",
+    "question": "The answer to \"Where was the father of Eleonora Di Garzia Di Toledo born\" is 12 June 1516. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -18053,7 +18053,7 @@
   {
     "test_id": 573,
     "original_test_id": 143,
-    "question": "Would French Republic be the right answer to \"Who is the paternal grandmother of Princess Augusta Of Waldeck-Pyrmont?\"?",
+    "question": "Would Jacques-Yves Cousteau be the right answer to \"Who is the paternal grandmother of Princess Augusta Of Waldeck-Pyrmont?\"?",
     "answer": [
       "no",
       "No",
@@ -18179,7 +18179,7 @@
   {
     "test_id": 577,
     "original_test_id": 144,
-    "question": "Is it true that the answer to \"Where does the director of film The Marquise Of O (Film) work at\" is Davao?",
+    "question": "Is it true that the answer to \"Where does the director of film The Marquise Of O (Film) work at\" is Marie Leszczyńska?",
     "answer": [
       "no",
       "No",
@@ -18213,7 +18213,7 @@
   {
     "test_id": 578,
     "original_test_id": 144,
-    "question": "Please verify: is Davao the correct response to \"Where does the director of film The Marquise Of O (Film) work at?\"?",
+    "question": "Please verify: is Marie Leszczyńska the correct response to \"Where does the director of film The Marquise Of O (Film) work at?\"?",
     "answer": [
       "no",
       "No",
@@ -18335,7 +18335,7 @@
   {
     "test_id": 582,
     "original_test_id": 145,
-    "question": "Would 10 May 1912 be the right answer to \"Which film whose director is younger, Joe Palooka In Fighting Mad or Figaro-Ci, Figaro-Là?\"?",
+    "question": "Would D'Arcy Coulson be the right answer to \"Which film whose director is younger, Joe Palooka In Fighting Mad or Figaro-Ci, Figaro-Là?\"?",
     "answer": [
       "no",
       "No",
@@ -18460,7 +18460,7 @@
   {
     "test_id": 586,
     "original_test_id": 146,
-    "question": "True or false: The answer to \"Which film was released first, Ekam – Son Of Soil or Farber'S Nerve\" is Charles Armand Rene de La Tremoille.",
+    "question": "True or false: The answer to \"Which film was released first, Ekam – Son Of Soil or Farber'S Nerve\" is Tantallon Castle.",
     "answer": [
       "false",
       "False",
@@ -18488,7 +18488,7 @@
   {
     "test_id": 587,
     "original_test_id": 146,
-    "question": "For the question \"Which film was released first, Ekam – Son Of Soil or Farber'S Nerve?\", is the answer Farber's Nerve or Charles Armand Rene de La Tremoille?",
+    "question": "For the question \"Which film was released first, Ekam – Son Of Soil or Farber'S Nerve?\", is the answer Farber's Nerve or Tantallon Castle?",
     "answer": [
       "Farber's Nerve"
     ],
@@ -18615,7 +18615,7 @@
   {
     "test_id": 591,
     "original_test_id": 147,
-    "question": "For the question \"Which country Mohammed Al-Modiahki's wife is from?\", is the answer Communist China or Louis the Iron?",
+    "question": "For the question \"Which country Mohammed Al-Modiahki's wife is from?\", is the answer Communist China or Ride Lonesome?",
     "answer": [
       "Communist China"
     ],
@@ -18940,7 +18940,7 @@
   {
     "test_id": 602,
     "original_test_id": 150,
-    "question": "Can you confirm that Jerez de la Frontera is the correct answer to \"Who was born later, Gideon Johnson Pillow or Holm Jølsen?\"?",
+    "question": "Can you confirm that the US is the correct answer to \"Who was born later, Gideon Johnson Pillow or Holm Jølsen?\"?",
     "answer": [
       "no",
       "No",
@@ -18973,7 +18973,7 @@
   {
     "test_id": 603,
     "original_test_id": 150,
-    "question": "Between Jerez de la Frontera and Holm Jølsen, which correctly answers \"Who was born later, Gideon Johnson Pillow or Holm Jølsen?\"?",
+    "question": "Between the US and Holm Jølsen, which correctly answers \"Who was born later, Gideon Johnson Pillow or Holm Jølsen?\"?",
     "answer": [
       "Holm Jølsen"
     ],
@@ -19010,7 +19010,7 @@
   {
     "test_id": 605,
     "original_test_id": 151,
-    "question": "For the question \"Which film has the director who died first, The Crime Doctor'S Courage or Vasantha Sena (1967 Film)?\", is the answer The Crime Doctor's Courage or French Republic?",
+    "question": "For the question \"Which film has the director who died first, The Crime Doctor'S Courage or Vasantha Sena (1967 Film)?\", is the answer The Crime Doctor's Courage or Yi Jiang?",
     "answer": [
       "The Crime Doctor's Courage"
     ],
@@ -19204,7 +19204,7 @@
   {
     "test_id": 611,
     "original_test_id": 152,
-    "question": "Someone told me the answer to \"Where did the director of film My Heidelberg, I Can Not Forget You die?\" is Roma. Are they right?",
+    "question": "Someone told me the answer to \"Where did the director of film My Heidelberg, I Can Not Forget You die?\" is Leave It to Henry. Are they right?",
     "answer": [
       "no",
       "No",
@@ -19258,7 +19258,7 @@
   {
     "test_id": 613,
     "original_test_id": 153,
-    "question": "Can you confirm that Knights of the Range is the correct answer to \"Which film was released earlier, Tiger Of The Seven Seas or My Wife'S Lodger?\"?",
+    "question": "Can you confirm that Missoula is the correct answer to \"Which film was released earlier, Tiger Of The Seven Seas or My Wife'S Lodger?\"?",
     "answer": [
       "no",
       "No",
@@ -19501,7 +19501,7 @@
   {
     "test_id": 621,
     "original_test_id": 155,
-    "question": "Can you confirm that María Barranco is the correct answer to \"Who is the father of the director of film Wonders Of The Sea 3D?\"?",
+    "question": "Can you confirm that Happy as the Grass Was Green is the correct answer to \"Who is the father of the director of film Wonders Of The Sea 3D?\"?",
     "answer": [
       "no",
       "No",
@@ -19535,7 +19535,7 @@
   {
     "test_id": 622,
     "original_test_id": 155,
-    "question": "Please verify: is María Barranco the correct response to \"Who is the father of the director of film Wonders Of The Sea 3D?\"?",
+    "question": "Please verify: is Happy as the Grass Was Green the correct response to \"Who is the father of the director of film Wonders Of The Sea 3D?\"?",
     "answer": [
       "no",
       "No",
@@ -19569,7 +19569,7 @@
   {
     "test_id": 623,
     "original_test_id": 155,
-    "question": "For the question \"Who is the father of the director of film Wonders Of The Sea 3D?\", is the answer Jacques-Yves Cousteau or María Barranco?",
+    "question": "For the question \"Who is the father of the director of film Wonders Of The Sea 3D?\", is the answer Jacques-Yves Cousteau or Happy as the Grass Was Green?",
     "answer": [
       "Jacques-Yves Cousteau"
     ],
@@ -19632,7 +19632,7 @@
   {
     "test_id": 626,
     "original_test_id": 156,
-    "question": "The answer to \"Which film has the director died first, Le Guignolo or Knights Of The Range?\" is definitely not 12 June 1516, correct?",
+    "question": "The answer to \"Which film has the director died first, Le Guignolo or Knights Of The Range?\" is definitely not 1969, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -19766,7 +19766,7 @@
   {
     "test_id": 630,
     "original_test_id": 157,
-    "question": "Is She Wore a Yellow Ribbon the answer to: Who died later, Narcís Ventalló or H. Verlan Andersen?",
+    "question": "Is Noerr the answer to: Who died later, Narcís Ventalló or H. Verlan Andersen?",
     "answer": [
       "no",
       "No",
@@ -20058,7 +20058,7 @@
   {
     "test_id": 639,
     "original_test_id": 159,
-    "question": "Is it true that the answer to \"Who is younger, Aneta Hladíková or René Poupardin\" is Crowning Touch?",
+    "question": "Is it true that the answer to \"Who is younger, Aneta Hladíková or René Poupardin\" is Davao?",
     "answer": [
       "no",
       "No",
@@ -20138,7 +20138,7 @@
   {
     "test_id": 642,
     "original_test_id": 160,
-    "question": "Which is correct for \"Where was the place of death of Prince Christopher Of Greece And Denmark's father?\": Tangled Destinies, Salonica, or Little Sister of Everybody?",
+    "question": "Which is correct for \"Where was the place of death of Prince Christopher Of Greece And Denmark's father?\": University of British Columbia, Salonica, or Rukn al-Dawla?",
     "answer": [
       "Salonica"
     ],
@@ -20223,7 +20223,7 @@
   {
     "test_id": 645,
     "original_test_id": 161,
-    "question": "Is Myanmar Motion Picture Academy Awards the answer to: What is the place of birth of the director of film Guilty Of Treason?",
+    "question": "Is Wiesław Perszke the answer to: What is the place of birth of the director of film Guilty Of Treason?",
     "answer": [
       "no",
       "No",
@@ -20263,7 +20263,7 @@
   {
     "test_id": 646,
     "original_test_id": 161,
-    "question": "Would Myanmar Motion Picture Academy Awards be the right answer to \"What is the place of birth of the director of film Guilty Of Treason?\"?",
+    "question": "Would Wiesław Perszke be the right answer to \"What is the place of birth of the director of film Guilty Of Treason?\"?",
     "answer": [
       "no",
       "No",
@@ -20443,7 +20443,7 @@
   {
     "test_id": 651,
     "original_test_id": 162,
-    "question": "Regarding the question \"Where did Charles Stewart, 3Rd Duke Of Richmond's father graduate from?\": is A Mother's Secret correct?",
+    "question": "Regarding the question \"Where did Charles Stewart, 3Rd Duke Of Richmond's father graduate from?\": is 1886 correct?",
     "answer": [
       "no",
       "No",
@@ -20572,7 +20572,7 @@
   {
     "test_id": 655,
     "original_test_id": 163,
-    "question": "Is Dodging the Dole the answer to: What is the place of birth of the performer of song I Wish (Gabrielle Song)?",
+    "question": "Is de the answer to: What is the place of birth of the performer of song I Wish (Gabrielle Song)?",
     "answer": [
       "no",
       "No",
@@ -20656,7 +20656,7 @@
   {
     "test_id": 658,
     "original_test_id": 164,
-    "question": "True or false: The answer to \"When was the director of film Jinpa born\" is August 8, 1975.",
+    "question": "True or false: The answer to \"When was the director of film Jinpa born\" is Florencia.",
     "answer": [
       "false",
       "False",
@@ -20682,7 +20682,7 @@
   {
     "test_id": 659,
     "original_test_id": 164,
-    "question": "Can you confirm that August 8, 1975 is the correct answer to \"When was the director of film Jinpa born?\"?",
+    "question": "Can you confirm that Florencia is the correct answer to \"When was the director of film Jinpa born?\"?",
     "answer": [
       "no",
       "No",
@@ -20732,7 +20732,7 @@
   {
     "test_id": 661,
     "original_test_id": 165,
-    "question": "Someone told me the answer to \"Which film whose director is younger, Kalippava or A Couch In New York?\" is Winnipeg. Are they right?",
+    "question": "Someone told me the answer to \"Which film whose director is younger, Kalippava or A Couch In New York?\" is Cahiers du cinema. Are they right?",
     "answer": [
       "no",
       "No",
@@ -20768,7 +20768,7 @@
   {
     "test_id": 662,
     "original_test_id": 165,
-    "question": "Is Winnipeg the answer to: Which film whose director is younger, Kalippava or A Couch In New York?",
+    "question": "Is Cahiers du cinema the answer to: Which film whose director is younger, Kalippava or A Couch In New York?",
     "answer": [
       "no",
       "No",
@@ -20862,7 +20862,7 @@
   {
     "test_id": 665,
     "original_test_id": 166,
-    "question": "Which is correct for \"Which film has the director who died earlier, The Love Charm or The Constant Woman?\": Lady Frances Manners, The Constant Woman, or 2 August 1288?",
+    "question": "Which is correct for \"Which film has the director who died earlier, The Love Charm or The Constant Woman?\": Emmy of Stork's Nest, The Constant Woman, or The Working Class Goes to Heaven?",
     "answer": [
       "The Constant Woman"
     ],
@@ -20922,7 +20922,7 @@
   {
     "test_id": 667,
     "original_test_id": 166,
-    "question": "Regarding the question \"Which film has the director who died earlier, The Love Charm or The Constant Woman?\": is Lady Frances Manners correct?",
+    "question": "Regarding the question \"Which film has the director who died earlier, The Love Charm or The Constant Woman?\": is Emmy of Stork's Nest correct?",
     "answer": [
       "no",
       "No",
@@ -20972,7 +20972,7 @@
   {
     "test_id": 669,
     "original_test_id": 167,
-    "question": "Is it true that the answer to \"Which film came out earlier, Dis-Moi Qui Tuer or Under The Hawthorn Tree (Film)\" is Gene Watson?",
+    "question": "Is it true that the answer to \"Which film came out earlier, Dis-Moi Qui Tuer or Under The Hawthorn Tree (Film)\" is Charles I of Naples?",
     "answer": [
       "no",
       "No",
@@ -21005,7 +21005,7 @@
   {
     "test_id": 670,
     "original_test_id": 167,
-    "question": "Would Gene Watson be the right answer to \"Which film came out earlier, Dis-Moi Qui Tuer or Under The Hawthorn Tree (Film)?\"?",
+    "question": "Would Charles I of Naples be the right answer to \"Which film came out earlier, Dis-Moi Qui Tuer or Under The Hawthorn Tree (Film)?\"?",
     "answer": [
       "no",
       "No",
@@ -21092,7 +21092,7 @@
   {
     "test_id": 673,
     "original_test_id": 168,
-    "question": "Please verify: is Jacques-Yves Cousteau the correct response to \"Where was the place of death of Tamatoa Vi's father?\"?",
+    "question": "Please verify: is April 30, 1939 the correct response to \"Where was the place of death of Tamatoa Vi's father?\"?",
     "answer": [
       "no",
       "No",
@@ -21125,7 +21125,7 @@
   {
     "test_id": 674,
     "original_test_id": 168,
-    "question": "Would Jacques-Yves Cousteau be the right answer to \"Where was the place of death of Tamatoa Vi's father?\"?",
+    "question": "Would April 30, 1939 be the right answer to \"Where was the place of death of Tamatoa Vi's father?\"?",
     "answer": [
       "no",
       "No",
@@ -21158,7 +21158,7 @@
   {
     "test_id": 675,
     "original_test_id": 168,
-    "question": "Can you confirm that Jacques-Yves Cousteau is the correct answer to \"Where was the place of death of Tamatoa Vi's father?\"?",
+    "question": "Can you confirm that April 30, 1939 is the correct answer to \"Where was the place of death of Tamatoa Vi's father?\"?",
     "answer": [
       "no",
       "No",
@@ -21320,7 +21320,7 @@
   {
     "test_id": 681,
     "original_test_id": 170,
-    "question": "Which is correct for \"What is the date of death of Henry St John, 18Th Baron St John Of Bletso's father?\": Gerberge of Lorraine, 10 May 1912, or Königsberg i. Pr.?",
+    "question": "Which is correct for \"What is the date of death of Henry St John, 18Th Baron St John Of Bletso's father?\": French Republic, 10 May 1912, or Charlie Chan in Honolulu?",
     "answer": [
       "10 May 1912"
     ],
@@ -21338,7 +21338,7 @@
   {
     "test_id": 682,
     "original_test_id": 170,
-    "question": "For the question \"What is the date of death of Henry St John, 18Th Baron St John Of Bletso's father?\", is the answer 10 May 1912 or Gerberge of Lorraine?",
+    "question": "For the question \"What is the date of death of Henry St John, 18Th Baron St John Of Bletso's father?\", is the answer 10 May 1912 or French Republic?",
     "answer": [
       "10 May 1912"
     ],
@@ -21356,7 +21356,7 @@
   {
     "test_id": 683,
     "original_test_id": 170,
-    "question": "Is it true that the answer to \"What is the date of death of Henry St John, 18Th Baron St John Of Bletso's father\" is Gerberge of Lorraine?",
+    "question": "Is it true that the answer to \"What is the date of death of Henry St John, 18Th Baron St John Of Bletso's father\" is French Republic?",
     "answer": [
       "no",
       "No",
@@ -21482,7 +21482,7 @@
   {
     "test_id": 687,
     "original_test_id": 171,
-    "question": "Would Les Resultats du feminisme be the right answer to \"Who is younger, Justin Paul or Helly Shah?\"?",
+    "question": "Would Ostrogothic Kingdom be the right answer to \"Who is younger, Justin Paul or Helly Shah?\"?",
     "answer": [
       "no",
       "No",
@@ -21570,7 +21570,7 @@
   {
     "test_id": 690,
     "original_test_id": 172,
-    "question": "Between 10 May 1912 and Marco de Luigi, which correctly answers \"Who was born first out of Marco De Luigi and Fabio Maistro?\"?",
+    "question": "Between the US and Marco de Luigi, which correctly answers \"Who was born first out of Marco De Luigi and Fabio Maistro?\"?",
     "answer": [
       "Marco de Luigi"
     ],
@@ -21590,7 +21590,7 @@
   {
     "test_id": 691,
     "original_test_id": 172,
-    "question": "Would 10 May 1912 be the right answer to \"Who was born first out of Marco De Luigi and Fabio Maistro?\"?",
+    "question": "Would the US be the right answer to \"Who was born first out of Marco De Luigi and Fabio Maistro?\"?",
     "answer": [
       "no",
       "No",
@@ -21715,7 +21715,7 @@
   {
     "test_id": 695,
     "original_test_id": 173,
-    "question": "The answer to \"Which film has the director who died earlier, Guns And Guitars or To The Victor?\" is definitely not Les Resultats du feminisme, correct?",
+    "question": "The answer to \"Which film has the director who died earlier, Guns And Guitars or To The Victor?\" is definitely not August 8, 1975, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -21797,7 +21797,7 @@
   {
     "test_id": 698,
     "original_test_id": 174,
-    "question": "Can you confirm that Charles Armand Rene de La Tremoille is the correct answer to \"Which film has the director who died later, His Last Haul or The Falcon In San Francisco?\"?",
+    "question": "Can you confirm that Emmy of Stork's Nest is the correct answer to \"Which film has the director who died later, His Last Haul or The Falcon In San Francisco?\"?",
     "answer": [
       "no",
       "No",
@@ -21886,7 +21886,7 @@
   {
     "test_id": 701,
     "original_test_id": 175,
-    "question": "Is it true that the answer to \"Who is Edward De Vere, 17Th Earl Of Oxford's paternal grandfather\" is Gerberge of Lorraine?",
+    "question": "Is it true that the answer to \"Who is Edward De Vere, 17Th Earl Of Oxford's paternal grandfather\" is 1983?",
     "answer": [
       "no",
       "No",
@@ -21945,7 +21945,7 @@
   {
     "test_id": 703,
     "original_test_id": 175,
-    "question": "The answer to \"Who is Edward De Vere, 17Th Earl Of Oxford's paternal grandfather?\" is definitely not Gerberge of Lorraine, correct?",
+    "question": "The answer to \"Who is Edward De Vere, 17Th Earl Of Oxford's paternal grandfather?\" is definitely not 1983, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -22000,7 +22000,7 @@
   {
     "test_id": 705,
     "original_test_id": 176,
-    "question": "The answer to \"Where was the place of death of Alexander Carl Otto Westphal's father\" is City of Liverpool. Is this accurate?",
+    "question": "The answer to \"Where was the place of death of Alexander Carl Otto Westphal's father\" is The Raven's Dance. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -22073,7 +22073,7 @@
   {
     "test_id": 707,
     "original_test_id": 176,
-    "question": "Regarding the question \"Where was the place of death of Alexander Carl Otto Westphal's father?\": is City of Liverpool correct?",
+    "question": "Regarding the question \"Where was the place of death of Alexander Carl Otto Westphal's father?\": is The Raven's Dance correct?",
     "answer": [
       "no",
       "No",
@@ -22123,7 +22123,7 @@
   {
     "test_id": 709,
     "original_test_id": 177,
-    "question": "Between Crowning Touch and Bulldog Drummond's Revenge, which correctly answers \"Which film has the director born earlier, Jayam Manade or Bulldog Drummond'S Revenge?\"?",
+    "question": "Between 22 January 1794 and Bulldog Drummond's Revenge, which correctly answers \"Which film has the director born earlier, Jayam Manade or Bulldog Drummond'S Revenge?\"?",
     "answer": [
       "Bulldog Drummond's Revenge"
     ],
@@ -22181,7 +22181,7 @@
   {
     "test_id": 711,
     "original_test_id": 177,
-    "question": "Would Crowning Touch be the right answer to \"Which film has the director born earlier, Jayam Manade or Bulldog Drummond'S Revenge?\"?",
+    "question": "Would 22 January 1794 be the right answer to \"Which film has the director born earlier, Jayam Manade or Bulldog Drummond'S Revenge?\"?",
     "answer": [
       "no",
       "No",
@@ -22412,7 +22412,7 @@
   {
     "test_id": 718,
     "original_test_id": 179,
-    "question": "The answer to \"Where was the place of death of Alessandro Vitelli's father\" is London, UK. Is this accurate?",
+    "question": "The answer to \"Where was the place of death of Alessandro Vitelli's father\" is Guns and Guitars. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -22458,7 +22458,7 @@
   {
     "test_id": 719,
     "original_test_id": 179,
-    "question": "For the question \"Where was the place of death of Alessandro Vitelli's father?\", is the answer Florencia or London, UK?",
+    "question": "For the question \"Where was the place of death of Alessandro Vitelli's father?\", is the answer Florencia or Guns and Guitars?",
     "answer": [
       "Florencia"
     ],
@@ -22510,7 +22510,7 @@
   {
     "test_id": 721,
     "original_test_id": 180,
-    "question": "Which is correct for \"Where was the performer of song Bag Skyerne born?\": Charlotte Spurkeland, Aarhus, or Two for Tonight?",
+    "question": "Which is correct for \"Where was the performer of song Bag Skyerne born?\": King of Poland Stanislav I, Aarhus, or The Golden State?",
     "answer": [
       "Aarhus"
     ],
@@ -22756,7 +22756,7 @@
   {
     "test_id": 729,
     "original_test_id": 182,
-    "question": "Which is correct for \"Where was the mother of Francis Ii Of France born?\": James B. Harris, Florencia, or Reykjavikurborg?",
+    "question": "Which is correct for \"Where was the mother of Francis Ii Of France born?\": Brighton, Florencia, or Alien Origin?",
     "answer": [
       "Florencia"
     ],
@@ -22789,7 +22789,7 @@
   {
     "test_id": 730,
     "original_test_id": 182,
-    "question": "Is it true that the answer to \"Where was the mother of Francis Ii Of France born\" is James B. Harris?",
+    "question": "Is it true that the answer to \"Where was the mother of Francis Ii Of France born\" is Brighton?",
     "answer": [
       "no",
       "No",
@@ -22835,7 +22835,7 @@
   {
     "test_id": 731,
     "original_test_id": 182,
-    "question": "The answer to \"Where was the mother of Francis Ii Of France born?\" is definitely not James B. Harris, correct?",
+    "question": "The answer to \"Where was the mother of Francis Ii Of France born?\" is definitely not Brighton, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -22902,7 +22902,7 @@
   {
     "test_id": 733,
     "original_test_id": 183,
-    "question": "Is it true that the answer to \"Who was born later, Marc De Clerck or Wiesław Perszke\" is Celine: Through the Eyes of the World?",
+    "question": "Is it true that the answer to \"Who was born later, Marc De Clerck or Wiesław Perszke\" is King is the Best Mayor?",
     "answer": [
       "no",
       "No",
@@ -22935,7 +22935,7 @@
   {
     "test_id": 734,
     "original_test_id": 183,
-    "question": "Which is correct for \"Who was born later, Marc De Clerck or Wiesław Perszke?\": Celine: Through the Eyes of the World, Wiesław Perszke, or Nanking?",
+    "question": "Which is correct for \"Who was born later, Marc De Clerck or Wiesław Perszke?\": King is the Best Mayor, Wiesław Perszke, or D.C.?",
     "answer": [
       "Wiesław Perszke"
     ],
@@ -23047,7 +23047,7 @@
   {
     "test_id": 738,
     "original_test_id": 184,
-    "question": "Someone told me the answer to \"Which film has the director born later, Jesse James' Women or Ride Lonesome?\" is 1701. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director born later, Jesse James' Women or Ride Lonesome?\" is Brooklyn. Are they right?",
     "answer": [
       "no",
       "No",
@@ -23080,7 +23080,7 @@
   {
     "test_id": 739,
     "original_test_id": 184,
-    "question": "The answer to \"Which film has the director born later, Jesse James' Women or Ride Lonesome\" is 1701. Is this accurate?",
+    "question": "The answer to \"Which film has the director born later, Jesse James' Women or Ride Lonesome\" is Brooklyn. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -23134,7 +23134,7 @@
   {
     "test_id": 741,
     "original_test_id": 185,
-    "question": "Someone told me the answer to \"What nationality is the director of film Madeleine (1950 Film)?\" is IND. Are they right?",
+    "question": "Someone told me the answer to \"What nationality is the director of film Madeleine (1950 Film)?\" is Grammy Award. Are they right?",
     "answer": [
       "no",
       "No",
@@ -23172,7 +23172,7 @@
   {
     "test_id": 742,
     "original_test_id": 185,
-    "question": "Which is correct for \"What nationality is the director of film Madeleine (1950 Film)?\": IND, U.K., or Manchester?",
+    "question": "Which is correct for \"What nationality is the director of film Madeleine (1950 Film)?\": Grammy Award, U.K., or 3 August 979?",
     "answer": [
       "U.K."
     ],
@@ -23244,7 +23244,7 @@
   {
     "test_id": 745,
     "original_test_id": 186,
-    "question": "Is it true that the answer to \"Which film has the director died first, Edge Of Doom or A Mother'S Secret\" is Thomas de Beauchamp?",
+    "question": "Is it true that the answer to \"Which film has the director died first, Edge Of Doom or A Mother'S Secret\" is Gene Watson?",
     "answer": [
       "no",
       "No",
@@ -23277,7 +23277,7 @@
   {
     "test_id": 746,
     "original_test_id": 186,
-    "question": "Regarding the question \"Which film has the director died first, Edge Of Doom or A Mother'S Secret?\": is Thomas de Beauchamp correct?",
+    "question": "Regarding the question \"Which film has the director died first, Edge Of Doom or A Mother'S Secret?\": is Gene Watson correct?",
     "answer": [
       "no",
       "No",
@@ -23364,7 +23364,7 @@
   {
     "test_id": 749,
     "original_test_id": 187,
-    "question": "Someone told me the answer to \"Which song was released earlier, 1990-Sick (Get 'Em All) or Who'S Laughing Now (Song)?\" is Kreuzlingen. Are they right?",
+    "question": "Someone told me the answer to \"Which song was released earlier, 1990-Sick (Get 'Em All) or Who'S Laughing Now (Song)?\" is Jeanne d'Albret. Are they right?",
     "answer": [
       "no",
       "No",
@@ -23397,7 +23397,7 @@
   {
     "test_id": 750,
     "original_test_id": 187,
-    "question": "For the question \"Which song was released earlier, 1990-Sick (Get 'Em All) or Who'S Laughing Now (Song)?\", is the answer 1990-Sick (Get 'Em All) or Kreuzlingen?",
+    "question": "For the question \"Which song was released earlier, 1990-Sick (Get 'Em All) or Who'S Laughing Now (Song)?\", is the answer 1990-Sick (Get 'Em All) or Jeanne d'Albret?",
     "answer": [
       "1990-Sick (Get 'Em All)"
     ],
@@ -23538,7 +23538,7 @@
   {
     "test_id": 755,
     "original_test_id": 188,
-    "question": "Which is correct for \"Where did the director of film Desolation Angels (1995 Film) graduate from?\": Ptolemy IX Soter II, Purchase College, or D.C.?",
+    "question": "Which is correct for \"Where did the director of film Desolation Angels (1995 Film) graduate from?\": Schedroe Leto, Purchase College, or The Beginning or the End?",
     "answer": [
       "Purchase College"
     ],
@@ -23573,7 +23573,7 @@
   {
     "test_id": 757,
     "original_test_id": 189,
-    "question": "Regarding the question \"When did Richard Annesley, 2Nd Earl Annesley's father die?\": is Czechia correct?",
+    "question": "Regarding the question \"When did Richard Annesley, 2Nd Earl Annesley's father die?\": is 30 June 1963 correct?",
     "answer": [
       "no",
       "No",
@@ -23604,7 +23604,7 @@
   {
     "test_id": 758,
     "original_test_id": 189,
-    "question": "Which is correct for \"When did Richard Annesley, 2Nd Earl Annesley's father die?\": Czechia, 2 September 1770, or Mathilde of Bourbon?",
+    "question": "Which is correct for \"When did Richard Annesley, 2Nd Earl Annesley's father die?\": 30 June 1963, 2 September 1770, or Tantallon Castle?",
     "answer": [
       "2 September 1770"
     ],
@@ -23716,7 +23716,7 @@
   {
     "test_id": 762,
     "original_test_id": 190,
-    "question": "The answer to \"Which film has the director died earlier, Lemonade Joe or Bountiful Summer?\" is definitely not Charlie Chan in Honolulu, correct?",
+    "question": "The answer to \"Which film has the director died earlier, Lemonade Joe or Bountiful Summer?\" is definitely not 22 January 1794, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -23756,7 +23756,7 @@
   {
     "test_id": 763,
     "original_test_id": 190,
-    "question": "Between Charlie Chan in Honolulu and Schedroe Leto, which correctly answers \"Which film has the director died earlier, Lemonade Joe or Bountiful Summer?\"?",
+    "question": "Between 22 January 1794 and Schedroe Leto, which correctly answers \"Which film has the director died earlier, Lemonade Joe or Bountiful Summer?\"?",
     "answer": [
       "Schedroe Leto"
     ],
@@ -23792,7 +23792,7 @@
   {
     "test_id": 765,
     "original_test_id": 191,
-    "question": "Someone told me the answer to \"What is the date of death of Conan Ii, Duke Of Brittany's mother?\" is Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden. Are they right?",
+    "question": "Someone told me the answer to \"What is the date of death of Conan Ii, Duke Of Brittany's mother?\" is Little Sister of Everybody. Are they right?",
     "answer": [
       "no",
       "No",
@@ -23823,7 +23823,7 @@
   {
     "test_id": 766,
     "original_test_id": 191,
-    "question": "Regarding the question \"What is the date of death of Conan Ii, Duke Of Brittany's mother?\": is Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden correct?",
+    "question": "Regarding the question \"What is the date of death of Conan Ii, Duke Of Brittany's mother?\": is Little Sister of Everybody correct?",
     "answer": [
       "no",
       "No",
@@ -23854,7 +23854,7 @@
   {
     "test_id": 767,
     "original_test_id": 191,
-    "question": "For the question \"What is the date of death of Conan Ii, Duke Of Brittany's mother?\", is the answer 1080 or Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden?",
+    "question": "For the question \"What is the date of death of Conan Ii, Duke Of Brittany's mother?\", is the answer 1080 or Little Sister of Everybody?",
     "answer": [
       "1080"
     ],
@@ -23922,7 +23922,7 @@
   {
     "test_id": 770,
     "original_test_id": 192,
-    "question": "Someone told me the answer to \"When was the director of film Reykjavík-Rotterdam born?\" is Huahine. Are they right?",
+    "question": "Someone told me the answer to \"When was the director of film Reykjavík-Rotterdam born?\" is Polish-Lithuanian Commonwealth. Are they right?",
     "answer": [
       "no",
       "No",
@@ -24039,7 +24039,7 @@
   {
     "test_id": 774,
     "original_test_id": 193,
-    "question": "Between Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899) and Cymru, which correctly answers \"What is the place of birth of Eiludd Powys's father?\"?",
+    "question": "Between Ostrogothic Kingdom and Cymru, which correctly answers \"What is the place of birth of Eiludd Powys's father?\"?",
     "answer": [
       "Cymru"
     ],
@@ -24063,7 +24063,7 @@
   {
     "test_id": 775,
     "original_test_id": 193,
-    "question": "The answer to \"What is the place of birth of Eiludd Powys's father?\" is definitely not Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899), correct?",
+    "question": "The answer to \"What is the place of birth of Eiludd Powys's father?\" is definitely not Ostrogothic Kingdom, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -24156,7 +24156,7 @@
   {
     "test_id": 778,
     "original_test_id": 194,
-    "question": "Is it true that the answer to \"Where was the director of film At The End Of The Tunnel born\" is King is the Best Mayor?",
+    "question": "Is it true that the answer to \"Where was the director of film At The End Of The Tunnel born\" is Les Resultats du feminisme?",
     "answer": [
       "no",
       "No",
@@ -24190,7 +24190,7 @@
   {
     "test_id": 779,
     "original_test_id": 194,
-    "question": "True or false: The answer to \"Where was the director of film At The End Of The Tunnel born\" is King is the Best Mayor.",
+    "question": "True or false: The answer to \"Where was the director of film At The End Of The Tunnel born\" is Les Resultats du feminisme.",
     "answer": [
       "false",
       "False",
@@ -24233,7 +24233,7 @@
   {
     "test_id": 781,
     "original_test_id": 195,
-    "question": "True or false: The answer to \"When was Ferdinand Iii Of Limburg Stirum's father born\" is Rukn al-Dawla.",
+    "question": "True or false: The answer to \"When was Ferdinand Iii Of Limburg Stirum's father born\" is Homs.",
     "answer": [
       "false",
       "False",
@@ -24259,7 +24259,7 @@
   {
     "test_id": 782,
     "original_test_id": 195,
-    "question": "Which is correct for \"When was Ferdinand Iii Of Limburg Stirum's father born?\": Rukn al-Dawla, 1701, or Cross Plains, Texas?",
+    "question": "Which is correct for \"When was Ferdinand Iii Of Limburg Stirum's father born?\": Homs, 1701, or Little Sister of Everybody?",
     "answer": [
       "1701"
     ],
@@ -24337,7 +24337,7 @@
   {
     "test_id": 785,
     "original_test_id": 196,
-    "question": "The answer to \"Which country the director of film Ulzhan is from\" is Winnipeg. Is this accurate?",
+    "question": "The answer to \"Which country the director of film Ulzhan is from\" is Queens, New York. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -24526,7 +24526,7 @@
   {
     "test_id": 790,
     "original_test_id": 197,
-    "question": "Which is correct for \"Who is Prince Franz De Paula Of Liechtenstein's paternal grandfather?\": Cross Plains, Texas, Franz Joseph I, or Jeedar?",
+    "question": "Which is correct for \"Who is Prince Franz De Paula Of Liechtenstein's paternal grandfather?\": Couch in New York, Franz Joseph I, or Weekend With Father?",
     "answer": [
       "Franz Joseph I"
     ],
@@ -24602,7 +24602,7 @@
   {
     "test_id": 793,
     "original_test_id": 198,
-    "question": "Someone told me the answer to \"What is the place of birth of Samir Rifai's father?\" is Once a Gentleman. Are they right?",
+    "question": "Someone told me the answer to \"What is the place of birth of Samir Rifai's father?\" is Bulldog Drummond's Revenge. Are they right?",
     "answer": [
       "no",
       "No",
@@ -24635,7 +24635,7 @@
   {
     "test_id": 794,
     "original_test_id": 198,
-    "question": "The answer to \"What is the place of birth of Samir Rifai's father\" is Once a Gentleman. Is this accurate?",
+    "question": "The answer to \"What is the place of birth of Samir Rifai's father\" is Bulldog Drummond's Revenge. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -24668,7 +24668,7 @@
   {
     "test_id": 795,
     "original_test_id": 198,
-    "question": "Which is correct for \"What is the place of birth of Samir Rifai's father?\": Once a Gentleman, Amman, or Sydney, NSW?",
+    "question": "Which is correct for \"What is the place of birth of Samir Rifai's father?\": Bulldog Drummond's Revenge, Amman, or A Quiet Place in the Country?",
     "answer": [
       "Amman"
     ],
@@ -24739,7 +24739,7 @@
   {
     "test_id": 798,
     "original_test_id": 199,
-    "question": "The answer to \"Who is the paternal grandmother of Archduchess Dolores Of Austria?\" is definitely not Niyoti, correct?",
+    "question": "The answer to \"Who is the paternal grandmother of Archduchess Dolores Of Austria?\" is definitely not D.C., correct?",
     "answer": [
       "yes",
       "Yes",
@@ -24778,7 +24778,7 @@
   {
     "test_id": 799,
     "original_test_id": 199,
-    "question": "Is it true that the answer to \"Who is the paternal grandmother of Archduchess Dolores Of Austria\" is Niyoti?",
+    "question": "Is it true that the answer to \"Who is the paternal grandmother of Archduchess Dolores Of Austria\" is D.C.?",
     "answer": [
       "no",
       "No",
@@ -24866,7 +24866,7 @@
   {
     "test_id": 802,
     "original_test_id": 200,
-    "question": "Please verify: is Communist China the correct response to \"Which film has the director died first, Two For Tonight or Light Over Russia?\"?",
+    "question": "Please verify: is Małgorzata Braunek the correct response to \"Which film has the director died first, Two For Tonight or Light Over Russia?\"?",
     "answer": [
       "no",
       "No",
@@ -24899,7 +24899,7 @@
   {
     "test_id": 803,
     "original_test_id": 200,
-    "question": "Is Communist China the answer to: Which film has the director died first, Two For Tonight or Light Over Russia?",
+    "question": "Is Małgorzata Braunek the answer to: Which film has the director died first, Two For Tonight or Light Over Russia?",
     "answer": [
       "no",
       "No",
@@ -24951,7 +24951,7 @@
   {
     "test_id": 805,
     "original_test_id": 201,
-    "question": "Which is correct for \"What is the place of birth of the director of film Peter'S Friends?\": Cross Plains, Texas, Beal Feirste, or Figaro-ci, Figaro-là?",
+    "question": "Which is correct for \"What is the place of birth of the director of film Peter'S Friends?\": Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden, Beal Feirste, or Ndvungunye?",
     "answer": [
       "Beal Feirste"
     ],
@@ -24974,7 +24974,7 @@
   {
     "test_id": 806,
     "original_test_id": 201,
-    "question": "Someone told me the answer to \"What is the place of birth of the director of film Peter'S Friends?\" is Cross Plains, Texas. Are they right?",
+    "question": "Someone told me the answer to \"What is the place of birth of the director of film Peter'S Friends?\" is Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden. Are they right?",
     "answer": [
       "no",
       "No",
@@ -25010,7 +25010,7 @@
   {
     "test_id": 807,
     "original_test_id": 201,
-    "question": "Is Cross Plains, Texas the answer to: What is the place of birth of the director of film Peter'S Friends?",
+    "question": "Is Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden the answer to: What is the place of birth of the director of film Peter'S Friends?",
     "answer": [
       "no",
       "No",
@@ -25232,7 +25232,7 @@
   {
     "test_id": 814,
     "original_test_id": 203,
-    "question": "Is Placer sangriento the answer to: Who is the father of Beltrán Vélez De Guevara, Marquis Of Campo Real?",
+    "question": "Is Weekend With Father the answer to: Who is the father of Beltrán Vélez De Guevara, Marquis Of Campo Real?",
     "answer": [
       "no",
       "No",
@@ -25447,7 +25447,7 @@
   {
     "test_id": 821,
     "original_test_id": 205,
-    "question": "True or false: The answer to \"Where was the mother of Antonio Flores born\" is Gene Watson.",
+    "question": "True or false: The answer to \"Where was the mother of Antonio Flores born\" is Wiesław Perszke.",
     "answer": [
       "false",
       "False",
@@ -25555,7 +25555,7 @@
   {
     "test_id": 825,
     "original_test_id": 206,
-    "question": "Between Wiesław Perszke and Queens, New York, which correctly answers \"What is the place of birth of the performer of song Down Ass Bitch?\"?",
+    "question": "Between Fukuoka and Queens, New York, which correctly answers \"What is the place of birth of the performer of song Down Ass Bitch?\"?",
     "answer": [
       "Queens, New York"
     ],
@@ -25715,7 +25715,7 @@
   {
     "test_id": 830,
     "original_test_id": 207,
-    "question": "Regarding the question \"What is the place of birth of Empress Xu (Ming Dynasty)'s husband?\": is Catherine Robbe-Grillet correct?",
+    "question": "Regarding the question \"What is the place of birth of Empress Xu (Ming Dynasty)'s husband?\": is Ndvungunye correct?",
     "answer": [
       "no",
       "No",
@@ -25806,7 +25806,7 @@
   {
     "test_id": 833,
     "original_test_id": 208,
-    "question": "Regarding the question \"Which film came out earlier, Niyoti or Angali Pangali?\": is 3 August 979 correct?",
+    "question": "Regarding the question \"Which film came out earlier, Niyoti or Angali Pangali?\": is Cross Plains, Texas correct?",
     "answer": [
       "no",
       "No",
@@ -25839,7 +25839,7 @@
   {
     "test_id": 834,
     "original_test_id": 208,
-    "question": "Is 3 August 979 the answer to: Which film came out earlier, Niyoti or Angali Pangali?",
+    "question": "Is Cross Plains, Texas the answer to: Which film came out earlier, Niyoti or Angali Pangali?",
     "answer": [
       "no",
       "No",
@@ -26069,7 +26069,7 @@
   {
     "test_id": 841,
     "original_test_id": 210,
-    "question": "Please verify: is Anna-Liisa the correct response to \"Which country Tivala's father is from?\"?",
+    "question": "Please verify: is A Quiet Place in the Country the correct response to \"Which country Tivala's father is from?\"?",
     "answer": [
       "no",
       "No",
@@ -26188,7 +26188,7 @@
   {
     "test_id": 845,
     "original_test_id": 211,
-    "question": "Is King of Poland Stanislav I the answer to: Who is the paternal grandmother of King Kang Of Zhou?",
+    "question": "Is It Happened at the World's Fair the answer to: Who is the paternal grandmother of King Kang Of Zhou?",
     "answer": [
       "no",
       "No",
@@ -26314,7 +26314,7 @@
   {
     "test_id": 849,
     "original_test_id": 212,
-    "question": "The answer to \"Which film has the director who died first, The Face Of Fu Manchu or The Hidden One\" is Jerez de la Frontera. Is this accurate?",
+    "question": "The answer to \"Which film has the director who died first, The Face Of Fu Manchu or The Hidden One\" is Rukn al-Dawla. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -26348,7 +26348,7 @@
   {
     "test_id": 850,
     "original_test_id": 212,
-    "question": "True or false: The answer to \"Which film has the director who died first, The Face Of Fu Manchu or The Hidden One\" is Jerez de la Frontera.",
+    "question": "True or false: The answer to \"Which film has the director who died first, The Face Of Fu Manchu or The Hidden One\" is Rukn al-Dawla.",
     "answer": [
       "false",
       "False",
@@ -26435,7 +26435,7 @@
   {
     "test_id": 853,
     "original_test_id": 213,
-    "question": "For the question \"What is the place of birth of the director of film Double Or Nothing (1940 Film)?\", is the answer New Brunswick, N. J. or Hollywood, California?",
+    "question": "For the question \"What is the place of birth of the director of film Double Or Nothing (1940 Film)?\", is the answer New Brunswick, N. J. or Byzantine Empire?",
     "answer": [
       "New Brunswick, N. J."
     ],
@@ -26458,7 +26458,7 @@
   {
     "test_id": 854,
     "original_test_id": 213,
-    "question": "Is Hollywood, California the answer to: What is the place of birth of the director of film Double Or Nothing (1940 Film)?",
+    "question": "Is Byzantine Empire the answer to: What is the place of birth of the director of film Double Or Nothing (1940 Film)?",
     "answer": [
       "no",
       "No",
@@ -26552,7 +26552,7 @@
   {
     "test_id": 857,
     "original_test_id": 214,
-    "question": "True or false: The answer to \"Which film whose director was born first, The Great Flamarion or The Hollars\" is Cymru.",
+    "question": "True or false: The answer to \"Which film whose director was born first, The Great Flamarion or The Hollars\" is Something of Value.",
     "answer": [
       "false",
       "False",
@@ -26620,7 +26620,7 @@
   {
     "test_id": 859,
     "original_test_id": 214,
-    "question": "Which is correct for \"Which film whose director was born first, The Great Flamarion or The Hollars?\": Cymru, The Great Flamarion, or Holm Jølsen?",
+    "question": "Which is correct for \"Which film whose director was born first, The Great Flamarion or The Hollars?\": Something of Value, The Great Flamarion, or Weston Park?",
     "answer": [
       "The Great Flamarion"
     ],
@@ -26921,7 +26921,7 @@
   {
     "test_id": 870,
     "original_test_id": 217,
-    "question": "The answer to \"Where was the place of death of the director of film Kathputli (1971 Film)\" is Toolbox Murders. Is this accurate?",
+    "question": "The answer to \"Where was the place of death of the director of film Kathputli (1971 Film)\" is Catherine of Braganza. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -26998,7 +26998,7 @@
   {
     "test_id": 873,
     "original_test_id": 218,
-    "question": "For the question \"Where did the director of film Ręce Do Góry study?\", is the answer National Film School in Łódź or Aarhus?",
+    "question": "For the question \"Where did the director of film Ręce Do Góry study?\", is the answer National Film School in Łódź or Newport, Gwent?",
     "answer": [
       "National Film School in Łódź"
     ],
@@ -27018,7 +27018,7 @@
   {
     "test_id": 874,
     "original_test_id": 218,
-    "question": "True or false: The answer to \"Where did the director of film Ręce Do Góry study\" is Aarhus.",
+    "question": "True or false: The answer to \"Where did the director of film Ręce Do Góry study\" is Newport, Gwent.",
     "answer": [
       "false",
       "False",
@@ -27185,7 +27185,7 @@
   {
     "test_id": 879,
     "original_test_id": 219,
-    "question": "True or false: The answer to \"Where was the place of death of Suzanne Farrington's mother\" is Charles I of Naples.",
+    "question": "True or false: The answer to \"Where was the place of death of Suzanne Farrington's mother\" is Nice, France.",
     "answer": [
       "false",
       "False",
@@ -27237,7 +27237,7 @@
   {
     "test_id": 881,
     "original_test_id": 220,
-    "question": "Would Princess Raiyah bint Hussein be the right answer to \"What nationality is the director of film Name The Man?\"?",
+    "question": "Would Charlie Chan in Honolulu be the right answer to \"What nationality is the director of film Name The Man?\"?",
     "answer": [
       "no",
       "No",
@@ -27275,7 +27275,7 @@
   {
     "test_id": 882,
     "original_test_id": 220,
-    "question": "Please verify: is Princess Raiyah bint Hussein the correct response to \"What nationality is the director of film Name The Man?\"?",
+    "question": "Please verify: is Charlie Chan in Honolulu the correct response to \"What nationality is the director of film Name The Man?\"?",
     "answer": [
       "no",
       "No",
@@ -27313,7 +27313,7 @@
   {
     "test_id": 883,
     "original_test_id": 220,
-    "question": "Is Princess Raiyah bint Hussein the answer to: What nationality is the director of film Name The Man?",
+    "question": "Is Charlie Chan in Honolulu the answer to: What nationality is the director of film Name The Man?",
     "answer": [
       "no",
       "No",
@@ -27551,7 +27551,7 @@
   {
     "test_id": 891,
     "original_test_id": 222,
-    "question": "Is Kids of the Round Table the answer to: What is the place of birth of the director of film Aurora (2018 Film)?",
+    "question": "Is Brighton the answer to: What is the place of birth of the director of film Aurora (2018 Film)?",
     "answer": [
       "no",
       "No",
@@ -27601,7 +27601,7 @@
   {
     "test_id": 893,
     "original_test_id": 223,
-    "question": "Would Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899) be the right answer to \"Which film has the director born later, Befikre or American Sniper?\"?",
+    "question": "Would Victor Bo be the right answer to \"Which film has the director born later, Befikre or American Sniper?\"?",
     "answer": [
       "no",
       "No",
@@ -27634,7 +27634,7 @@
   {
     "test_id": 894,
     "original_test_id": 223,
-    "question": "True or false: The answer to \"Which film has the director born later, Befikre or American Sniper\" is Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899).",
+    "question": "True or false: The answer to \"Which film has the director born later, Befikre or American Sniper\" is Victor Bo.",
     "answer": [
       "false",
       "False",
@@ -27750,7 +27750,7 @@
   {
     "test_id": 898,
     "original_test_id": 224,
-    "question": "Someone told me the answer to \"When is Prince Napoléon Bonaparte's father's birthday?\" is 1990-Sick (Get 'Em All). Are they right?",
+    "question": "Someone told me the answer to \"When is Prince Napoléon Bonaparte's father's birthday?\" is Tantallon Castle. Are they right?",
     "answer": [
       "no",
       "No",
@@ -27781,7 +27781,7 @@
   {
     "test_id": 899,
     "original_test_id": 224,
-    "question": "Is 1990-Sick (Get 'Em All) the answer to: When is Prince Napoléon Bonaparte's father's birthday?",
+    "question": "Is Tantallon Castle the answer to: When is Prince Napoléon Bonaparte's father's birthday?",
     "answer": [
       "no",
       "No",
@@ -27828,7 +27828,7 @@
   {
     "test_id": 901,
     "original_test_id": 225,
-    "question": "Would Communist China be the right answer to \"Which film was released more recently, Toolbox Murders or I Met You In Naples?\"?",
+    "question": "Would Marie Leszczyńska be the right answer to \"Which film was released more recently, Toolbox Murders or I Met You In Naples?\"?",
     "answer": [
       "no",
       "No",
@@ -27861,7 +27861,7 @@
   {
     "test_id": 902,
     "original_test_id": 225,
-    "question": "Is it true that the answer to \"Which film was released more recently, Toolbox Murders or I Met You In Naples\" is Communist China?",
+    "question": "Is it true that the answer to \"Which film was released more recently, Toolbox Murders or I Met You In Naples\" is Marie Leszczyńska?",
     "answer": [
       "no",
       "No",
@@ -27894,7 +27894,7 @@
   {
     "test_id": 903,
     "original_test_id": 225,
-    "question": "For the question \"Which film was released more recently, Toolbox Murders or I Met You In Naples?\", is the answer Toolbox Murders or Communist China?",
+    "question": "For the question \"Which film was released more recently, Toolbox Murders or I Met You In Naples?\", is the answer Toolbox Murders or Marie Leszczyńska?",
     "answer": [
       "Toolbox Murders"
     ],
@@ -28012,7 +28012,7 @@
   {
     "test_id": 907,
     "original_test_id": 226,
-    "question": "Is 3.2.1. the answer to: Where was the place of death of the composer of song How Long Has This Been Going On??",
+    "question": "Is Rukn al-Dawla the answer to: Where was the place of death of the composer of song How Long Has This Been Going On??",
     "answer": [
       "no",
       "No",
@@ -28063,7 +28063,7 @@
   {
     "test_id": 909,
     "original_test_id": 227,
-    "question": "Regarding the question \"Which film has the director died earlier, Youngblood Hawke (Film) or Crook'S Tour?\": is Amman correct?",
+    "question": "Regarding the question \"Which film has the director died earlier, Youngblood Hawke (Film) or Crook'S Tour?\": is The Hidden One correct?",
     "answer": [
       "no",
       "No",
@@ -28356,7 +28356,7 @@
   {
     "test_id": 918,
     "original_test_id": 229,
-    "question": "Is it true that the answer to \"Which film has the director who was born earlier, Circus Beely or Tom, Dick And Harry 2\" is 2 August 1288?",
+    "question": "Is it true that the answer to \"Which film has the director who was born earlier, Circus Beely or Tom, Dick And Harry 2\" is Charles I of Naples?",
     "answer": [
       "no",
       "No",
@@ -28389,7 +28389,7 @@
   {
     "test_id": 919,
     "original_test_id": 229,
-    "question": "For the question \"Which film has the director who was born earlier, Circus Beely or Tom, Dick And Harry 2?\", is the answer Circus Beely or 2 August 1288?",
+    "question": "For the question \"Which film has the director who was born earlier, Circus Beely or Tom, Dick And Harry 2?\", is the answer Circus Beely or Charles I of Naples?",
     "answer": [
       "Circus Beely"
     ],
@@ -28427,7 +28427,7 @@
   {
     "test_id": 921,
     "original_test_id": 230,
-    "question": "True or false: The answer to \"Who is the maternal grandmother of Felipe De Marichalar Y Borbón\" is John Beach.",
+    "question": "True or false: The answer to \"Who is the maternal grandmother of Felipe De Marichalar Y Borbón\" is Malaga.",
     "answer": [
       "false",
       "False",
@@ -28666,7 +28666,7 @@
   {
     "test_id": 929,
     "original_test_id": 232,
-    "question": "Please verify: is Maurya Empire the correct response to \"Which country Natalie Portman's husband is from?\"?",
+    "question": "Please verify: is Missoula the correct response to \"Which country Natalie Portman's husband is from?\"?",
     "answer": [
       "no",
       "No",
@@ -28707,7 +28707,7 @@
   {
     "test_id": 930,
     "original_test_id": 232,
-    "question": "Between Maurya Empire and French Republic, which correctly answers \"Which country Natalie Portman's husband is from?\"?",
+    "question": "Between Missoula and French Republic, which correctly answers \"Which country Natalie Portman's husband is from?\"?",
     "answer": [
       "French Republic"
     ],
@@ -28835,7 +28835,7 @@
   {
     "test_id": 934,
     "original_test_id": 233,
-    "question": "Please verify: is Couch in New York the correct response to \"Who is the father-in-law of Tsandzile Ndwandwe?\"?",
+    "question": "Please verify: is 15 November 1784 the correct response to \"Who is the father-in-law of Tsandzile Ndwandwe?\"?",
     "answer": [
       "no",
       "No",
@@ -28868,7 +28868,7 @@
   {
     "test_id": 935,
     "original_test_id": 233,
-    "question": "Between Couch in New York and Ndvungunye, which correctly answers \"Who is the father-in-law of Tsandzile Ndwandwe?\"?",
+    "question": "Between 15 November 1784 and Ndvungunye, which correctly answers \"Who is the father-in-law of Tsandzile Ndwandwe?\"?",
     "answer": [
       "Ndvungunye"
     ],
@@ -28906,7 +28906,7 @@
   {
     "test_id": 937,
     "original_test_id": 234,
-    "question": "Regarding the question \"Which film has the director born earlier, Mister Scarface or Waking Sleeping Beauty?\": is UKGBI correct?",
+    "question": "Regarding the question \"Which film has the director born earlier, Mister Scarface or Waking Sleeping Beauty?\": is Agrippina Maior correct?",
     "answer": [
       "no",
       "No",
@@ -29040,7 +29040,7 @@
   {
     "test_id": 941,
     "original_test_id": 235,
-    "question": "Can you confirm that Viktoria Solnceva is the correct answer to \"What is the place of birth of the performer of song Hunter (Björk Song)?\"?",
+    "question": "Can you confirm that 2 August 1288 is the correct answer to \"What is the place of birth of the performer of song Hunter (Björk Song)?\"?",
     "answer": [
       "no",
       "No",
@@ -29076,7 +29076,7 @@
   {
     "test_id": 942,
     "original_test_id": 235,
-    "question": "Someone told me the answer to \"What is the place of birth of the performer of song Hunter (Björk Song)?\" is Viktoria Solnceva. Are they right?",
+    "question": "Someone told me the answer to \"What is the place of birth of the performer of song Hunter (Björk Song)?\" is 2 August 1288. Are they right?",
     "answer": [
       "no",
       "No",
@@ -29112,7 +29112,7 @@
   {
     "test_id": 943,
     "original_test_id": 235,
-    "question": "Please verify: is Viktoria Solnceva the correct response to \"What is the place of birth of the performer of song Hunter (Björk Song)?\"?",
+    "question": "Please verify: is 2 August 1288 the correct response to \"What is the place of birth of the performer of song Hunter (Björk Song)?\"?",
     "answer": [
       "no",
       "No",
@@ -29166,7 +29166,7 @@
   {
     "test_id": 945,
     "original_test_id": 236,
-    "question": "Regarding the question \"Who is the paternal grandfather of Richard Beauchamp, 1St Earl Of Worcester?\": is Princess Augusta of Schwarzburg-Sondershausen correct?",
+    "question": "Regarding the question \"Who is the paternal grandfather of Richard Beauchamp, 1St Earl Of Worcester?\": is Emmy of Stork's Nest correct?",
     "answer": [
       "no",
       "No",
@@ -29229,7 +29229,7 @@
   {
     "test_id": 947,
     "original_test_id": 236,
-    "question": "For the question \"Who is the paternal grandfather of Richard Beauchamp, 1St Earl Of Worcester?\", is the answer Thomas de Beauchamp or Princess Augusta of Schwarzburg-Sondershausen?",
+    "question": "For the question \"Who is the paternal grandfather of Richard Beauchamp, 1St Earl Of Worcester?\", is the answer Thomas de Beauchamp or Emmy of Stork's Nest?",
     "answer": [
       "Thomas de Beauchamp"
     ],
@@ -29307,7 +29307,7 @@
   {
     "test_id": 950,
     "original_test_id": 237,
-    "question": "For the question \"Who is the spouse of the director of film Carol'S Journey?\", is the answer María Barranco or Princess Raiyah bint Hussein?",
+    "question": "For the question \"Who is the spouse of the director of film Carol'S Journey?\", is the answer María Barranco or SE?",
     "answer": [
       "María Barranco"
     ],
@@ -29328,7 +29328,7 @@
   {
     "test_id": 951,
     "original_test_id": 237,
-    "question": "The answer to \"Who is the spouse of the director of film Carol'S Journey?\" is definitely not Princess Raiyah bint Hussein, correct?",
+    "question": "The answer to \"Who is the spouse of the director of film Carol'S Journey?\" is definitely not SE, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -29383,7 +29383,7 @@
   {
     "test_id": 953,
     "original_test_id": 238,
-    "question": "Is Anna-Liisa the answer to: Which film has the director born later, Diary Of A Maniac or Return Of The Hero?",
+    "question": "Is 45 Fathers the answer to: Which film has the director born later, Diary Of A Maniac or Return Of The Hero?",
     "answer": [
       "no",
       "No",
@@ -29454,7 +29454,7 @@
   {
     "test_id": 955,
     "original_test_id": 238,
-    "question": "Would Anna-Liisa be the right answer to \"Which film has the director born later, Diary Of A Maniac or Return Of The Hero?\"?",
+    "question": "Would 45 Fathers be the right answer to \"Which film has the director born later, Diary Of A Maniac or Return Of The Hero?\"?",
     "answer": [
       "no",
       "No",
@@ -29624,7 +29624,7 @@
   {
     "test_id": 961,
     "original_test_id": 240,
-    "question": "Regarding the question \"Who is the mother-in-law of Lollia Paulina?\": is Tamil correct?",
+    "question": "Regarding the question \"Who is the mother-in-law of Lollia Paulina?\": is U.K. correct?",
     "answer": [
       "no",
       "No",
@@ -29660,7 +29660,7 @@
   {
     "test_id": 962,
     "original_test_id": 240,
-    "question": "Is it true that the answer to \"Who is the mother-in-law of Lollia Paulina\" is Tamil?",
+    "question": "Is it true that the answer to \"Who is the mother-in-law of Lollia Paulina\" is U.K.?",
     "answer": [
       "no",
       "No",
@@ -29696,7 +29696,7 @@
   {
     "test_id": 963,
     "original_test_id": 240,
-    "question": "Which is correct for \"Who is the mother-in-law of Lollia Paulina?\": Tamil, Agrippina Maior, or Dis-moi qui tuer?",
+    "question": "Which is correct for \"Who is the mother-in-law of Lollia Paulina?\": U.K., Agrippina Maior, or Aldo Parisot?",
     "answer": [
       "Agrippina Maior"
     ],
@@ -29735,7 +29735,7 @@
   {
     "test_id": 965,
     "original_test_id": 241,
-    "question": "Which is correct for \"Which film was released more recently, Gaza Ghetto or Kull The Conqueror?\": Emmy of Stork's Nest, Kull the Conqueror, or John Beach?",
+    "question": "Which is correct for \"Which film was released more recently, Gaza Ghetto or Kull The Conqueror?\": Kids of the Round Table, Kull the Conqueror, or Gura Humorului?",
     "answer": [
       "Kull the Conqueror"
     ],
@@ -29755,7 +29755,7 @@
   {
     "test_id": 966,
     "original_test_id": 241,
-    "question": "Regarding the question \"Which film was released more recently, Gaza Ghetto or Kull The Conqueror?\": is Emmy of Stork's Nest correct?",
+    "question": "Regarding the question \"Which film was released more recently, Gaza Ghetto or Kull The Conqueror?\": is Kids of the Round Table correct?",
     "answer": [
       "no",
       "No",
@@ -29880,7 +29880,7 @@
   {
     "test_id": 970,
     "original_test_id": 242,
-    "question": "True or false: The answer to \"Who was born earlier, Raúl Osorio or James B. Harris\" is Roma.",
+    "question": "True or false: The answer to \"Who was born earlier, Raúl Osorio or James B. Harris\" is Anna-Liisa.",
     "answer": [
       "false",
       "False",
@@ -29960,7 +29960,7 @@
   {
     "test_id": 973,
     "original_test_id": 243,
-    "question": "The answer to \"When was the company that published Woman'S Century founded?\" is definitely not Florencia, correct?",
+    "question": "The answer to \"When was the company that published Woman'S Century founded?\" is definitely not Kids of the Round Table, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -29996,7 +29996,7 @@
   {
     "test_id": 974,
     "original_test_id": 243,
-    "question": "For the question \"When was the company that published Woman'S Century founded?\", is the answer October 27, 1893 or Florencia?",
+    "question": "For the question \"When was the company that published Woman'S Century founded?\", is the answer October 27, 1893 or Kids of the Round Table?",
     "answer": [
       "October 27, 1893"
     ],
@@ -30066,7 +30066,7 @@
   {
     "test_id": 977,
     "original_test_id": 244,
-    "question": "Regarding the question \"Who is Charles Willoughby, 10Th Baron Willoughby Of Parham's paternal grandmother?\": is Little Sister of Everybody correct?",
+    "question": "Regarding the question \"Who is Charles Willoughby, 10Th Baron Willoughby Of Parham's paternal grandmother?\": is Leave It to Henry correct?",
     "answer": [
       "no",
       "No",
@@ -30099,7 +30099,7 @@
   {
     "test_id": 978,
     "original_test_id": 244,
-    "question": "Between Little Sister of Everybody and Lady Frances Manners, which correctly answers \"Who is Charles Willoughby, 10Th Baron Willoughby Of Parham's paternal grandmother?\"?",
+    "question": "Between Leave It to Henry and Lady Frances Manners, which correctly answers \"Who is Charles Willoughby, 10Th Baron Willoughby Of Parham's paternal grandmother?\"?",
     "answer": [
       "Lady Frances Manners"
     ],
@@ -30119,7 +30119,7 @@
   {
     "test_id": 979,
     "original_test_id": 244,
-    "question": "Which is correct for \"Who is Charles Willoughby, 10Th Baron Willoughby Of Parham's paternal grandmother?\": Little Sister of Everybody, Lady Frances Manners, or Big Apple?",
+    "question": "Which is correct for \"Who is Charles Willoughby, 10Th Baron Willoughby Of Parham's paternal grandmother?\": Leave It to Henry, Lady Frances Manners, or Niyoti?",
     "answer": [
       "Lady Frances Manners"
     ],
@@ -30351,7 +30351,7 @@
   {
     "test_id": 987,
     "original_test_id": 246,
-    "question": "True or false: The answer to \"Which film was released earlier, Premium (Film) or Week-End With Father\" is Les Resultats du feminisme.",
+    "question": "True or false: The answer to \"Which film was released earlier, Premium (Film) or Week-End With Father\" is John Beach.",
     "answer": [
       "false",
       "False",
@@ -30481,7 +30481,7 @@
   {
     "test_id": 991,
     "original_test_id": 247,
-    "question": "Would CVI be the right answer to \"What nationality is Gevherhan Sultan (Daughter Of Selim Ii)'s father?\"?",
+    "question": "Would Inigo Velez de Guevara, 7th Count of Onate be the right answer to \"What nationality is Gevherhan Sultan (Daughter Of Selim Ii)'s father?\"?",
     "answer": [
       "no",
       "No",
@@ -30747,7 +30747,7 @@
   {
     "test_id": 1001,
     "original_test_id": 250,
-    "question": "Please verify: is Befikre the correct response to \"Who is the paternal grandmother of Prince William Of Hesse-Kassel?\"?",
+    "question": "Please verify: is Hackney the correct response to \"Who is the paternal grandmother of Prince William Of Hesse-Kassel?\"?",
     "answer": [
       "no",
       "No",
@@ -30780,7 +30780,7 @@
   {
     "test_id": 1002,
     "original_test_id": 250,
-    "question": "Regarding the question \"Who is the paternal grandmother of Prince William Of Hesse-Kassel?\": is Befikre correct?",
+    "question": "Regarding the question \"Who is the paternal grandmother of Prince William Of Hesse-Kassel?\": is Hackney correct?",
     "answer": [
       "no",
       "No",
@@ -30813,7 +30813,7 @@
   {
     "test_id": 1003,
     "original_test_id": 250,
-    "question": "Would Befikre be the right answer to \"Who is the paternal grandmother of Prince William Of Hesse-Kassel?\"?",
+    "question": "Would Hackney be the right answer to \"Who is the paternal grandmother of Prince William Of Hesse-Kassel?\"?",
     "answer": [
       "no",
       "No",
@@ -30870,7 +30870,7 @@
   {
     "test_id": 1005,
     "original_test_id": 251,
-    "question": "Please verify: is La macchina ammazzacattivi the correct response to \"Where did the presenter of Tim Russert (Talk Show) die?\"?",
+    "question": "Please verify: is Rupert, King of Germany the correct response to \"Where did the presenter of Tim Russert (Talk Show) die?\"?",
     "answer": [
       "no",
       "No",
@@ -30945,7 +30945,7 @@
   {
     "test_id": 1007,
     "original_test_id": 251,
-    "question": "Would La macchina ammazzacattivi be the right answer to \"Where did the presenter of Tim Russert (Talk Show) die?\"?",
+    "question": "Would Rupert, King of Germany be the right answer to \"Where did the presenter of Tim Russert (Talk Show) die?\"?",
     "answer": [
       "no",
       "No",
@@ -31180,7 +31180,7 @@
   {
     "test_id": 1014,
     "original_test_id": 253,
-    "question": "For the question \"What is the place of birth of the director of film The Last Horror Movie?\", is the answer Newport, Gwent or Figaro-ci, Figaro-là?",
+    "question": "For the question \"What is the place of birth of the director of film The Last Horror Movie?\", is the answer Newport, Gwent or Lucignolo?",
     "answer": [
       "Newport, Gwent"
     ],
@@ -31261,7 +31261,7 @@
   {
     "test_id": 1017,
     "original_test_id": 254,
-    "question": "Can you confirm that 9 Network is the correct answer to \"Which film has the director who is older, The Woman In The Fifth or End Of Winter?\"?",
+    "question": "Can you confirm that Noreg is the correct answer to \"Which film has the director who is older, The Woman In The Fifth or End Of Winter?\"?",
     "answer": [
       "no",
       "No",
@@ -31295,7 +31295,7 @@
   {
     "test_id": 1018,
     "original_test_id": 254,
-    "question": "Is 9 Network the answer to: Which film has the director who is older, The Woman In The Fifth or End Of Winter?",
+    "question": "Is Noreg the answer to: Which film has the director who is older, The Woman In The Fifth or End Of Winter?",
     "answer": [
       "no",
       "No",
@@ -31417,7 +31417,7 @@
   {
     "test_id": 1022,
     "original_test_id": 255,
-    "question": "Please verify: is Hackney the correct response to \"Which film has the director who is older, The Girl King or Happy As The Grass Was Green?\"?",
+    "question": "Please verify: is The Hidden One the correct response to \"Which film has the director who is older, The Girl King or Happy As The Grass Was Green?\"?",
     "answer": [
       "no",
       "No",
@@ -31537,7 +31537,7 @@
   {
     "test_id": 1026,
     "original_test_id": 256,
-    "question": "Please verify: is 2 August 1288 the correct response to \"Who is George Fitzroy, 1St Duke Of Northumberland's stepmother?\"?",
+    "question": "Please verify: is 30 June 1963 the correct response to \"Who is George Fitzroy, 1St Duke Of Northumberland's stepmother?\"?",
     "answer": [
       "no",
       "No",
@@ -31628,7 +31628,7 @@
   {
     "test_id": 1029,
     "original_test_id": 257,
-    "question": "Is The Beginning or the End the answer to: Where does the director of film Ghost In The Machine (Film) work at?",
+    "question": "Is Cross Plains, Texas the answer to: Where does the director of film Ghost In The Machine (Film) work at?",
     "answer": [
       "no",
       "No",
@@ -31958,7 +31958,7 @@
   {
     "test_id": 1039,
     "original_test_id": 259,
-    "question": "Which is correct for \"Who is the paternal grandmother of Louis, Count Of Verdun?\": Malaga, Gerberge of Lorraine, or Tuberculosis?",
+    "question": "Which is correct for \"Who is the paternal grandmother of Louis, Count Of Verdun?\": Gura Humorului, Gerberge of Lorraine, or the US?",
     "answer": [
       "Gerberge of Lorraine"
     ],
@@ -32048,7 +32048,7 @@
   {
     "test_id": 1042,
     "original_test_id": 260,
-    "question": "Between Aldo Parisot and French Republic, which correctly answers \"What nationality is Anne Of Burgundy's father?\"?",
+    "question": "Between Narciso Ventallo and French Republic, which correctly answers \"What nationality is Anne Of Burgundy's father?\"?",
     "answer": [
       "French Republic"
     ],
@@ -32139,7 +32139,7 @@
   {
     "test_id": 1045,
     "original_test_id": 261,
-    "question": "True or false: The answer to \"Which film has the director who was born later, All The Gold In The World or The Crowning Touch\" is Boot Hill Bandits.",
+    "question": "True or false: The answer to \"Which film has the director who was born later, All The Gold In The World or The Crowning Touch\" is Conrad II.",
     "answer": [
       "false",
       "False",
@@ -32207,7 +32207,7 @@
   {
     "test_id": 1047,
     "original_test_id": 261,
-    "question": "Would Boot Hill Bandits be the right answer to \"Which film has the director who was born later, All The Gold In The World or The Crowning Touch?\"?",
+    "question": "Would Conrad II be the right answer to \"Which film has the director who was born later, All The Gold In The World or The Crowning Touch?\"?",
     "answer": [
       "no",
       "No",
@@ -32258,7 +32258,7 @@
   {
     "test_id": 1049,
     "original_test_id": 262,
-    "question": "Please verify: is Ptolemy IX Soter II the correct response to \"Who lived longer, Csaba Pálinkás or Henry Scheffé?\"?",
+    "question": "Please verify: is 3.2.1. the correct response to \"Who lived longer, Csaba Pálinkás or Henry Scheffé?\"?",
     "answer": [
       "no",
       "No",
@@ -32292,7 +32292,7 @@
   {
     "test_id": 1050,
     "original_test_id": 262,
-    "question": "Can you confirm that Ptolemy IX Soter II is the correct answer to \"Who lived longer, Csaba Pálinkás or Henry Scheffé?\"?",
+    "question": "Can you confirm that 3.2.1. is the correct answer to \"Who lived longer, Csaba Pálinkás or Henry Scheffé?\"?",
     "answer": [
       "no",
       "No",
@@ -32381,7 +32381,7 @@
   {
     "test_id": 1053,
     "original_test_id": 263,
-    "question": "The answer to \"Which film was released more recently, Pirates Of The Prairie or Alien Origin?\" is definitely not 45 Fathers, correct?",
+    "question": "The answer to \"Which film was released more recently, Pirates Of The Prairie or Alien Origin?\" is definitely not Louis de Bourbon, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -32549,7 +32549,7 @@
   {
     "test_id": 1058,
     "original_test_id": 264,
-    "question": "Please verify: is Princess Raiyah bint Hussein the correct response to \"Who is the mother of Edward I Of England?\"?",
+    "question": "Please verify: is Big Apple the correct response to \"Who is the mother of Edward I Of England?\"?",
     "answer": [
       "no",
       "No",
@@ -32634,7 +32634,7 @@
   {
     "test_id": 1061,
     "original_test_id": 265,
-    "question": "Someone told me the answer to \"What is the date of death of Joan, Countess Of Blois's mother?\" is Huahine. Are they right?",
+    "question": "Someone told me the answer to \"What is the date of death of Joan, Countess Of Blois's mother?\" is Elizabeth of Burgundy. Are they right?",
     "answer": [
       "no",
       "No",
@@ -32701,7 +32701,7 @@
   {
     "test_id": 1063,
     "original_test_id": 265,
-    "question": "Between Huahine and 2 August 1288, which correctly answers \"What is the date of death of Joan, Countess Of Blois's mother?\"?",
+    "question": "Between Elizabeth of Burgundy and 2 August 1288, which correctly answers \"What is the date of death of Joan, Countess Of Blois's mother?\"?",
     "answer": [
       "2 August 1288"
     ],
@@ -32773,7 +32773,7 @@
   {
     "test_id": 1066,
     "original_test_id": 266,
-    "question": "Someone told me the answer to \"Which album came out first, Issa Album or 3.2.1.?\" is Inigo Velez de Guevara, 7th Count of Onate. Are they right?",
+    "question": "Someone told me the answer to \"Which album came out first, Issa Album or 3.2.1.?\" is The Great Flamarion. Are they right?",
     "answer": [
       "no",
       "No",
@@ -32806,7 +32806,7 @@
   {
     "test_id": 1067,
     "original_test_id": 266,
-    "question": "Between Inigo Velez de Guevara, 7th Count of Onate and 3.2.1., which correctly answers \"Which album came out first, Issa Album or 3.2.1.?\"?",
+    "question": "Between The Great Flamarion and 3.2.1., which correctly answers \"Which album came out first, Issa Album or 3.2.1.?\"?",
     "answer": [
       "3.2.1."
     ],
@@ -32842,7 +32842,7 @@
   {
     "test_id": 1069,
     "original_test_id": 267,
-    "question": "Which is correct for \"Who is Sancho Ramírez's maternal grandfather?\": Florencia, Bernard-Roger, Count of Bigorre, or Tisch School of the Arts?",
+    "question": "Which is correct for \"Who is Sancho Ramírez's maternal grandfather?\": Little Sister of Everybody, Bernard-Roger, Count of Bigorre, or Fleetwood Sheppard?",
     "answer": [
       "Bernard-Roger, Count of Bigorre"
     ],
@@ -32862,7 +32862,7 @@
   {
     "test_id": 1070,
     "original_test_id": 267,
-    "question": "Regarding the question \"Who is Sancho Ramírez's maternal grandfather?\": is Florencia correct?",
+    "question": "Regarding the question \"Who is Sancho Ramírez's maternal grandfather?\": is Little Sister of Everybody correct?",
     "answer": [
       "no",
       "No",
@@ -33025,7 +33025,7 @@
   {
     "test_id": 1075,
     "original_test_id": 268,
-    "question": "Between Gerberge of Lorraine and It Happened at the World's Fair, which correctly answers \"Which film was released earlier, New Jersey Drive or It Happened At The World'S Fair?\"?",
+    "question": "Between Lucignolo and It Happened at the World's Fair, which correctly answers \"Which film was released earlier, New Jersey Drive or It Happened At The World'S Fair?\"?",
     "answer": [
       "It Happened at the World's Fair"
     ],
@@ -33132,7 +33132,7 @@
   {
     "test_id": 1079,
     "original_test_id": 269,
-    "question": "Is Madrid, Spain the answer to: Who is the spouse of the performer of song Lolita (Leah Labelle Song)?",
+    "question": "Is Edward Dearle the answer to: Who is the spouse of the performer of song Lolita (Leah Labelle Song)?",
     "answer": [
       "no",
       "No",
@@ -33334,7 +33334,7 @@
   {
     "test_id": 1086,
     "original_test_id": 271,
-    "question": "Between The Beginning or the End and 9 Network, which correctly answers \"Where does Chris Warren (Rugby League)'s father work at?\"?",
+    "question": "Between Tuberculosis and 9 Network, which correctly answers \"Where does Chris Warren (Rugby League)'s father work at?\"?",
     "answer": [
       "9 Network"
     ],
@@ -33418,7 +33418,7 @@
   {
     "test_id": 1089,
     "original_test_id": 272,
-    "question": "Can you confirm that Nice, France is the correct answer to \"Where did Davey Boy Smith Jr.'s mother study?\"?",
+    "question": "Can you confirm that City of Light is the correct answer to \"Where did Davey Boy Smith Jr.'s mother study?\"?",
     "answer": [
       "no",
       "No",
@@ -33451,7 +33451,7 @@
   {
     "test_id": 1090,
     "original_test_id": 272,
-    "question": "For the question \"Where did Davey Boy Smith Jr.'s mother study?\", is the answer Stampede Wrestling or Nice, France?",
+    "question": "For the question \"Where did Davey Boy Smith Jr.'s mother study?\", is the answer Stampede Wrestling or City of Light?",
     "answer": [
       "Stampede Wrestling"
     ],
@@ -33519,7 +33519,7 @@
   {
     "test_id": 1093,
     "original_test_id": 273,
-    "question": "Which is correct for \"Which country Thomas Lyon-Bowes, Lord Glamis's father is from?\": Amman, UKGBI, or SE?",
+    "question": "Which is correct for \"Which country Thomas Lyon-Bowes, Lord Glamis's father is from?\": Osterholz, UKGBI, or Herstal?",
     "answer": [
       "UKGBI"
     ],
@@ -33545,7 +33545,7 @@
   {
     "test_id": 1094,
     "original_test_id": 273,
-    "question": "Can you confirm that Amman is the correct answer to \"Which country Thomas Lyon-Bowes, Lord Glamis's father is from?\"?",
+    "question": "Can you confirm that Osterholz is the correct answer to \"Which country Thomas Lyon-Bowes, Lord Glamis's father is from?\"?",
     "answer": [
       "no",
       "No",
@@ -33649,7 +33649,7 @@
   {
     "test_id": 1097,
     "original_test_id": 274,
-    "question": "The answer to \"What nationality is the performer of song Adore You (Jessie Ware Song)\" is Weekend With Father. Is this accurate?",
+    "question": "The answer to \"What nationality is the performer of song Adore You (Jessie Ware Song)\" is Catherine of Braganza. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -33725,7 +33725,7 @@
   {
     "test_id": 1099,
     "original_test_id": 274,
-    "question": "Is it true that the answer to \"What nationality is the performer of song Adore You (Jessie Ware Song)\" is Weekend With Father?",
+    "question": "Is it true that the answer to \"What nationality is the performer of song Adore You (Jessie Ware Song)\" is Catherine of Braganza?",
     "answer": [
       "no",
       "No",
@@ -33964,7 +33964,7 @@
   {
     "test_id": 1107,
     "original_test_id": 276,
-    "question": "Can you confirm that National Film Award for Best Music Direction is the correct answer to \"Which film has the director born earlier, Spring Storms or Fun In The Barracks?\"?",
+    "question": "Can you confirm that Charlie Chan in Honolulu is the correct answer to \"Which film has the director born earlier, Spring Storms or Fun In The Barracks?\"?",
     "answer": [
       "no",
       "No",
@@ -34071,7 +34071,7 @@
   {
     "test_id": 1110,
     "original_test_id": 277,
-    "question": "True or false: The answer to \"Where was the father of Andrew Balding born\" is 15 November 1784.",
+    "question": "True or false: The answer to \"Where was the father of Andrew Balding born\" is Sochi.",
     "answer": [
       "false",
       "False",
@@ -34400,7 +34400,7 @@
   {
     "test_id": 1121,
     "original_test_id": 280,
-    "question": "The answer to \"Which award the composer of film Pataakha won?\" is definitely not 9 Network, correct?",
+    "question": "The answer to \"Which award the composer of film Pataakha won?\" is definitely not D'Arcy Coulson, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -34438,7 +34438,7 @@
   {
     "test_id": 1122,
     "original_test_id": 280,
-    "question": "For the question \"Which award the composer of film Pataakha won?\", is the answer National Film Award for Best Music Direction or 9 Network?",
+    "question": "For the question \"Which award the composer of film Pataakha won?\", is the answer National Film Award for Best Music Direction or D'Arcy Coulson?",
     "answer": [
       "National Film Award for Best Music Direction"
     ],
@@ -34458,7 +34458,7 @@
   {
     "test_id": 1123,
     "original_test_id": 280,
-    "question": "Please verify: is 9 Network the correct response to \"Which award the composer of film Pataakha won?\"?",
+    "question": "Please verify: is D'Arcy Coulson the correct response to \"Which award the composer of film Pataakha won?\"?",
     "answer": [
       "no",
       "No",
@@ -34549,7 +34549,7 @@
   {
     "test_id": 1126,
     "original_test_id": 281,
-    "question": "True or false: The answer to \"What is the place of birth of the performer of song Damage (Pharoahe Monch Song)\" is Two for Tonight.",
+    "question": "True or false: The answer to \"What is the place of birth of the performer of song Damage (Pharoahe Monch Song)\" is Winnipeg.",
     "answer": [
       "false",
       "False",
@@ -34661,7 +34661,7 @@
   {
     "test_id": 1130,
     "original_test_id": 282,
-    "question": "Between A Quiet Place in the Country and Bowdoin College, which correctly answers \"Where did Henry C. Lord's father graduate from?\"?",
+    "question": "Between Xi’an City and Bowdoin College, which correctly answers \"Where did Henry C. Lord's father graduate from?\"?",
     "answer": [
       "Bowdoin College"
     ],
@@ -34681,7 +34681,7 @@
   {
     "test_id": 1131,
     "original_test_id": 282,
-    "question": "Would A Quiet Place in the Country be the right answer to \"Where did Henry C. Lord's father graduate from?\"?",
+    "question": "Would Xi’an City be the right answer to \"Where did Henry C. Lord's father graduate from?\"?",
     "answer": [
       "no",
       "No",
@@ -34730,7 +34730,7 @@
   {
     "test_id": 1133,
     "original_test_id": 283,
-    "question": "Is it true that the answer to \"Which film whose director is younger, Uncharted Seas or Something Of Value\" is Amman?",
+    "question": "Is it true that the answer to \"Which film whose director is younger, Uncharted Seas or Something Of Value\" is Catherine Robbe-Grillet?",
     "answer": [
       "no",
       "No",
@@ -34763,7 +34763,7 @@
   {
     "test_id": 1134,
     "original_test_id": 283,
-    "question": "Is Amman the answer to: Which film whose director is younger, Uncharted Seas or Something Of Value?",
+    "question": "Is Catherine Robbe-Grillet the answer to: Which film whose director is younger, Uncharted Seas or Something Of Value?",
     "answer": [
       "no",
       "No",
@@ -34850,7 +34850,7 @@
   {
     "test_id": 1137,
     "original_test_id": 284,
-    "question": "Would Noreg be the right answer to \"Which film has the director born later, My Own Private Idaho or Lucignolo?\"?",
+    "question": "Would Małgorzata Braunek be the right answer to \"Which film has the director born later, My Own Private Idaho or Lucignolo?\"?",
     "answer": [
       "no",
       "No",
@@ -34883,7 +34883,7 @@
   {
     "test_id": 1138,
     "original_test_id": 284,
-    "question": "True or false: The answer to \"Which film has the director born later, My Own Private Idaho or Lucignolo\" is Noreg.",
+    "question": "True or false: The answer to \"Which film has the director born later, My Own Private Idaho or Lucignolo\" is Małgorzata Braunek.",
     "answer": [
       "false",
       "False",
@@ -34911,7 +34911,7 @@
   {
     "test_id": 1139,
     "original_test_id": 284,
-    "question": "Is Noreg the answer to: Which film has the director born later, My Own Private Idaho or Lucignolo?",
+    "question": "Is Małgorzata Braunek the answer to: Which film has the director born later, My Own Private Idaho or Lucignolo?",
     "answer": [
       "no",
       "No",
@@ -34958,7 +34958,7 @@
   {
     "test_id": 1141,
     "original_test_id": 285,
-    "question": "Please verify: is Charlie Chan in Honolulu the correct response to \"What is the date of birth of Prince Bernhard Of Orange-Nassau, Van Vollenhoven's father?\"?",
+    "question": "Please verify: is Xenoa the correct response to \"What is the date of birth of Prince Bernhard Of Orange-Nassau, Van Vollenhoven's father?\"?",
     "answer": [
       "no",
       "No",
@@ -34989,7 +34989,7 @@
   {
     "test_id": 1142,
     "original_test_id": 285,
-    "question": "True or false: The answer to \"What is the date of birth of Prince Bernhard Of Orange-Nassau, Van Vollenhoven's father\" is Charlie Chan in Honolulu.",
+    "question": "True or false: The answer to \"What is the date of birth of Prince Bernhard Of Orange-Nassau, Van Vollenhoven's father\" is Xenoa.",
     "answer": [
       "false",
       "False",
@@ -35015,7 +35015,7 @@
   {
     "test_id": 1143,
     "original_test_id": 285,
-    "question": "Between Charlie Chan in Honolulu and April 30, 1939, which correctly answers \"What is the date of birth of Prince Bernhard Of Orange-Nassau, Van Vollenhoven's father?\"?",
+    "question": "Between Xenoa and April 30, 1939, which correctly answers \"What is the date of birth of Prince Bernhard Of Orange-Nassau, Van Vollenhoven's father?\"?",
     "answer": [
       "April 30, 1939"
     ],
@@ -35171,7 +35171,7 @@
   {
     "test_id": 1149,
     "original_test_id": 287,
-    "question": "Is it true that the answer to \"Who is the paternal grandmother of Ingegerd Olofsdotter Of Sweden\" is Figaro-ci, Figaro-là?",
+    "question": "Is it true that the answer to \"Who is the paternal grandmother of Ingegerd Olofsdotter Of Sweden\" is Knights of the Range?",
     "answer": [
       "no",
       "No",
@@ -35297,7 +35297,7 @@
   {
     "test_id": 1153,
     "original_test_id": 288,
-    "question": "Is it true that the answer to \"Where was the place of death of the creator of Conan The Adventurer (1992 Tv Series)\" is Sochi?",
+    "question": "Is it true that the answer to \"Where was the place of death of the creator of Conan The Adventurer (1992 Tv Series)\" is Peter I, Duke of Bourbon?",
     "answer": [
       "no",
       "No",
@@ -35668,7 +35668,7 @@
   {
     "test_id": 1166,
     "original_test_id": 291,
-    "question": "Would Fun in the Barracks be the right answer to \"What is the place of birth of the director of film The Fj Holden?\"?",
+    "question": "Would The Working Class Goes to Heaven be the right answer to \"What is the place of birth of the director of film The Fj Holden?\"?",
     "answer": [
       "no",
       "No",
@@ -35706,7 +35706,7 @@
   {
     "test_id": 1167,
     "original_test_id": 291,
-    "question": "For the question \"What is the place of birth of the director of film The Fj Holden?\", is the answer Sydney, NSW or Fun in the Barracks?",
+    "question": "For the question \"What is the place of birth of the director of film The Fj Holden?\", is the answer Sydney, NSW or The Working Class Goes to Heaven?",
     "answer": [
       "Sydney, NSW"
     ],
@@ -35787,7 +35787,7 @@
   {
     "test_id": 1170,
     "original_test_id": 292,
-    "question": "The answer to \"Who was born later, Lisbeth Cathrine Amalie Rose or Princess Raiyah Bint Hussein\" is Pakistan. Is this accurate?",
+    "question": "The answer to \"Who was born later, Lisbeth Cathrine Amalie Rose or Princess Raiyah Bint Hussein\" is Noreg. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -35920,7 +35920,7 @@
   {
     "test_id": 1174,
     "original_test_id": 293,
-    "question": "Is Kurdistan the answer to: Where was the performer of song Step Into The Light (Myra Song) born?",
+    "question": "Is Roma the answer to: Where was the performer of song Step Into The Light (Myra Song) born?",
     "answer": [
       "no",
       "No",
@@ -36104,7 +36104,7 @@
   {
     "test_id": 1179,
     "original_test_id": 294,
-    "question": "For the question \"Which country the director of film One Night At Mccool'S is from?\", is the answer Noreg or National Film School in Łódź?",
+    "question": "For the question \"Which country the director of film One Night At Mccool'S is from?\", is the answer Noreg or Hilandariu?",
     "answer": [
       "Noreg"
     ],
@@ -36150,7 +36150,7 @@
   {
     "test_id": 1181,
     "original_test_id": 295,
-    "question": "Please verify: is She Wore a Yellow Ribbon the correct response to \"Who is the paternal grandfather of Beatrice I, Abbess Of Quedlinburg?\"?",
+    "question": "Please verify: is Alain Poire the correct response to \"Who is the paternal grandfather of Beatrice I, Abbess Of Quedlinburg?\"?",
     "answer": [
       "no",
       "No",
@@ -36184,7 +36184,7 @@
   {
     "test_id": 1182,
     "original_test_id": 295,
-    "question": "Is She Wore a Yellow Ribbon the answer to: Who is the paternal grandfather of Beatrice I, Abbess Of Quedlinburg?",
+    "question": "Is Alain Poire the answer to: Who is the paternal grandfather of Beatrice I, Abbess Of Quedlinburg?",
     "answer": [
       "no",
       "No",
@@ -36440,7 +36440,7 @@
   {
     "test_id": 1190,
     "original_test_id": 297,
-    "question": "True or false: The answer to \"Where was the place of death of George Thomas Orlando Bridgeman's father\" is Befikre.",
+    "question": "True or false: The answer to \"Where was the place of death of George Thomas Orlando Bridgeman's father\" is Kreuzlingen.",
     "answer": [
       "false",
       "False",
@@ -36580,7 +36580,7 @@
   {
     "test_id": 1194,
     "original_test_id": 298,
-    "question": "Someone told me the answer to \"What nationality is Imperial Noble Consort Chunhui's husband?\" is University of British Columbia. Are they right?",
+    "question": "Someone told me the answer to \"What nationality is Imperial Noble Consort Chunhui's husband?\" is Kreuzlingen. Are they right?",
     "answer": [
       "no",
       "No",
@@ -36623,7 +36623,7 @@
   {
     "test_id": 1195,
     "original_test_id": 298,
-    "question": "Is University of British Columbia the answer to: What nationality is Imperial Noble Consort Chunhui's husband?",
+    "question": "Is Kreuzlingen the answer to: What nationality is Imperial Noble Consort Chunhui's husband?",
     "answer": [
       "no",
       "No",
@@ -36682,7 +36682,7 @@
   {
     "test_id": 1197,
     "original_test_id": 299,
-    "question": "Regarding the question \"Which film has the director who died later, Say It With Flowers or Boot Hill Bandits?\": is nl correct?",
+    "question": "Regarding the question \"Which film has the director who died later, Say It With Flowers or Boot Hill Bandits?\": is Tisch School of the Arts correct?",
     "answer": [
       "no",
       "No",
@@ -36753,7 +36753,7 @@
   {
     "test_id": 1199,
     "original_test_id": 299,
-    "question": "Is nl the answer to: Which film has the director who died later, Say It With Flowers or Boot Hill Bandits?",
+    "question": "Is Tisch School of the Arts the answer to: Which film has the director who died later, Say It With Flowers or Boot Hill Bandits?",
     "answer": [
       "no",
       "No",

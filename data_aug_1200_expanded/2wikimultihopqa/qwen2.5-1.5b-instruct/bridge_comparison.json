@@ -189,7 +189,7 @@
   {
     "test_id": 6,
     "original_test_id": 1,
-    "question": "Would 45 Fathers be the right answer to \"Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven?\"?",
+    "question": "Would Beal Feirste be the right answer to \"Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven?\"?",
     "answer": [
       "no",
       "No",
@@ -224,7 +224,7 @@
   {
     "test_id": 7,
     "original_test_id": 1,
-    "question": "Is 45 Fathers the answer to: Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven?",
+    "question": "Is Beal Feirste the answer to: Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven?",
     "answer": [
       "no",
       "No",
@@ -275,7 +275,7 @@
   {
     "test_id": 9,
     "original_test_id": 2,
-    "question": "Is French Republic the answer to: Which film has the director born first, Once A Gentleman or The Girl In White?",
+    "question": "Is 12 June 1516 the answer to: Which film has the director born first, Once A Gentleman or The Girl In White?",
     "answer": [
       "no",
       "No",
@@ -442,7 +442,7 @@
   {
     "test_id": 14,
     "original_test_id": 3,
-    "question": "Which is correct for \"Which film has the director who died earlier, Il Seduttore or The Trial Of Joan Of Arc?\": Charlotte Spurkeland, Trial of Joan of Arc, or the US?",
+    "question": "Which is correct for \"Which film has the director who died earlier, Il Seduttore or The Trial Of Joan Of Arc?\": Boot Hill Bandits, Trial of Joan of Arc, or The Constant Woman?",
     "answer": [
       "Trial of Joan of Arc"
     ],
@@ -521,7 +521,7 @@
   {
     "test_id": 17,
     "original_test_id": 4,
-    "question": "For the question \"Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?\", is the answer The Raven's Dance or Heroes of the Street?",
+    "question": "For the question \"Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?\", is the answer The Raven's Dance or Mask of Fu Manchu?",
     "answer": [
       "The Raven's Dance"
     ],
@@ -581,7 +581,7 @@
   {
     "test_id": 19,
     "original_test_id": 4,
-    "question": "Between Heroes of the Street and The Raven's Dance, which correctly answers \"Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?\"?",
+    "question": "Between Mask of Fu Manchu and The Raven's Dance, which correctly answers \"Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?\"?",
     "answer": [
       "The Raven's Dance"
     ],
@@ -818,7 +818,7 @@
   {
     "test_id": 27,
     "original_test_id": 6,
-    "question": "Is Brighton the answer to: Which film has the director died earlier, Poker In Bed or The Machine To Kill Bad People?",
+    "question": "Is Florencia the answer to: Which film has the director died earlier, Poker In Bed or The Machine To Kill Bad People?",
     "answer": [
       "no",
       "No",
@@ -870,7 +870,7 @@
   {
     "test_id": 29,
     "original_test_id": 7,
-    "question": "The answer to \"Which film whose director is younger, Heads I Win, Tails You Lose or The Incredible Sarah\" is New Brunswick, N. J.. Is this accurate?",
+    "question": "The answer to \"Which film whose director is younger, Heads I Win, Tails You Lose or The Incredible Sarah\" is Roma. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -904,7 +904,7 @@
   {
     "test_id": 30,
     "original_test_id": 7,
-    "question": "The answer to \"Which film whose director is younger, Heads I Win, Tails You Lose or The Incredible Sarah?\" is definitely not New Brunswick, N. J., correct?",
+    "question": "The answer to \"Which film whose director is younger, Heads I Win, Tails You Lose or The Incredible Sarah?\" is definitely not Roma, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -998,7 +998,7 @@
   {
     "test_id": 33,
     "original_test_id": 8,
-    "question": "For the question \"Which film has the director died earlier, Condemned Women or Faces In The Dark?\", is the answer Condemned Women or 3 August 979?",
+    "question": "For the question \"Which film has the director died earlier, Condemned Women or Faces In The Dark?\", is the answer Condemned Women or Big Apple?",
     "answer": [
       "Condemned Women"
     ],
@@ -1181,7 +1181,7 @@
   {
     "test_id": 39,
     "original_test_id": 9,
-    "question": "For the question \"Which film has the director born later, Bhoomiyude Avakashikal or The Majesty Of The Law?\", is the answer Bhoomiyude Avakashikal or Bulldog Drummond's Revenge?",
+    "question": "For the question \"Which film has the director born later, Bhoomiyude Avakashikal or The Majesty Of The Law?\", is the answer Bhoomiyude Avakashikal or Catherine Robbe-Grillet?",
     "answer": [
       "Bhoomiyude Avakashikal"
     ],
@@ -1329,7 +1329,7 @@
   {
     "test_id": 45,
     "original_test_id": 11,
-    "question": "Between Newport, Gwent and 45 Fathers, which correctly answers \"Which film whose director was born first, 45 Fathers or The Intended?\"?",
+    "question": "Between Trial of Joan of Arc and 45 Fathers, which correctly answers \"Which film whose director was born first, 45 Fathers or The Intended?\"?",
     "answer": [
       "45 Fathers"
     ],
@@ -1349,7 +1349,7 @@
   {
     "test_id": 46,
     "original_test_id": 11,
-    "question": "Would Newport, Gwent be the right answer to \"Which film whose director was born first, 45 Fathers or The Intended?\"?",
+    "question": "Would Trial of Joan of Arc be the right answer to \"Which film whose director was born first, 45 Fathers or The Intended?\"?",
     "answer": [
       "no",
       "No",
@@ -1438,7 +1438,7 @@
   {
     "test_id": 49,
     "original_test_id": 12,
-    "question": "Please verify: is the US the correct response to \"Which film has the director who was born later, A Quiet Place In The Country or When Were You Born?\"?",
+    "question": "Please verify: is Königsberg i. Pr. the correct response to \"Which film has the director who was born later, A Quiet Place In The Country or When Were You Born?\"?",
     "answer": [
       "no",
       "No",
@@ -1595,7 +1595,7 @@
   {
     "test_id": 54,
     "original_test_id": 13,
-    "question": "Is it true that the answer to \"Which film has the director born earlier, The House By The Cemetery or Charlie Chan In Honolulu\" is Aneta Hladíková?",
+    "question": "Is it true that the answer to \"Which film has the director born earlier, The House By The Cemetery or Charlie Chan In Honolulu\" is Huahine?",
     "answer": [
       "no",
       "No",
@@ -1628,7 +1628,7 @@
   {
     "test_id": 55,
     "original_test_id": 13,
-    "question": "Would Aneta Hladíková be the right answer to \"Which film has the director born earlier, The House By The Cemetery or Charlie Chan In Honolulu?\"?",
+    "question": "Would Huahine be the right answer to \"Which film has the director born earlier, The House By The Cemetery or Charlie Chan In Honolulu?\"?",
     "answer": [
       "no",
       "No",
@@ -1860,7 +1860,7 @@
   {
     "test_id": 63,
     "original_test_id": 15,
-    "question": "Regarding the question \"Which film has the director who died earlier, Toen 'T Licht Verdween or Boum Sur Paris?\": is Myanmar Motion Picture Academy Awards correct?",
+    "question": "Regarding the question \"Which film has the director who died earlier, Toen 'T Licht Verdween or Boum Sur Paris?\": is Something of Value correct?",
     "answer": [
       "no",
       "No",
@@ -1947,7 +1947,7 @@
   {
     "test_id": 66,
     "original_test_id": 16,
-    "question": "Can you confirm that Hollywood, California is the correct answer to \"Which film has the director born first, Antonieta or Dodging The Dole?\"?",
+    "question": "Can you confirm that Qing dynasty is the correct answer to \"Which film has the director born first, Antonieta or Dodging The Dole?\"?",
     "answer": [
       "no",
       "No",
@@ -1980,7 +1980,7 @@
   {
     "test_id": 67,
     "original_test_id": 16,
-    "question": "The answer to \"Which film has the director born first, Antonieta or Dodging The Dole?\" is definitely not Hollywood, California, correct?",
+    "question": "The answer to \"Which film has the director born first, Antonieta or Dodging The Dole?\" is definitely not Qing dynasty, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -2299,7 +2299,7 @@
   {
     "test_id": 78,
     "original_test_id": 19,
-    "question": "For the question \"Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie?\", is the answer Captain Kidd and the Slave Girl or CVI?",
+    "question": "For the question \"Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie?\", is the answer Captain Kidd and the Slave Girl or City of Light?",
     "answer": [
       "Captain Kidd and the Slave Girl"
     ],
@@ -2319,7 +2319,7 @@
   {
     "test_id": 79,
     "original_test_id": 19,
-    "question": "Someone told me the answer to \"Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie?\" is CVI. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie?\" is City of Light. Are they right?",
     "answer": [
       "no",
       "No",
@@ -2403,7 +2403,7 @@
   {
     "test_id": 82,
     "original_test_id": 20,
-    "question": "The answer to \"Which film has the director who died later, The Fatal Mistake or The Devil'S Hairpin?\" is definitely not de, correct?",
+    "question": "The answer to \"Which film has the director who died later, The Fatal Mistake or The Devil'S Hairpin?\" is definitely not Gene Watson, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -2442,7 +2442,7 @@
   {
     "test_id": 83,
     "original_test_id": 20,
-    "question": "Can you confirm that de is the correct answer to \"Which film has the director who died later, The Fatal Mistake or The Devil'S Hairpin?\"?",
+    "question": "Can you confirm that Gene Watson is the correct answer to \"Which film has the director who died later, The Fatal Mistake or The Devil'S Hairpin?\"?",
     "answer": [
       "no",
       "No",
@@ -2492,7 +2492,7 @@
   {
     "test_id": 85,
     "original_test_id": 21,
-    "question": "Between 15 November 1784 and It's a Joke, Son!, which correctly answers \"Which film has the director who was born earlier, It'S A Joke, Son! or The Thirty Nine Steps (1978 Film)?\"?",
+    "question": "Between Dallas 362 and It's a Joke, Son!, which correctly answers \"Which film has the director who was born earlier, It'S A Joke, Son! or The Thirty Nine Steps (1978 Film)?\"?",
     "answer": [
       "It's a Joke, Son!"
     ],
@@ -2721,7 +2721,7 @@
   {
     "test_id": 93,
     "original_test_id": 23,
-    "question": "Please verify: is Emmy of Stork's Nest the correct response to \"Which film has the director born first, Leave It To Henry or The Last Night Of Scheherazade?\"?",
+    "question": "Please verify: is Circus Beely the correct response to \"Which film has the director born first, Leave It To Henry or The Last Night Of Scheherazade?\"?",
     "answer": [
       "no",
       "No",
@@ -2754,7 +2754,7 @@
   {
     "test_id": 94,
     "original_test_id": 23,
-    "question": "Someone told me the answer to \"Which film has the director born first, Leave It To Henry or The Last Night Of Scheherazade?\" is Emmy of Stork's Nest. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director born first, Leave It To Henry or The Last Night Of Scheherazade?\" is Circus Beely. Are they right?",
     "answer": [
       "no",
       "No",
@@ -2841,7 +2841,7 @@
   {
     "test_id": 97,
     "original_test_id": 24,
-    "question": "Is Jeedar the answer to: Which film has the director born earlier, Santa Fe Uprising or Trainer And Temptress?",
+    "question": "Is Bhoomiyude Avakashikal the answer to: Which film has the director born earlier, Santa Fe Uprising or Trainer And Temptress?",
     "answer": [
       "no",
       "No",
@@ -2912,7 +2912,7 @@
   {
     "test_id": 99,
     "original_test_id": 24,
-    "question": "Regarding the question \"Which film has the director born earlier, Santa Fe Uprising or Trainer And Temptress?\": is Jeedar correct?",
+    "question": "Regarding the question \"Which film has the director born earlier, Santa Fe Uprising or Trainer And Temptress?\": is Bhoomiyude Avakashikal correct?",
     "answer": [
       "no",
       "No",
@@ -2961,7 +2961,7 @@
   {
     "test_id": 101,
     "original_test_id": 25,
-    "question": "Would University of British Columbia be the right answer to \"Which film has the director who was born earlier, Adam'S Rib or Thendral Veesum?\"?",
+    "question": "Would nl be the right answer to \"Which film has the director who was born earlier, Adam'S Rib or Thendral Veesum?\"?",
     "answer": [
       "no",
       "No",
@@ -2994,7 +2994,7 @@
   {
     "test_id": 102,
     "original_test_id": 25,
-    "question": "True or false: The answer to \"Which film has the director who was born earlier, Adam'S Rib or Thendral Veesum\" is University of British Columbia.",
+    "question": "True or false: The answer to \"Which film has the director who was born earlier, Adam'S Rib or Thendral Veesum\" is nl.",
     "answer": [
       "false",
       "False",
@@ -3071,7 +3071,7 @@
   {
     "test_id": 105,
     "original_test_id": 26,
-    "question": "Can you confirm that Jeedar is the correct answer to \"Which film whose director is younger, Joe Palooka In Fighting Mad or Figaro-Ci, Figaro-Là?\"?",
+    "question": "Can you confirm that Sydney, NSW is the correct answer to \"Which film whose director is younger, Joe Palooka In Fighting Mad or Figaro-Ci, Figaro-Là?\"?",
     "answer": [
       "no",
       "No",
@@ -3307,7 +3307,7 @@
   {
     "test_id": 113,
     "original_test_id": 28,
-    "question": "The answer to \"Which film has the director who died first, The Crime Doctor'S Courage or Vasantha Sena (1967 Film)?\" is definitely not Victor Bo, correct?",
+    "question": "The answer to \"Which film has the director who died first, The Crime Doctor'S Courage or Vasantha Sena (1967 Film)?\" is definitely not U.K., correct?",
     "answer": [
       "yes",
       "Yes",
@@ -3435,7 +3435,7 @@
   {
     "test_id": 117,
     "original_test_id": 29,
-    "question": "For the question \"Which film has the director died first, Le Guignolo or Knights Of The Range?\", is the answer Knights of the Range or Louis de Bourbon?",
+    "question": "For the question \"Which film has the director died first, Le Guignolo or Knights Of The Range?\", is the answer Knights of the Range or Yi Jiang?",
     "answer": [
       "Knights of the Range"
     ],
@@ -3493,7 +3493,7 @@
   {
     "test_id": 119,
     "original_test_id": 29,
-    "question": "Is Louis de Bourbon the answer to: Which film has the director died first, Le Guignolo or Knights Of The Range?",
+    "question": "Is Yi Jiang the answer to: Which film has the director died first, Le Guignolo or Knights Of The Range?",
     "answer": [
       "no",
       "No",
@@ -3586,7 +3586,7 @@
   {
     "test_id": 122,
     "original_test_id": 30,
-    "question": "True or false: The answer to \"Which film whose director is younger, Kalippava or A Couch In New York\" is Jeanne d'Albret.",
+    "question": "True or false: The answer to \"Which film whose director is younger, Kalippava or A Couch In New York\" is National Film Award for Best Music Direction.",
     "answer": [
       "false",
       "False",
@@ -3617,7 +3617,7 @@
   {
     "test_id": 123,
     "original_test_id": 30,
-    "question": "Regarding the question \"Which film whose director is younger, Kalippava or A Couch In New York?\": is Jeanne d'Albret correct?",
+    "question": "Regarding the question \"Which film whose director is younger, Kalippava or A Couch In New York?\": is National Film Award for Best Music Direction correct?",
     "answer": [
       "no",
       "No",
@@ -3670,7 +3670,7 @@
   {
     "test_id": 125,
     "original_test_id": 31,
-    "question": "Would The Great Flamarion be the right answer to \"Which film has the director who died earlier, The Love Charm or The Constant Woman?\"?",
+    "question": "Would 1886 be the right answer to \"Which film has the director who died earlier, The Love Charm or The Constant Woman?\"?",
     "answer": [
       "no",
       "No",
@@ -3793,7 +3793,7 @@
   {
     "test_id": 129,
     "original_test_id": 32,
-    "question": "For the question \"Which film has the director who died earlier, Guns And Guitars or To The Victor?\", is the answer Guns and Guitars or Princess Mary of Great Britain?",
+    "question": "For the question \"Which film has the director who died earlier, Guns And Guitars or To The Victor?\", is the answer Guns and Guitars or Emmy of Stork's Nest?",
     "answer": [
       "Guns and Guitars"
     ],
@@ -3813,7 +3813,7 @@
   {
     "test_id": 130,
     "original_test_id": 32,
-    "question": "Is Princess Mary of Great Britain the answer to: Which film has the director who died earlier, Guns And Guitars or To The Victor?",
+    "question": "Is Emmy of Stork's Nest the answer to: Which film has the director who died earlier, Guns And Guitars or To The Victor?",
     "answer": [
       "no",
       "No",
@@ -3846,7 +3846,7 @@
   {
     "test_id": 131,
     "original_test_id": 32,
-    "question": "Which is correct for \"Which film has the director who died earlier, Guns And Guitars or To The Victor?\": Princess Mary of Great Britain, Guns and Guitars, or Elizabeth of Burgundy?",
+    "question": "Which is correct for \"Which film has the director who died earlier, Guns And Guitars or To The Victor?\": Emmy of Stork's Nest, Guns and Guitars, or Couch in New York?",
     "answer": [
       "Guns and Guitars"
     ],
@@ -3883,7 +3883,7 @@
   {
     "test_id": 133,
     "original_test_id": 33,
-    "question": "Is it true that the answer to \"Which film has the director who died later, His Last Haul or The Falcon In San Francisco\" is Befikre?",
+    "question": "Is it true that the answer to \"Which film has the director who died later, His Last Haul or The Falcon In San Francisco\" is Xenoa?",
     "answer": [
       "no",
       "No",
@@ -3917,7 +3917,7 @@
   {
     "test_id": 134,
     "original_test_id": 33,
-    "question": "Please verify: is Befikre the correct response to \"Which film has the director who died later, His Last Haul or The Falcon In San Francisco?\"?",
+    "question": "Please verify: is Xenoa the correct response to \"Which film has the director who died later, His Last Haul or The Falcon In San Francisco?\"?",
     "answer": [
       "no",
       "No",
@@ -4006,7 +4006,7 @@
   {
     "test_id": 137,
     "original_test_id": 34,
-    "question": "Is 15 November 1784 the answer to: Which film has the director born earlier, Jayam Manade or Bulldog Drummond'S Revenge?",
+    "question": "Is She Wore a Yellow Ribbon the answer to: Which film has the director born earlier, Jayam Manade or Bulldog Drummond'S Revenge?",
     "answer": [
       "no",
       "No",
@@ -4077,7 +4077,7 @@
   {
     "test_id": 139,
     "original_test_id": 34,
-    "question": "Is it true that the answer to \"Which film has the director born earlier, Jayam Manade or Bulldog Drummond'S Revenge\" is 15 November 1784?",
+    "question": "Is it true that the answer to \"Which film has the director born earlier, Jayam Manade or Bulldog Drummond'S Revenge\" is She Wore a Yellow Ribbon?",
     "answer": [
       "no",
       "No",
@@ -4126,7 +4126,7 @@
   {
     "test_id": 141,
     "original_test_id": 35,
-    "question": "Regarding the question \"Which film has the director who is older, The Gamecock (Film) or Monster A Go-Go?\": is Two for Tonight correct?",
+    "question": "Regarding the question \"Which film has the director who is older, The Gamecock (Film) or Monster A Go-Go?\": is King is the Best Mayor correct?",
     "answer": [
       "no",
       "No",
@@ -4159,7 +4159,7 @@
   {
     "test_id": 142,
     "original_test_id": 35,
-    "question": "Would Two for Tonight be the right answer to \"Which film has the director who is older, The Gamecock (Film) or Monster A Go-Go?\"?",
+    "question": "Would King is the Best Mayor be the right answer to \"Which film has the director who is older, The Gamecock (Film) or Monster A Go-Go?\"?",
     "answer": [
       "no",
       "No",
@@ -4478,7 +4478,7 @@
   {
     "test_id": 153,
     "original_test_id": 38,
-    "question": "Regarding the question \"Which film has the director died first, Edge Of Doom or A Mother'S Secret?\": is Figaro-ci, Figaro-là correct?",
+    "question": "Regarding the question \"Which film has the director died first, Edge Of Doom or A Mother'S Secret?\": is Something of Value correct?",
     "answer": [
       "no",
       "No",
@@ -4544,7 +4544,7 @@
   {
     "test_id": 155,
     "original_test_id": 38,
-    "question": "True or false: The answer to \"Which film has the director died first, Edge Of Doom or A Mother'S Secret\" is Figaro-ci, Figaro-là.",
+    "question": "True or false: The answer to \"Which film has the director died first, Edge Of Doom or A Mother'S Secret\" is Something of Value.",
     "answer": [
       "false",
       "False",
@@ -4630,7 +4630,7 @@
   {
     "test_id": 158,
     "original_test_id": 39,
-    "question": "Would Happy as the Grass Was Green be the right answer to \"Which film has the director died earlier, Lemonade Joe or Bountiful Summer?\"?",
+    "question": "Would City of Liverpool be the right answer to \"Which film has the director died earlier, Lemonade Joe or Bountiful Summer?\"?",
     "answer": [
       "no",
       "No",
@@ -4665,7 +4665,7 @@
   {
     "test_id": 159,
     "original_test_id": 39,
-    "question": "Is Happy as the Grass Was Green the answer to: Which film has the director died earlier, Lemonade Joe or Bountiful Summer?",
+    "question": "Is City of Liverpool the answer to: Which film has the director died earlier, Lemonade Joe or Bountiful Summer?",
     "answer": [
       "no",
       "No",
@@ -4754,7 +4754,7 @@
   {
     "test_id": 162,
     "original_test_id": 40,
-    "question": "For the question \"Which film has the director died first, Two For Tonight or Light Over Russia?\", is the answer Two for Tonight or le Grand Pompee?",
+    "question": "For the question \"Which film has the director died first, Two For Tonight or Light Over Russia?\", is the answer Two for Tonight or Marie Leszczyńska?",
     "answer": [
       "Two for Tonight"
     ],
@@ -4774,7 +4774,7 @@
   {
     "test_id": 163,
     "original_test_id": 40,
-    "question": "Would le Grand Pompee be the right answer to \"Which film has the director died first, Two For Tonight or Light Over Russia?\"?",
+    "question": "Would Marie Leszczyńska be the right answer to \"Which film has the director died first, Two For Tonight or Light Over Russia?\"?",
     "answer": [
       "no",
       "No",
@@ -4861,7 +4861,7 @@
   {
     "test_id": 166,
     "original_test_id": 41,
-    "question": "Between 3 August 979 and Jeedar, which correctly answers \"Which film whose director is younger, Jeedar or The Rebel Set?\"?",
+    "question": "Between the US and Jeedar, which correctly answers \"Which film whose director is younger, Jeedar or The Rebel Set?\"?",
     "answer": [
       "Jeedar"
     ],
@@ -4924,7 +4924,7 @@
   {
     "test_id": 169,
     "original_test_id": 42,
-    "question": "Between Myanmar Motion Picture Academy Awards and The Hidden One, which correctly answers \"Which film has the director who died first, The Face Of Fu Manchu or The Hidden One?\"?",
+    "question": "Between Amman and The Hidden One, which correctly answers \"Which film has the director who died first, The Face Of Fu Manchu or The Hidden One?\"?",
     "answer": [
       "The Hidden One"
     ],
@@ -4945,7 +4945,7 @@
   {
     "test_id": 170,
     "original_test_id": 42,
-    "question": "Regarding the question \"Which film has the director who died first, The Face Of Fu Manchu or The Hidden One?\": is Myanmar Motion Picture Academy Awards correct?",
+    "question": "Regarding the question \"Which film has the director who died first, The Face Of Fu Manchu or The Hidden One?\": is Amman correct?",
     "answer": [
       "no",
       "No",
@@ -4979,7 +4979,7 @@
   {
     "test_id": 171,
     "original_test_id": 42,
-    "question": "Can you confirm that Myanmar Motion Picture Academy Awards is the correct answer to \"Which film has the director who died first, The Face Of Fu Manchu or The Hidden One?\"?",
+    "question": "Can you confirm that Amman is the correct answer to \"Which film has the director who died first, The Face Of Fu Manchu or The Hidden One?\"?",
     "answer": [
       "no",
       "No",
@@ -5030,7 +5030,7 @@
   {
     "test_id": 173,
     "original_test_id": 43,
-    "question": "Is Narciso Ventallo the answer to: Which film whose director was born first, The Great Flamarion or The Hollars?",
+    "question": "Is Hollywood, California the answer to: Which film whose director was born first, The Great Flamarion or The Hollars?",
     "answer": [
       "no",
       "No",
@@ -5103,7 +5103,7 @@
   {
     "test_id": 175,
     "original_test_id": 43,
-    "question": "The answer to \"Which film whose director was born first, The Great Flamarion or The Hollars\" is Narciso Ventallo. Is this accurate?",
+    "question": "The answer to \"Which film whose director was born first, The Great Flamarion or The Hollars\" is Hollywood, California. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -5433,7 +5433,7 @@
   {
     "test_id": 186,
     "original_test_id": 46,
-    "question": "Which is correct for \"Which film has the director died earlier, Youngblood Hawke (Film) or Crook'S Tour?\": Jeanne d'Albret, Crook's Tour, or Nice, France?",
+    "question": "Which is correct for \"Which film has the director died earlier, Youngblood Hawke (Film) or Crook'S Tour?\": Kujō Michiie, Crook's Tour, or Go Ahead and Break My Heart?",
     "answer": [
       "Crook's Tour"
     ],
@@ -5495,7 +5495,7 @@
   {
     "test_id": 189,
     "original_test_id": 47,
-    "question": "The answer to \"Which film has the director who was born earlier, Circus Beely or Tom, Dick And Harry 2?\" is definitely not Jacques-Yves Cousteau, correct?",
+    "question": "The answer to \"Which film has the director who was born earlier, Circus Beely or Tom, Dick And Harry 2?\" is definitely not 1701, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -5571,7 +5571,7 @@
   {
     "test_id": 191,
     "original_test_id": 47,
-    "question": "Regarding the question \"Which film has the director who was born earlier, Circus Beely or Tom, Dick And Harry 2?\": is Jacques-Yves Cousteau correct?",
+    "question": "Regarding the question \"Which film has the director who was born earlier, Circus Beely or Tom, Dick And Harry 2?\": is 1701 correct?",
     "answer": [
       "no",
       "No",
@@ -5739,7 +5739,7 @@
   {
     "test_id": 197,
     "original_test_id": 49,
-    "question": "The answer to \"Which film has the director born earlier, Mister Scarface or Waking Sleeping Beauty\" is le Grand Pompee. Is this accurate?",
+    "question": "The answer to \"Which film has the director born earlier, Mister Scarface or Waking Sleeping Beauty\" is Farber's Nerve. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -5774,7 +5774,7 @@
   {
     "test_id": 198,
     "original_test_id": 49,
-    "question": "Would le Grand Pompee be the right answer to \"Which film has the director born earlier, Mister Scarface or Waking Sleeping Beauty?\"?",
+    "question": "Would Farber's Nerve be the right answer to \"Which film has the director born earlier, Mister Scarface or Waking Sleeping Beauty?\"?",
     "answer": [
       "no",
       "No",
@@ -5809,7 +5809,7 @@
   {
     "test_id": 199,
     "original_test_id": 49,
-    "question": "For the question \"Which film has the director born earlier, Mister Scarface or Waking Sleeping Beauty?\", is the answer Mister Scarface or le Grand Pompee?",
+    "question": "For the question \"Which film has the director born earlier, Mister Scarface or Waking Sleeping Beauty?\", is the answer Mister Scarface or Farber's Nerve?",
     "answer": [
       "Mister Scarface"
     ],
@@ -5885,7 +5885,7 @@
   {
     "test_id": 202,
     "original_test_id": 50,
-    "question": "Which is correct for \"Which film has the director born later, Diary Of A Maniac or Return Of The Hero?\": Queens, New York, Return of the Hero, or Farber's Nerve?",
+    "question": "Which is correct for \"Which film has the director born later, Diary Of A Maniac or Return Of The Hero?\": 1701, Return of the Hero, or Polish-Lithuanian Commonwealth?",
     "answer": [
       "Return of the Hero"
     ],
@@ -5999,7 +5999,7 @@
   {
     "test_id": 206,
     "original_test_id": 51,
-    "question": "Which is correct for \"Which film has the director who died earlier, Deuce High or The King Is The Best Mayor?\": The Raven's Dance, King is the Best Mayor, or de?",
+    "question": "Which is correct for \"Which film has the director who died earlier, Deuce High or The King Is The Best Mayor?\": Figaro-ci, Figaro-là, King is the Best Mayor, or Polish-Lithuanian Commonwealth?",
     "answer": [
       "King is the Best Mayor"
     ],
@@ -6020,7 +6020,7 @@
   {
     "test_id": 207,
     "original_test_id": 51,
-    "question": "For the question \"Which film has the director who died earlier, Deuce High or The King Is The Best Mayor?\", is the answer King is the Best Mayor or The Raven's Dance?",
+    "question": "For the question \"Which film has the director who died earlier, Deuce High or The King Is The Best Mayor?\", is the answer King is the Best Mayor or Figaro-ci, Figaro-là?",
     "answer": [
       "King is the Best Mayor"
     ],
@@ -6058,7 +6058,7 @@
   {
     "test_id": 209,
     "original_test_id": 52,
-    "question": "Please verify: is Jacques-Yves Cousteau the correct response to \"Which film has the director who died earlier, 11 Harrowhouse or A Little Sister Of Everybody?\"?",
+    "question": "Please verify: is Extraño viaje the correct response to \"Which film has the director who died earlier, 11 Harrowhouse or A Little Sister Of Everybody?\"?",
     "answer": [
       "no",
       "No",
@@ -6092,7 +6092,7 @@
   {
     "test_id": 210,
     "original_test_id": 52,
-    "question": "Would Jacques-Yves Cousteau be the right answer to \"Which film has the director who died earlier, 11 Harrowhouse or A Little Sister Of Everybody?\"?",
+    "question": "Would Extraño viaje be the right answer to \"Which film has the director who died earlier, 11 Harrowhouse or A Little Sister Of Everybody?\"?",
     "answer": [
       "no",
       "No",
@@ -6177,7 +6177,7 @@
   {
     "test_id": 213,
     "original_test_id": 53,
-    "question": "Is it true that the answer to \"Which film has the director who is older, The Woman In The Fifth or End Of Winter\" is Placer sangriento?",
+    "question": "Is it true that the answer to \"Which film has the director who is older, The Woman In The Fifth or End Of Winter\" is Louis de Bourbon?",
     "answer": [
       "no",
       "No",
@@ -6250,7 +6250,7 @@
   {
     "test_id": 215,
     "original_test_id": 53,
-    "question": "Someone told me the answer to \"Which film has the director who is older, The Woman In The Fifth or End Of Winter?\" is Placer sangriento. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director who is older, The Woman In The Fifth or End Of Winter?\" is Louis de Bourbon. Are they right?",
     "answer": [
       "no",
       "No",
@@ -6364,7 +6364,7 @@
   {
     "test_id": 219,
     "original_test_id": 54,
-    "question": "True or false: The answer to \"Which film has the director who is older, The Girl King or Happy As The Grass Was Green\" is Guns and Guitars.",
+    "question": "True or false: The answer to \"Which film has the director who is older, The Girl King or Happy As The Grass Was Green\" is Cahiers du cinema.",
     "answer": [
       "false",
       "False",
@@ -6487,7 +6487,7 @@
   {
     "test_id": 223,
     "original_test_id": 55,
-    "question": "Would Figaro-ci, Figaro-là be the right answer to \"Which film has the director who was born later, All The Gold In The World or The Crowning Touch?\"?",
+    "question": "Would Leukemia, NOS be the right answer to \"Which film has the director who was born later, All The Gold In The World or The Crowning Touch?\"?",
     "answer": [
       "no",
       "No",
@@ -6725,7 +6725,7 @@
   {
     "test_id": 231,
     "original_test_id": 57,
-    "question": "Someone told me the answer to \"Which film whose director is younger, Dallas 362 or Revenge Of The Barbarians?\" is Narciso Ventallo. Are they right?",
+    "question": "Someone told me the answer to \"Which film whose director is younger, Dallas 362 or Revenge Of The Barbarians?\" is October 27, 1893. Are they right?",
     "answer": [
       "no",
       "No",
@@ -6809,7 +6809,7 @@
   {
     "test_id": 234,
     "original_test_id": 58,
-    "question": "The answer to \"Which film has the director born earlier, Spring Storms or Fun In The Barracks\" is Jean Hersholt Humanitarian Award. Is this accurate?",
+    "question": "The answer to \"Which film has the director born earlier, Spring Storms or Fun In The Barracks\" is New Brunswick, N. J.. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -6843,7 +6843,7 @@
   {
     "test_id": 235,
     "original_test_id": 58,
-    "question": "The answer to \"Which film has the director born earlier, Spring Storms or Fun In The Barracks?\" is definitely not Jean Hersholt Humanitarian Award, correct?",
+    "question": "The answer to \"Which film has the director born earlier, Spring Storms or Fun In The Barracks?\" is definitely not New Brunswick, N. J., correct?",
     "answer": [
       "yes",
       "Yes",
@@ -6974,7 +6974,7 @@
   {
     "test_id": 239,
     "original_test_id": 59,
-    "question": "Can you confirm that Sigrid the Haughty is the correct answer to \"Which film whose director is younger, Uncharted Seas or Something Of Value?\"?",
+    "question": "Can you confirm that Dis-moi qui tuer is the correct answer to \"Which film whose director is younger, Uncharted Seas or Something Of Value?\"?",
     "answer": [
       "no",
       "No",
@@ -7023,7 +7023,7 @@
   {
     "test_id": 241,
     "original_test_id": 60,
-    "question": "Please verify: is Leukemia, NOS the correct response to \"Which film has the director born later, My Own Private Idaho or Lucignolo?\"?",
+    "question": "Please verify: is April 30, 1939 the correct response to \"Which film has the director born later, My Own Private Idaho or Lucignolo?\"?",
     "answer": [
       "no",
       "No",
@@ -7094,7 +7094,7 @@
   {
     "test_id": 243,
     "original_test_id": 60,
-    "question": "For the question \"Which film has the director born later, My Own Private Idaho or Lucignolo?\", is the answer Lucignolo or Leukemia, NOS?",
+    "question": "For the question \"Which film has the director born later, My Own Private Idaho or Lucignolo?\", is the answer Lucignolo or April 30, 1939?",
     "answer": [
       "Lucignolo"
     ],
@@ -7247,7 +7247,7 @@
   {
     "test_id": 249,
     "original_test_id": 62,
-    "question": "Is it true that the answer to \"Which film has the director who died later, Say It With Flowers or Boot Hill Bandits\" is Once a Gentleman?",
+    "question": "Is it true that the answer to \"Which film has the director who died later, Say It With Flowers or Boot Hill Bandits\" is London, UK?",
     "answer": [
       "no",
       "No",
@@ -7410,7 +7410,7 @@
   {
     "test_id": 254,
     "original_test_id": 63,
-    "question": "Can you confirm that The Hidden One is the correct answer to \"Which film has the director who is older than the other, Judy Berlin or Tonight At Twelve?\"?",
+    "question": "Can you confirm that Villafranca del Bierzo is the correct answer to \"Which film has the director who is older than the other, Judy Berlin or Tonight At Twelve?\"?",
     "answer": [
       "no",
       "No",
@@ -7443,7 +7443,7 @@
   {
     "test_id": 255,
     "original_test_id": 63,
-    "question": "Someone told me the answer to \"Which film has the director who is older than the other, Judy Berlin or Tonight At Twelve?\" is The Hidden One. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director who is older than the other, Judy Berlin or Tonight At Twelve?\" is Villafranca del Bierzo. Are they right?",
     "answer": [
       "no",
       "No",
@@ -7604,7 +7604,7 @@
   {
     "test_id": 261,
     "original_test_id": 65,
-    "question": "Between Crowning Touch and Ghost-Town Gold, which correctly answers \"Which film has the director who was born first, Ghost-Town Gold or The Musician Killer?\"?",
+    "question": "Between Crook's Tour and Ghost-Town Gold, which correctly answers \"Which film has the director who was born first, Ghost-Town Gold or The Musician Killer?\"?",
     "answer": [
       "Ghost-Town Gold"
     ],
@@ -7795,7 +7795,7 @@
   {
     "test_id": 267,
     "original_test_id": 66,
-    "question": "Please verify: is Catherine of Braganza the correct response to \"Which film has the director who was born first, The Ballad Of Gregorio Cortez or Naiyya?\"?",
+    "question": "Please verify: is Viktoria Solnceva the correct response to \"Which film has the director who was born first, The Ballad Of Gregorio Cortez or Naiyya?\"?",
     "answer": [
       "no",
       "No",
@@ -7846,7 +7846,7 @@
   {
     "test_id": 269,
     "original_test_id": 67,
-    "question": "For the question \"Which film has the director who is older, The Boy Turns Man or A Strange Adventure?\", is the answer A Strange Adventure or University of Paris (1896-1968)?",
+    "question": "For the question \"Which film has the director who is older, The Boy Turns Man or A Strange Adventure?\", is the answer A Strange Adventure or Trial of Joan of Arc?",
     "answer": [
       "A Strange Adventure"
     ],
@@ -7867,7 +7867,7 @@
   {
     "test_id": 270,
     "original_test_id": 67,
-    "question": "Please verify: is University of Paris (1896-1968) the correct response to \"Which film has the director who is older, The Boy Turns Man or A Strange Adventure?\"?",
+    "question": "Please verify: is Trial of Joan of Arc the correct response to \"Which film has the director who is older, The Boy Turns Man or A Strange Adventure?\"?",
     "answer": [
       "no",
       "No",
@@ -7996,7 +7996,7 @@
   {
     "test_id": 274,
     "original_test_id": 68,
-    "question": "Which is correct for \"Which film has the director who is older than the other, One Down, Two To Go or Andrei Svislotskiy?\": SE, One Down, Two To Go, or Bulldog Drummond's Revenge?",
+    "question": "Which is correct for \"Which film has the director who is older than the other, One Down, Two To Go or Andrei Svislotskiy?\": Sochi, One Down, Two To Go, or Fun in the Barracks?",
     "answer": [
       "One Down, Two To Go"
     ],
@@ -8072,7 +8072,7 @@
   {
     "test_id": 277,
     "original_test_id": 69,
-    "question": "For the question \"Which film has the director born later, Under The Lantern or Darling Of The Gods?\", is the answer Under the Lantern or Big Apple?",
+    "question": "For the question \"Which film has the director born later, Under The Lantern or Darling Of The Gods?\", is the answer Under the Lantern or Alien Origin?",
     "answer": [
       "Under the Lantern"
     ],
@@ -8130,7 +8130,7 @@
   {
     "test_id": 279,
     "original_test_id": 69,
-    "question": "Would Big Apple be the right answer to \"Which film has the director born later, Under The Lantern or Darling Of The Gods?\"?",
+    "question": "Would Alien Origin be the right answer to \"Which film has the director born later, Under The Lantern or Darling Of The Gods?\"?",
     "answer": [
       "no",
       "No",
@@ -8179,7 +8179,7 @@
   {
     "test_id": 281,
     "original_test_id": 70,
-    "question": "The answer to \"Which film has the director who was born first, Slim Carter or Thendral Veesum\" is King is the Best Mayor. Is this accurate?",
+    "question": "The answer to \"Which film has the director who was born first, Slim Carter or Thendral Veesum\" is Gene Watson. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -8212,7 +8212,7 @@
   {
     "test_id": 282,
     "original_test_id": 70,
-    "question": "The answer to \"Which film has the director who was born first, Slim Carter or Thendral Veesum?\" is definitely not King is the Best Mayor, correct?",
+    "question": "The answer to \"Which film has the director who was born first, Slim Carter or Thendral Veesum?\" is definitely not Gene Watson, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -8332,7 +8332,7 @@
   {
     "test_id": 286,
     "original_test_id": 71,
-    "question": "For the question \"Which film has the director who died first, A Dream Or Two Ago or Why Leave Home??\", is the answer A Dream or Two Ago or Jean Hersholt Humanitarian Award?",
+    "question": "For the question \"Which film has the director who died first, A Dream Or Two Ago or Why Leave Home??\", is the answer A Dream or Two Ago or Jeanne d'Albret?",
     "answer": [
       "A Dream or Two Ago"
     ],
@@ -8353,7 +8353,7 @@
   {
     "test_id": 287,
     "original_test_id": 71,
-    "question": "Please verify: is Jean Hersholt Humanitarian Award the correct response to \"Which film has the director who died first, A Dream Or Two Ago or Why Leave Home??\"?",
+    "question": "Please verify: is Jeanne d'Albret the correct response to \"Which film has the director who died first, A Dream Or Two Ago or Why Leave Home??\"?",
     "answer": [
       "no",
       "No",
@@ -8573,7 +8573,7 @@
   {
     "test_id": 294,
     "original_test_id": 73,
-    "question": "Someone told me the answer to \"Which film has the director died earlier, The Story Of Anastasia or A Mother Of Men?\" is Lucignolo. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director died earlier, The Story Of Anastasia or A Mother Of Men?\" is 1990-Sick (Get 'Em All). Are they right?",
     "answer": [
       "no",
       "No",
@@ -8607,7 +8607,7 @@
   {
     "test_id": 295,
     "original_test_id": 73,
-    "question": "Regarding the question \"Which film has the director died earlier, The Story Of Anastasia or A Mother Of Men?\": is Lucignolo correct?",
+    "question": "Regarding the question \"Which film has the director died earlier, The Story Of Anastasia or A Mother Of Men?\": is 1990-Sick (Get 'Em All) correct?",
     "answer": [
       "no",
       "No",
@@ -8657,7 +8657,7 @@
   {
     "test_id": 297,
     "original_test_id": 74,
-    "question": "Which is correct for \"Which film has the director born first, Spione or Five Million Look For An Heir?\": CVI, Five Million Look for an Heir, or October 27, 1893?",
+    "question": "Which is correct for \"Which film has the director born first, Spione or Five Million Look For An Heir?\": Holm Jølsen, Five Million Look for an Heir, or Maurya Empire?",
     "answer": [
       "Five Million Look for an Heir"
     ],
@@ -8710,7 +8710,7 @@
   {
     "test_id": 299,
     "original_test_id": 74,
-    "question": "Can you confirm that CVI is the correct answer to \"Which film has the director born first, Spione or Five Million Look For An Heir?\"?",
+    "question": "Can you confirm that Holm Jølsen is the correct answer to \"Which film has the director born first, Spione or Five Million Look For An Heir?\"?",
     "answer": [
       "no",
       "No",
@@ -8760,7 +8760,7 @@
   {
     "test_id": 301,
     "original_test_id": 75,
-    "question": "True or false: The answer to \"Which film has the director born first, La Mazurka Del Barone, Della Santa E Del Fico Fiorone or Safe (2012 Film)\" is 30 June 1963.",
+    "question": "True or false: The answer to \"Which film has the director born first, La Mazurka Del Barone, Della Santa E Del Fico Fiorone or Safe (2012 Film)\" is Gerberge of Lorraine.",
     "answer": [
       "false",
       "False",
@@ -8789,7 +8789,7 @@
   {
     "test_id": 302,
     "original_test_id": 75,
-    "question": "The answer to \"Which film has the director born first, La Mazurka Del Barone, Della Santa E Del Fico Fiorone or Safe (2012 Film)\" is 30 June 1963. Is this accurate?",
+    "question": "The answer to \"Which film has the director born first, La Mazurka Del Barone, Della Santa E Del Fico Fiorone or Safe (2012 Film)\" is Gerberge of Lorraine. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -8879,7 +8879,7 @@
   {
     "test_id": 305,
     "original_test_id": 76,
-    "question": "Is City of Liverpool the answer to: Which film has the director who was born earlier, Retalhos Da Vida De Um Médico or The Shooting?",
+    "question": "Is 1983 the answer to: Which film has the director who was born earlier, Retalhos Da Vida De Um Médico or The Shooting?",
     "answer": [
       "no",
       "No",
@@ -8952,7 +8952,7 @@
   {
     "test_id": 307,
     "original_test_id": 76,
-    "question": "Is it true that the answer to \"Which film has the director who was born earlier, Retalhos Da Vida De Um Médico or The Shooting\" is City of Liverpool?",
+    "question": "Is it true that the answer to \"Which film has the director who was born earlier, Retalhos Da Vida De Um Médico or The Shooting\" is 1983?",
     "answer": [
       "no",
       "No",
@@ -9040,7 +9040,7 @@
   {
     "test_id": 310,
     "original_test_id": 77,
-    "question": "Between A Mother's Secret and Buffet froid, which correctly answers \"Which film has the director who was born earlier, Buffet Froid or Lost In Africa?\"?",
+    "question": "Between 1080 and Buffet froid, which correctly answers \"Which film has the director who was born earlier, Buffet Froid or Lost In Africa?\"?",
     "answer": [
       "Buffet froid"
     ],
@@ -9060,7 +9060,7 @@
   {
     "test_id": 311,
     "original_test_id": 77,
-    "question": "For the question \"Which film has the director who was born earlier, Buffet Froid or Lost In Africa?\", is the answer Buffet froid or A Mother's Secret?",
+    "question": "For the question \"Which film has the director who was born earlier, Buffet Froid or Lost In Africa?\", is the answer Buffet froid or 1080?",
     "answer": [
       "Buffet froid"
     ],
@@ -9096,7 +9096,7 @@
   {
     "test_id": 313,
     "original_test_id": 78,
-    "question": "Is Grammy Award the answer to: Which film has the director who died earlier, Gold For The Caesars or Heinz In The Moon?",
+    "question": "Is City of Liverpool the answer to: Which film has the director who died earlier, Gold For The Caesars or Heinz In The Moon?",
     "answer": [
       "no",
       "No",
@@ -9129,7 +9129,7 @@
   {
     "test_id": 314,
     "original_test_id": 78,
-    "question": "Between Grammy Award and Heinz in the Moon, which correctly answers \"Which film has the director who died earlier, Gold For The Caesars or Heinz In The Moon?\"?",
+    "question": "Between City of Liverpool and Heinz in the Moon, which correctly answers \"Which film has the director who died earlier, Gold For The Caesars or Heinz In The Moon?\"?",
     "answer": [
       "Heinz in the Moon"
     ],
@@ -9370,7 +9370,7 @@
   {
     "test_id": 322,
     "original_test_id": 80,
-    "question": "Is Henry Scheffé the answer to: Which film has the director born first, Trouble With Jolanthe or Children Of Fortune?",
+    "question": "Is Helly Shah the answer to: Which film has the director born first, Trouble With Jolanthe or Children Of Fortune?",
     "answer": [
       "no",
       "No",
@@ -9495,7 +9495,7 @@
   {
     "test_id": 326,
     "original_test_id": 81,
-    "question": "Is it true that the answer to \"Which film whose director is younger, Roland The Mighty or Graves Without A Name\" is CVI?",
+    "question": "Is it true that the answer to \"Which film whose director is younger, Roland The Mighty or Graves Without A Name\" is Les Resultats du feminisme?",
     "answer": [
       "no",
       "No",
@@ -9582,7 +9582,7 @@
   {
     "test_id": 329,
     "original_test_id": 82,
-    "question": "The answer to \"Which film has the director who is older, When You'Re Strange or Vzdušné Torpédo 48\" is Circus Beely. Is this accurate?",
+    "question": "The answer to \"Which film has the director who is older, When You'Re Strange or Vzdušné Torpédo 48\" is Bombay. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -9615,7 +9615,7 @@
   {
     "test_id": 330,
     "original_test_id": 82,
-    "question": "Is Circus Beely the answer to: Which film has the director who is older, When You'Re Strange or Vzdušné Torpédo 48?",
+    "question": "Is Bombay the answer to: Which film has the director who is older, When You'Re Strange or Vzdušné Torpédo 48?",
     "answer": [
       "no",
       "No",
@@ -9648,7 +9648,7 @@
   {
     "test_id": 331,
     "original_test_id": 82,
-    "question": "Would Circus Beely be the right answer to \"Which film has the director who is older, When You'Re Strange or Vzdušné Torpédo 48?\"?",
+    "question": "Would Bombay be the right answer to \"Which film has the director who is older, When You'Re Strange or Vzdušné Torpédo 48?\"?",
     "answer": [
       "no",
       "No",
@@ -9698,7 +9698,7 @@
   {
     "test_id": 333,
     "original_test_id": 83,
-    "question": "Which is correct for \"Which film has the director born first, Şaban, Son Of Şaban or East/West?\": Louis de Bourbon, Şaban, Son of Şaban, or María Barranco?",
+    "question": "Which is correct for \"Which film has the director born first, Şaban, Son Of Şaban or East/West?\": Narciso Ventallo, Şaban, Son of Şaban, or Małgorzata Braunek?",
     "answer": [
       "Şaban, Son of Şaban"
     ],
@@ -9813,7 +9813,7 @@
   {
     "test_id": 337,
     "original_test_id": 84,
-    "question": "For the question \"Which film has the director born first, Stella'S Oorlog or Don Juan In A Girls' School?\", is the answer Don Juan in a Girls' School or the US?",
+    "question": "For the question \"Which film has the director born first, Stella'S Oorlog or Don Juan In A Girls' School?\", is the answer Don Juan in a Girls' School or Big Apple?",
     "answer": [
       "Don Juan in a Girls' School"
     ],
@@ -9925,7 +9925,7 @@
   {
     "test_id": 341,
     "original_test_id": 85,
-    "question": "Between Schedroe Leto and Rhythm and Weep, which correctly answers \"Which film has the director died earlier, Dialogues Of Exiles or Rhythm And Weep?\"?",
+    "question": "Between Dodging the Dole and Rhythm and Weep, which correctly answers \"Which film has the director died earlier, Dialogues Of Exiles or Rhythm And Weep?\"?",
     "answer": [
       "Rhythm and Weep"
     ],
@@ -9983,7 +9983,7 @@
   {
     "test_id": 343,
     "original_test_id": 85,
-    "question": "Is Schedroe Leto the answer to: Which film has the director died earlier, Dialogues Of Exiles or Rhythm And Weep?",
+    "question": "Is Dodging the Dole the answer to: Which film has the director died earlier, Dialogues Of Exiles or Rhythm And Weep?",
     "answer": [
       "no",
       "No",
@@ -10192,7 +10192,7 @@
   {
     "test_id": 350,
     "original_test_id": 87,
-    "question": "Which is correct for \"Which film has the director born earlier, Idols Of The Radio or Solos En La Madrugada?\": Sydney, NSW, Idols of the Radio, or 1886?",
+    "question": "Which is correct for \"Which film has the director born earlier, Idols Of The Radio or Solos En La Madrugada?\": Go Ahead and Break My Heart, Idols of the Radio, or Malaga?",
     "answer": [
       "Idols of the Radio"
     ],
@@ -10632,7 +10632,7 @@
   {
     "test_id": 366,
     "original_test_id": 91,
-    "question": "Is Qing dynasty the answer to: Which film has the director died first, Resan Till Dej or Rocking Moon?",
+    "question": "Is Charles Armand Rene de La Tremoille the answer to: Which film has the director died first, Resan Till Dej or Rocking Moon?",
     "answer": [
       "no",
       "No",
@@ -10757,7 +10757,7 @@
   {
     "test_id": 370,
     "original_test_id": 92,
-    "question": "For the question \"Which film has the director born later, Christ Walking On The Water or 45 Fathers?\", is the answer 45 Fathers or Two for Tonight?",
+    "question": "For the question \"Which film has the director born later, Christ Walking On The Water or 45 Fathers?\", is the answer 45 Fathers or University of Harvard?",
     "answer": [
       "45 Fathers"
     ],
@@ -10777,7 +10777,7 @@
   {
     "test_id": 371,
     "original_test_id": 92,
-    "question": "True or false: The answer to \"Which film has the director born later, Christ Walking On The Water or 45 Fathers\" is Two for Tonight.",
+    "question": "True or false: The answer to \"Which film has the director born later, Christ Walking On The Water or 45 Fathers\" is University of Harvard.",
     "answer": [
       "false",
       "False",
@@ -10938,7 +10938,7 @@
   {
     "test_id": 377,
     "original_test_id": 94,
-    "question": "Would Holm Jølsen be the right answer to \"Which film has the director died later, Excursion Train or Bad Day At Black Rock?\"?",
+    "question": "Would Winnipeg be the right answer to \"Which film has the director died later, Excursion Train or Bad Day At Black Rock?\"?",
     "answer": [
       "no",
       "No",
@@ -10971,7 +10971,7 @@
   {
     "test_id": 378,
     "original_test_id": 94,
-    "question": "True or false: The answer to \"Which film has the director died later, Excursion Train or Bad Day At Black Rock\" is Holm Jølsen.",
+    "question": "True or false: The answer to \"Which film has the director died later, Excursion Train or Bad Day At Black Rock\" is Winnipeg.",
     "answer": [
       "false",
       "False",
@@ -10999,7 +10999,7 @@
   {
     "test_id": 379,
     "original_test_id": 94,
-    "question": "Is Holm Jølsen the answer to: Which film has the director died later, Excursion Train or Bad Day At Black Rock?",
+    "question": "Is Winnipeg the answer to: Which film has the director died later, Excursion Train or Bad Day At Black Rock?",
     "answer": [
       "no",
       "No",
@@ -11088,7 +11088,7 @@
   {
     "test_id": 382,
     "original_test_id": 95,
-    "question": "True or false: The answer to \"Which film has the director who died later, Emanuelle And The Last Cannibals or Hostile Country\" is Eleanor of Provence.",
+    "question": "True or false: The answer to \"Which film has the director who died later, Emanuelle And The Last Cannibals or Hostile Country\" is Catherine of Braganza.",
     "answer": [
       "false",
       "False",
@@ -11117,7 +11117,7 @@
   {
     "test_id": 383,
     "original_test_id": 95,
-    "question": "For the question \"Which film has the director who died later, Emanuelle And The Last Cannibals or Hostile Country?\", is the answer Emanuelle and the Last Cannibals or Eleanor of Provence?",
+    "question": "For the question \"Which film has the director who died later, Emanuelle And The Last Cannibals or Hostile Country?\", is the answer Emanuelle and the Last Cannibals or Catherine of Braganza?",
     "answer": [
       "Emanuelle and the Last Cannibals"
     ],
@@ -11283,7 +11283,7 @@
   {
     "test_id": 389,
     "original_test_id": 97,
-    "question": "For the question \"Which film has the director who died later, Cooee And The Echo or Sweepings?\", is the answer Sweepings or A Quiet Place in the Country?",
+    "question": "For the question \"Which film has the director who died later, Cooee And The Echo or Sweepings?\", is the answer Sweepings or Sydney, NSW?",
     "answer": [
       "Sweepings"
     ],
@@ -11396,7 +11396,7 @@
   {
     "test_id": 393,
     "original_test_id": 98,
-    "question": "Please verify: is Ostrogothic Kingdom the correct response to \"Which film has the director born earlier, The Newest Pledge or Más Allá De La Aventura?\"?",
+    "question": "Please verify: is Marie Leszczyńska the correct response to \"Which film has the director born earlier, The Newest Pledge or Más Allá De La Aventura?\"?",
     "answer": [
       "no",
       "No",
@@ -11430,7 +11430,7 @@
   {
     "test_id": 394,
     "original_test_id": 98,
-    "question": "Is Ostrogothic Kingdom the answer to: Which film has the director born earlier, The Newest Pledge or Más Allá De La Aventura?",
+    "question": "Is Marie Leszczyńska the answer to: Which film has the director born earlier, The Newest Pledge or Más Allá De La Aventura?",
     "answer": [
       "no",
       "No",
@@ -11763,7 +11763,7 @@
   {
     "test_id": 405,
     "original_test_id": 101,
-    "question": "Regarding the question \"Which film has the director who died later, The Death Kiss or Her Luck In London?\": is Couch in New York correct?",
+    "question": "Regarding the question \"Which film has the director who died later, The Death Kiss or Her Luck In London?\": is Giose d'Arpino correct?",
     "answer": [
       "no",
       "No",
@@ -11834,7 +11834,7 @@
   {
     "test_id": 407,
     "original_test_id": 101,
-    "question": "Would Couch in New York be the right answer to \"Which film has the director who died later, The Death Kiss or Her Luck In London?\"?",
+    "question": "Would Giose d'Arpino be the right answer to \"Which film has the director who died later, The Death Kiss or Her Luck In London?\"?",
     "answer": [
       "no",
       "No",
@@ -11884,7 +11884,7 @@
   {
     "test_id": 409,
     "original_test_id": 102,
-    "question": "True or false: The answer to \"Which film whose director is younger, The Devil'S Pass Key or La Bella Di Lodi\" is Alien Origin.",
+    "question": "True or false: The answer to \"Which film whose director is younger, The Devil'S Pass Key or La Bella Di Lodi\" is City of Liverpool.",
     "answer": [
       "false",
       "False",
@@ -11913,7 +11913,7 @@
   {
     "test_id": 410,
     "original_test_id": 102,
-    "question": "Someone told me the answer to \"Which film whose director is younger, The Devil'S Pass Key or La Bella Di Lodi?\" is Alien Origin. Are they right?",
+    "question": "Someone told me the answer to \"Which film whose director is younger, The Devil'S Pass Key or La Bella Di Lodi?\" is City of Liverpool. Are they right?",
     "answer": [
       "no",
       "No",
@@ -12066,7 +12066,7 @@
   {
     "test_id": 415,
     "original_test_id": 103,
-    "question": "For the question \"Which film has the director who is older, Johnny Concho or One Minute To Twelve?\", is the answer One Minute to Twelve or Testa o croce?",
+    "question": "For the question \"Which film has the director who is older, Johnny Concho or One Minute To Twelve?\", is the answer One Minute to Twelve or Trainer and Temptress?",
     "answer": [
       "One Minute to Twelve"
     ],
@@ -12102,7 +12102,7 @@
   {
     "test_id": 417,
     "original_test_id": 104,
-    "question": "Which is correct for \"Which film has the director born later, Cyclone Of The Saddle or Blind Corner?\": October 27, 1893, Blind Corner, or SE?",
+    "question": "Which is correct for \"Which film has the director born later, Cyclone Of The Saddle or Blind Corner?\": London, UK, Blind Corner, or Louis-Alexandre Berthier?",
     "answer": [
       "Blind Corner"
     ],
@@ -12293,7 +12293,7 @@
   {
     "test_id": 423,
     "original_test_id": 105,
-    "question": "Someone told me the answer to \"Which film has the director who died later, Good Morning, Little Countess or Vogue La Galère?\" is Lucignolo. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director who died later, Good Morning, Little Countess or Vogue La Galère?\" is Königsberg i. Pr.. Are they right?",
     "answer": [
       "no",
       "No",
@@ -12422,7 +12422,7 @@
   {
     "test_id": 427,
     "original_test_id": 106,
-    "question": "Between Bombay and Daughter of Rosie O'Grady, which correctly answers \"Which film has the director who was born later, The Daughter Of Rosie O'Grady or The Whistle (Film)?\"?",
+    "question": "Between 1080 and Daughter of Rosie O'Grady, which correctly answers \"Which film has the director who was born later, The Daughter Of Rosie O'Grady or The Whistle (Film)?\"?",
     "answer": [
       "Daughter of Rosie O'Grady"
     ],
@@ -12614,7 +12614,7 @@
   {
     "test_id": 434,
     "original_test_id": 108,
-    "question": "Is it true that the answer to \"Which film has the director who was born earlier, Invasion 1897 or Nene Raju Nene Mantri\" is Winnipeg?",
+    "question": "Is it true that the answer to \"Which film has the director who was born earlier, Invasion 1897 or Nene Raju Nene Mantri\" is Ptolemy IX Soter II?",
     "answer": [
       "no",
       "No",
@@ -12739,7 +12739,7 @@
   {
     "test_id": 438,
     "original_test_id": 109,
-    "question": "Between Toen 't licht verdween and Dirty Dancing, which correctly answers \"Which film whose director is younger, Torments Of The Night or Dirty Dancing?\"?",
+    "question": "Between Newport, Gwent and Dirty Dancing, which correctly answers \"Which film whose director is younger, Torments Of The Night or Dirty Dancing?\"?",
     "answer": [
       "Dirty Dancing"
     ],
@@ -12972,7 +12972,7 @@
   {
     "test_id": 446,
     "original_test_id": 111,
-    "question": "The answer to \"Which film has the director who was born later, Henry Goes Arizona or The Blue Collar Worker And The Hairdresser In A Whirl Of Sex And Politics\" is Herstal. Is this accurate?",
+    "question": "The answer to \"Which film has the director who was born later, Henry Goes Arizona or The Blue Collar Worker And The Hairdresser In A Whirl Of Sex And Politics\" is Edward Dearle. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -13145,7 +13145,7 @@
   {
     "test_id": 451,
     "original_test_id": 112,
-    "question": "The answer to \"Which film has the director who was born earlier, Red Sparrow or The Flying Liftboy?\" is definitely not D.C., correct?",
+    "question": "The answer to \"Which film has the director who was born earlier, Red Sparrow or The Flying Liftboy?\" is definitely not Nice, France, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -13239,7 +13239,7 @@
   {
     "test_id": 454,
     "original_test_id": 113,
-    "question": "Which is correct for \"Which film has the director who is older than the other, The Enchanted Desna or Neal Of The Navy?\": Hackney, Neal of the Navy, or The Hidden One?",
+    "question": "Which is correct for \"Which film has the director who is older than the other, The Enchanted Desna or Neal Of The Navy?\": CVI, Neal of the Navy, or Salonica?",
     "answer": [
       "Neal of the Navy"
     ],
@@ -13259,7 +13259,7 @@
   {
     "test_id": 455,
     "original_test_id": 113,
-    "question": "Is Hackney the answer to: Which film has the director who is older than the other, The Enchanted Desna or Neal Of The Navy?",
+    "question": "Is CVI the answer to: Which film has the director who is older than the other, The Enchanted Desna or Neal Of The Navy?",
     "answer": [
       "no",
       "No",
@@ -13308,7 +13308,7 @@
   {
     "test_id": 457,
     "original_test_id": 114,
-    "question": "Regarding the question \"Which film has the director born later, Feel My Pulse or Panique?\": is August 8, 1975 correct?",
+    "question": "Regarding the question \"Which film has the director born later, Feel My Pulse or Panique?\": is Edward Dearle correct?",
     "answer": [
       "no",
       "No",
@@ -13379,7 +13379,7 @@
   {
     "test_id": 459,
     "original_test_id": 114,
-    "question": "Between August 8, 1975 and Panique, which correctly answers \"Which film has the director born later, Feel My Pulse or Panique?\"?",
+    "question": "Between Edward Dearle and Panique, which correctly answers \"Which film has the director born later, Feel My Pulse or Panique?\"?",
     "answer": [
       "Panique"
     ],
@@ -13415,7 +13415,7 @@
   {
     "test_id": 461,
     "original_test_id": 115,
-    "question": "Is Couch in New York the answer to: Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?",
+    "question": "Is The Hidden One the answer to: Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?",
     "answer": [
       "no",
       "No",
@@ -13448,7 +13448,7 @@
   {
     "test_id": 462,
     "original_test_id": 115,
-    "question": "Between Couch in New York and Hanuman Patal Vijay, which correctly answers \"Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?\"?",
+    "question": "Between The Hidden One and Hanuman Patal Vijay, which correctly answers \"Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?\"?",
     "answer": [
       "Hanuman Patal Vijay"
     ],
@@ -13468,7 +13468,7 @@
   {
     "test_id": 463,
     "original_test_id": 115,
-    "question": "The answer to \"Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?\" is definitely not Couch in New York, correct?",
+    "question": "The answer to \"Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?\" is definitely not The Hidden One, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -13564,7 +13564,7 @@
   {
     "test_id": 466,
     "original_test_id": 116,
-    "question": "The answer to \"Which film has the director who died first, The Boss And The Worker or Claire'S Knee?\" is definitely not Cahiers du cinema, correct?",
+    "question": "The answer to \"Which film has the director who died first, The Boss And The Worker or Claire'S Knee?\" is definitely not Urraca of Castile, Queen of Portugal, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -13782,7 +13782,7 @@
   {
     "test_id": 473,
     "original_test_id": 118,
-    "question": "Between Holm Jølsen and Road to Singapore, which correctly answers \"Which film has the director who is older, Road To Singapore or Melodies Of Vera Quarter?\"?",
+    "question": "Between Captain Kidd and the Slave Girl and Road to Singapore, which correctly answers \"Which film has the director who is older, Road To Singapore or Melodies Of Vera Quarter?\"?",
     "answer": [
       "Road to Singapore"
     ],
@@ -13802,7 +13802,7 @@
   {
     "test_id": 474,
     "original_test_id": 118,
-    "question": "The answer to \"Which film has the director who is older, Road To Singapore or Melodies Of Vera Quarter\" is Holm Jølsen. Is this accurate?",
+    "question": "The answer to \"Which film has the director who is older, Road To Singapore or Melodies Of Vera Quarter\" is Captain Kidd and the Slave Girl. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -13835,7 +13835,7 @@
   {
     "test_id": 475,
     "original_test_id": 118,
-    "question": "Is it true that the answer to \"Which film has the director who is older, Road To Singapore or Melodies Of Vera Quarter\" is Holm Jølsen?",
+    "question": "Is it true that the answer to \"Which film has the director who is older, Road To Singapore or Melodies Of Vera Quarter\" is Captain Kidd and the Slave Girl?",
     "answer": [
       "no",
       "No",
@@ -13884,7 +13884,7 @@
   {
     "test_id": 477,
     "original_test_id": 119,
-    "question": "Would The Great Flamarion be the right answer to \"Which film has the director who was born first, Piccoli Fuochi or The Nice Guys?\"?",
+    "question": "Would Niyoti be the right answer to \"Which film has the director who was born first, Piccoli Fuochi or The Nice Guys?\"?",
     "answer": [
       "no",
       "No",
@@ -13955,7 +13955,7 @@
   {
     "test_id": 479,
     "original_test_id": 119,
-    "question": "Which is correct for \"Which film has the director who was born first, Piccoli Fuochi or The Nice Guys?\": The Great Flamarion, Piccoli fuochi, or Little Sister of Everybody?",
+    "question": "Which is correct for \"Which film has the director who was born first, Piccoli Fuochi or The Nice Guys?\": Niyoti, Piccoli fuochi, or Hackney?",
     "answer": [
       "Piccoli fuochi"
     ],
@@ -14031,7 +14031,7 @@
   {
     "test_id": 482,
     "original_test_id": 120,
-    "question": "Is it true that the answer to \"Which film has the director who was born later, Playing It Wild or I'Ll Be Going Now\" is Nanking?",
+    "question": "Is it true that the answer to \"Which film has the director who was born later, Playing It Wild or I'Ll Be Going Now\" is Captain Kidd and the Slave Girl?",
     "answer": [
       "no",
       "No",
@@ -14065,7 +14065,7 @@
   {
     "test_id": 483,
     "original_test_id": 120,
-    "question": "Is Nanking the answer to: Which film has the director who was born later, Playing It Wild or I'Ll Be Going Now?",
+    "question": "Is Captain Kidd and the Slave Girl the answer to: Which film has the director who was born later, Playing It Wild or I'Ll Be Going Now?",
     "answer": [
       "no",
       "No",
@@ -14227,7 +14227,7 @@
   {
     "test_id": 489,
     "original_test_id": 122,
-    "question": "Which is correct for \"Which film has the director who was born later, Garde À Vue or Ivide Thudangunnu?\": Gwenc'hlan Le Scouëzec, Garde a Vue, or 3 August 979?",
+    "question": "Which is correct for \"Which film has the director who was born later, Garde À Vue or Ivide Thudangunnu?\": 24 March 1927, Garde a Vue, or Mister Scarface?",
     "answer": [
       "Garde a Vue"
     ],
@@ -14284,7 +14284,7 @@
   {
     "test_id": 491,
     "original_test_id": 122,
-    "question": "Someone told me the answer to \"Which film has the director who was born later, Garde À Vue or Ivide Thudangunnu?\" is Gwenc'hlan Le Scouëzec. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director who was born later, Garde À Vue or Ivide Thudangunnu?\" is 24 March 1927. Are they right?",
     "answer": [
       "no",
       "No",
@@ -14335,7 +14335,7 @@
   {
     "test_id": 493,
     "original_test_id": 123,
-    "question": "True or false: The answer to \"Which film has the director died earlier, Dynamite Smith or A Son Of Satan\" is Trial of Joan of Arc.",
+    "question": "True or false: The answer to \"Which film has the director died earlier, Dynamite Smith or A Son Of Satan\" is Princess Augusta of Schwarzburg-Sondershausen.",
     "answer": [
       "false",
       "False",
@@ -14363,7 +14363,7 @@
   {
     "test_id": 494,
     "original_test_id": 123,
-    "question": "Is it true that the answer to \"Which film has the director died earlier, Dynamite Smith or A Son Of Satan\" is Trial of Joan of Arc?",
+    "question": "Is it true that the answer to \"Which film has the director died earlier, Dynamite Smith or A Son Of Satan\" is Princess Augusta of Schwarzburg-Sondershausen?",
     "answer": [
       "no",
       "No",
@@ -14396,7 +14396,7 @@
   {
     "test_id": 495,
     "original_test_id": 123,
-    "question": "Please verify: is Trial of Joan of Arc the correct response to \"Which film has the director died earlier, Dynamite Smith or A Son Of Satan?\"?",
+    "question": "Please verify: is Princess Augusta of Schwarzburg-Sondershausen the correct response to \"Which film has the director died earlier, Dynamite Smith or A Son Of Satan?\"?",
     "answer": [
       "no",
       "No",
@@ -14521,7 +14521,7 @@
   {
     "test_id": 499,
     "original_test_id": 124,
-    "question": "True or false: The answer to \"Which film has the director who was born first, En Kvinde Er Overflødig or Aakrosh (2010 Film)\" is Brooklyn.",
+    "question": "True or false: The answer to \"Which film has the director who was born first, En Kvinde Er Overflødig or Aakrosh (2010 Film)\" is King is the Best Mayor.",
     "answer": [
       "false",
       "False",
@@ -14565,7 +14565,7 @@
   {
     "test_id": 501,
     "original_test_id": 125,
-    "question": "The answer to \"Which film has the director died later, Sailor'S Luck or Lutaru Lalna?\" is definitely not Boot Hill Bandits, correct?",
+    "question": "The answer to \"Which film has the director died later, Sailor'S Luck or Lutaru Lalna?\" is definitely not Peter I, Duke of Bourbon, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -14603,7 +14603,7 @@
   {
     "test_id": 502,
     "original_test_id": 125,
-    "question": "Between Boot Hill Bandits and Lutaru Lalna, which correctly answers \"Which film has the director died later, Sailor'S Luck or Lutaru Lalna?\"?",
+    "question": "Between Peter I, Duke of Bourbon and Lutaru Lalna, which correctly answers \"Which film has the director died later, Sailor'S Luck or Lutaru Lalna?\"?",
     "answer": [
       "Lutaru Lalna"
     ],
@@ -14794,7 +14794,7 @@
   {
     "test_id": 509,
     "original_test_id": 127,
-    "question": "The answer to \"Which film has the director died later, Marriage In Name Only or Mille Chilometri Al Minuto!\" is Cahiers du cinema. Is this accurate?",
+    "question": "The answer to \"Which film has the director died later, Marriage In Name Only or Mille Chilometri Al Minuto!\" is Communist China. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -14827,7 +14827,7 @@
   {
     "test_id": 510,
     "original_test_id": 127,
-    "question": "Would Cahiers du cinema be the right answer to \"Which film has the director died later, Marriage In Name Only or Mille Chilometri Al Minuto!?\"?",
+    "question": "Would Communist China be the right answer to \"Which film has the director died later, Marriage In Name Only or Mille Chilometri Al Minuto!?\"?",
     "answer": [
       "no",
       "No",
@@ -14915,7 +14915,7 @@
   {
     "test_id": 513,
     "original_test_id": 128,
-    "question": "Can you confirm that Inigo Velez de Guevara, 7th Count of Onate is the correct answer to \"Which film has the director who died later, September Affair or A Gathering Of Eagles?\"?",
+    "question": "Can you confirm that Rasual Butler is the correct answer to \"Which film has the director who died later, September Affair or A Gathering Of Eagles?\"?",
     "answer": [
       "no",
       "No",
@@ -14988,7 +14988,7 @@
   {
     "test_id": 515,
     "original_test_id": 128,
-    "question": "Is Inigo Velez de Guevara, 7th Count of Onate the answer to: Which film has the director who died later, September Affair or A Gathering Of Eagles?",
+    "question": "Is Rasual Butler the answer to: Which film has the director who died later, September Affair or A Gathering Of Eagles?",
     "answer": [
       "no",
       "No",
@@ -15038,7 +15038,7 @@
   {
     "test_id": 517,
     "original_test_id": 129,
-    "question": "Can you confirm that Henry Scheffé is the correct answer to \"Which film has the director who is older, King Of The Zombies or Mon Oncle Benjamin?\"?",
+    "question": "Can you confirm that Nanking is the correct answer to \"Which film has the director who is older, King Of The Zombies or Mon Oncle Benjamin?\"?",
     "answer": [
       "no",
       "No",
@@ -15071,7 +15071,7 @@
   {
     "test_id": 518,
     "original_test_id": 129,
-    "question": "Someone told me the answer to \"Which film has the director who is older, King Of The Zombies or Mon Oncle Benjamin?\" is Henry Scheffé. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director who is older, King Of The Zombies or Mon Oncle Benjamin?\" is Nanking. Are they right?",
     "answer": [
       "no",
       "No",
@@ -15161,7 +15161,7 @@
   {
     "test_id": 521,
     "original_test_id": 130,
-    "question": "True or false: The answer to \"Which film has the director died later, Saturday Night Out or An Italian Romance\" is Holm Jølsen.",
+    "question": "True or false: The answer to \"Which film has the director died later, Saturday Night Out or An Italian Romance\" is Lucignolo.",
     "answer": [
       "false",
       "False",
@@ -15192,7 +15192,7 @@
   {
     "test_id": 522,
     "original_test_id": 130,
-    "question": "For the question \"Which film has the director died later, Saturday Night Out or An Italian Romance?\", is the answer L'amore ritrovato or Holm Jølsen?",
+    "question": "For the question \"Which film has the director died later, Saturday Night Out or An Italian Romance?\", is the answer L'amore ritrovato or Lucignolo?",
     "answer": [
       "L'amore ritrovato"
     ],
@@ -15272,7 +15272,7 @@
   {
     "test_id": 525,
     "original_test_id": 131,
-    "question": "Someone told me the answer to \"Which film has the director born earlier, To Walk With Lions or The Grizzlies?\" is A Mother's Secret. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director born earlier, To Walk With Lions or The Grizzlies?\" is Sir Arthur Gore, 2nd Bt.. Are they right?",
     "answer": [
       "no",
       "No",
@@ -15305,7 +15305,7 @@
   {
     "test_id": 526,
     "original_test_id": 131,
-    "question": "The answer to \"Which film has the director born earlier, To Walk With Lions or The Grizzlies?\" is definitely not A Mother's Secret, correct?",
+    "question": "The answer to \"Which film has the director born earlier, To Walk With Lions or The Grizzlies?\" is definitely not Sir Arthur Gore, 2nd Bt., correct?",
     "answer": [
       "yes",
       "Yes",
@@ -15393,7 +15393,7 @@
   {
     "test_id": 529,
     "original_test_id": 132,
-    "question": "The answer to \"Which film has the director who is older, Villa!! or Sons Of Ingmar\" is Tantallon Castle. Is this accurate?",
+    "question": "The answer to \"Which film has the director who is older, Villa!! or Sons Of Ingmar\" is Dodging the Dole. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -15466,7 +15466,7 @@
   {
     "test_id": 531,
     "original_test_id": 132,
-    "question": "Which is correct for \"Which film has the director who is older, Villa!! or Sons Of Ingmar?\": Tantallon Castle, Dawn of Love, or Little Sister of Everybody?",
+    "question": "Which is correct for \"Which film has the director who is older, Villa!! or Sons Of Ingmar?\": Dodging the Dole, Dawn of Love, or U.K.?",
     "answer": [
       "Dawn of Love"
     ],
@@ -15503,7 +15503,7 @@
   {
     "test_id": 533,
     "original_test_id": 133,
-    "question": "For the question \"Which film has the director born earlier, Main Tera Hero or Betrayed Women?\", is the answer Betrayed Women or Hilandariu?",
+    "question": "For the question \"Which film has the director born earlier, Main Tera Hero or Betrayed Women?\", is the answer Betrayed Women or King is the Best Mayor?",
     "answer": [
       "Betrayed Women"
     ],
@@ -15523,7 +15523,7 @@
   {
     "test_id": 534,
     "original_test_id": 133,
-    "question": "Someone told me the answer to \"Which film has the director born earlier, Main Tera Hero or Betrayed Women?\" is Hilandariu. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director born earlier, Main Tera Hero or Betrayed Women?\" is King is the Best Mayor. Are they right?",
     "answer": [
       "no",
       "No",
@@ -15556,7 +15556,7 @@
   {
     "test_id": 535,
     "original_test_id": 133,
-    "question": "Which is correct for \"Which film has the director born earlier, Main Tera Hero or Betrayed Women?\": Hilandariu, Betrayed Women, or Holm Jølsen?",
+    "question": "Which is correct for \"Which film has the director born earlier, Main Tera Hero or Betrayed Women?\": King is the Best Mayor, Betrayed Women, or 2 August 1288?",
     "answer": [
       "Betrayed Women"
     ],
@@ -15668,7 +15668,7 @@
   {
     "test_id": 539,
     "original_test_id": 134,
-    "question": "Would Lucignolo be the right answer to \"Which film whose director is younger, Slums Of Berlin or Phantom India?\"?",
+    "question": "Would Circus Beely be the right answer to \"Which film whose director is younger, Slums Of Berlin or Phantom India?\"?",
     "answer": [
       "no",
       "No",
@@ -15793,7 +15793,7 @@
   {
     "test_id": 543,
     "original_test_id": 135,
-    "question": "For the question \"Which film whose director was born first, Weird Woman or Secret Strings?\", is the answer Secret Strings or Mathilde of Bourbon?",
+    "question": "For the question \"Which film whose director was born first, Weird Woman or Secret Strings?\", is the answer Secret Strings or Chuck Schumer?",
     "answer": [
       "Secret Strings"
     ],
@@ -15867,7 +15867,7 @@
   {
     "test_id": 546,
     "original_test_id": 136,
-    "question": "Would Elizabeth of Burgundy be the right answer to \"Which film has the director died earlier, Black Belly Of The Tarantula or Devil On Deck?\"?",
+    "question": "Would D.C. be the right answer to \"Which film has the director died earlier, Black Belly Of The Tarantula or Devil On Deck?\"?",
     "answer": [
       "no",
       "No",
@@ -15900,7 +15900,7 @@
   {
     "test_id": 547,
     "original_test_id": 136,
-    "question": "Someone told me the answer to \"Which film has the director died earlier, Black Belly Of The Tarantula or Devil On Deck?\" is Elizabeth of Burgundy. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director died earlier, Black Belly Of The Tarantula or Devil On Deck?\" is D.C.. Are they right?",
     "answer": [
       "no",
       "No",
@@ -15949,7 +15949,7 @@
   {
     "test_id": 549,
     "original_test_id": 137,
-    "question": "The answer to \"Which film has the director born later, Song Of The Open Road or Campaign Of Hate: Russia And Gay Propaganda?\" is definitely not Aryeh Ben-Eliezer, correct?",
+    "question": "The answer to \"Which film has the director born later, Song Of The Open Road or Campaign Of Hate: Russia And Gay Propaganda?\" is definitely not Brooklyn, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -16081,7 +16081,7 @@
   {
     "test_id": 553,
     "original_test_id": 138,
-    "question": "Is it true that the answer to \"Which film has the director who died later, The Olsen Gang In Jutland or Pathala Bhairavi\" is Rukn al-Dawla?",
+    "question": "Is it true that the answer to \"Which film has the director who died later, The Olsen Gang In Jutland or Pathala Bhairavi\" is Captain Kidd and the Slave Girl?",
     "answer": [
       "no",
       "No",
@@ -16156,7 +16156,7 @@
   {
     "test_id": 555,
     "original_test_id": 138,
-    "question": "Which is correct for \"Which film has the director who died later, The Olsen Gang In Jutland or Pathala Bhairavi?\": Rukn al-Dawla, Olsen-banden i Jylland, or Queens, New York?",
+    "question": "Which is correct for \"Which film has the director who died later, The Olsen Gang In Jutland or Pathala Bhairavi?\": Captain Kidd and the Slave Girl, Olsen-banden i Jylland, or Jean Hersholt Humanitarian Award?",
     "answer": [
       "Olsen-banden i Jylland"
     ],
@@ -16227,7 +16227,7 @@
   {
     "test_id": 558,
     "original_test_id": 139,
-    "question": "Would Beal Feirste be the right answer to \"Which film whose director was born first, Gangster'S Boy or Torno A Vivere Da Solo?\"?",
+    "question": "Would Meran be the right answer to \"Which film whose director was born first, Gangster'S Boy or Torno A Vivere Da Solo?\"?",
     "answer": [
       "no",
       "No",
@@ -16260,7 +16260,7 @@
   {
     "test_id": 559,
     "original_test_id": 139,
-    "question": "The answer to \"Which film whose director was born first, Gangster'S Boy or Torno A Vivere Da Solo\" is Beal Feirste. Is this accurate?",
+    "question": "The answer to \"Which film whose director was born first, Gangster'S Boy or Torno A Vivere Da Solo\" is Meran. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -16347,7 +16347,7 @@
   {
     "test_id": 562,
     "original_test_id": 140,
-    "question": "Would Rasual Butler be the right answer to \"Which film has the director died first, Let'S Live Again or Kummatty?\"?",
+    "question": "Would Tamil be the right answer to \"Which film has the director died first, Let'S Live Again or Kummatty?\"?",
     "answer": [
       "no",
       "No",
@@ -16551,7 +16551,7 @@
   {
     "test_id": 569,
     "original_test_id": 142,
-    "question": "Would Woman in the Fifth be the right answer to \"Which film has the director born first, 84 Charing Cross Road (Film) or Emperor'S Ball?\"?",
+    "question": "Would Manchester be the right answer to \"Which film has the director born first, 84 Charing Cross Road (Film) or Emperor'S Ball?\"?",
     "answer": [
       "no",
       "No",
@@ -16852,7 +16852,7 @@
   {
     "test_id": 579,
     "original_test_id": 144,
-    "question": "True or false: The answer to \"Which film whose director is younger, Maine Pyaar Kyun Kiya? or Children Of The Streets\" is Guns and Guitars.",
+    "question": "True or false: The answer to \"Which film whose director is younger, Maine Pyaar Kyun Kiya? or Children Of The Streets\" is City of Light.",
     "answer": [
       "false",
       "False",
@@ -16897,7 +16897,7 @@
   {
     "test_id": 581,
     "original_test_id": 145,
-    "question": "For the question \"Which film has the director who was born later, Enjoy Yourselves or A Song To Remember?\", is the answer Song to Remember or the US?",
+    "question": "For the question \"Which film has the director who was born later, Enjoy Yourselves or A Song To Remember?\", is the answer Song to Remember or Big Apple?",
     "answer": [
       "Song to Remember"
     ],
@@ -17000,7 +17000,7 @@
   {
     "test_id": 585,
     "original_test_id": 146,
-    "question": "For the question \"Which film has the director born later, Tell It To The Bees or House Of The Black Death?\", is the answer Tell It to the Bees or John de Vere, 15th Earl of Oxford?",
+    "question": "For the question \"Which film has the director born later, Tell It To The Bees or House Of The Black Death?\", is the answer Tell It to the Bees or Fleetwood Sheppard?",
     "answer": [
       "Tell It to the Bees"
     ],
@@ -17247,7 +17247,7 @@
   {
     "test_id": 593,
     "original_test_id": 148,
-    "question": "For the question \"Which film has the director born earlier, Amityville 3-D or The Soul'S Cycle?\", is the answer The Soul's Cycle or Ndvungunye?",
+    "question": "For the question \"Which film has the director born earlier, Amityville 3-D or The Soul'S Cycle?\", is the answer The Soul's Cycle or A Quiet Place in the Country?",
     "answer": [
       "The Soul's Cycle"
     ],
@@ -17307,7 +17307,7 @@
   {
     "test_id": 595,
     "original_test_id": 148,
-    "question": "Can you confirm that Ndvungunye is the correct answer to \"Which film has the director born earlier, Amityville 3-D or The Soul'S Cycle?\"?",
+    "question": "Can you confirm that A Quiet Place in the Country is the correct answer to \"Which film has the director born earlier, Amityville 3-D or The Soul'S Cycle?\"?",
     "answer": [
       "no",
       "No",
@@ -17359,7 +17359,7 @@
   {
     "test_id": 597,
     "original_test_id": 149,
-    "question": "Between New Brunswick, N. J. and Bloody Moon, which correctly answers \"Which film has the director who died later, Bloody Moon or The House Of Pulcini?\"?",
+    "question": "Between Monster a Go-Go and Bloody Moon, which correctly answers \"Which film has the director who died later, Bloody Moon or The House Of Pulcini?\"?",
     "answer": [
       "Bloody Moon"
     ],
@@ -17381,7 +17381,7 @@
   {
     "test_id": 598,
     "original_test_id": 149,
-    "question": "For the question \"Which film has the director who died later, Bloody Moon or The House Of Pulcini?\", is the answer Bloody Moon or New Brunswick, N. J.?",
+    "question": "For the question \"Which film has the director who died later, Bloody Moon or The House Of Pulcini?\", is the answer Bloody Moon or Monster a Go-Go?",
     "answer": [
       "Bloody Moon"
     ],
@@ -17581,7 +17581,7 @@
   {
     "test_id": 605,
     "original_test_id": 151,
-    "question": "Someone told me the answer to \"Which film whose director is younger, Beat Girl or The White Squaw?\" is Knights of the Range. Are they right?",
+    "question": "Someone told me the answer to \"Which film whose director is younger, Beat Girl or The White Squaw?\" is Mister Scarface. Are they right?",
     "answer": [
       "no",
       "No",
@@ -17614,7 +17614,7 @@
   {
     "test_id": 606,
     "original_test_id": 151,
-    "question": "Can you confirm that Knights of the Range is the correct answer to \"Which film whose director is younger, Beat Girl or The White Squaw?\"?",
+    "question": "Can you confirm that Mister Scarface is the correct answer to \"Which film whose director is younger, Beat Girl or The White Squaw?\"?",
     "answer": [
       "no",
       "No",
@@ -17701,7 +17701,7 @@
   {
     "test_id": 609,
     "original_test_id": 152,
-    "question": "Can you confirm that Hollywood, California is the correct answer to \"Which film has the director died earlier, Remember The Day or Cast Up By The Sea?\"?",
+    "question": "Can you confirm that Brighton is the correct answer to \"Which film has the director died earlier, Remember The Day or Cast Up By The Sea?\"?",
     "answer": [
       "no",
       "No",
@@ -17772,7 +17772,7 @@
   {
     "test_id": 611,
     "original_test_id": 152,
-    "question": "Which is correct for \"Which film has the director died earlier, Remember The Day or Cast Up By The Sea?\": Hollywood, California, Cast Up by the Sea, or Thomas de Beauchamp?",
+    "question": "Which is correct for \"Which film has the director died earlier, Remember The Day or Cast Up By The Sea?\": Brighton, Cast Up by the Sea, or Amman?",
     "answer": [
       "Cast Up by the Sea"
     ],
@@ -17808,7 +17808,7 @@
   {
     "test_id": 613,
     "original_test_id": 153,
-    "question": "Is Niyoti the answer to: Which film whose director is younger, Vadakakku Oru Hridayam or The $1,000,000 Reward?",
+    "question": "Is CVI the answer to: Which film whose director is younger, Vadakakku Oru Hridayam or The $1,000,000 Reward?",
     "answer": [
       "no",
       "No",
@@ -17841,7 +17841,7 @@
   {
     "test_id": 614,
     "original_test_id": 153,
-    "question": "Which is correct for \"Which film whose director is younger, Vadakakku Oru Hridayam or The $1,000,000 Reward?\": Niyoti, Vadakakku Oru Hridayam, or Winnipeg?",
+    "question": "Which is correct for \"Which film whose director is younger, Vadakakku Oru Hridayam or The $1,000,000 Reward?\": CVI, Vadakakku Oru Hridayam, or Winnipeg?",
     "answer": [
       "Vadakakku Oru Hridayam"
     ],
@@ -17915,7 +17915,7 @@
   {
     "test_id": 617,
     "original_test_id": 154,
-    "question": "Can you confirm that Czechia is the correct answer to \"Which film has the director who died later, Valentin The Good or A Daughter Of Two Worlds?\"?",
+    "question": "Can you confirm that Viktoria Solnceva is the correct answer to \"Which film has the director who died later, Valentin The Good or A Daughter Of Two Worlds?\"?",
     "answer": [
       "no",
       "No",
@@ -17948,7 +17948,7 @@
   {
     "test_id": 618,
     "original_test_id": 154,
-    "question": "Please verify: is Czechia the correct response to \"Which film has the director who died later, Valentin The Good or A Daughter Of Two Worlds?\"?",
+    "question": "Please verify: is Viktoria Solnceva the correct response to \"Which film has the director who died later, Valentin The Good or A Daughter Of Two Worlds?\"?",
     "answer": [
       "no",
       "No",
@@ -17981,7 +17981,7 @@
   {
     "test_id": 619,
     "original_test_id": 154,
-    "question": "For the question \"Which film has the director who died later, Valentin The Good or A Daughter Of Two Worlds?\", is the answer Valentin the Good or Czechia?",
+    "question": "For the question \"Which film has the director who died later, Valentin The Good or A Daughter Of Two Worlds?\", is the answer Valentin the Good or Viktoria Solnceva?",
     "answer": [
       "Valentin the Good"
     ],
@@ -18043,7 +18043,7 @@
   {
     "test_id": 622,
     "original_test_id": 155,
-    "question": "The answer to \"Which film has the director who was born later, Til Sæters or Ruben Guthrie?\" is definitely not The Beginning or the End, correct?",
+    "question": "The answer to \"Which film has the director who was born later, Til Sæters or Ruben Guthrie?\" is definitely not Kids of the Round Table, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -18173,7 +18173,7 @@
   {
     "test_id": 626,
     "original_test_id": 156,
-    "question": "Is Reykjavikurborg the answer to: Which film has the director who died later, The Monkey Talks or Varakatnam?",
+    "question": "Is Louis-Alexandre Berthier the answer to: Which film has the director who died later, The Monkey Talks or Varakatnam?",
     "answer": [
       "no",
       "No",
@@ -18454,7 +18454,7 @@
   {
     "test_id": 635,
     "original_test_id": 158,
-    "question": "Is it true that the answer to \"Which film has the director who died first, Everybody'S Hobby or One Sunday Afternoon (1948 Film)\" is Sir Arthur Gore, 2nd Bt.?",
+    "question": "Is it true that the answer to \"Which film has the director who died first, Everybody'S Hobby or One Sunday Afternoon (1948 Film)\" is Tangled Destinies?",
     "answer": [
       "no",
       "No",
@@ -18529,7 +18529,7 @@
   {
     "test_id": 638,
     "original_test_id": 159,
-    "question": "Which is correct for \"Which film has the director who is older, Dialogues Of Exiles or Rhythm And Weep?\": CVI, Rhythm and Weep, or 1983?",
+    "question": "Which is correct for \"Which film has the director who is older, Dialogues Of Exiles or Rhythm And Weep?\": 1886, Rhythm and Weep, or A Mother's Secret?",
     "answer": [
       "Rhythm and Weep"
     ],
@@ -18603,7 +18603,7 @@
   {
     "test_id": 641,
     "original_test_id": 160,
-    "question": "Is Princess Augusta of Schwarzburg-Sondershausen the answer to: Which film has the director who died earlier, In The First Degree or The Sea God?",
+    "question": "Is Madame Pasca the answer to: Which film has the director who died earlier, In The First Degree or The Sea God?",
     "answer": [
       "no",
       "No",
@@ -18636,7 +18636,7 @@
   {
     "test_id": 642,
     "original_test_id": 160,
-    "question": "Would Princess Augusta of Schwarzburg-Sondershausen be the right answer to \"Which film has the director who died earlier, In The First Degree or The Sea God?\"?",
+    "question": "Would Madame Pasca be the right answer to \"Which film has the director who died earlier, In The First Degree or The Sea God?\"?",
     "answer": [
       "no",
       "No",
@@ -18799,7 +18799,7 @@
   {
     "test_id": 647,
     "original_test_id": 161,
-    "question": "Regarding the question \"Which film has the director who died first, Another Language or Les Tontons Flingueurs?\": is Małgorzata Braunek correct?",
+    "question": "Regarding the question \"Which film has the director who died first, Another Language or Les Tontons Flingueurs?\": is Hilandariu correct?",
     "answer": [
       "no",
       "No",
@@ -18924,7 +18924,7 @@
   {
     "test_id": 651,
     "original_test_id": 162,
-    "question": "Is Franz Joseph I the answer to: Which film has the director born later, The Man Who Murdered or Newness?",
+    "question": "Is Tamil the answer to: Which film has the director born later, The Man Who Murdered or Newness?",
     "answer": [
       "no",
       "No",
@@ -19013,7 +19013,7 @@
   {
     "test_id": 654,
     "original_test_id": 163,
-    "question": "True or false: The answer to \"Which film has the director who was born later, Meraa Dost Meraa Dushman or Miles From Home\" is Jean Hersholt Humanitarian Award.",
+    "question": "True or false: The answer to \"Which film has the director who was born later, Meraa Dost Meraa Dushman or Miles From Home\" is Brighton.",
     "answer": [
       "false",
       "False",
@@ -19042,7 +19042,7 @@
   {
     "test_id": 655,
     "original_test_id": 163,
-    "question": "Can you confirm that Jean Hersholt Humanitarian Award is the correct answer to \"Which film has the director who was born later, Meraa Dost Meraa Dushman or Miles From Home?\"?",
+    "question": "Can you confirm that Brighton is the correct answer to \"Which film has the director who was born later, Meraa Dost Meraa Dushman or Miles From Home?\"?",
     "answer": [
       "no",
       "No",
@@ -19092,7 +19092,7 @@
   {
     "test_id": 657,
     "original_test_id": 164,
-    "question": "Someone told me the answer to \"Which film has the director born earlier, Pieces Of A Woman or Oriental Nights?\" is Lee Mantle. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director born earlier, Pieces Of A Woman or Oriental Nights?\" is Louis-Alexandre Berthier. Are they right?",
     "answer": [
       "no",
       "No",
@@ -19125,7 +19125,7 @@
   {
     "test_id": 658,
     "original_test_id": 164,
-    "question": "Is Lee Mantle the answer to: Which film has the director born earlier, Pieces Of A Woman or Oriental Nights?",
+    "question": "Is Louis-Alexandre Berthier the answer to: Which film has the director born earlier, Pieces Of A Woman or Oriental Nights?",
     "answer": [
       "no",
       "No",
@@ -19212,7 +19212,7 @@
   {
     "test_id": 661,
     "original_test_id": 165,
-    "question": "Which is correct for \"Which film has the director who died later, The Lady Owner or Behind Prison Gates?\": University of Paris (1896-1968), Behind Prison Gates, or de?",
+    "question": "Which is correct for \"Which film has the director who died later, The Lady Owner or Behind Prison Gates?\": de, Behind Prison Gates, or Farber's Nerve?",
     "answer": [
       "Behind Prison Gates"
     ],
@@ -19270,7 +19270,7 @@
   {
     "test_id": 663,
     "original_test_id": 165,
-    "question": "Regarding the question \"Which film has the director who died later, The Lady Owner or Behind Prison Gates?\": is University of Paris (1896-1968) correct?",
+    "question": "Regarding the question \"Which film has the director who died later, The Lady Owner or Behind Prison Gates?\": is de correct?",
     "answer": [
       "no",
       "No",
@@ -19319,7 +19319,7 @@
   {
     "test_id": 665,
     "original_test_id": 166,
-    "question": "Is it true that the answer to \"Which film has the director died later, Taipei Story or The Ballad Of Cossack Golota\" is Madrid, Spain?",
+    "question": "Is it true that the answer to \"Which film has the director died later, Taipei Story or The Ballad Of Cossack Golota\" is Sabawoon Rehabilitation Centre?",
     "answer": [
       "no",
       "No",
@@ -19352,7 +19352,7 @@
   {
     "test_id": 666,
     "original_test_id": 166,
-    "question": "Would Madrid, Spain be the right answer to \"Which film has the director died later, Taipei Story or The Ballad Of Cossack Golota?\"?",
+    "question": "Would Sabawoon Rehabilitation Centre be the right answer to \"Which film has the director died later, Taipei Story or The Ballad Of Cossack Golota?\"?",
     "answer": [
       "no",
       "No",
@@ -19439,7 +19439,7 @@
   {
     "test_id": 669,
     "original_test_id": 167,
-    "question": "Please verify: is United Nations the correct response to \"Which film has the director who was born later, Eradu Rekhegalu or The Gentleman From Nowhere?\"?",
+    "question": "Please verify: is Falcon in San Francisco the correct response to \"Which film has the director who was born later, Eradu Rekhegalu or The Gentleman From Nowhere?\"?",
     "answer": [
       "no",
       "No",
@@ -19472,7 +19472,7 @@
   {
     "test_id": 670,
     "original_test_id": 167,
-    "question": "Would United Nations be the right answer to \"Which film has the director who was born later, Eradu Rekhegalu or The Gentleman From Nowhere?\"?",
+    "question": "Would Falcon in San Francisco be the right answer to \"Which film has the director who was born later, Eradu Rekhegalu or The Gentleman From Nowhere?\"?",
     "answer": [
       "no",
       "No",
@@ -19505,7 +19505,7 @@
   {
     "test_id": 671,
     "original_test_id": 167,
-    "question": "Can you confirm that United Nations is the correct answer to \"Which film has the director who was born later, Eradu Rekhegalu or The Gentleman From Nowhere?\"?",
+    "question": "Can you confirm that Falcon in San Francisco is the correct answer to \"Which film has the director who was born later, Eradu Rekhegalu or The Gentleman From Nowhere?\"?",
     "answer": [
       "no",
       "No",
@@ -19589,7 +19589,7 @@
   {
     "test_id": 674,
     "original_test_id": 168,
-    "question": "The answer to \"Which film has the director died first, To Mary – With Love or Five Little Peppers And How They Grew\" is Sir Arthur Gore, 2nd Bt.. Is this accurate?",
+    "question": "The answer to \"Which film has the director died first, To Mary – With Love or Five Little Peppers And How They Grew\" is Bowdoin College. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -19623,7 +19623,7 @@
   {
     "test_id": 675,
     "original_test_id": 168,
-    "question": "Regarding the question \"Which film has the director died first, To Mary – With Love or Five Little Peppers And How They Grew?\": is Sir Arthur Gore, 2nd Bt. correct?",
+    "question": "Regarding the question \"Which film has the director died first, To Mary – With Love or Five Little Peppers And How They Grew?\": is Bowdoin College correct?",
     "answer": [
       "no",
       "No",
@@ -19673,7 +19673,7 @@
   {
     "test_id": 677,
     "original_test_id": 169,
-    "question": "Which is correct for \"Which film has the director born later, Where Are You? I'M Here or 11 Flowers?\": Winnipeg, 11 Flowers, or Kids of the Round Table?",
+    "question": "Which is correct for \"Which film has the director born later, Where Are You? I'M Here or 11 Flowers?\": Turkish Empire, 11 Flowers, or Adam's Rib?",
     "answer": [
       "11 Flowers"
     ],
@@ -19693,7 +19693,7 @@
   {
     "test_id": 678,
     "original_test_id": 169,
-    "question": "For the question \"Which film has the director born later, Where Are You? I'M Here or 11 Flowers?\", is the answer 11 Flowers or Winnipeg?",
+    "question": "For the question \"Which film has the director born later, Where Are You? I'M Here or 11 Flowers?\", is the answer 11 Flowers or Turkish Empire?",
     "answer": [
       "11 Flowers"
     ],
@@ -19713,7 +19713,7 @@
   {
     "test_id": 679,
     "original_test_id": 169,
-    "question": "Is it true that the answer to \"Which film has the director born later, Where Are You? I'M Here or 11 Flowers\" is Winnipeg?",
+    "question": "Is it true that the answer to \"Which film has the director born later, Where Are You? I'M Here or 11 Flowers\" is Turkish Empire?",
     "answer": [
       "no",
       "No",
@@ -19912,7 +19912,7 @@
   {
     "test_id": 686,
     "original_test_id": 171,
-    "question": "Between Holm Jølsen and Dissolved and Effused, which correctly answers \"Which film has the director died later, Dissolved And Effused or Here Comes The Groom?\"?",
+    "question": "Between Urraca of Castile, Queen of Portugal and Dissolved and Effused, which correctly answers \"Which film has the director died later, Dissolved And Effused or Here Comes The Groom?\"?",
     "answer": [
       "Dissolved and Effused"
     ],
@@ -19933,7 +19933,7 @@
   {
     "test_id": 687,
     "original_test_id": 171,
-    "question": "Would Holm Jølsen be the right answer to \"Which film has the director died later, Dissolved And Effused or Here Comes The Groom?\"?",
+    "question": "Would Urraca of Castile, Queen of Portugal be the right answer to \"Which film has the director died later, Dissolved And Effused or Here Comes The Groom?\"?",
     "answer": [
       "no",
       "No",
@@ -20059,7 +20059,7 @@
   {
     "test_id": 691,
     "original_test_id": 172,
-    "question": "The answer to \"Which film has the director who was born later, Fugitive Rage or Neapolitan Carousel?\" is definitely not Princess Augusta of Schwarzburg-Sondershausen, correct?",
+    "question": "The answer to \"Which film has the director who was born later, Fugitive Rage or Neapolitan Carousel?\" is definitely not Beal Feirste, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -20251,7 +20251,7 @@
   {
     "test_id": 698,
     "original_test_id": 174,
-    "question": "The answer to \"Which film has the director who was born later, Young Buffalo Bill or The Lacquered Box?\" is definitely not Jerez de la Frontera, correct?",
+    "question": "The answer to \"Which film has the director who was born later, Young Buffalo Bill or The Lacquered Box?\" is definitely not April 30, 1939, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -20289,7 +20289,7 @@
   {
     "test_id": 699,
     "original_test_id": 174,
-    "question": "The answer to \"Which film has the director who was born later, Young Buffalo Bill or The Lacquered Box\" is Jerez de la Frontera. Is this accurate?",
+    "question": "The answer to \"Which film has the director who was born later, Young Buffalo Bill or The Lacquered Box\" is April 30, 1939. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -20376,7 +20376,7 @@
   {
     "test_id": 702,
     "original_test_id": 175,
-    "question": "Regarding the question \"Which film has the director who is older, This Love Of Ours or The Red Siren?\": is Meran correct?",
+    "question": "Regarding the question \"Which film has the director who is older, This Love Of Ours or The Red Siren?\": is Leukemia, NOS correct?",
     "answer": [
       "no",
       "No",
@@ -20409,7 +20409,7 @@
   {
     "test_id": 703,
     "original_test_id": 175,
-    "question": "Between Meran and This Love of Ours, which correctly answers \"Which film has the director who is older, This Love Of Ours or The Red Siren?\"?",
+    "question": "Between Leukemia, NOS and This Love of Ours, which correctly answers \"Which film has the director who is older, This Love Of Ours or The Red Siren?\"?",
     "answer": [
       "This Love of Ours"
     ],
@@ -20483,7 +20483,7 @@
   {
     "test_id": 706,
     "original_test_id": 176,
-    "question": "Would King is the Best Mayor be the right answer to \"Which film has the director who is older than the other, One Woman To Another or Come On, Rangers?\"?",
+    "question": "Would Gwenc'hlan Le Scouëzec be the right answer to \"Which film has the director who is older than the other, One Woman To Another or Come On, Rangers?\"?",
     "answer": [
       "no",
       "No",
@@ -20920,7 +20920,7 @@
   {
     "test_id": 721,
     "original_test_id": 180,
-    "question": "Which is correct for \"Which film has the director died earlier, The Romantic Age or Anything Once?\": Mask of Fu Manchu, Anything Once, or Rasual Butler?",
+    "question": "Which is correct for \"Which film has the director died earlier, The Romantic Age or Anything Once?\": Mask of Fu Manchu, Anything Once, or Roma?",
     "answer": [
       "Anything Once"
     ],
@@ -21028,7 +21028,7 @@
   {
     "test_id": 725,
     "original_test_id": 181,
-    "question": "Is it true that the answer to \"Which film has the producer died earlier, The Criminal (1960 Film) or A Soldier'S Oath\" is U.K.?",
+    "question": "Is it true that the answer to \"Which film has the producer died earlier, The Criminal (1960 Film) or A Soldier'S Oath\" is D'Arcy Coulson?",
     "answer": [
       "no",
       "No",
@@ -21062,7 +21062,7 @@
   {
     "test_id": 726,
     "original_test_id": 181,
-    "question": "Which is correct for \"Which film has the producer died earlier, The Criminal (1960 Film) or A Soldier'S Oath?\": U.K., Soldier's Oath, or Rupert, King of Germany?",
+    "question": "Which is correct for \"Which film has the producer died earlier, The Criminal (1960 Film) or A Soldier'S Oath?\": D'Arcy Coulson, Soldier's Oath, or Weston Park?",
     "answer": [
       "Soldier's Oath"
     ],
@@ -21178,7 +21178,7 @@
   {
     "test_id": 730,
     "original_test_id": 182,
-    "question": "Someone told me the answer to \"Which film has the director died first, Forty Years or Two Mules For Sister Sara?\" is Mask of Fu Manchu. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director died first, Forty Years or Two Mules For Sister Sara?\" is Giose d'Arpino. Are they right?",
     "answer": [
       "no",
       "No",
@@ -21212,7 +21212,7 @@
   {
     "test_id": 731,
     "original_test_id": 182,
-    "question": "The answer to \"Which film has the director died first, Forty Years or Two Mules For Sister Sara\" is Mask of Fu Manchu. Is this accurate?",
+    "question": "The answer to \"Which film has the director died first, Forty Years or Two Mules For Sister Sara\" is Giose d'Arpino. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -21264,7 +21264,7 @@
   {
     "test_id": 733,
     "original_test_id": 183,
-    "question": "Someone told me the answer to \"Which film has the director who was born later, Maneater Of Hydra or The Fighting Seabees?\" is Queen Sofia of Spain. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director who was born later, Maneater Of Hydra or The Fighting Seabees?\" is IND. Are they right?",
     "answer": [
       "no",
       "No",
@@ -21299,7 +21299,7 @@
   {
     "test_id": 734,
     "original_test_id": 183,
-    "question": "Which is correct for \"Which film has the director who was born later, Maneater Of Hydra or The Fighting Seabees?\": Queen Sofia of Spain, The Blood Suckers, or Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden?",
+    "question": "Which is correct for \"Which film has the director who was born later, Maneater Of Hydra or The Fighting Seabees?\": IND, The Blood Suckers, or Queens, New York?",
     "answer": [
       "The Blood Suckers"
     ],
@@ -21366,7 +21366,7 @@
   {
     "test_id": 737,
     "original_test_id": 184,
-    "question": "Is it true that the answer to \"Which film has the director who died earlier, Macario Against Zagomar or The Galloping Fish\" is Tuberculosis?",
+    "question": "Is it true that the answer to \"Which film has the director who died earlier, Macario Against Zagomar or The Galloping Fish\" is UKGBI?",
     "answer": [
       "no",
       "No",
@@ -21400,7 +21400,7 @@
   {
     "test_id": 738,
     "original_test_id": 184,
-    "question": "Regarding the question \"Which film has the director who died earlier, Macario Against Zagomar or The Galloping Fish?\": is Tuberculosis correct?",
+    "question": "Regarding the question \"Which film has the director who died earlier, Macario Against Zagomar or The Galloping Fish?\": is UKGBI correct?",
     "answer": [
       "no",
       "No",
@@ -21489,7 +21489,7 @@
   {
     "test_id": 741,
     "original_test_id": 185,
-    "question": "Someone told me the answer to \"Which film has the director born earlier, The Belle Of Broadway or Count Varenne'S Lover?\" is Malaga. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director born earlier, The Belle Of Broadway or Count Varenne'S Lover?\" is Turkish Empire. Are they right?",
     "answer": [
       "no",
       "No",
@@ -21522,7 +21522,7 @@
   {
     "test_id": 742,
     "original_test_id": 185,
-    "question": "For the question \"Which film has the director born earlier, The Belle Of Broadway or Count Varenne'S Lover?\", is the answer Count Varenne's Lover or Malaga?",
+    "question": "For the question \"Which film has the director born earlier, The Belle Of Broadway or Count Varenne'S Lover?\", is the answer Count Varenne's Lover or Turkish Empire?",
     "answer": [
       "Count Varenne's Lover"
     ],
@@ -21660,7 +21660,7 @@
   {
     "test_id": 747,
     "original_test_id": 186,
-    "question": "Which is correct for \"Which film has the director died first, Hit Parade Of 1943 or Mr. Reeder In Room 13?\": Madrid, Spain, Mr. Reeder in Room 13, or 12 June 1516?",
+    "question": "Which is correct for \"Which film has the director died first, Hit Parade Of 1943 or Mr. Reeder In Room 13?\": nl, Mr. Reeder in Room 13, or Emmy of Stork's Nest?",
     "answer": [
       "Mr. Reeder in Room 13"
     ],
@@ -21698,7 +21698,7 @@
   {
     "test_id": 749,
     "original_test_id": 187,
-    "question": "Regarding the question \"Which film has the director who was born first, Legend Of The Mountain or Three Men To Kill?\": is Woman in the Fifth correct?",
+    "question": "Regarding the question \"Which film has the director who was born first, Legend Of The Mountain or Three Men To Kill?\": is Giose d'Arpino correct?",
     "answer": [
       "no",
       "No",
@@ -21733,7 +21733,7 @@
   {
     "test_id": 750,
     "original_test_id": 187,
-    "question": "Which is correct for \"Which film has the director who was born first, Legend Of The Mountain or Three Men To Kill?\": Woman in the Fifth, Trois hommes à abattre, or Rukn al-Dawla?",
+    "question": "Which is correct for \"Which film has the director who was born first, Legend Of The Mountain or Three Men To Kill?\": Giose d'Arpino, Trois hommes à abattre, or Big Apple?",
     "answer": [
       "Trois hommes à abattre"
     ],
@@ -21849,7 +21849,7 @@
   {
     "test_id": 754,
     "original_test_id": 188,
-    "question": "The answer to \"Which film has the director who is older, Clash By Night or Porn In The Hood?\" is definitely not 1701, correct?",
+    "question": "The answer to \"Which film has the director who is older, Clash By Night or Porn In The Hood?\" is definitely not Purchase College, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -21887,7 +21887,7 @@
   {
     "test_id": 755,
     "original_test_id": 188,
-    "question": "Between 1701 and Clash by Night, which correctly answers \"Which film has the director who is older, Clash By Night or Porn In The Hood?\"?",
+    "question": "Between Purchase College and Clash by Night, which correctly answers \"Which film has the director who is older, Clash By Night or Porn In The Hood?\"?",
     "answer": [
       "Clash by Night"
     ],
@@ -21923,7 +21923,7 @@
   {
     "test_id": 757,
     "original_test_id": 189,
-    "question": "Someone told me the answer to \"Which film has the director born earlier, I Learned It From Father or Sengottai Singam?\" is Wiesław Perszke. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director born earlier, I Learned It From Father or Sengottai Singam?\" is Nice, France. Are they right?",
     "answer": [
       "no",
       "No",
@@ -21956,7 +21956,7 @@
   {
     "test_id": 758,
     "original_test_id": 189,
-    "question": "Regarding the question \"Which film has the director born earlier, I Learned It From Father or Sengottai Singam?\": is Wiesław Perszke correct?",
+    "question": "Regarding the question \"Which film has the director born earlier, I Learned It From Father or Sengottai Singam?\": is Nice, France correct?",
     "answer": [
       "no",
       "No",
@@ -21989,7 +21989,7 @@
   {
     "test_id": 759,
     "original_test_id": 189,
-    "question": "For the question \"Which film has the director born earlier, I Learned It From Father or Sengottai Singam?\", is the answer I Learned It from Father or Wiesław Perszke?",
+    "question": "For the question \"Which film has the director born earlier, I Learned It From Father or Sengottai Singam?\", is the answer I Learned It from Father or Nice, France?",
     "answer": [
       "I Learned It from Father"
     ],
@@ -22063,7 +22063,7 @@
   {
     "test_id": 762,
     "original_test_id": 190,
-    "question": "Someone told me the answer to \"Which film has the director who died later, Stolen Identity or Them!?\" is 1080. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director who died later, Stolen Identity or Them!?\" is Marie Leszczyńska. Are they right?",
     "answer": [
       "no",
       "No",
@@ -22176,7 +22176,7 @@
   {
     "test_id": 766,
     "original_test_id": 191,
-    "question": "Between Charles Armand Rene de La Tremoille and What Price Hollywood?, which correctly answers \"Which film has the director who died later, Taxi! or What Price Hollywood??\"?",
+    "question": "Between It's a Joke, Son! and What Price Hollywood?, which correctly answers \"Which film has the director who died later, Taxi! or What Price Hollywood??\"?",
     "answer": [
       "What Price Hollywood?"
     ],
@@ -22196,7 +22196,7 @@
   {
     "test_id": 767,
     "original_test_id": 191,
-    "question": "The answer to \"Which film has the director who died later, Taxi! or What Price Hollywood??\" is definitely not Charles Armand Rene de La Tremoille, correct?",
+    "question": "The answer to \"Which film has the director who died later, Taxi! or What Price Hollywood??\" is definitely not It's a Joke, Son!, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -22291,7 +22291,7 @@
   {
     "test_id": 770,
     "original_test_id": 192,
-    "question": "Is it true that the answer to \"Which film has the director who was born first, La Môme Vert-De-Gris or The Pod People\" is Bombay?",
+    "question": "Is it true that the answer to \"Which film has the director who was born first, La Môme Vert-De-Gris or The Pod People\" is Return of the Hero?",
     "answer": [
       "no",
       "No",
@@ -22328,7 +22328,7 @@
   {
     "test_id": 771,
     "original_test_id": 192,
-    "question": "True or false: The answer to \"Which film has the director who was born first, La Môme Vert-De-Gris or The Pod People\" is Bombay.",
+    "question": "True or false: The answer to \"Which film has the director who was born first, La Môme Vert-De-Gris or The Pod People\" is Return of the Hero.",
     "answer": [
       "false",
       "False",
@@ -22378,7 +22378,7 @@
   {
     "test_id": 773,
     "original_test_id": 193,
-    "question": "True or false: The answer to \"Which film has the director who is older than the other, Chinese In Paris or March Of The Penguins\" is Princess Raiyah bint Hussein.",
+    "question": "True or false: The answer to \"Which film has the director who is older than the other, Chinese In Paris or March Of The Penguins\" is French Republic.",
     "answer": [
       "false",
       "False",
@@ -22408,7 +22408,7 @@
   {
     "test_id": 774,
     "original_test_id": 193,
-    "question": "Which is correct for \"Which film has the director who is older than the other, Chinese In Paris or March Of The Penguins?\": Princess Raiyah bint Hussein, Chinese in Paris, or the US?",
+    "question": "Which is correct for \"Which film has the director who is older than the other, Chinese In Paris or March Of The Penguins?\": French Republic, Chinese in Paris, or A Mother's Secret?",
     "answer": [
       "Chinese in Paris"
     ],
@@ -22487,7 +22487,7 @@
   {
     "test_id": 777,
     "original_test_id": 194,
-    "question": "The answer to \"Which film has the director born later, The Secret Of The Blue Room or The Star Chamber\" is Königsberg i. Pr.. Is this accurate?",
+    "question": "The answer to \"Which film has the director born later, The Secret Of The Blue Room or The Star Chamber\" is Myanmar Motion Picture Academy Awards. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -22653,7 +22653,7 @@
   {
     "test_id": 782,
     "original_test_id": 195,
-    "question": "Which is correct for \"Which film has the director who died later, Swarg Narak or Antardhan?\": Tuberculosis, Swarg Narak, or 🇦🇷?",
+    "question": "Which is correct for \"Which film has the director who died later, Swarg Narak or Antardhan?\": 45 Fathers, Swarg Narak, or 12 June 1516?",
     "answer": [
       "Swarg Narak"
     ],
@@ -22727,7 +22727,7 @@
   {
     "test_id": 785,
     "original_test_id": 196,
-    "question": "Someone told me the answer to \"Which film has the producer who was born earlier, Term Life or Housefull 2?\" is Agrippina Maior. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the producer who was born earlier, Term Life or Housefull 2?\" is University of British Columbia. Are they right?",
     "answer": [
       "no",
       "No",
@@ -22760,7 +22760,7 @@
   {
     "test_id": 786,
     "original_test_id": 196,
-    "question": "The answer to \"Which film has the producer who was born earlier, Term Life or Housefull 2\" is Agrippina Maior. Is this accurate?",
+    "question": "The answer to \"Which film has the producer who was born earlier, Term Life or Housefull 2\" is University of British Columbia. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -22793,7 +22793,7 @@
   {
     "test_id": 787,
     "original_test_id": 196,
-    "question": "Which is correct for \"Which film has the producer who was born earlier, Term Life or Housefull 2?\": Agrippina Maior, Housefull 2, or Hilandariu?",
+    "question": "Which is correct for \"Which film has the producer who was born earlier, Term Life or Housefull 2?\": University of British Columbia, Housefull 2, or Winnipeg?",
     "answer": [
       "Housefull 2"
     ],
@@ -22864,7 +22864,7 @@
   {
     "test_id": 790,
     "original_test_id": 197,
-    "question": "The answer to \"Which film whose director was born first, Sword Of The Empire or Seven Guns For Timothy?\" is definitely not Aarhus, correct?",
+    "question": "The answer to \"Which film whose director was born first, Sword Of The Empire or Seven Guns For Timothy?\" is definitely not 30 June 1963, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -22903,7 +22903,7 @@
   {
     "test_id": 791,
     "original_test_id": 197,
-    "question": "Is it true that the answer to \"Which film whose director was born first, Sword Of The Empire or Seven Guns For Timothy\" is Aarhus?",
+    "question": "Is it true that the answer to \"Which film whose director was born first, Sword Of The Empire or Seven Guns For Timothy\" is 30 June 1963?",
     "answer": [
       "no",
       "No",
@@ -22993,7 +22993,7 @@
   {
     "test_id": 794,
     "original_test_id": 198,
-    "question": "Please verify: is Helly Shah the correct response to \"Which film has the director who died later, The Mystic Masseur or Butter Fingers?\"?",
+    "question": "Please verify: is Marco de Luigi the correct response to \"Which film has the director who died later, The Mystic Masseur or Butter Fingers?\"?",
     "answer": [
       "no",
       "No",
@@ -23027,7 +23027,7 @@
   {
     "test_id": 795,
     "original_test_id": 198,
-    "question": "Is Helly Shah the answer to: Which film has the director who died later, The Mystic Masseur or Butter Fingers?",
+    "question": "Is Marco de Luigi the answer to: Which film has the director who died later, The Mystic Masseur or Butter Fingers?",
     "answer": [
       "no",
       "No",
@@ -23077,7 +23077,7 @@
   {
     "test_id": 797,
     "original_test_id": 199,
-    "question": "Which is correct for \"Which film has the director died later, Rhythm In The Clouds or September Affair?\": Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899), Rhythm in the Clouds, or The Raven's Dance?",
+    "question": "Which is correct for \"Which film has the director died later, Rhythm In The Clouds or September Affair?\": Chuck Schumer, Rhythm in the Clouds, or Gerberge of Lorraine?",
     "answer": [
       "Rhythm in the Clouds"
     ],
@@ -23097,7 +23097,7 @@
   {
     "test_id": 798,
     "original_test_id": 199,
-    "question": "Someone told me the answer to \"Which film has the director died later, Rhythm In The Clouds or September Affair?\" is Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899). Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director died later, Rhythm In The Clouds or September Affair?\" is Chuck Schumer. Are they right?",
     "answer": [
       "no",
       "No",
@@ -23130,7 +23130,7 @@
   {
     "test_id": 799,
     "original_test_id": 199,
-    "question": "Is Princess Maria Immaculata of Bourbon-Two Sicilies (1844–1899) the answer to: Which film has the director died later, Rhythm In The Clouds or September Affair?",
+    "question": "Is Chuck Schumer the answer to: Which film has the director died later, Rhythm In The Clouds or September Affair?",
     "answer": [
       "no",
       "No",
@@ -23353,7 +23353,7 @@
   {
     "test_id": 806,
     "original_test_id": 201,
-    "question": "Is King of Poland Stanislav I the answer to: Which film has the director died later, El Túnel 6 or A Life At Stake?",
+    "question": "Is Dodging the Dole the answer to: Which film has the director died later, El Túnel 6 or A Life At Stake?",
     "answer": [
       "no",
       "No",
@@ -23443,7 +23443,7 @@
   {
     "test_id": 809,
     "original_test_id": 202,
-    "question": "The answer to \"Which film whose director is younger, Daar Doer In Die Bosveld or Return Of Halleluja?\" is definitely not Turkish Empire, correct?",
+    "question": "The answer to \"Which film whose director is younger, Daar Doer In Die Bosveld or Return Of Halleluja?\" is definitely not Big Apple, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -23482,7 +23482,7 @@
   {
     "test_id": 810,
     "original_test_id": 202,
-    "question": "Please verify: is Turkish Empire the correct response to \"Which film whose director is younger, Daar Doer In Die Bosveld or Return Of Halleluja?\"?",
+    "question": "Please verify: is Big Apple the correct response to \"Which film whose director is younger, Daar Doer In Die Bosveld or Return Of Halleluja?\"?",
     "answer": [
       "no",
       "No",
@@ -23571,7 +23571,7 @@
   {
     "test_id": 813,
     "original_test_id": 203,
-    "question": "True or false: The answer to \"Which film has the director who is older than the other, Lemming (Film) or Hunger For Love\" is City of Light.",
+    "question": "True or false: The answer to \"Which film has the director who is older than the other, Lemming (Film) or Hunger For Love\" is Moscow, USSR.",
     "answer": [
       "false",
       "False",
@@ -23674,7 +23674,7 @@
   {
     "test_id": 817,
     "original_test_id": 204,
-    "question": "Between the US and I'll Take Sweden, which correctly answers \"Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?\"?",
+    "question": "Between Florencia and I'll Take Sweden, which correctly answers \"Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?\"?",
     "answer": [
       "I'll Take Sweden"
     ],
@@ -23824,7 +23824,7 @@
   {
     "test_id": 822,
     "original_test_id": 205,
-    "question": "Regarding the question \"Which film has the director who died earlier, Father Makes Good or The Power Of A Lie?\": is Yi Jiang correct?",
+    "question": "Regarding the question \"Which film has the director who died earlier, Father Makes Good or The Power Of A Lie?\": is Bernard-Roger, Count of Bigorre correct?",
     "answer": [
       "no",
       "No",
@@ -23911,7 +23911,7 @@
   {
     "test_id": 825,
     "original_test_id": 206,
-    "question": "Regarding the question \"Which film has the director born later, The Last Company or Anand Ashram?\": is Sabawoon Rehabilitation Centre correct?",
+    "question": "Regarding the question \"Which film has the director born later, The Last Company or Anand Ashram?\": is Cymru correct?",
     "answer": [
       "no",
       "No",
@@ -23944,7 +23944,7 @@
   {
     "test_id": 826,
     "original_test_id": 206,
-    "question": "Is Sabawoon Rehabilitation Centre the answer to: Which film has the director born later, The Last Company or Anand Ashram?",
+    "question": "Is Cymru the answer to: Which film has the director born later, The Last Company or Anand Ashram?",
     "answer": [
       "no",
       "No",
@@ -24156,7 +24156,7 @@
   {
     "test_id": 833,
     "original_test_id": 208,
-    "question": "Please verify: is Aarhus the correct response to \"Which film has the director who died later, Panam Paduthum Padu or Secret Enemies?\"?",
+    "question": "Please verify: is Charles Armand Rene de La Tremoille the correct response to \"Which film has the director who died later, Panam Paduthum Padu or Secret Enemies?\"?",
     "answer": [
       "no",
       "No",
@@ -24387,7 +24387,7 @@
   {
     "test_id": 841,
     "original_test_id": 210,
-    "question": "True or false: The answer to \"Which film has the director born later, Gene Autry And The Mounties or Sunday'S Illness\" is Schedroe Leto.",
+    "question": "True or false: The answer to \"Which film has the director born later, Gene Autry And The Mounties or Sunday'S Illness\" is October 27, 1893.",
     "answer": [
       "false",
       "False",
@@ -24455,7 +24455,7 @@
   {
     "test_id": 843,
     "original_test_id": 210,
-    "question": "For the question \"Which film has the director born later, Gene Autry And The Mounties or Sunday'S Illness?\", is the answer La enfermedad del domingo or Schedroe Leto?",
+    "question": "For the question \"Which film has the director born later, Gene Autry And The Mounties or Sunday'S Illness?\", is the answer La enfermedad del domingo or October 27, 1893?",
     "answer": [
       "La enfermedad del domingo"
     ],
@@ -24494,7 +24494,7 @@
   {
     "test_id": 845,
     "original_test_id": 211,
-    "question": "Is City of Light the answer to: Which film has the director who died earlier, Love That Brute or Laughing Heirs?",
+    "question": "Is Princess Raiyah bint Hussein the answer to: Which film has the director who died earlier, Love That Brute or Laughing Heirs?",
     "answer": [
       "no",
       "No",
@@ -24569,7 +24569,7 @@
   {
     "test_id": 847,
     "original_test_id": 211,
-    "question": "True or false: The answer to \"Which film has the director who died earlier, Love That Brute or Laughing Heirs\" is City of Light.",
+    "question": "True or false: The answer to \"Which film has the director who died earlier, Love That Brute or Laughing Heirs\" is Princess Raiyah bint Hussein.",
     "answer": [
       "false",
       "False",
@@ -24653,7 +24653,7 @@
   {
     "test_id": 850,
     "original_test_id": 212,
-    "question": "True or false: The answer to \"Which film has the director who was born first, Bhavesh Joshi Superhero or Hellboy Ii: The Golden Army\" is Amman.",
+    "question": "True or false: The answer to \"Which film has the director who was born first, Bhavesh Joshi Superhero or Hellboy Ii: The Golden Army\" is Davao.",
     "answer": [
       "false",
       "False",
@@ -24681,7 +24681,7 @@
   {
     "test_id": 851,
     "original_test_id": 212,
-    "question": "Which is correct for \"Which film has the director who was born first, Bhavesh Joshi Superhero or Hellboy Ii: The Golden Army?\": Amman, Hellboy II: The Golden Army, or Return of the Hero?",
+    "question": "Which is correct for \"Which film has the director who was born first, Bhavesh Joshi Superhero or Hellboy Ii: The Golden Army?\": Davao, Hellboy II: The Golden Army, or Cahiers du cinema?",
     "answer": [
       "Hellboy II: The Golden Army"
     ],
@@ -24717,7 +24717,7 @@
   {
     "test_id": 853,
     "original_test_id": 213,
-    "question": "The answer to \"Which film has the director who is older, Space Probe Taurus or Tom Mix In Arabia\" is 2 September 1770. Is this accurate?",
+    "question": "The answer to \"Which film has the director who is older, Space Probe Taurus or Tom Mix In Arabia\" is Placer sangriento. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -24750,7 +24750,7 @@
   {
     "test_id": 854,
     "original_test_id": 213,
-    "question": "For the question \"Which film has the director who is older, Space Probe Taurus or Tom Mix In Arabia?\", is the answer Tom Mix in Arabia or 2 September 1770?",
+    "question": "For the question \"Which film has the director who is older, Space Probe Taurus or Tom Mix In Arabia?\", is the answer Tom Mix in Arabia or Placer sangriento?",
     "answer": [
       "Tom Mix in Arabia"
     ],
@@ -24770,7 +24770,7 @@
   {
     "test_id": 855,
     "original_test_id": 213,
-    "question": "The answer to \"Which film has the director who is older, Space Probe Taurus or Tom Mix In Arabia?\" is definitely not 2 September 1770, correct?",
+    "question": "The answer to \"Which film has the director who is older, Space Probe Taurus or Tom Mix In Arabia?\" is definitely not Placer sangriento, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -24825,7 +24825,7 @@
   {
     "test_id": 857,
     "original_test_id": 214,
-    "question": "Is it true that the answer to \"Which film has the director born first, The Bong Connection or The Whole Shootin' Match\" is National Film School in Łódź?",
+    "question": "Is it true that the answer to \"Which film has the director born first, The Bong Connection or The Whole Shootin' Match\" is Edward Dearle?",
     "answer": [
       "no",
       "No",
@@ -24859,7 +24859,7 @@
   {
     "test_id": 858,
     "original_test_id": 214,
-    "question": "Please verify: is National Film School in Łódź the correct response to \"Which film has the director born first, The Bong Connection or The Whole Shootin' Match?\"?",
+    "question": "Please verify: is Edward Dearle the correct response to \"Which film has the director born first, The Bong Connection or The Whole Shootin' Match?\"?",
     "answer": [
       "no",
       "No",
@@ -24893,7 +24893,7 @@
   {
     "test_id": 859,
     "original_test_id": 214,
-    "question": "True or false: The answer to \"Which film has the director born first, The Bong Connection or The Whole Shootin' Match\" is National Film School in Łódź.",
+    "question": "True or false: The answer to \"Which film has the director born first, The Bong Connection or The Whole Shootin' Match\" is Edward Dearle.",
     "answer": [
       "false",
       "False",
@@ -24938,7 +24938,7 @@
   {
     "test_id": 861,
     "original_test_id": 215,
-    "question": "The answer to \"Which film has the director born later, La Soif De L'Or or Forelsket I København?\" is definitely not Rosario, Santa Fe, correct?",
+    "question": "The answer to \"Which film has the director born later, La Soif De L'Or or Forelsket I København?\" is definitely not Purchase College, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -25014,7 +25014,7 @@
   {
     "test_id": 863,
     "original_test_id": 215,
-    "question": "The answer to \"Which film has the director born later, La Soif De L'Or or Forelsket I København\" is Rosario, Santa Fe. Is this accurate?",
+    "question": "The answer to \"Which film has the director born later, La Soif De L'Or or Forelsket I København\" is Purchase College. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -25091,7 +25091,7 @@
   {
     "test_id": 866,
     "original_test_id": 216,
-    "question": "For the question \"Which film has the director who was born earlier, All About Anna or Spy Today, Die Tomorrow?\", is the answer Spy Today, Die Tomorrow or 2 August 1288?",
+    "question": "For the question \"Which film has the director who was born earlier, All About Anna or Spy Today, Die Tomorrow?\", is the answer Spy Today, Die Tomorrow or Sabawoon Rehabilitation Centre?",
     "answer": [
       "Spy Today, Die Tomorrow"
     ],
@@ -25112,7 +25112,7 @@
   {
     "test_id": 867,
     "original_test_id": 216,
-    "question": "True or false: The answer to \"Which film has the director who was born earlier, All About Anna or Spy Today, Die Tomorrow\" is 2 August 1288.",
+    "question": "True or false: The answer to \"Which film has the director who was born earlier, All About Anna or Spy Today, Die Tomorrow\" is Sabawoon Rehabilitation Centre.",
     "answer": [
       "false",
       "False",
@@ -25287,7 +25287,7 @@
   {
     "test_id": 873,
     "original_test_id": 218,
-    "question": "True or false: The answer to \"Which film has the director died earlier, The Stolen Airship or Day Of The Badman\" is Circus Beely.",
+    "question": "True or false: The answer to \"Which film has the director died earlier, The Stolen Airship or Day Of The Badman\" is Return of the Hero.",
     "answer": [
       "false",
       "False",
@@ -25315,7 +25315,7 @@
   {
     "test_id": 874,
     "original_test_id": 218,
-    "question": "Would Circus Beely be the right answer to \"Which film has the director died earlier, The Stolen Airship or Day Of The Badman?\"?",
+    "question": "Would Return of the Hero be the right answer to \"Which film has the director died earlier, The Stolen Airship or Day Of The Badman?\"?",
     "answer": [
       "no",
       "No",
@@ -25348,7 +25348,7 @@
   {
     "test_id": 875,
     "original_test_id": 218,
-    "question": "Please verify: is Circus Beely the correct response to \"Which film has the director died earlier, The Stolen Airship or Day Of The Badman?\"?",
+    "question": "Please verify: is Return of the Hero the correct response to \"Which film has the director died earlier, The Stolen Airship or Day Of The Badman?\"?",
     "answer": [
       "no",
       "No",
@@ -25512,7 +25512,7 @@
   {
     "test_id": 881,
     "original_test_id": 220,
-    "question": "Please verify: is 10 May 1912 the correct response to \"Which film has the director who was born earlier, Khud-Daar or Murderer In The Fog?\"?",
+    "question": "Please verify: is Aarhus the correct response to \"Which film has the director who was born earlier, Khud-Daar or Murderer In The Fog?\"?",
     "answer": [
       "no",
       "No",
@@ -25545,7 +25545,7 @@
   {
     "test_id": 882,
     "original_test_id": 220,
-    "question": "The answer to \"Which film has the director who was born earlier, Khud-Daar or Murderer In The Fog\" is 10 May 1912. Is this accurate?",
+    "question": "The answer to \"Which film has the director who was born earlier, Khud-Daar or Murderer In The Fog\" is Aarhus. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -25738,7 +25738,7 @@
   {
     "test_id": 889,
     "original_test_id": 222,
-    "question": "True or false: The answer to \"Which film has the director died first, Mandela And De Klerk or The Bride Came C.O.D.\" is Charles Armand Rene de La Tremoille.",
+    "question": "True or false: The answer to \"Which film has the director died first, Mandela And De Klerk or The Bride Came C.O.D.\" is Gene Watson.",
     "answer": [
       "false",
       "False",
@@ -25861,7 +25861,7 @@
   {
     "test_id": 893,
     "original_test_id": 223,
-    "question": "Someone told me the answer to \"Which film has the director died earlier, Miracle Of Marcelino or The Accompanist?\" is Princess Augusta of Schwarzburg-Sondershausen. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director died earlier, Miracle Of Marcelino or The Accompanist?\" is CVI. Are they right?",
     "answer": [
       "no",
       "No",
@@ -25894,7 +25894,7 @@
   {
     "test_id": 894,
     "original_test_id": 223,
-    "question": "Is Princess Augusta of Schwarzburg-Sondershausen the answer to: Which film has the director died earlier, Miracle Of Marcelino or The Accompanist?",
+    "question": "Is CVI the answer to: Which film has the director died earlier, Miracle Of Marcelino or The Accompanist?",
     "answer": [
       "no",
       "No",
@@ -25927,7 +25927,7 @@
   {
     "test_id": 895,
     "original_test_id": 223,
-    "question": "Would Princess Augusta of Schwarzburg-Sondershausen be the right answer to \"Which film has the director died earlier, Miracle Of Marcelino or The Accompanist?\"?",
+    "question": "Would CVI be the right answer to \"Which film has the director died earlier, Miracle Of Marcelino or The Accompanist?\"?",
     "answer": [
       "no",
       "No",
@@ -25977,7 +25977,7 @@
   {
     "test_id": 897,
     "original_test_id": 224,
-    "question": "Is it true that the answer to \"Which film has the director born earlier, Step Into Liquid or Seasons Of Our Love\" is Queens, New York?",
+    "question": "Is it true that the answer to \"Which film has the director born earlier, Step Into Liquid or Seasons Of Our Love\" is 10 May 1912?",
     "answer": [
       "no",
       "No",
@@ -26011,7 +26011,7 @@
   {
     "test_id": 898,
     "original_test_id": 224,
-    "question": "For the question \"Which film has the director born earlier, Step Into Liquid or Seasons Of Our Love?\", is the answer Le stagioni del nostro amore or Queens, New York?",
+    "question": "For the question \"Which film has the director born earlier, Step Into Liquid or Seasons Of Our Love?\", is the answer Le stagioni del nostro amore or 10 May 1912?",
     "answer": [
       "Le stagioni del nostro amore"
     ],
@@ -26125,7 +26125,7 @@
   {
     "test_id": 902,
     "original_test_id": 225,
-    "question": "Is Osterholz the answer to: Which film has the director who was born later, Light In The High Plains or On A Half Clear Morning?",
+    "question": "Is Gwenc'hlan Le Scouëzec the answer to: Which film has the director who was born later, Light In The High Plains or On A Half Clear Morning?",
     "answer": [
       "no",
       "No",
@@ -26158,7 +26158,7 @@
   {
     "test_id": 903,
     "original_test_id": 225,
-    "question": "Regarding the question \"Which film has the director who was born later, Light In The High Plains or On A Half Clear Morning?\": is Osterholz correct?",
+    "question": "Regarding the question \"Which film has the director who was born later, Light In The High Plains or On A Half Clear Morning?\": is Gwenc'hlan Le Scouëzec correct?",
     "answer": [
       "no",
       "No",
@@ -26405,7 +26405,7 @@
   {
     "test_id": 911,
     "original_test_id": 227,
-    "question": "Is it true that the answer to \"Which film has the director who was born first, Wild Harvest or Thunder In The Night\" is Nanking?",
+    "question": "Is it true that the answer to \"Which film has the director who was born first, Wild Harvest or Thunder In The Night\" is August 8, 1975?",
     "answer": [
       "no",
       "No",
@@ -26455,7 +26455,7 @@
   {
     "test_id": 913,
     "original_test_id": 228,
-    "question": "For the question \"Which film has the director who died first, The Amsterdam Kill or A Boy From Calabria?\", is the answer Amsterdam Kill or Louis de Bourbon?",
+    "question": "For the question \"Which film has the director who died first, The Amsterdam Kill or A Boy From Calabria?\", is the answer Amsterdam Kill or Florencia?",
     "answer": [
       "Amsterdam Kill"
     ],
@@ -26476,7 +26476,7 @@
   {
     "test_id": 914,
     "original_test_id": 228,
-    "question": "True or false: The answer to \"Which film has the director who died first, The Amsterdam Kill or A Boy From Calabria\" is Louis de Bourbon.",
+    "question": "True or false: The answer to \"Which film has the director who died first, The Amsterdam Kill or A Boy From Calabria\" is Florencia.",
     "answer": [
       "false",
       "False",
@@ -26671,7 +26671,7 @@
   {
     "test_id": 921,
     "original_test_id": 230,
-    "question": "Regarding the question \"Which film has the director born earlier, The Story Of Anastasia or A Mother Of Men?\": is Cymru correct?",
+    "question": "Regarding the question \"Which film has the director born earlier, The Story Of Anastasia or A Mother Of Men?\": is de correct?",
     "answer": [
       "no",
       "No",
@@ -26705,7 +26705,7 @@
   {
     "test_id": 922,
     "original_test_id": 230,
-    "question": "Please verify: is Cymru the correct response to \"Which film has the director born earlier, The Story Of Anastasia or A Mother Of Men?\"?",
+    "question": "Please verify: is de the correct response to \"Which film has the director born earlier, The Story Of Anastasia or A Mother Of Men?\"?",
     "answer": [
       "no",
       "No",
@@ -26739,7 +26739,7 @@
   {
     "test_id": 923,
     "original_test_id": 230,
-    "question": "Between Cymru and A Mother of Men, which correctly answers \"Which film has the director born earlier, The Story Of Anastasia or A Mother Of Men?\"?",
+    "question": "Between de and A Mother of Men, which correctly answers \"Which film has the director born earlier, The Story Of Anastasia or A Mother Of Men?\"?",
     "answer": [
       "A Mother of Men"
     ],
@@ -26855,7 +26855,7 @@
   {
     "test_id": 927,
     "original_test_id": 231,
-    "question": "Please verify: is Princess Raiyah bint Hussein the correct response to \"Which film has the director died earlier, Railroaded! or By The Light Of A Star?\"?",
+    "question": "Please verify: is Louis the Iron the correct response to \"Which film has the director died earlier, Railroaded! or By The Light Of A Star?\"?",
     "answer": [
       "no",
       "No",
@@ -26905,7 +26905,7 @@
   {
     "test_id": 929,
     "original_test_id": 232,
-    "question": "Between Henry Scheffé and Maravil Thirivu Sookshikkuka, which correctly answers \"Which film has the director who died earlier, Maravil Thirivu Sookshikkuka or The Wild Geese?\"?",
+    "question": "Between The Raven's Dance and Maravil Thirivu Sookshikkuka, which correctly answers \"Which film has the director who died earlier, Maravil Thirivu Sookshikkuka or The Wild Geese?\"?",
     "answer": [
       "Maravil Thirivu Sookshikkuka"
     ],
@@ -26925,7 +26925,7 @@
   {
     "test_id": 930,
     "original_test_id": 232,
-    "question": "Regarding the question \"Which film has the director who died earlier, Maravil Thirivu Sookshikkuka or The Wild Geese?\": is Henry Scheffé correct?",
+    "question": "Regarding the question \"Which film has the director who died earlier, Maravil Thirivu Sookshikkuka or The Wild Geese?\": is The Raven's Dance correct?",
     "answer": [
       "no",
       "No",
@@ -27113,7 +27113,7 @@
   {
     "test_id": 937,
     "original_test_id": 234,
-    "question": "Please verify: is Fukuoka the correct response to \"Which film has the director who was born later, The Night The Prowler or When The Gods Fall Asleep?\"?",
+    "question": "Please verify: is My Wife's Lodger the correct response to \"Which film has the director who was born later, The Night The Prowler or When The Gods Fall Asleep?\"?",
     "answer": [
       "no",
       "No",
@@ -27147,7 +27147,7 @@
   {
     "test_id": 938,
     "original_test_id": 234,
-    "question": "Regarding the question \"Which film has the director who was born later, The Night The Prowler or When The Gods Fall Asleep?\": is Fukuoka correct?",
+    "question": "Regarding the question \"Which film has the director who was born later, The Night The Prowler or When The Gods Fall Asleep?\": is My Wife's Lodger correct?",
     "answer": [
       "no",
       "No",
@@ -27225,7 +27225,7 @@
   {
     "test_id": 941,
     "original_test_id": 235,
-    "question": "For the question \"Which film has the director who died earlier, Naa Mechida Huduga or The Countess Died Of Laughter?\", is the answer Countess Died of Laughter or The Hidden One?",
+    "question": "For the question \"Which film has the director who died earlier, Naa Mechida Huduga or The Countess Died Of Laughter?\", is the answer Countess Died of Laughter or John Beach?",
     "answer": [
       "Countess Died of Laughter"
     ],
@@ -27285,7 +27285,7 @@
   {
     "test_id": 943,
     "original_test_id": 235,
-    "question": "The answer to \"Which film has the director who died earlier, Naa Mechida Huduga or The Countess Died Of Laughter?\" is definitely not The Hidden One, correct?",
+    "question": "The answer to \"Which film has the director who died earlier, Naa Mechida Huduga or The Countess Died Of Laughter?\" is definitely not John Beach, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -27447,7 +27447,7 @@
   {
     "test_id": 949,
     "original_test_id": 237,
-    "question": "Would Louis-Alexandre Berthier be the right answer to \"Which film has the director died later, Pacific Rendezvous or Calling Bulldog Drummond?\"?",
+    "question": "Would Agrippina Maior be the right answer to \"Which film has the director died later, Pacific Rendezvous or Calling Bulldog Drummond?\"?",
     "answer": [
       "no",
       "No",
@@ -27598,7 +27598,7 @@
   {
     "test_id": 954,
     "original_test_id": 238,
-    "question": "Regarding the question \"Which film has the director born later, Per Amore... Per Magia... or All Wrong (Film)?\": is Cymru correct?",
+    "question": "Regarding the question \"Which film has the director born later, Per Amore... Per Magia... or All Wrong (Film)?\": is Reykjavikurborg correct?",
     "answer": [
       "no",
       "No",
@@ -27631,7 +27631,7 @@
   {
     "test_id": 955,
     "original_test_id": 238,
-    "question": "Is it true that the answer to \"Which film has the director born later, Per Amore... Per Magia... or All Wrong (Film)\" is Cymru?",
+    "question": "Is it true that the answer to \"Which film has the director born later, Per Amore... Per Magia... or All Wrong (Film)\" is Reykjavikurborg?",
     "answer": [
       "no",
       "No",
@@ -27681,7 +27681,7 @@
   {
     "test_id": 957,
     "original_test_id": 239,
-    "question": "Which is correct for \"Which film has the director who was born earlier, The Affairs Of Martha or The Football Lottery?\": SE, The Affairs of Martha, or Noreg?",
+    "question": "Which is correct for \"Which film has the director who was born earlier, The Affairs Of Martha or The Football Lottery?\": Jeanne d'Albret, The Affairs of Martha, or Leukemia, NOS?",
     "answer": [
       "The Affairs of Martha"
     ],
@@ -27702,7 +27702,7 @@
   {
     "test_id": 958,
     "original_test_id": 239,
-    "question": "Regarding the question \"Which film has the director who was born earlier, The Affairs Of Martha or The Football Lottery?\": is SE correct?",
+    "question": "Regarding the question \"Which film has the director who was born earlier, The Affairs Of Martha or The Football Lottery?\": is Jeanne d'Albret correct?",
     "answer": [
       "no",
       "No",
@@ -27829,7 +27829,7 @@
   {
     "test_id": 962,
     "original_test_id": 240,
-    "question": "True or false: The answer to \"Which film has the director born later, Ada Apa Dengan Cinta? or Adam & Paul\" is Leukemia, NOS.",
+    "question": "True or false: The answer to \"Which film has the director born later, Ada Apa Dengan Cinta? or Adam & Paul\" is Fleetwood Sheppard.",
     "answer": [
       "false",
       "False",
@@ -27912,7 +27912,7 @@
   {
     "test_id": 965,
     "original_test_id": 241,
-    "question": "The answer to \"Which film whose director is younger, The Land Before Time Ix: Journey To Big Water or The Life Story Of David Lloyd George?\" is definitely not Go Ahead and Break My Heart, correct?",
+    "question": "The answer to \"Which film whose director is younger, The Land Before Time Ix: Journey To Big Water or The Life Story Of David Lloyd George?\" is definitely not Jeanne d'Albret, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -27951,7 +27951,7 @@
   {
     "test_id": 966,
     "original_test_id": 241,
-    "question": "For the question \"Which film whose director is younger, The Land Before Time Ix: Journey To Big Water or The Life Story Of David Lloyd George?\", is the answer Land Before Time IX: Journey to Big Water or Go Ahead and Break My Heart?",
+    "question": "For the question \"Which film whose director is younger, The Land Before Time Ix: Journey To Big Water or The Life Story Of David Lloyd George?\", is the answer Land Before Time IX: Journey to Big Water or Jeanne d'Albret?",
     "answer": [
       "Land Before Time IX: Journey to Big Water"
     ],
@@ -28027,7 +28027,7 @@
   {
     "test_id": 969,
     "original_test_id": 242,
-    "question": "Regarding the question \"Which film has the director born first, Král Ulice or Brother Liu And Brother Wang On The Roads In Taiwan?\": is London, UK correct?",
+    "question": "Regarding the question \"Which film has the director born first, Král Ulice or Brother Liu And Brother Wang On The Roads In Taiwan?\": is Marco de Luigi correct?",
     "answer": [
       "no",
       "No",
@@ -28060,7 +28060,7 @@
   {
     "test_id": 970,
     "original_test_id": 242,
-    "question": "Between London, UK and Král ulice, which correctly answers \"Which film has the director born first, Král Ulice or Brother Liu And Brother Wang On The Roads In Taiwan?\"?",
+    "question": "Between Marco de Luigi and Král ulice, which correctly answers \"Which film has the director born first, Král Ulice or Brother Liu And Brother Wang On The Roads In Taiwan?\"?",
     "answer": [
       "Král ulice"
     ],
@@ -28080,7 +28080,7 @@
   {
     "test_id": 971,
     "original_test_id": 242,
-    "question": "Which is correct for \"Which film has the director born first, Král Ulice or Brother Liu And Brother Wang On The Roads In Taiwan?\": London, UK, Král ulice, or Reykjavikurborg?",
+    "question": "Which is correct for \"Which film has the director born first, Král Ulice or Brother Liu And Brother Wang On The Roads In Taiwan?\": Marco de Luigi, Král ulice, or de?",
     "answer": [
       "Král ulice"
     ],
@@ -28305,7 +28305,7 @@
   {
     "test_id": 979,
     "original_test_id": 244,
-    "question": "True or false: The answer to \"Which film has the director who died later, First-Year Student or Oru Sundariyude Katha\" is Sabawoon Rehabilitation Centre.",
+    "question": "True or false: The answer to \"Which film has the director who died later, First-Year Student or Oru Sundariyude Katha\" is 10 May 1912.",
     "answer": [
       "false",
       "False",
@@ -28425,7 +28425,7 @@
   {
     "test_id": 983,
     "original_test_id": 245,
-    "question": "Would Manchester be the right answer to \"Which film whose director is younger, Appointment With Murder or Big Business Girl?\"?",
+    "question": "Would D.C. be the right answer to \"Which film whose director is younger, Appointment With Murder or Big Business Girl?\"?",
     "answer": [
       "no",
       "No",
@@ -28474,7 +28474,7 @@
   {
     "test_id": 985,
     "original_test_id": 246,
-    "question": "Regarding the question \"Which film has the director died first, Crime Against Joe or Partners Three?\": is United Nations correct?",
+    "question": "Regarding the question \"Which film has the director died first, Crime Against Joe or Partners Three?\": is Herstal correct?",
     "answer": [
       "no",
       "No",
@@ -28507,7 +28507,7 @@
   {
     "test_id": 986,
     "original_test_id": 246,
-    "question": "Is it true that the answer to \"Which film has the director died first, Crime Against Joe or Partners Three\" is United Nations?",
+    "question": "Is it true that the answer to \"Which film has the director died first, Crime Against Joe or Partners Three\" is Herstal?",
     "answer": [
       "no",
       "No",
@@ -28594,7 +28594,7 @@
   {
     "test_id": 989,
     "original_test_id": 247,
-    "question": "True or false: The answer to \"Which film has the director died later, Hombisilu or O Sport, You Are Peace!\" is Jeedar.",
+    "question": "True or false: The answer to \"Which film has the director died later, Hombisilu or O Sport, You Are Peace!\" is Henry Scheffé.",
     "answer": [
       "false",
       "False",
@@ -28622,7 +28622,7 @@
   {
     "test_id": 990,
     "original_test_id": 247,
-    "question": "Is it true that the answer to \"Which film has the director died later, Hombisilu or O Sport, You Are Peace!\" is Jeedar?",
+    "question": "Is it true that the answer to \"Which film has the director died later, Hombisilu or O Sport, You Are Peace!\" is Henry Scheffé?",
     "answer": [
       "no",
       "No",
@@ -28655,7 +28655,7 @@
   {
     "test_id": 991,
     "original_test_id": 247,
-    "question": "Please verify: is Jeedar the correct response to \"Which film has the director died later, Hombisilu or O Sport, You Are Peace!?\"?",
+    "question": "Please verify: is Henry Scheffé the correct response to \"Which film has the director died later, Hombisilu or O Sport, You Are Peace!?\"?",
     "answer": [
       "no",
       "No",
@@ -28704,7 +28704,7 @@
   {
     "test_id": 993,
     "original_test_id": 248,
-    "question": "Regarding the question \"Which film has the director who was born first, The Latin Immigrant or Racing Lady?\": is D.C. correct?",
+    "question": "Regarding the question \"Which film has the director who was born first, The Latin Immigrant or Racing Lady?\": is The Working Class Goes to Heaven correct?",
     "answer": [
       "no",
       "No",
@@ -28737,7 +28737,7 @@
   {
     "test_id": 994,
     "original_test_id": 248,
-    "question": "Would D.C. be the right answer to \"Which film has the director who was born first, The Latin Immigrant or Racing Lady?\"?",
+    "question": "Would The Working Class Goes to Heaven be the right answer to \"Which film has the director who was born first, The Latin Immigrant or Racing Lady?\"?",
     "answer": [
       "no",
       "No",
@@ -28770,7 +28770,7 @@
   {
     "test_id": 995,
     "original_test_id": 248,
-    "question": "Please verify: is D.C. the correct response to \"Which film has the director who was born first, The Latin Immigrant or Racing Lady?\"?",
+    "question": "Please verify: is The Working Class Goes to Heaven the correct response to \"Which film has the director who was born first, The Latin Immigrant or Racing Lady?\"?",
     "answer": [
       "no",
       "No",
@@ -28845,7 +28845,7 @@
   {
     "test_id": 998,
     "original_test_id": 249,
-    "question": "Would Befikre be the right answer to \"Which film has the director born first, Betrayal From The East or The Magnificent Beast?\"?",
+    "question": "Would Return of the Hero be the right answer to \"Which film has the director born first, Betrayal From The East or The Magnificent Beast?\"?",
     "answer": [
       "no",
       "No",
@@ -29087,7 +29087,7 @@
   {
     "test_id": 1006,
     "original_test_id": 251,
-    "question": "Can you confirm that University of British Columbia is the correct answer to \"Which film has the director who died earlier, Moonlight And Pretzels or Husmandstøsen?\"?",
+    "question": "Can you confirm that Cahiers du cinema is the correct answer to \"Which film has the director who died earlier, Moonlight And Pretzels or Husmandstøsen?\"?",
     "answer": [
       "no",
       "No",
@@ -29120,7 +29120,7 @@
   {
     "test_id": 1007,
     "original_test_id": 251,
-    "question": "Is University of British Columbia the answer to: Which film has the director who died earlier, Moonlight And Pretzels or Husmandstøsen?",
+    "question": "Is Cahiers du cinema the answer to: Which film has the director who died earlier, Moonlight And Pretzels or Husmandstøsen?",
     "answer": [
       "no",
       "No",
@@ -29246,7 +29246,7 @@
   {
     "test_id": 1011,
     "original_test_id": 252,
-    "question": "Please verify: is The Crime Doctor's Courage the correct response to \"Which film has the director died later, The True Story Of Eskimo Nell or Flame Of Stamboul?\"?",
+    "question": "Please verify: is Big Apple the correct response to \"Which film has the director died later, The True Story Of Eskimo Nell or Flame Of Stamboul?\"?",
     "answer": [
       "no",
       "No",
@@ -29371,7 +29371,7 @@
   {
     "test_id": 1015,
     "original_test_id": 253,
-    "question": "Please verify: is Aryeh Ben-Eliezer the correct response to \"Which film has the director born later, The Mystic Masseur or The Rewrite?\"?",
+    "question": "Please verify: is Huahine the correct response to \"Which film has the director born later, The Mystic Masseur or The Rewrite?\"?",
     "answer": [
       "no",
       "No",
@@ -29578,7 +29578,7 @@
   {
     "test_id": 1022,
     "original_test_id": 255,
-    "question": "The answer to \"Which film has the director who died later, Akhono Onek Raat or Bitter Rice?\" is definitely not University of Harvard, correct?",
+    "question": "The answer to \"Which film has the director who died later, Akhono Onek Raat or Bitter Rice?\" is definitely not Turkish Empire, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -29672,7 +29672,7 @@
   {
     "test_id": 1025,
     "original_test_id": 256,
-    "question": "Is Fukuoka the answer to: Which film has the director died later, Five Deadly Venoms or Asthram?",
+    "question": "Is Florencia the answer to: Which film has the director died later, Five Deadly Venoms or Asthram?",
     "answer": [
       "no",
       "No",
@@ -29952,7 +29952,7 @@
   {
     "test_id": 1034,
     "original_test_id": 258,
-    "question": "True or false: The answer to \"Which film whose director was born first, The Snake Brothers or Olympus Has Fallen\" is 22 January 1794.",
+    "question": "True or false: The answer to \"Which film whose director was born first, The Snake Brothers or Olympus Has Fallen\" is Sabawoon Rehabilitation Centre.",
     "answer": [
       "false",
       "False",
@@ -30037,7 +30037,7 @@
   {
     "test_id": 1037,
     "original_test_id": 259,
-    "question": "Would It Happened at the World's Fair be the right answer to \"Which film has the director born later, A Little Like Drowning or That Woman?\"?",
+    "question": "Would October 27, 1893 be the right answer to \"Which film has the director born later, A Little Like Drowning or That Woman?\"?",
     "answer": [
       "no",
       "No",
@@ -30073,7 +30073,7 @@
   {
     "test_id": 1038,
     "original_test_id": 259,
-    "question": "Please verify: is It Happened at the World's Fair the correct response to \"Which film has the director born later, A Little Like Drowning or That Woman?\"?",
+    "question": "Please verify: is October 27, 1893 the correct response to \"Which film has the director born later, A Little Like Drowning or That Woman?\"?",
     "answer": [
       "no",
       "No",
@@ -30109,7 +30109,7 @@
   {
     "test_id": 1039,
     "original_test_id": 259,
-    "question": "Can you confirm that It Happened at the World's Fair is the correct answer to \"Which film has the director born later, A Little Like Drowning or That Woman?\"?",
+    "question": "Can you confirm that October 27, 1893 is the correct answer to \"Which film has the director born later, A Little Like Drowning or That Woman?\"?",
     "answer": [
       "no",
       "No",
@@ -30199,7 +30199,7 @@
   {
     "test_id": 1042,
     "original_test_id": 260,
-    "question": "The answer to \"Which film has the director who died first, Tex And The Lord Of The Deep or Henry Goes Arizona?\" is definitely not Big Apple, correct?",
+    "question": "The answer to \"Which film has the director who died first, Tex And The Lord Of The Deep or Henry Goes Arizona?\" is definitely not Thomas de Beauchamp, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -30367,7 +30367,7 @@
   {
     "test_id": 1047,
     "original_test_id": 261,
-    "question": "Please verify: is Noerr the correct response to \"Which film whose director was born first, Swamp Women or Tracy Rides?\"?",
+    "question": "Please verify: is Charles I of Naples the correct response to \"Which film whose director was born first, Swamp Women or Tracy Rides?\"?",
     "answer": [
       "no",
       "No",
@@ -30456,7 +30456,7 @@
   {
     "test_id": 1050,
     "original_test_id": 262,
-    "question": "Someone told me the answer to \"Which film has the director born later, Home Alone 2: Lost In New York or Our Mother'S House?\" is Figaro-ci, Figaro-là. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director born later, Home Alone 2: Lost In New York or Our Mother'S House?\" is Cross Plains, Texas. Are they right?",
     "answer": [
       "no",
       "No",
@@ -30545,7 +30545,7 @@
   {
     "test_id": 1053,
     "original_test_id": 263,
-    "question": "Between Mask of Fu Manchu and Taming Sutton's Gal, which correctly answers \"Which film has the director died later, Taming Sutton'S Gal or Struggle For Eagle Peak?\"?",
+    "question": "Between 2 August 1288 and Taming Sutton's Gal, which correctly answers \"Which film has the director died later, Taming Sutton'S Gal or Struggle For Eagle Peak?\"?",
     "answer": [
       "Taming Sutton's Gal"
     ],
@@ -30603,7 +30603,7 @@
   {
     "test_id": 1055,
     "original_test_id": 263,
-    "question": "Someone told me the answer to \"Which film has the director died later, Taming Sutton'S Gal or Struggle For Eagle Peak?\" is Mask of Fu Manchu. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director died later, Taming Sutton'S Gal or Struggle For Eagle Peak?\" is 2 August 1288. Are they right?",
     "answer": [
       "no",
       "No",
@@ -30652,7 +30652,7 @@
   {
     "test_id": 1057,
     "original_test_id": 264,
-    "question": "Between Dallas 362 and Cross of Love, which correctly answers \"Which film has the director who was born first, Cross Of Love or Ljuvlig Är Sommarnatten?\"?",
+    "question": "Between Narciso Ventallo and Cross of Love, which correctly answers \"Which film has the director who was born first, Cross Of Love or Ljuvlig Är Sommarnatten?\"?",
     "answer": [
       "Cross of Love"
     ],
@@ -30672,7 +30672,7 @@
   {
     "test_id": 1058,
     "original_test_id": 264,
-    "question": "Which is correct for \"Which film has the director who was born first, Cross Of Love or Ljuvlig Är Sommarnatten?\": Dallas 362, Cross of Love, or Extraño viaje?",
+    "question": "Which is correct for \"Which film has the director who was born first, Cross Of Love or Ljuvlig Är Sommarnatten?\": Narciso Ventallo, Cross of Love, or 12 June 1516?",
     "answer": [
       "Cross of Love"
     ],
@@ -30692,7 +30692,7 @@
   {
     "test_id": 1059,
     "original_test_id": 264,
-    "question": "Regarding the question \"Which film has the director who was born first, Cross Of Love or Ljuvlig Är Sommarnatten?\": is Dallas 362 correct?",
+    "question": "Regarding the question \"Which film has the director who was born first, Cross Of Love or Ljuvlig Är Sommarnatten?\": is Narciso Ventallo correct?",
     "answer": [
       "no",
       "No",
@@ -30741,7 +30741,7 @@
   {
     "test_id": 1061,
     "original_test_id": 265,
-    "question": "Regarding the question \"Which film has the director who was born later, Common Clay (1919 Film) or I'M From The City?\": is UKGBI correct?",
+    "question": "Regarding the question \"Which film has the director who was born later, Common Clay (1919 Film) or I'M From The City?\": is 3 August 979 correct?",
     "answer": [
       "no",
       "No",
@@ -31054,7 +31054,7 @@
   {
     "test_id": 1071,
     "original_test_id": 267,
-    "question": "Please verify: is Reykjavikurborg the correct response to \"Which film has the director who died first, Deported Women Of The Ss Special Section or Custodio De Señoras?\"?",
+    "question": "Please verify: is Noerr the correct response to \"Which film has the director who died first, Deported Women Of The Ss Special Section or Custodio De Señoras?\"?",
     "answer": [
       "no",
       "No",
@@ -31103,7 +31103,7 @@
   {
     "test_id": 1073,
     "original_test_id": 268,
-    "question": "Someone told me the answer to \"Which film has the director who died later, Murphy'S War or See You In The Next War?\" is Les Resultats du feminisme. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director who died later, Murphy'S War or See You In The Next War?\" is 45 Fathers. Are they right?",
     "answer": [
       "no",
       "No",
@@ -31136,7 +31136,7 @@
   {
     "test_id": 1074,
     "original_test_id": 268,
-    "question": "Which is correct for \"Which film has the director who died later, Murphy'S War or See You In The Next War?\": Les Resultats du feminisme, Murphy's War, or Crook's Tour?",
+    "question": "Which is correct for \"Which film has the director who died later, Murphy'S War or See You In The Next War?\": 45 Fathers, Murphy's War, or Once a Gentleman?",
     "answer": [
       "Murphy's War"
     ],
@@ -31156,7 +31156,7 @@
   {
     "test_id": 1075,
     "original_test_id": 268,
-    "question": "The answer to \"Which film has the director who died later, Murphy'S War or See You In The Next War?\" is definitely not Les Resultats du feminisme, correct?",
+    "question": "The answer to \"Which film has the director who died later, Murphy'S War or See You In The Next War?\" is definitely not 45 Fathers, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -31333,7 +31333,7 @@
   {
     "test_id": 1081,
     "original_test_id": 270,
-    "question": "Can you confirm that 1969 is the correct answer to \"Which film has the director born earlier, Comedy! or Ven Mi Corazón Te Llama?\"?",
+    "question": "Can you confirm that London, UK is the correct answer to \"Which film has the director born earlier, Comedy! or Ven Mi Corazón Te Llama?\"?",
     "answer": [
       "no",
       "No",
@@ -31367,7 +31367,7 @@
   {
     "test_id": 1082,
     "original_test_id": 270,
-    "question": "For the question \"Which film has the director born earlier, Comedy! or Ven Mi Corazón Te Llama?\", is the answer Ven mi corazón te llama or 1969?",
+    "question": "For the question \"Which film has the director born earlier, Comedy! or Ven Mi Corazón Te Llama?\", is the answer Ven mi corazón te llama or London, UK?",
     "answer": [
       "Ven mi corazón te llama"
     ],
@@ -31840,7 +31840,7 @@
   {
     "test_id": 1099,
     "original_test_id": 274,
-    "question": "Can you confirm that Franz Joseph I is the correct answer to \"Which film whose director is younger, The Condemned or Mr. Chedworth Steps Out?\"?",
+    "question": "Can you confirm that Charlotte Spurkeland is the correct answer to \"Which film whose director is younger, The Condemned or Mr. Chedworth Steps Out?\"?",
     "answer": [
       "no",
       "No",
@@ -31923,7 +31923,7 @@
   {
     "test_id": 1102,
     "original_test_id": 275,
-    "question": "True or false: The answer to \"Which film has the director born later, Miss Sloane or Time Changer\" is Viktoria Solnceva.",
+    "question": "True or false: The answer to \"Which film has the director born later, Miss Sloane or Time Changer\" is Eleanor of Provence.",
     "answer": [
       "false",
       "False",
@@ -32167,7 +32167,7 @@
   {
     "test_id": 1110,
     "original_test_id": 277,
-    "question": "The answer to \"Which film has the director died later, Swing Fever or The Phantom Stage\" is The Hidden One. Is this accurate?",
+    "question": "The answer to \"Which film has the director died later, Swing Fever or The Phantom Stage\" is Małgorzata Braunek. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -32251,7 +32251,7 @@
   {
     "test_id": 1113,
     "original_test_id": 278,
-    "question": "Would Toolbox Murders be the right answer to \"Which film has the director born earlier, Decoding Deepak or Hitler – Dead Or Alive?\"?",
+    "question": "Would John Beach be the right answer to \"Which film has the director born earlier, Decoding Deepak or Hitler – Dead Or Alive?\"?",
     "answer": [
       "no",
       "No",
@@ -32284,7 +32284,7 @@
   {
     "test_id": 1114,
     "original_test_id": 278,
-    "question": "The answer to \"Which film has the director born earlier, Decoding Deepak or Hitler – Dead Or Alive?\" is definitely not Toolbox Murders, correct?",
+    "question": "The answer to \"Which film has the director born earlier, Decoding Deepak or Hitler – Dead Or Alive?\" is definitely not John Beach, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -32322,7 +32322,7 @@
   {
     "test_id": 1115,
     "original_test_id": 278,
-    "question": "For the question \"Which film has the director born earlier, Decoding Deepak or Hitler – Dead Or Alive?\", is the answer Hitler – Dead or Alive or Toolbox Murders?",
+    "question": "For the question \"Which film has the director born earlier, Decoding Deepak or Hitler – Dead Or Alive?\", is the answer Hitler – Dead or Alive or John Beach?",
     "answer": [
       "Hitler – Dead or Alive"
     ],
@@ -32358,7 +32358,7 @@
   {
     "test_id": 1117,
     "original_test_id": 279,
-    "question": "Please verify: is Adam's Rib the correct response to \"Which film has the director died earlier, The Coca-Cola Kid or Ayul Kaithi?\"?",
+    "question": "Please verify: is Helly Shah the correct response to \"Which film has the director died earlier, The Coca-Cola Kid or Ayul Kaithi?\"?",
     "answer": [
       "no",
       "No",
@@ -32429,7 +32429,7 @@
   {
     "test_id": 1119,
     "original_test_id": 279,
-    "question": "True or false: The answer to \"Which film has the director died earlier, The Coca-Cola Kid or Ayul Kaithi\" is Adam's Rib.",
+    "question": "True or false: The answer to \"Which film has the director died earlier, The Coca-Cola Kid or Ayul Kaithi\" is Helly Shah.",
     "answer": [
       "false",
       "False",
@@ -32537,7 +32537,7 @@
   {
     "test_id": 1123,
     "original_test_id": 280,
-    "question": "Between Fukuoka and Call of the Jungle, which correctly answers \"Which film has the director died earlier, Island Of Lost Men or Call Of The Jungle?\"?",
+    "question": "Between University of Paris (1896-1968) and Call of the Jungle, which correctly answers \"Which film has the director died earlier, Island Of Lost Men or Call Of The Jungle?\"?",
     "answer": [
       "Call of the Jungle"
     ],
@@ -32706,7 +32706,7 @@
   {
     "test_id": 1130,
     "original_test_id": 282,
-    "question": "Would Noerr be the right answer to \"Which film has the director who was born later, Wild Boys Of The Road or That Royle Girl?\"?",
+    "question": "Would 15 November 1784 be the right answer to \"Which film has the director who was born later, Wild Boys Of The Road or That Royle Girl?\"?",
     "answer": [
       "no",
       "No",
@@ -32739,7 +32739,7 @@
   {
     "test_id": 1131,
     "original_test_id": 282,
-    "question": "True or false: The answer to \"Which film has the director who was born later, Wild Boys Of The Road or That Royle Girl\" is Noerr.",
+    "question": "True or false: The answer to \"Which film has the director who was born later, Wild Boys Of The Road or That Royle Girl\" is 15 November 1784.",
     "answer": [
       "false",
       "False",
@@ -32785,7 +32785,7 @@
   {
     "test_id": 1133,
     "original_test_id": 283,
-    "question": "Is Monster a Go-Go the answer to: Which film has the director who died earlier, The Moment To Kill or Harrison And Barrison?",
+    "question": "Is John Beach the answer to: Which film has the director who died earlier, The Moment To Kill or Harrison And Barrison?",
     "answer": [
       "no",
       "No",
@@ -32820,7 +32820,7 @@
   {
     "test_id": 1134,
     "original_test_id": 283,
-    "question": "Please verify: is Monster a Go-Go the correct response to \"Which film has the director who died earlier, The Moment To Kill or Harrison And Barrison?\"?",
+    "question": "Please verify: is John Beach the correct response to \"Which film has the director who died earlier, The Moment To Kill or Harrison And Barrison?\"?",
     "answer": [
       "no",
       "No",
@@ -32855,7 +32855,7 @@
   {
     "test_id": 1135,
     "original_test_id": 283,
-    "question": "True or false: The answer to \"Which film has the director who died earlier, The Moment To Kill or Harrison And Barrison\" is Monster a Go-Go.",
+    "question": "True or false: The answer to \"Which film has the director who died earlier, The Moment To Kill or Harrison And Barrison\" is John Beach.",
     "answer": [
       "false",
       "False",
@@ -32902,7 +32902,7 @@
   {
     "test_id": 1137,
     "original_test_id": 284,
-    "question": "Between 22 January 1794 and The Raft of the Dead, which correctly answers \"Which film has the director who died later, The World Gone Mad or The Raft Of The Dead?\"?",
+    "question": "Between Louis-Alexandre Berthier and The Raft of the Dead, which correctly answers \"Which film has the director who died later, The World Gone Mad or The Raft Of The Dead?\"?",
     "answer": [
       "The Raft of the Dead"
     ],
@@ -32923,7 +32923,7 @@
   {
     "test_id": 1138,
     "original_test_id": 284,
-    "question": "The answer to \"Which film has the director who died later, The World Gone Mad or The Raft Of The Dead?\" is definitely not 22 January 1794, correct?",
+    "question": "The answer to \"Which film has the director who died later, The World Gone Mad or The Raft Of The Dead?\" is definitely not Louis-Alexandre Berthier, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -32962,7 +32962,7 @@
   {
     "test_id": 1139,
     "original_test_id": 284,
-    "question": "Which is correct for \"Which film has the director who died later, The World Gone Mad or The Raft Of The Dead?\": 22 January 1794, The Raft of the Dead, or Big Apple?",
+    "question": "Which is correct for \"Which film has the director who died later, The World Gone Mad or The Raft Of The Dead?\": Louis-Alexandre Berthier, The Raft of the Dead, or Maurya Empire?",
     "answer": [
       "The Raft of the Dead"
     ],
@@ -33151,7 +33151,7 @@
   {
     "test_id": 1146,
     "original_test_id": 286,
-    "question": "Is it true that the answer to \"Which film has the director who is older, Divorce In Montevideo or The Western Whirlwind\" is Wiesław Perszke?",
+    "question": "Is it true that the answer to \"Which film has the director who is older, Divorce In Montevideo or The Western Whirlwind\" is Xi’an City?",
     "answer": [
       "no",
       "No",
@@ -33319,7 +33319,7 @@
   {
     "test_id": 1151,
     "original_test_id": 287,
-    "question": "Can you confirm that Ulti Ganga is the correct answer to \"Which film has the director who died first, Poonthenaruvi or Fun In The Barracks?\"?",
+    "question": "Can you confirm that Bhoomiyude Avakashikal is the correct answer to \"Which film has the director who died first, Poonthenaruvi or Fun In The Barracks?\"?",
     "answer": [
       "no",
       "No",
@@ -33369,7 +33369,7 @@
   {
     "test_id": 1153,
     "original_test_id": 288,
-    "question": "Would 1969 be the right answer to \"Which film has the director died later, Make Way For Tomorrow or Stay Away, Joe?\"?",
+    "question": "Would The Constant Woman be the right answer to \"Which film has the director died later, Make Way For Tomorrow or Stay Away, Joe?\"?",
     "answer": [
       "no",
       "No",
@@ -33402,7 +33402,7 @@
   {
     "test_id": 1154,
     "original_test_id": 288,
-    "question": "Is it true that the answer to \"Which film has the director died later, Make Way For Tomorrow or Stay Away, Joe\" is 1969?",
+    "question": "Is it true that the answer to \"Which film has the director died later, Make Way For Tomorrow or Stay Away, Joe\" is The Constant Woman?",
     "answer": [
       "no",
       "No",
@@ -33435,7 +33435,7 @@
   {
     "test_id": 1155,
     "original_test_id": 288,
-    "question": "The answer to \"Which film has the director died later, Make Way For Tomorrow or Stay Away, Joe?\" is definitely not 1969, correct?",
+    "question": "The answer to \"Which film has the director died later, Make Way For Tomorrow or Stay Away, Joe?\" is definitely not The Constant Woman, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -33527,7 +33527,7 @@
   {
     "test_id": 1158,
     "original_test_id": 289,
-    "question": "Would Sydney, NSW be the right answer to \"Which film whose director was born first, Wedding In Paris or Twists Of Fate?\"?",
+    "question": "Would The Golden State be the right answer to \"Which film whose director was born first, Wedding In Paris or Twists Of Fate?\"?",
     "answer": [
       "no",
       "No",
@@ -33560,7 +33560,7 @@
   {
     "test_id": 1159,
     "original_test_id": 289,
-    "question": "For the question \"Which film whose director was born first, Wedding In Paris or Twists Of Fate?\", is the answer Twists of Fate or Sydney, NSW?",
+    "question": "For the question \"Which film whose director was born first, Wedding In Paris or Twists Of Fate?\", is the answer Twists of Fate or The Golden State?",
     "answer": [
       "Twists of Fate"
     ],
@@ -33634,7 +33634,7 @@
   {
     "test_id": 1162,
     "original_test_id": 290,
-    "question": "The answer to \"Which film has the director who was born earlier, The Rack Pack or Without A Clue\" is Huahine. Is this accurate?",
+    "question": "The answer to \"Which film has the director who was born earlier, The Rack Pack or Without A Clue\" is Jeanne d'Albret. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -33759,7 +33759,7 @@
   {
     "test_id": 1166,
     "original_test_id": 291,
-    "question": "Is Farber's Nerve the answer to: Which film has the director who was born earlier, Father And The Boys or Valerie Inside Outside?",
+    "question": "Is Louis de Bourbon the answer to: Which film has the director who was born earlier, Father And The Boys or Valerie Inside Outside?",
     "answer": [
       "no",
       "No",
@@ -33928,7 +33928,7 @@
   {
     "test_id": 1171,
     "original_test_id": 292,
-    "question": "For the question \"Which film has the director who was born later, He Knows You'Re Alone or The Twilight Saga: Breaking Dawn – Part 2?\", is the answer Breaking Dawn Part Two or Pavia?",
+    "question": "For the question \"Which film has the director who was born later, He Knows You'Re Alone or The Twilight Saga: Breaking Dawn – Part 2?\", is the answer Breaking Dawn Part Two or The Hidden One?",
     "answer": [
       "Breaking Dawn Part Two"
     ],
@@ -33972,7 +33972,7 @@
   {
     "test_id": 1173,
     "original_test_id": 293,
-    "question": "Please verify: is 2 September 1770 the correct response to \"Which film has the director died later, The Rebellion Of The Brides or Arizona Gang Busters?\"?",
+    "question": "Please verify: is Gene Watson the correct response to \"Which film has the director died later, The Rebellion Of The Brides or Arizona Gang Busters?\"?",
     "answer": [
       "no",
       "No",
@@ -34007,7 +34007,7 @@
   {
     "test_id": 1174,
     "original_test_id": 293,
-    "question": "Is 2 September 1770 the answer to: Which film has the director died later, The Rebellion Of The Brides or Arizona Gang Busters?",
+    "question": "Is Gene Watson the answer to: Which film has the director died later, The Rebellion Of The Brides or Arizona Gang Busters?",
     "answer": [
       "no",
       "No",
@@ -34373,7 +34373,7 @@
   {
     "test_id": 1186,
     "original_test_id": 296,
-    "question": "Someone told me the answer to \"Which film has the director died later, God'S Will Be Done or Riding On Air?\" is Little Sister of Everybody. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director died later, God'S Will Be Done or Riding On Air?\" is Big Apple. Are they right?",
     "answer": [
       "no",
       "No",
@@ -34406,7 +34406,7 @@
   {
     "test_id": 1187,
     "original_test_id": 296,
-    "question": "Is Little Sister of Everybody the answer to: Which film has the director died later, God'S Will Be Done or Riding On Air?",
+    "question": "Is Big Apple the answer to: Which film has the director died later, God'S Will Be Done or Riding On Air?",
     "answer": [
       "no",
       "No",
@@ -34456,7 +34456,7 @@
   {
     "test_id": 1189,
     "original_test_id": 297,
-    "question": "Regarding the question \"Which film has the director who was born first, God'S Will Be Done or Riding On Air?\": is Queens, New York correct?",
+    "question": "Regarding the question \"Which film has the director who was born first, God'S Will Be Done or Riding On Air?\": is Louis de Bourbon correct?",
     "answer": [
       "no",
       "No",
@@ -34529,7 +34529,7 @@
   {
     "test_id": 1191,
     "original_test_id": 297,
-    "question": "Is Queens, New York the answer to: Which film has the director who was born first, God'S Will Be Done or Riding On Air?",
+    "question": "Is Louis de Bourbon the answer to: Which film has the director who was born first, God'S Will Be Done or Riding On Air?",
     "answer": [
       "no",
       "No",
@@ -34579,7 +34579,7 @@
   {
     "test_id": 1193,
     "original_test_id": 298,
-    "question": "Someone told me the answer to \"Which film has the director who was born earlier, Poslíček Lásky or John Meade'S Woman?\" is Herstal. Are they right?",
+    "question": "Someone told me the answer to \"Which film has the director who was born earlier, Poslíček Lásky or John Meade'S Woman?\" is 1983. Are they right?",
     "answer": [
       "no",
       "No",
@@ -34612,7 +34612,7 @@
   {
     "test_id": 1194,
     "original_test_id": 298,
-    "question": "Which is correct for \"Which film has the director who was born earlier, Poslíček Lásky or John Meade'S Woman?\": Herstal, John Meade's Woman, or Cymru?",
+    "question": "Which is correct for \"Which film has the director who was born earlier, Poslíček Lásky or John Meade'S Woman?\": 1983, John Meade's Woman, or Dodging the Dole?",
     "answer": [
       "John Meade's Woman"
     ],
@@ -34632,7 +34632,7 @@
   {
     "test_id": 1195,
     "original_test_id": 298,
-    "question": "Between Herstal and John Meade's Woman, which correctly answers \"Which film has the director who was born earlier, Poslíček Lásky or John Meade'S Woman?\"?",
+    "question": "Between 1983 and John Meade's Woman, which correctly answers \"Which film has the director who was born earlier, Poslíček Lásky or John Meade'S Woman?\"?",
     "answer": [
       "John Meade's Woman"
     ],
@@ -34668,7 +34668,7 @@
   {
     "test_id": 1197,
     "original_test_id": 299,
-    "question": "Can you confirm that Mathilde of Bourbon is the correct answer to \"Which film has the director who is older, Det Æ'Kke Te Å Tru or Symphony Of Silence?\"?",
+    "question": "Can you confirm that Cross Plains, Texas is the correct answer to \"Which film has the director who is older, Det Æ'Kke Te Å Tru or Symphony Of Silence?\"?",
     "answer": [
       "no",
       "No",
@@ -34739,7 +34739,7 @@
   {
     "test_id": 1199,
     "original_test_id": 299,
-    "question": "For the question \"Which film has the director who is older, Det Æ'Kke Te Å Tru or Symphony Of Silence?\", is the answer Det æ'kke te å tru or Mathilde of Bourbon?",
+    "question": "For the question \"Which film has the director who is older, Det Æ'Kke Te Å Tru or Symphony Of Silence?\", is the answer Det æ'kke te å tru or Cross Plains, Texas?",
     "answer": [
       "Det æ'kke te å tru"
     ],

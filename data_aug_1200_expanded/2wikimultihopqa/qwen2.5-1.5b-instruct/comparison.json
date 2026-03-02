@@ -247,7 +247,7 @@
   {
     "test_id": 9,
     "original_test_id": 2,
-    "question": "Is U.K. the answer to: Who died first, Fleetwood Sheppard or George William Whitaker?",
+    "question": "Is The Working Class Goes to Heaven the answer to: Who died first, Fleetwood Sheppard or George William Whitaker?",
     "answer": [
       "no",
       "No",
@@ -412,7 +412,7 @@
   {
     "test_id": 14,
     "original_test_id": 3,
-    "question": "Which is correct for \"Which film was released earlier, Moment Of Danger or The Ballad Of Josie?\": Giose d'Arpino, Malaga, or Amman?",
+    "question": "Which is correct for \"Which film was released earlier, Moment Of Danger or The Ballad Of Josie?\": Louis de Bourbon, Malaga, or Villafranca del Bierzo?",
     "answer": [
       "Malaga"
     ],
@@ -804,7 +804,7 @@
   {
     "test_id": 27,
     "original_test_id": 6,
-    "question": "Is Pavia the answer to: Was Şemsettin Baş or Gwenc'Hlan Le Scouëzec born first?",
+    "question": "Is Winnipeg the answer to: Was Şemsettin Baş or Gwenc'Hlan Le Scouëzec born first?",
     "answer": [
       "no",
       "No",
@@ -853,7 +853,7 @@
   {
     "test_id": 29,
     "original_test_id": 7,
-    "question": "The answer to \"Who died first, Madame Pasca or James A. Donohoe\" is Wiesław Perszke. Is this accurate?",
+    "question": "The answer to \"Who died first, Madame Pasca or James A. Donohoe\" is Nanking. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -886,7 +886,7 @@
   {
     "test_id": 30,
     "original_test_id": 7,
-    "question": "The answer to \"Who died first, Madame Pasca or James A. Donohoe?\" is definitely not Wiesław Perszke, correct?",
+    "question": "The answer to \"Who died first, Madame Pasca or James A. Donohoe?\" is definitely not Nanking, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -978,7 +978,7 @@
   {
     "test_id": 33,
     "original_test_id": 8,
-    "question": "For the question \"Who was born later, D'Arcy Coulson or Thomas William Adams?\", is the answer D'Arcy Coulson or Brooklyn?",
+    "question": "For the question \"Who was born later, D'Arcy Coulson or Thomas William Adams?\", is the answer D'Arcy Coulson or Salonica?",
     "answer": [
       "D'Arcy Coulson"
     ],
@@ -1212,7 +1212,7 @@
   {
     "test_id": 41,
     "original_test_id": 10,
-    "question": "Is Malaga the answer to: Who was born first, John Beach or Gordon Persons?",
+    "question": "Is Placer sangriento the answer to: Who was born first, John Beach or Gordon Persons?",
     "answer": [
       "no",
       "No",
@@ -1245,7 +1245,7 @@
   {
     "test_id": 42,
     "original_test_id": 10,
-    "question": "True or false: The answer to \"Who was born first, John Beach or Gordon Persons\" is Malaga.",
+    "question": "True or false: The answer to \"Who was born first, John Beach or Gordon Persons\" is Placer sangriento.",
     "answer": [
       "false",
       "False",
@@ -1273,7 +1273,7 @@
   {
     "test_id": 43,
     "original_test_id": 10,
-    "question": "Between Malaga and John Beach, which correctly answers \"Who was born first, John Beach or Gordon Persons?\"?",
+    "question": "Between Placer sangriento and John Beach, which correctly answers \"Who was born first, John Beach or Gordon Persons?\"?",
     "answer": [
       "John Beach"
     ],
@@ -1502,7 +1502,7 @@
   {
     "test_id": 45,
     "original_test_id": 11,
-    "question": "Would Reykjavikurborg be the right answer to \"Who lived longer, Giuseppe Cesari or Nicos Poulantzas?\"?",
+    "question": "Would le Grand Pompee be the right answer to \"Who lived longer, Giuseppe Cesari or Nicos Poulantzas?\"?",
     "answer": [
       "no",
       "No",
@@ -1959,7 +1959,7 @@
   {
     "test_id": 47,
     "original_test_id": 11,
-    "question": "Please verify: is Reykjavikurborg the correct response to \"Who lived longer, Giuseppe Cesari or Nicos Poulantzas?\"?",
+    "question": "Please verify: is le Grand Pompee the correct response to \"Who lived longer, Giuseppe Cesari or Nicos Poulantzas?\"?",
     "answer": [
       "no",
       "No",
@@ -2457,7 +2457,7 @@
   {
     "test_id": 58,
     "original_test_id": 14,
-    "question": "Please verify: is Trainer and Temptress the correct response to \"Which film came out earlier, Aanaval Mothiram or Heroes Of The Street?\"?",
+    "question": "Please verify: is Elizabeth of Burgundy the correct response to \"Which film came out earlier, Aanaval Mothiram or Heroes Of The Street?\"?",
     "answer": [
       "no",
       "No",
@@ -2490,7 +2490,7 @@
   {
     "test_id": 59,
     "original_test_id": 14,
-    "question": "Is it true that the answer to \"Which film came out earlier, Aanaval Mothiram or Heroes Of The Street\" is Trainer and Temptress?",
+    "question": "Is it true that the answer to \"Which film came out earlier, Aanaval Mothiram or Heroes Of The Street\" is Elizabeth of Burgundy?",
     "answer": [
       "no",
       "No",
@@ -2768,7 +2768,7 @@
   {
     "test_id": 69,
     "original_test_id": 17,
-    "question": "The answer to \"Who is older, Dyson Parody or Gene Watson?\" is definitely not U.K., correct?",
+    "question": "The answer to \"Who is older, Dyson Parody or Gene Watson?\" is definitely not Rosario, Santa Fe, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -2806,7 +2806,7 @@
   {
     "test_id": 70,
     "original_test_id": 17,
-    "question": "Would U.K. be the right answer to \"Who is older, Dyson Parody or Gene Watson?\"?",
+    "question": "Would Rosario, Santa Fe be the right answer to \"Who is older, Dyson Parody or Gene Watson?\"?",
     "answer": [
       "no",
       "No",
@@ -3043,7 +3043,7 @@
   {
     "test_id": 78,
     "original_test_id": 19,
-    "question": "Regarding the question \"Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?\": is Kurdistan correct?",
+    "question": "Regarding the question \"Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?\": is Herstal correct?",
     "answer": [
       "no",
       "No",
@@ -3130,7 +3130,7 @@
   {
     "test_id": 81,
     "original_test_id": 20,
-    "question": "For the question \"Which film came out first, Repeated Absences or She Wore A Yellow Ribbon?\", is the answer She Wore a Yellow Ribbon or 3.2.1.?",
+    "question": "For the question \"Which film came out first, Repeated Absences or She Wore A Yellow Ribbon?\", is the answer She Wore a Yellow Ribbon or 22 January 1794?",
     "answer": [
       "She Wore a Yellow Ribbon"
     ],
@@ -3150,7 +3150,7 @@
   {
     "test_id": 82,
     "original_test_id": 20,
-    "question": "Someone told me the answer to \"Which film came out first, Repeated Absences or She Wore A Yellow Ribbon?\" is 3.2.1.. Are they right?",
+    "question": "Someone told me the answer to \"Which film came out first, Repeated Absences or She Wore A Yellow Ribbon?\" is 22 January 1794. Are they right?",
     "answer": [
       "no",
       "No",
@@ -3232,7 +3232,7 @@
   {
     "test_id": 85,
     "original_test_id": 21,
-    "question": "The answer to \"Who lived longer, Edward Dearle or Michael Doeberl?\" is definitely not Madrid, Spain, correct?",
+    "question": "The answer to \"Who lived longer, Edward Dearle or Michael Doeberl?\" is definitely not Madame Pasca, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -3270,7 +3270,7 @@
   {
     "test_id": 86,
     "original_test_id": 21,
-    "question": "Can you confirm that Madrid, Spain is the correct answer to \"Who lived longer, Edward Dearle or Michael Doeberl?\"?",
+    "question": "Can you confirm that Madame Pasca is the correct answer to \"Who lived longer, Edward Dearle or Michael Doeberl?\"?",
     "answer": [
       "no",
       "No",
@@ -3303,7 +3303,7 @@
   {
     "test_id": 87,
     "original_test_id": 21,
-    "question": "Between Madrid, Spain and Edward Dearle, which correctly answers \"Who lived longer, Edward Dearle or Michael Doeberl?\"?",
+    "question": "Between Madame Pasca and Edward Dearle, which correctly answers \"Who lived longer, Edward Dearle or Michael Doeberl?\"?",
     "answer": [
       "Edward Dearle"
     ],
@@ -3507,7 +3507,7 @@
   {
     "test_id": 94,
     "original_test_id": 23,
-    "question": "Which is correct for \"Which film came out first, Celine: Through The Eyes Of The World or Dilan 1991?\": 2 August 1288, Celine: Through the Eyes of the World, or New Brunswick, N. J.?",
+    "question": "Which is correct for \"Which film came out first, Celine: Through The Eyes Of The World or Dilan 1991?\": The Constant Woman, Celine: Through the Eyes of the World, or London, UK?",
     "answer": [
       "Celine: Through the Eyes of the World"
     ],
@@ -3527,7 +3527,7 @@
   {
     "test_id": 95,
     "original_test_id": 23,
-    "question": "Is 2 August 1288 the answer to: Which film came out first, Celine: Through The Eyes Of The World or Dilan 1991?",
+    "question": "Is The Constant Woman the answer to: Which film came out first, Celine: Through The Eyes Of The World or Dilan 1991?",
     "answer": [
       "no",
       "No",
@@ -3576,7 +3576,7 @@
   {
     "test_id": 97,
     "original_test_id": 24,
-    "question": "Please verify: is Agrippina Maior the correct response to \"Who was born earlier, Silas Hardy or Lee Mantle?\"?",
+    "question": "Please verify: is Falcon in San Francisco the correct response to \"Who was born earlier, Silas Hardy or Lee Mantle?\"?",
     "answer": [
       "no",
       "No",
@@ -3609,7 +3609,7 @@
   {
     "test_id": 98,
     "original_test_id": 24,
-    "question": "Someone told me the answer to \"Who was born earlier, Silas Hardy or Lee Mantle?\" is Agrippina Maior. Are they right?",
+    "question": "Someone told me the answer to \"Who was born earlier, Silas Hardy or Lee Mantle?\" is Falcon in San Francisco. Are they right?",
     "answer": [
       "no",
       "No",
@@ -3697,7 +3697,7 @@
   {
     "test_id": 101,
     "original_test_id": 25,
-    "question": "Is IND the answer to: Who was born later, Joseph J. Magliocco or Viktoriya Zeynep Güneş?",
+    "question": "Is the US the answer to: Who was born later, Joseph J. Magliocco or Viktoriya Zeynep Güneş?",
     "answer": [
       "no",
       "No",
@@ -3770,7 +3770,7 @@
   {
     "test_id": 103,
     "original_test_id": 25,
-    "question": "Regarding the question \"Who was born later, Joseph J. Magliocco or Viktoriya Zeynep Güneş?\": is IND correct?",
+    "question": "Regarding the question \"Who was born later, Joseph J. Magliocco or Viktoriya Zeynep Güneş?\": is the US correct?",
     "answer": [
       "no",
       "No",
@@ -3959,7 +3959,7 @@
   {
     "test_id": 110,
     "original_test_id": 27,
-    "question": "Can you confirm that Alain Poire is the correct answer to \"Which film came out earlier, Out Of The Rain or Les Résultats Du Féminisme?\"?",
+    "question": "Can you confirm that Malaga is the correct answer to \"Which film came out earlier, Out Of The Rain or Les Résultats Du Féminisme?\"?",
     "answer": [
       "no",
       "No",
@@ -4052,7 +4052,7 @@
   {
     "test_id": 113,
     "original_test_id": 28,
-    "question": "Which is correct for \"Which film was released earlier, Sathyavan Savithri or Kids Of The Round Table?\": Figaro-ci, Figaro-là, Kids of the Round Table, or Monster a Go-Go?",
+    "question": "Which is correct for \"Which film was released earlier, Sathyavan Savithri or Kids Of The Round Table?\": Rasual Butler, Kids of the Round Table, or Charlie Chan in Honolulu?",
     "answer": [
       "Kids of the Round Table"
     ],
@@ -4072,7 +4072,7 @@
   {
     "test_id": 114,
     "original_test_id": 28,
-    "question": "Would Figaro-ci, Figaro-là be the right answer to \"Which film was released earlier, Sathyavan Savithri or Kids Of The Round Table?\"?",
+    "question": "Would Rasual Butler be the right answer to \"Which film was released earlier, Sathyavan Savithri or Kids Of The Round Table?\"?",
     "answer": [
       "no",
       "No",
@@ -4159,7 +4159,7 @@
   {
     "test_id": 117,
     "original_test_id": 29,
-    "question": "Which is correct for \"Which film was released earlier, Xenoa or Divorce Invitation?\": Missoula, Xenoa, or She Wore a Yellow Ribbon?",
+    "question": "Which is correct for \"Which film was released earlier, Xenoa or Divorce Invitation?\": The Crime Doctor's Courage, Xenoa, or Yi Jiang?",
     "answer": [
       "Xenoa"
     ],
@@ -4266,7 +4266,7 @@
   {
     "test_id": 121,
     "original_test_id": 30,
-    "question": "The answer to \"Which school was established first, Whitehorse Manor Junior School or Sabawoon Rehabilitation Centre?\" is definitely not King of Poland Stanislav I, correct?",
+    "question": "The answer to \"Which school was established first, Whitehorse Manor Junior School or Sabawoon Rehabilitation Centre?\" is definitely not Dallas 362, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -4684,7 +4684,7 @@
   {
     "test_id": 135,
     "original_test_id": 33,
-    "question": "For the question \"Which film came out earlier, I Am Breathing or Ulti Ganga?\", is the answer Ulti Ganga or Sir Arthur Gore, 2nd Bt.?",
+    "question": "For the question \"Which film came out earlier, I Am Breathing or Ulti Ganga?\", is the answer Ulti Ganga or 2 August 1288?",
     "answer": [
       "Ulti Ganga"
     ],
@@ -4720,7 +4720,7 @@
   {
     "test_id": 137,
     "original_test_id": 34,
-    "question": "Is October 27, 1893 the answer to: Who was born later, Levon Julfalakyan or Charlotte Spurkeland?",
+    "question": "Is City of Light the answer to: Who was born later, Levon Julfalakyan or Charlotte Spurkeland?",
     "answer": [
       "no",
       "No",
@@ -4753,7 +4753,7 @@
   {
     "test_id": 138,
     "original_test_id": 34,
-    "question": "Which is correct for \"Who was born later, Levon Julfalakyan or Charlotte Spurkeland?\": October 27, 1893, Charlotte Spurkeland, or Toolbox Murders?",
+    "question": "Which is correct for \"Who was born later, Levon Julfalakyan or Charlotte Spurkeland?\": City of Light, Charlotte Spurkeland, or Tangled Destinies?",
     "answer": [
       "Charlotte Spurkeland"
     ],
@@ -4773,7 +4773,7 @@
   {
     "test_id": 139,
     "original_test_id": 34,
-    "question": "Is it true that the answer to \"Who was born later, Levon Julfalakyan or Charlotte Spurkeland\" is October 27, 1893?",
+    "question": "Is it true that the answer to \"Who was born later, Levon Julfalakyan or Charlotte Spurkeland\" is City of Light?",
     "answer": [
       "no",
       "No",
@@ -4822,7 +4822,7 @@
   {
     "test_id": 141,
     "original_test_id": 35,
-    "question": "Please verify: is Anna-Liisa the correct response to \"Which one was established first, Noerr or Korn Ferry?\"?",
+    "question": "Please verify: is Mathilde of Bourbon the correct response to \"Which one was established first, Noerr or Korn Ferry?\"?",
     "answer": [
       "no",
       "No",
@@ -4893,7 +4893,7 @@
   {
     "test_id": 143,
     "original_test_id": 35,
-    "question": "Is Anna-Liisa the answer to: Which one was established first, Noerr or Korn Ferry?",
+    "question": "Is Mathilde of Bourbon the answer to: Which one was established first, Noerr or Korn Ferry?",
     "answer": [
       "no",
       "No",
@@ -4980,7 +4980,7 @@
   {
     "test_id": 146,
     "original_test_id": 36,
-    "question": "Is it true that the answer to \"Which film was released first, Ekam – Son Of Soil or Farber'S Nerve\" is Agrippina Maior?",
+    "question": "Is it true that the answer to \"Which film was released first, Ekam – Son Of Soil or Farber'S Nerve\" is Fun in the Barracks?",
     "answer": [
       "no",
       "No",
@@ -5013,7 +5013,7 @@
   {
     "test_id": 147,
     "original_test_id": 36,
-    "question": "Regarding the question \"Which film was released first, Ekam – Son Of Soil or Farber'S Nerve?\": is Agrippina Maior correct?",
+    "question": "Regarding the question \"Which film was released first, Ekam – Son Of Soil or Farber'S Nerve?\": is Fun in the Barracks correct?",
     "answer": [
       "no",
       "No",
@@ -5062,7 +5062,7 @@
   {
     "test_id": 149,
     "original_test_id": 37,
-    "question": "Would 45 Fathers be the right answer to \"Who was born later, Gideon Johnson Pillow or Holm Jølsen?\"?",
+    "question": "Would Bulldog Drummond's Revenge be the right answer to \"Who was born later, Gideon Johnson Pillow or Holm Jølsen?\"?",
     "answer": [
       "no",
       "No",
@@ -5187,7 +5187,7 @@
   {
     "test_id": 153,
     "original_test_id": 38,
-    "question": "Between nl and My Wife's Lodger, which correctly answers \"Which film was released earlier, Tiger Of The Seven Seas or My Wife'S Lodger?\"?",
+    "question": "Between Tisch School of the Arts and My Wife's Lodger, which correctly answers \"Which film was released earlier, Tiger Of The Seven Seas or My Wife'S Lodger?\"?",
     "answer": [
       "My Wife's Lodger"
     ],
@@ -5245,7 +5245,7 @@
   {
     "test_id": 155,
     "original_test_id": 38,
-    "question": "Is it true that the answer to \"Which film was released earlier, Tiger Of The Seven Seas or My Wife'S Lodger\" is nl?",
+    "question": "Is it true that the answer to \"Which film was released earlier, Tiger Of The Seven Seas or My Wife'S Lodger\" is Tisch School of the Arts?",
     "answer": [
       "no",
       "No",
@@ -5408,7 +5408,7 @@
   {
     "test_id": 161,
     "original_test_id": 40,
-    "question": "Regarding the question \"Who died later, Narcís Ventalló or H. Verlan Andersen?\": is Winnipeg correct?",
+    "question": "Regarding the question \"Who died later, Narcís Ventalló or H. Verlan Andersen?\": is Villafranca del Bierzo correct?",
     "answer": [
       "no",
       "No",
@@ -5478,7 +5478,7 @@
   {
     "test_id": 163,
     "original_test_id": 40,
-    "question": "True or false: The answer to \"Who died later, Narcís Ventalló or H. Verlan Andersen\" is Winnipeg.",
+    "question": "True or false: The answer to \"Who died later, Narcís Ventalló or H. Verlan Andersen\" is Villafranca del Bierzo.",
     "answer": [
       "false",
       "False",
@@ -5564,7 +5564,7 @@
   {
     "test_id": 166,
     "original_test_id": 41,
-    "question": "Would Fukuoka be the right answer to \"Which film was released first, The Beginning Or The End or Hold Back The Night?\"?",
+    "question": "Would It's a Joke, Son! be the right answer to \"Which film was released first, The Beginning Or The End or Hold Back The Night?\"?",
     "answer": [
       "no",
       "No",
@@ -5598,7 +5598,7 @@
   {
     "test_id": 167,
     "original_test_id": 41,
-    "question": "Is Fukuoka the answer to: Which film was released first, The Beginning Or The End or Hold Back The Night?",
+    "question": "Is It's a Joke, Son! the answer to: Which film was released first, The Beginning Or The End or Hold Back The Night?",
     "answer": [
       "no",
       "No",
@@ -5688,7 +5688,7 @@
   {
     "test_id": 170,
     "original_test_id": 42,
-    "question": "For the question \"Who is younger, Aneta Hladíková or René Poupardin?\", is the answer Aneta Hladíková or Charlotte Spurkeland?",
+    "question": "For the question \"Who is younger, Aneta Hladíková or René Poupardin?\", is the answer Aneta Hladíková or Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden?",
     "answer": [
       "Aneta Hladíková"
     ],
@@ -5709,7 +5709,7 @@
   {
     "test_id": 171,
     "original_test_id": 42,
-    "question": "Would Charlotte Spurkeland be the right answer to \"Who is younger, Aneta Hladíková or René Poupardin?\"?",
+    "question": "Would Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden be the right answer to \"Who is younger, Aneta Hladíková or René Poupardin?\"?",
     "answer": [
       "no",
       "No",
@@ -5797,7 +5797,7 @@
   {
     "test_id": 174,
     "original_test_id": 43,
-    "question": "Between Dallas 362 and Dis-moi qui tuer, which correctly answers \"Which film came out earlier, Dis-Moi Qui Tuer or Under The Hawthorn Tree (Film)?\"?",
+    "question": "Between Boot Hill Bandits and Dis-moi qui tuer, which correctly answers \"Which film came out earlier, Dis-Moi Qui Tuer or Under The Hawthorn Tree (Film)?\"?",
     "answer": [
       "Dis-moi qui tuer"
     ],
@@ -5860,7 +5860,7 @@
   {
     "test_id": 177,
     "original_test_id": 44,
-    "question": "Between Davao and Helly Shah, which correctly answers \"Who is younger, Justin Paul or Helly Shah?\"?",
+    "question": "Between Fukuoka and Helly Shah, which correctly answers \"Who is younger, Justin Paul or Helly Shah?\"?",
     "answer": [
       "Helly Shah"
     ],
@@ -5881,7 +5881,7 @@
   {
     "test_id": 178,
     "original_test_id": 44,
-    "question": "Regarding the question \"Who is younger, Justin Paul or Helly Shah?\": is Davao correct?",
+    "question": "Regarding the question \"Who is younger, Justin Paul or Helly Shah?\": is Fukuoka correct?",
     "answer": [
       "no",
       "No",
@@ -5915,7 +5915,7 @@
   {
     "test_id": 179,
     "original_test_id": 44,
-    "question": "Can you confirm that Davao is the correct answer to \"Who is younger, Justin Paul or Helly Shah?\"?",
+    "question": "Can you confirm that Fukuoka is the correct answer to \"Who is younger, Justin Paul or Helly Shah?\"?",
     "answer": [
       "no",
       "No",
@@ -5965,7 +5965,7 @@
   {
     "test_id": 181,
     "original_test_id": 45,
-    "question": "Is Leukemia, NOS the answer to: Who was born first out of Marco De Luigi and Fabio Maistro?",
+    "question": "Is Henry Scheffé the answer to: Who was born first out of Marco De Luigi and Fabio Maistro?",
     "answer": [
       "no",
       "No",
@@ -6036,7 +6036,7 @@
   {
     "test_id": 183,
     "original_test_id": 45,
-    "question": "The answer to \"Who was born first out of Marco De Luigi and Fabio Maistro\" is Leukemia, NOS. Is this accurate?",
+    "question": "The answer to \"Who was born first out of Marco De Luigi and Fabio Maistro\" is Henry Scheffé. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -6161,7 +6161,7 @@
   {
     "test_id": 187,
     "original_test_id": 46,
-    "question": "Please verify: is CVI the correct response to \"Who was born later, Marc De Clerck or Wiesław Perszke?\"?",
+    "question": "Please verify: is Trial of Joan of Arc the correct response to \"Who was born later, Marc De Clerck or Wiesław Perszke?\"?",
     "answer": [
       "no",
       "No",
@@ -6411,7 +6411,7 @@
   {
     "test_id": 195,
     "original_test_id": 48,
-    "question": "Which is correct for \"Which film came out earlier, Niyoti or Angali Pangali?\": Lee Mantle, Niyoti, or A Quiet Place in the Country?",
+    "question": "Which is correct for \"Which film came out earlier, Niyoti or Angali Pangali?\": She Wore a Yellow Ribbon, Niyoti, or Tamil?",
     "answer": [
       "Niyoti"
     ],
@@ -6686,7 +6686,7 @@
   {
     "test_id": 205,
     "original_test_id": 51,
-    "question": "True or false: The answer to \"Which film was released more recently, Toolbox Murders or I Met You In Naples\" is Bhoomiyude Avakashikal.",
+    "question": "True or false: The answer to \"Which film was released more recently, Toolbox Murders or I Met You In Naples\" is nl.",
     "answer": [
       "false",
       "False",
@@ -6714,7 +6714,7 @@
   {
     "test_id": 206,
     "original_test_id": 51,
-    "question": "The answer to \"Which film was released more recently, Toolbox Murders or I Met You In Naples\" is Bhoomiyude Avakashikal. Is this accurate?",
+    "question": "The answer to \"Which film was released more recently, Toolbox Murders or I Met You In Naples\" is nl. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -6747,7 +6747,7 @@
   {
     "test_id": 207,
     "original_test_id": 51,
-    "question": "Would Bhoomiyude Avakashikal be the right answer to \"Which film was released more recently, Toolbox Murders or I Met You In Naples?\"?",
+    "question": "Would nl be the right answer to \"Which film was released more recently, Toolbox Murders or I Met You In Naples?\"?",
     "answer": [
       "no",
       "No",
@@ -6796,7 +6796,7 @@
   {
     "test_id": 209,
     "original_test_id": 52,
-    "question": "For the question \"Which film was released more recently, Gaza Ghetto or Kull The Conqueror?\", is the answer Kull the Conqueror or National Film Award for Best Music Direction?",
+    "question": "For the question \"Which film was released more recently, Gaza Ghetto or Kull The Conqueror?\", is the answer Kull the Conqueror or Ptolemy IX Soter II?",
     "answer": [
       "Kull the Conqueror"
     ],
@@ -6854,7 +6854,7 @@
   {
     "test_id": 211,
     "original_test_id": 52,
-    "question": "Which is correct for \"Which film was released more recently, Gaza Ghetto or Kull The Conqueror?\": National Film Award for Best Music Direction, Kull the Conqueror, or Madame Pasca?",
+    "question": "Which is correct for \"Which film was released more recently, Gaza Ghetto or Kull The Conqueror?\": Ptolemy IX Soter II, Kull the Conqueror, or The Constant Woman?",
     "answer": [
       "Kull the Conqueror"
     ],
@@ -6966,7 +6966,7 @@
   {
     "test_id": 215,
     "original_test_id": 53,
-    "question": "Which is correct for \"Who was born earlier, Raúl Osorio or James B. Harris?\": Fleetwood Sheppard, James B. Harris, or Weekend With Father?",
+    "question": "Which is correct for \"Who was born earlier, Raúl Osorio or James B. Harris?\": D.C., James B. Harris, or 2 August 1288?",
     "answer": [
       "James B. Harris"
     ],
@@ -7003,7 +7003,7 @@
   {
     "test_id": 217,
     "original_test_id": 54,
-    "question": "For the question \"Which film was released earlier, Premium (Film) or Week-End With Father?\", is the answer Weekend With Father or Tangled Destinies?",
+    "question": "For the question \"Which film was released earlier, Premium (Film) or Week-End With Father?\", is the answer Weekend With Father or University of Harvard?",
     "answer": [
       "Weekend With Father"
     ],
@@ -7024,7 +7024,7 @@
   {
     "test_id": 218,
     "original_test_id": 54,
-    "question": "Please verify: is Tangled Destinies the correct response to \"Which film was released earlier, Premium (Film) or Week-End With Father?\"?",
+    "question": "Please verify: is University of Harvard the correct response to \"Which film was released earlier, Premium (Film) or Week-End With Father?\"?",
     "answer": [
       "no",
       "No",
@@ -7058,7 +7058,7 @@
   {
     "test_id": 219,
     "original_test_id": 54,
-    "question": "Would Tangled Destinies be the right answer to \"Which film was released earlier, Premium (Film) or Week-End With Father?\"?",
+    "question": "Would University of Harvard be the right answer to \"Which film was released earlier, Premium (Film) or Week-End With Father?\"?",
     "answer": [
       "no",
       "No",
@@ -7431,7 +7431,7 @@
   {
     "test_id": 233,
     "original_test_id": 58,
-    "question": "The answer to \"Who lived longer, Csaba Pálinkás or Henry Scheffé\" is Adam's Rib. Is this accurate?",
+    "question": "The answer to \"Who lived longer, Csaba Pálinkás or Henry Scheffé\" is Ndvungunye. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -7465,7 +7465,7 @@
   {
     "test_id": 234,
     "original_test_id": 58,
-    "question": "Please verify: is Adam's Rib the correct response to \"Who lived longer, Csaba Pálinkás or Henry Scheffé?\"?",
+    "question": "Please verify: is Ndvungunye the correct response to \"Who lived longer, Csaba Pálinkás or Henry Scheffé?\"?",
     "answer": [
       "no",
       "No",
@@ -7554,7 +7554,7 @@
   {
     "test_id": 237,
     "original_test_id": 59,
-    "question": "The answer to \"Which film was released more recently, Pirates Of The Prairie or Alien Origin\" is Aldo Parisot. Is this accurate?",
+    "question": "The answer to \"Which film was released more recently, Pirates Of The Prairie or Alien Origin\" is Tuberculosis. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -7674,7 +7674,7 @@
   {
     "test_id": 241,
     "original_test_id": 60,
-    "question": "Someone told me the answer to \"Which album came out first, Issa Album or 3.2.1.?\" is Edward Dearle. Are they right?",
+    "question": "Someone told me the answer to \"Which album came out first, Issa Album or 3.2.1.?\" is Jean Hersholt Humanitarian Award. Are they right?",
     "answer": [
       "no",
       "No",
@@ -7740,7 +7740,7 @@
   {
     "test_id": 243,
     "original_test_id": 60,
-    "question": "The answer to \"Which album came out first, Issa Album or 3.2.1.\" is Edward Dearle. Is this accurate?",
+    "question": "The answer to \"Which album came out first, Issa Album or 3.2.1.\" is Jean Hersholt Humanitarian Award. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -7789,7 +7789,7 @@
   {
     "test_id": 245,
     "original_test_id": 61,
-    "question": "The answer to \"Which film was released earlier, New Jersey Drive or It Happened At The World'S Fair?\" is definitely not Franz Joseph I, correct?",
+    "question": "The answer to \"Which film was released earlier, New Jersey Drive or It Happened At The World'S Fair?\" is definitely not Sochi, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -7919,7 +7919,7 @@
   {
     "test_id": 249,
     "original_test_id": 62,
-    "question": "Can you confirm that Leukemia, NOS is the correct answer to \"Which film was released earlier, Anna-Liisa or Children Underground?\"?",
+    "question": "Can you confirm that nl is the correct answer to \"Which film was released earlier, Anna-Liisa or Children Underground?\"?",
     "answer": [
       "no",
       "No",
@@ -7952,7 +7952,7 @@
   {
     "test_id": 250,
     "original_test_id": 62,
-    "question": "Please verify: is Leukemia, NOS the correct response to \"Which film was released earlier, Anna-Liisa or Children Underground?\"?",
+    "question": "Please verify: is nl the correct response to \"Which film was released earlier, Anna-Liisa or Children Underground?\"?",
     "answer": [
       "no",
       "No",
@@ -8376,7 +8376,7 @@
   {
     "test_id": 265,
     "original_test_id": 66,
-    "question": "Someone told me the answer to \"Who was born later, Lisbeth Cathrine Amalie Rose or Princess Raiyah Bint Hussein?\" is Tamil. Are they right?",
+    "question": "Someone told me the answer to \"Who was born later, Lisbeth Cathrine Amalie Rose or Princess Raiyah Bint Hussein?\" is Lee Mantle. Are they right?",
     "answer": [
       "no",
       "No",
@@ -8410,7 +8410,7 @@
   {
     "test_id": 266,
     "original_test_id": 66,
-    "question": "Is Tamil the answer to: Who was born later, Lisbeth Cathrine Amalie Rose or Princess Raiyah Bint Hussein?",
+    "question": "Is Lee Mantle the answer to: Who was born later, Lisbeth Cathrine Amalie Rose or Princess Raiyah Bint Hussein?",
     "answer": [
       "no",
       "No",
@@ -8499,7 +8499,7 @@
   {
     "test_id": 269,
     "original_test_id": 67,
-    "question": "Is 30 June 1963 the answer to: Who is younger, Nicolas Görtler or Michel De Salzmann?",
+    "question": "Is Kull the Conqueror the answer to: Who is younger, Nicolas Görtler or Michel De Salzmann?",
     "answer": [
       "no",
       "No",
@@ -8532,7 +8532,7 @@
   {
     "test_id": 270,
     "original_test_id": 67,
-    "question": "Between 30 June 1963 and Nicolas Görtler, which correctly answers \"Who is younger, Nicolas Görtler or Michel De Salzmann?\"?",
+    "question": "Between Kull the Conqueror and Nicolas Görtler, which correctly answers \"Who is younger, Nicolas Görtler or Michel De Salzmann?\"?",
     "answer": [
       "Nicolas Görtler"
     ],
@@ -8995,7 +8995,7 @@
   {
     "test_id": 286,
     "original_test_id": 71,
-    "question": "Would Princess Raiyah bint Hussein be the right answer to \"Who is younger, Bernard Chambaz or Tibor Pézsa?\"?",
+    "question": "Would Lucignolo be the right answer to \"Who is younger, Bernard Chambaz or Tibor Pézsa?\"?",
     "answer": [
       "no",
       "No",
@@ -9028,7 +9028,7 @@
   {
     "test_id": 287,
     "original_test_id": 71,
-    "question": "The answer to \"Who is younger, Bernard Chambaz or Tibor Pézsa\" is Princess Raiyah bint Hussein. Is this accurate?",
+    "question": "The answer to \"Who is younger, Bernard Chambaz or Tibor Pézsa\" is Lucignolo. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -9078,7 +9078,7 @@
   {
     "test_id": 289,
     "original_test_id": 72,
-    "question": "The answer to \"Which film was released more recently, Circus Of Love or The Kiss Of Evil?\" is definitely not Extraño viaje, correct?",
+    "question": "The answer to \"Which film was released more recently, Circus Of Love or The Kiss Of Evil?\" is definitely not Niyoti, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -9199,7 +9199,7 @@
   {
     "test_id": 293,
     "original_test_id": 73,
-    "question": "For the question \"Which film was released more recently, Occupation: Dreamland or Ganga Bhavani?\", is the answer Occupation: Dreamland or Princess Raiyah bint Hussein?",
+    "question": "For the question \"Which film was released more recently, Occupation: Dreamland or Ganga Bhavani?\", is the answer Occupation: Dreamland or Eleanor of Provence?",
     "answer": [
       "Occupation: Dreamland"
     ],
@@ -9219,7 +9219,7 @@
   {
     "test_id": 294,
     "original_test_id": 73,
-    "question": "Please verify: is Princess Raiyah bint Hussein the correct response to \"Which film was released more recently, Occupation: Dreamland or Ganga Bhavani?\"?",
+    "question": "Please verify: is Eleanor of Provence the correct response to \"Which film was released more recently, Occupation: Dreamland or Ganga Bhavani?\"?",
     "answer": [
       "no",
       "No",
@@ -9382,7 +9382,7 @@
   {
     "test_id": 299,
     "original_test_id": 74,
-    "question": "Someone told me the answer to \"Which film was released earlier, Man'S Search For Happiness or Tell It To The Bees?\" is University of Harvard. Are they right?",
+    "question": "Someone told me the answer to \"Which film was released earlier, Man'S Search For Happiness or Tell It To The Bees?\" is Helly Shah. Are they right?",
     "answer": [
       "no",
       "No",
@@ -9432,7 +9432,7 @@
   {
     "test_id": 301,
     "original_test_id": 75,
-    "question": "Regarding the question \"Who lived longer, Antonio Caggiano or Hardyal Singh?\": is Reykjavikurborg correct?",
+    "question": "Regarding the question \"Who lived longer, Antonio Caggiano or Hardyal Singh?\": is La macchina ammazzacattivi correct?",
     "answer": [
       "no",
       "No",
@@ -9466,7 +9466,7 @@
   {
     "test_id": 302,
     "original_test_id": 75,
-    "question": "Which is correct for \"Who lived longer, Antonio Caggiano or Hardyal Singh?\": Reykjavikurborg, Antonio Cardinal Caggiano, or Tamil?",
+    "question": "Which is correct for \"Who lived longer, Antonio Caggiano or Hardyal Singh?\": La macchina ammazzacattivi, Antonio Cardinal Caggiano, or Princess Mary of Great Britain?",
     "answer": [
       "Antonio Cardinal Caggiano"
     ],
@@ -9537,7 +9537,7 @@
   {
     "test_id": 305,
     "original_test_id": 76,
-    "question": "Can you confirm that The Working Class Goes to Heaven is the correct answer to \"Which school was opened first, Chopasni Senior Secondary School, Jodhpur or Tunku Putra School?\"?",
+    "question": "Can you confirm that Boot Hill Bandits is the correct answer to \"Which school was opened first, Chopasni Senior Secondary School, Jodhpur or Tunku Putra School?\"?",
     "answer": [
       "no",
       "No",
@@ -9570,7 +9570,7 @@
   {
     "test_id": 306,
     "original_test_id": 76,
-    "question": "True or false: The answer to \"Which school was opened first, Chopasni Senior Secondary School, Jodhpur or Tunku Putra School\" is The Working Class Goes to Heaven.",
+    "question": "True or false: The answer to \"Which school was opened first, Chopasni Senior Secondary School, Jodhpur or Tunku Putra School\" is Boot Hill Bandits.",
     "answer": [
       "false",
       "False",
@@ -9598,7 +9598,7 @@
   {
     "test_id": 307,
     "original_test_id": 76,
-    "question": "The answer to \"Which school was opened first, Chopasni Senior Secondary School, Jodhpur or Tunku Putra School\" is The Working Class Goes to Heaven. Is this accurate?",
+    "question": "The answer to \"Which school was opened first, Chopasni Senior Secondary School, Jodhpur or Tunku Putra School\" is Boot Hill Bandits. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -9759,7 +9759,7 @@
   {
     "test_id": 313,
     "original_test_id": 78,
-    "question": "Is Osterholz the answer to: Which film came out first, Ami Neta Hobo or Hood Of The Living Dead?",
+    "question": "Is Roma the answer to: Which film came out first, Ami Neta Hobo or Hood Of The Living Dead?",
     "answer": [
       "no",
       "No",
@@ -9830,7 +9830,7 @@
   {
     "test_id": 315,
     "original_test_id": 78,
-    "question": "Is it true that the answer to \"Which film came out first, Ami Neta Hobo or Hood Of The Living Dead\" is Osterholz?",
+    "question": "Is it true that the answer to \"Which film came out first, Ami Neta Hobo or Hood Of The Living Dead\" is Roma?",
     "answer": [
       "no",
       "No",
@@ -9917,7 +9917,7 @@
   {
     "test_id": 318,
     "original_test_id": 79,
-    "question": "Between Turkish Empire and Saajan Bina Suhagan, which correctly answers \"Which film was released first, Taxi Zum Klo or Saajan Bina Suhagan?\"?",
+    "question": "Between Winnipeg and Saajan Bina Suhagan, which correctly answers \"Which film was released first, Taxi Zum Klo or Saajan Bina Suhagan?\"?",
     "answer": [
       "Saajan Bina Suhagan"
     ],
@@ -9937,7 +9937,7 @@
   {
     "test_id": 319,
     "original_test_id": 79,
-    "question": "For the question \"Which film was released first, Taxi Zum Klo or Saajan Bina Suhagan?\", is the answer Saajan Bina Suhagan or Turkish Empire?",
+    "question": "For the question \"Which film was released first, Taxi Zum Klo or Saajan Bina Suhagan?\", is the answer Saajan Bina Suhagan or Winnipeg?",
     "answer": [
       "Saajan Bina Suhagan"
     ],
@@ -9973,7 +9973,7 @@
   {
     "test_id": 321,
     "original_test_id": 80,
-    "question": "Is Louis the Iron the answer to: Which film came out first, My Wife'S Lodger or Ko 2?",
+    "question": "Is Lady Frances Manners the answer to: Which film came out first, My Wife'S Lodger or Ko 2?",
     "answer": [
       "no",
       "No",
@@ -10006,7 +10006,7 @@
   {
     "test_id": 322,
     "original_test_id": 80,
-    "question": "Between Louis the Iron and My Wife's Lodger, which correctly answers \"Which film came out first, My Wife'S Lodger or Ko 2?\"?",
+    "question": "Between Lady Frances Manners and My Wife's Lodger, which correctly answers \"Which film came out first, My Wife'S Lodger or Ko 2?\"?",
     "answer": [
       "My Wife's Lodger"
     ],
@@ -10362,7 +10362,7 @@
   {
     "test_id": 334,
     "original_test_id": 83,
-    "question": "Is it true that the answer to \"Who died first, Louis-René De Caradeuc De La Chalotais or Hermann Friedrich Graebe\" is The Devil's Hairpin?",
+    "question": "Is it true that the answer to \"Who died first, Louis-René De Caradeuc De La Chalotais or Hermann Friedrich Graebe\" is Turkish Empire?",
     "answer": [
       "no",
       "No",
@@ -10451,7 +10451,7 @@
   {
     "test_id": 337,
     "original_test_id": 84,
-    "question": "The answer to \"Which film was released more recently, Aami or Bitch Slap\" is King is the Best Mayor. Is this accurate?",
+    "question": "The answer to \"Which film was released more recently, Aami or Bitch Slap\" is nl. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -10484,7 +10484,7 @@
   {
     "test_id": 338,
     "original_test_id": 84,
-    "question": "Is King is the Best Mayor the answer to: Which film was released more recently, Aami or Bitch Slap?",
+    "question": "Is nl the answer to: Which film was released more recently, Aami or Bitch Slap?",
     "answer": [
       "no",
       "No",
@@ -10517,7 +10517,7 @@
   {
     "test_id": 339,
     "original_test_id": 84,
-    "question": "Would King is the Best Mayor be the right answer to \"Which film was released more recently, Aami or Bitch Slap?\"?",
+    "question": "Would nl be the right answer to \"Which film was released more recently, Aami or Bitch Slap?\"?",
     "answer": [
       "no",
       "No",
@@ -10566,7 +10566,7 @@
   {
     "test_id": 341,
     "original_test_id": 85,
-    "question": "Which is correct for \"Who was born first out of Ramsay Anderson and Fernand Fédronic?\": Princess Mary of Great Britain, Ramsay Anderson, or Louis de Bourbon?",
+    "question": "Which is correct for \"Who was born first out of Ramsay Anderson and Fernand Fédronic?\": Boot Hill Bandits, Ramsay Anderson, or Rupert, King of Germany?",
     "answer": [
       "Ramsay Anderson"
     ],
@@ -10680,7 +10680,7 @@
   {
     "test_id": 345,
     "original_test_id": 86,
-    "question": "For the question \"Which film was released earlier, Amelie Or The Time To Love or Beginners?\", is the answer Amélie ou le Temps d'aimer or Farber's Nerve?",
+    "question": "For the question \"Which film was released earlier, Amelie Or The Time To Love or Beginners?\", is the answer Amélie ou le Temps d'aimer or Big Apple?",
     "answer": [
       "Amélie ou le Temps d'aimer"
     ],
@@ -10798,7 +10798,7 @@
   {
     "test_id": 349,
     "original_test_id": 87,
-    "question": "Between Guns and Guitars and Natürlich die Nelli, which correctly answers \"Which film came out first, Natürlich Die Nelli or Cairo Declaration (Film)?\"?",
+    "question": "Between Homs and Natürlich die Nelli, which correctly answers \"Which film came out first, Natürlich Die Nelli or Cairo Declaration (Film)?\"?",
     "answer": [
       "Natürlich die Nelli"
     ],
@@ -10856,7 +10856,7 @@
   {
     "test_id": 351,
     "original_test_id": 87,
-    "question": "Is Guns and Guitars the answer to: Which film came out first, Natürlich Die Nelli or Cairo Declaration (Film)?",
+    "question": "Is Homs the answer to: Which film came out first, Natürlich Die Nelli or Cairo Declaration (Film)?",
     "answer": [
       "no",
       "No",
@@ -11129,7 +11129,7 @@
   {
     "test_id": 361,
     "original_test_id": 90,
-    "question": "Can you confirm that Davao is the correct answer to \"Which album came out earlier, Was I The Wave? or Kingdom Of Rock?\"?",
+    "question": "Can you confirm that U.K. is the correct answer to \"Which album came out earlier, Was I The Wave? or Kingdom Of Rock?\"?",
     "answer": [
       "no",
       "No",
@@ -11188,7 +11188,7 @@
   {
     "test_id": 363,
     "original_test_id": 90,
-    "question": "True or false: The answer to \"Which album came out earlier, Was I The Wave? or Kingdom Of Rock\" is Davao.",
+    "question": "True or false: The answer to \"Which album came out earlier, Was I The Wave? or Kingdom Of Rock\" is U.K..",
     "answer": [
       "false",
       "False",
@@ -11314,7 +11314,7 @@
   {
     "test_id": 367,
     "original_test_id": 91,
-    "question": "Which is correct for \"Which film came out earlier, It'S Our Life! or Maximum Ride (Film)?\": French Republic, It's Our Life!, or Lucignolo?",
+    "question": "Which is correct for \"Which film came out earlier, It'S Our Life! or Maximum Ride (Film)?\": Madeleine Thérèse Amelie Josephine Bernadotte, Princess of Sweden, It's Our Life!, or Nanking?",
     "answer": [
       "It's Our Life!"
     ],
@@ -11480,7 +11480,7 @@
   {
     "test_id": 373,
     "original_test_id": 93,
-    "question": "Regarding the question \"Who died later, Stephen De Staebler or Samuel Arthur Saunder?\": is Something of Value correct?",
+    "question": "Regarding the question \"Who died later, Stephen De Staebler or Samuel Arthur Saunder?\": is Grammy Award correct?",
     "answer": [
       "no",
       "No",
@@ -11557,7 +11557,7 @@
   {
     "test_id": 375,
     "original_test_id": 93,
-    "question": "Is it true that the answer to \"Who died later, Stephen De Staebler or Samuel Arthur Saunder\" is Something of Value?",
+    "question": "Is it true that the answer to \"Who died later, Stephen De Staebler or Samuel Arthur Saunder\" is Grammy Award?",
     "answer": [
       "no",
       "No",
@@ -11647,7 +11647,7 @@
   {
     "test_id": 378,
     "original_test_id": 94,
-    "question": "Is Kull the Conqueror the answer to: Which album was released more recently, The Arockalypse or Because The Internet?",
+    "question": "Is Yi Jiang the answer to: Which album was released more recently, The Arockalypse or Because The Internet?",
     "answer": [
       "no",
       "No",
@@ -11964,7 +11964,7 @@
   {
     "test_id": 389,
     "original_test_id": 97,
-    "question": "Would Weekend With Father be the right answer to \"Which film was released more recently, Royal Treasure or When Love Begins?\"?",
+    "question": "Would Purchase College be the right answer to \"Which film was released more recently, Royal Treasure or When Love Begins?\"?",
     "answer": [
       "no",
       "No",
@@ -11997,7 +11997,7 @@
   {
     "test_id": 390,
     "original_test_id": 97,
-    "question": "True or false: The answer to \"Which film was released more recently, Royal Treasure or When Love Begins\" is Weekend With Father.",
+    "question": "True or false: The answer to \"Which film was released more recently, Royal Treasure or When Love Begins\" is Purchase College.",
     "answer": [
       "false",
       "False",
@@ -12025,7 +12025,7 @@
   {
     "test_id": 391,
     "original_test_id": 97,
-    "question": "Is Weekend With Father the answer to: Which film was released more recently, Royal Treasure or When Love Begins?",
+    "question": "Is Purchase College the answer to: Which film was released more recently, Royal Treasure or When Love Begins?",
     "answer": [
       "no",
       "No",
@@ -12112,7 +12112,7 @@
   {
     "test_id": 394,
     "original_test_id": 98,
-    "question": "True or false: The answer to \"Who was born earlier, Ela Gandhi or Sebastián Borensztein\" is Xenoa.",
+    "question": "True or false: The answer to \"Who was born earlier, Ela Gandhi or Sebastián Borensztein\" is Adam's Rib.",
     "answer": [
       "false",
       "False",
@@ -12140,7 +12140,7 @@
   {
     "test_id": 395,
     "original_test_id": 98,
-    "question": "For the question \"Who was born earlier, Ela Gandhi or Sebastián Borensztein?\", is the answer Ela Gandhi or Xenoa?",
+    "question": "For the question \"Who was born earlier, Ela Gandhi or Sebastián Borensztein?\", is the answer Ela Gandhi or Adam's Rib?",
     "answer": [
       "Ela Gandhi"
     ],
@@ -12301,7 +12301,7 @@
   {
     "test_id": 401,
     "original_test_id": 100,
-    "question": "For the question \"Who was born first out of Overill Dwyer-Brown and Dragan Načevski?\", is the answer Overill Dwyer-Brown or National Film School in Łódź?",
+    "question": "For the question \"Who was born first out of Overill Dwyer-Brown and Dragan Načevski?\", is the answer Overill Dwyer-Brown or Woman in the Fifth?",
     "answer": [
       "Overill Dwyer-Brown"
     ],
@@ -12413,7 +12413,7 @@
   {
     "test_id": 405,
     "original_test_id": 101,
-    "question": "Please verify: is Marie Leszczyńska the correct response to \"Which film was released first, Heaven Help Us or Ghar Ki Rani?\"?",
+    "question": "Please verify: is Brighton the correct response to \"Which film was released first, Heaven Help Us or Ghar Ki Rani?\"?",
     "answer": [
       "no",
       "No",
@@ -12446,7 +12446,7 @@
   {
     "test_id": 406,
     "original_test_id": 101,
-    "question": "Is Marie Leszczyńska the answer to: Which film was released first, Heaven Help Us or Ghar Ki Rani?",
+    "question": "Is Brighton the answer to: Which film was released first, Heaven Help Us or Ghar Ki Rani?",
     "answer": [
       "no",
       "No",
@@ -12651,7 +12651,7 @@
   {
     "test_id": 413,
     "original_test_id": 103,
-    "question": "Regarding the question \"Which film was released earlier, Extreme Ops or Puberun?\": is United Nations correct?",
+    "question": "Regarding the question \"Which film was released earlier, Extreme Ops or Puberun?\": is Cahiers du cinema correct?",
     "answer": [
       "no",
       "No",
@@ -12779,7 +12779,7 @@
   {
     "test_id": 417,
     "original_test_id": 104,
-    "question": "Regarding the question \"Which film was released more recently, A Scream From Silence or Das Spielzeug Von Paris?\": is Florencia correct?",
+    "question": "Regarding the question \"Which film was released more recently, A Scream From Silence or Das Spielzeug Von Paris?\": is Dis-moi qui tuer correct?",
     "answer": [
       "no",
       "No",
@@ -12856,7 +12856,7 @@
   {
     "test_id": 419,
     "original_test_id": 104,
-    "question": "Would Florencia be the right answer to \"Which film was released more recently, A Scream From Silence or Das Spielzeug Von Paris?\"?",
+    "question": "Would Dis-moi qui tuer be the right answer to \"Which film was released more recently, A Scream From Silence or Das Spielzeug Von Paris?\"?",
     "answer": [
       "no",
       "No",
@@ -12908,7 +12908,7 @@
   {
     "test_id": 421,
     "original_test_id": 105,
-    "question": "True or false: The answer to \"Who was born first, Emmanuel Goffi or Mariano Pasini\" is Leukemia, NOS.",
+    "question": "True or false: The answer to \"Who was born first, Emmanuel Goffi or Mariano Pasini\" is Beal Feirste.",
     "answer": [
       "false",
       "False",
@@ -12936,7 +12936,7 @@
   {
     "test_id": 422,
     "original_test_id": 105,
-    "question": "Someone told me the answer to \"Who was born first, Emmanuel Goffi or Mariano Pasini?\" is Leukemia, NOS. Are they right?",
+    "question": "Someone told me the answer to \"Who was born first, Emmanuel Goffi or Mariano Pasini?\" is Beal Feirste. Are they right?",
     "answer": [
       "no",
       "No",
@@ -13090,7 +13090,7 @@
   {
     "test_id": 427,
     "original_test_id": 106,
-    "question": "For the question \"Which one was established first, Besix or Circus Herman Renz?\", is the answer Besix or City of Liverpool?",
+    "question": "For the question \"Which one was established first, Besix or Circus Herman Renz?\", is the answer Besix or The Beginning or the End?",
     "answer": [
       "Besix"
     ],
@@ -13128,7 +13128,7 @@
   {
     "test_id": 429,
     "original_test_id": 107,
-    "question": "Which is correct for \"Which film was released earlier, Nesmrtelná Teta or Illang: The Wolf Brigade?\": Sydney, NSW, Nesmrtelná teta, or The Hidden One?",
+    "question": "Which is correct for \"Which film was released earlier, Nesmrtelná Teta or Illang: The Wolf Brigade?\": Brighton, Nesmrtelná teta, or Go Ahead and Break My Heart?",
     "answer": [
       "Nesmrtelná teta"
     ],
@@ -13319,7 +13319,7 @@
   {
     "test_id": 435,
     "original_test_id": 108,
-    "question": "Someone told me the answer to \"Who was born later, Bradley Tyler Johnson or Bernardo Freitas?\" is Testa o croce. Are they right?",
+    "question": "Someone told me the answer to \"Who was born later, Bradley Tyler Johnson or Bernardo Freitas?\" is Missoula. Are they right?",
     "answer": [
       "no",
       "No",
@@ -13525,7 +13525,7 @@
   {
     "test_id": 442,
     "original_test_id": 110,
-    "question": "For the question \"Which film was released more recently, How To Make Love To A Negro Without Getting Tired or Frisco Kid?\", is the answer Comment faire l'amour avec un nègre sans se fatiguer or Wiesław Perszke?",
+    "question": "For the question \"Which film was released more recently, How To Make Love To A Negro Without Getting Tired or Frisco Kid?\", is the answer Comment faire l'amour avec un nègre sans se fatiguer or Queen Sofia of Spain?",
     "answer": [
       "Comment faire l'amour avec un nègre sans se fatiguer"
     ],
@@ -13639,7 +13639,7 @@
   {
     "test_id": 446,
     "original_test_id": 111,
-    "question": "Is it true that the answer to \"Which film was released more recently, Bidasari or Tangled Trails\" is Galati?",
+    "question": "Is it true that the answer to \"Which film was released more recently, Bidasari or Tangled Trails\" is The Beginning or the End?",
     "answer": [
       "no",
       "No",
@@ -13768,7 +13768,7 @@
   {
     "test_id": 450,
     "original_test_id": 112,
-    "question": "Between Charlotte Spurkeland and Last Day of School Before Christmas, which correctly answers \"Which film came out first, Poznań '56 or The Last Day Of School Before Christmas?\"?",
+    "question": "Between Tisch School of the Arts and Last Day of School Before Christmas, which correctly answers \"Which film came out first, Poznań '56 or The Last Day Of School Before Christmas?\"?",
     "answer": [
       "Last Day of School Before Christmas"
     ],
@@ -14069,7 +14069,7 @@
   {
     "test_id": 453,
     "original_test_id": 113,
-    "question": "The answer to \"Who lived longer, Huchtenburg or Benjamin Nottingham Webster\" is U.K.. Is this accurate?",
+    "question": "The answer to \"Who lived longer, Huchtenburg or Benjamin Nottingham Webster\" is Weekend With Father. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -14863,7 +14863,7 @@
   {
     "test_id": 457,
     "original_test_id": 114,
-    "question": "The answer to \"Who was born later, Anna Margarete Stegmann or Mouloud Feraoun\" is French Republic. Is this accurate?",
+    "question": "The answer to \"Who was born later, Anna Margarete Stegmann or Mouloud Feraoun\" is 15 November 1784. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -15028,7 +15028,7 @@
   {
     "test_id": 462,
     "original_test_id": 115,
-    "question": "The answer to \"Who was born later, Ramón Corona or Ernest William Goodpasture?\" is definitely not Gerberge of Lorraine, correct?",
+    "question": "The answer to \"Who was born later, Ramón Corona or Ernest William Goodpasture?\" is definitely not Amman, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -15067,7 +15067,7 @@
   {
     "test_id": 463,
     "original_test_id": 115,
-    "question": "Which is correct for \"Who was born later, Ramón Corona or Ernest William Goodpasture?\": Gerberge of Lorraine, Ernest Goodpasture, or Inigo Velez de Guevara, 7th Count of Onate?",
+    "question": "Which is correct for \"Who was born later, Ramón Corona or Ernest William Goodpasture?\": Amman, Ernest Goodpasture, or Turkish Empire?",
     "answer": [
       "Ernest Goodpasture"
     ],
@@ -15216,7 +15216,7 @@
   {
     "test_id": 469,
     "original_test_id": 117,
-    "question": "Between 10 May 1912 and Torrente 2: Misión en Marbella, which correctly answers \"Which film was released more recently, Torrente 2: Misión En Marbella or The Heart Of New York (Film)?\"?",
+    "question": "Between UKGBI and Torrente 2: Misión en Marbella, which correctly answers \"Which film was released more recently, Torrente 2: Misión En Marbella or The Heart Of New York (Film)?\"?",
     "answer": [
       "Torrente 2: Misión en Marbella"
     ],
@@ -15236,7 +15236,7 @@
   {
     "test_id": 470,
     "original_test_id": 117,
-    "question": "Is 10 May 1912 the answer to: Which film was released more recently, Torrente 2: Misión En Marbella or The Heart Of New York (Film)?",
+    "question": "Is UKGBI the answer to: Which film was released more recently, Torrente 2: Misión En Marbella or The Heart Of New York (Film)?",
     "answer": [
       "no",
       "No",
@@ -15269,7 +15269,7 @@
   {
     "test_id": 471,
     "original_test_id": 117,
-    "question": "The answer to \"Which film was released more recently, Torrente 2: Misión En Marbella or The Heart Of New York (Film)?\" is definitely not 10 May 1912, correct?",
+    "question": "The answer to \"Which film was released more recently, Torrente 2: Misión En Marbella or The Heart Of New York (Film)?\" is definitely not UKGBI, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -15361,7 +15361,7 @@
   {
     "test_id": 474,
     "original_test_id": 118,
-    "question": "The answer to \"Which album was released first, The Oak Ridge Boys Have Arrived or Beans And Fatback?\" is definitely not 10 May 1912, correct?",
+    "question": "The answer to \"Which album was released first, The Oak Ridge Boys Have Arrived or Beans And Fatback?\" is definitely not Agrippina Maior, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -15481,7 +15481,7 @@
   {
     "test_id": 478,
     "original_test_id": 119,
-    "question": "Which is correct for \"Which film came out earlier, The Champion Of Pontresina or The Bulleteers?\": Emmy of Stork's Nest, The Champion of Pontresina, or Brooklyn?",
+    "question": "Which is correct for \"Which film came out earlier, The Champion Of Pontresina or The Bulleteers?\": Go Ahead and Break My Heart, The Champion of Pontresina, or Kurdistan?",
     "answer": [
       "The Champion of Pontresina"
     ],
@@ -15502,7 +15502,7 @@
   {
     "test_id": 479,
     "original_test_id": 119,
-    "question": "Between Emmy of Stork's Nest and The Champion of Pontresina, which correctly answers \"Which film came out earlier, The Champion Of Pontresina or The Bulleteers?\"?",
+    "question": "Between Go Ahead and Break My Heart and The Champion of Pontresina, which correctly answers \"Which film came out earlier, The Champion Of Pontresina or The Bulleteers?\"?",
     "answer": [
       "The Champion of Pontresina"
     ],
@@ -15539,7 +15539,7 @@
   {
     "test_id": 481,
     "original_test_id": 120,
-    "question": "Between Kurdistan and Nandhi, which correctly answers \"Which film was released more recently, Il Marchio Di Kriminal or Nandhi?\"?",
+    "question": "Between 3 August 979 and Nandhi, which correctly answers \"Which film was released more recently, Il Marchio Di Kriminal or Nandhi?\"?",
     "answer": [
       "Nandhi"
     ],
@@ -15559,7 +15559,7 @@
   {
     "test_id": 482,
     "original_test_id": 120,
-    "question": "The answer to \"Which film was released more recently, Il Marchio Di Kriminal or Nandhi\" is Kurdistan. Is this accurate?",
+    "question": "The answer to \"Which film was released more recently, Il Marchio Di Kriminal or Nandhi\" is 3 August 979. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -15592,7 +15592,7 @@
   {
     "test_id": 483,
     "original_test_id": 120,
-    "question": "Is it true that the answer to \"Which film was released more recently, Il Marchio Di Kriminal or Nandhi\" is Kurdistan?",
+    "question": "Is it true that the answer to \"Which film was released more recently, Il Marchio Di Kriminal or Nandhi\" is 3 August 979?",
     "answer": [
       "no",
       "No",
@@ -15954,7 +15954,7 @@
   {
     "test_id": 497,
     "original_test_id": 124,
-    "question": "True or false: The answer to \"Which film was released first, Assault On Dome 4 or The Battle Of The Rails\" is Extraño viaje.",
+    "question": "True or false: The answer to \"Which film was released first, Assault On Dome 4 or The Battle Of The Rails\" is Hilandariu.",
     "answer": [
       "false",
       "False",
@@ -15985,7 +15985,7 @@
   {
     "test_id": 498,
     "original_test_id": 124,
-    "question": "Is it true that the answer to \"Which film was released first, Assault On Dome 4 or The Battle Of The Rails\" is Extraño viaje?",
+    "question": "Is it true that the answer to \"Which film was released first, Assault On Dome 4 or The Battle Of The Rails\" is Hilandariu?",
     "answer": [
       "no",
       "No",
@@ -16021,7 +16021,7 @@
   {
     "test_id": 499,
     "original_test_id": 124,
-    "question": "Please verify: is Extraño viaje the correct response to \"Which film was released first, Assault On Dome 4 or The Battle Of The Rails?\"?",
+    "question": "Please verify: is Hilandariu the correct response to \"Which film was released first, Assault On Dome 4 or The Battle Of The Rails?\"?",
     "answer": [
       "no",
       "No",
@@ -16149,7 +16149,7 @@
   {
     "test_id": 503,
     "original_test_id": 125,
-    "question": "True or false: The answer to \"Who was born later, Zhang Mengying or Wolfgang Herrndorf\" is Marco de Luigi.",
+    "question": "True or false: The answer to \"Who was born later, Zhang Mengying or Wolfgang Herrndorf\" is 30 June 1963.",
     "answer": [
       "false",
       "False",
@@ -16194,7 +16194,7 @@
   {
     "test_id": 505,
     "original_test_id": 126,
-    "question": "The answer to \"Which film was released more recently, Hit Of The Show or The Incredibly Strange Creatures Who Stopped Living And Became Mixed-Up Zombies?\" is definitely not Jean Hersholt Humanitarian Award, correct?",
+    "question": "The answer to \"Which film was released more recently, Hit Of The Show or The Incredibly Strange Creatures Who Stopped Living And Became Mixed-Up Zombies?\" is definitely not Noreg, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -16233,7 +16233,7 @@
   {
     "test_id": 506,
     "original_test_id": 126,
-    "question": "Between Jean Hersholt Humanitarian Award and Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies, which correctly answers \"Which film was released more recently, Hit Of The Show or The Incredibly Strange Creatures Who Stopped Living And Became Mixed-Up Zombies?\"?",
+    "question": "Between Noreg and Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies, which correctly answers \"Which film was released more recently, Hit Of The Show or The Incredibly Strange Creatures Who Stopped Living And Became Mixed-Up Zombies?\"?",
     "answer": [
       "Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies"
     ],
@@ -16347,7 +16347,7 @@
   {
     "test_id": 510,
     "original_test_id": 127,
-    "question": "For the question \"Which film was released more recently, Behind Locked Doors or Crossing Delancey?\", is the answer Crossing Delancey or 9 Network?",
+    "question": "For the question \"Which film was released more recently, Behind Locked Doors or Crossing Delancey?\", is the answer Crossing Delancey or 1969?",
     "answer": [
       "Crossing Delancey"
     ],
@@ -16531,7 +16531,7 @@
   {
     "test_id": 517,
     "original_test_id": 129,
-    "question": "Can you confirm that U.K. is the correct answer to \"Who was born later, Tsvetko Slavov or Marc Burrows?\"?",
+    "question": "Can you confirm that A Quiet Place in the Country is the correct answer to \"Who was born later, Tsvetko Slavov or Marc Burrows?\"?",
     "answer": [
       "no",
       "No",
@@ -16602,7 +16602,7 @@
   {
     "test_id": 519,
     "original_test_id": 129,
-    "question": "Is U.K. the answer to: Who was born later, Tsvetko Slavov or Marc Burrows?",
+    "question": "Is A Quiet Place in the Country the answer to: Who was born later, Tsvetko Slavov or Marc Burrows?",
     "answer": [
       "no",
       "No",
@@ -16651,7 +16651,7 @@
   {
     "test_id": 521,
     "original_test_id": 130,
-    "question": "Can you confirm that Qing dynasty is the correct answer to \"Who was born first out of Pierre Gauvreau and Tit Liviu Chinezu?\"?",
+    "question": "Can you confirm that Davao is the correct answer to \"Who was born first out of Pierre Gauvreau and Tit Liviu Chinezu?\"?",
     "answer": [
       "no",
       "No",
@@ -16684,7 +16684,7 @@
   {
     "test_id": 522,
     "original_test_id": 130,
-    "question": "Someone told me the answer to \"Who was born first out of Pierre Gauvreau and Tit Liviu Chinezu?\" is Qing dynasty. Are they right?",
+    "question": "Someone told me the answer to \"Who was born first out of Pierre Gauvreau and Tit Liviu Chinezu?\" is Davao. Are they right?",
     "answer": [
       "no",
       "No",
@@ -16771,7 +16771,7 @@
   {
     "test_id": 525,
     "original_test_id": 131,
-    "question": "True or false: The answer to \"Which album came out first, Sol Niger Within or The Magic Place\" is Weston Park.",
+    "question": "True or false: The answer to \"Which album came out first, Sol Niger Within or The Magic Place\" is Knights of the Range.",
     "answer": [
       "false",
       "False",
@@ -16799,7 +16799,7 @@
   {
     "test_id": 526,
     "original_test_id": 131,
-    "question": "For the question \"Which album came out first, Sol Niger Within or The Magic Place?\", is the answer Sol Niger Within or Weston Park?",
+    "question": "For the question \"Which album came out first, Sol Niger Within or The Magic Place?\", is the answer Sol Niger Within or Knights of the Range?",
     "answer": [
       "Sol Niger Within"
     ],
@@ -17021,7 +17021,7 @@
   {
     "test_id": 534,
     "original_test_id": 133,
-    "question": "Which is correct for \"Who was born first, Patrik Lácha or Brad Booth?\": Toen 't licht verdween, Brad Booth, or 3.2.1.?",
+    "question": "Which is correct for \"Who was born first, Patrik Lácha or Brad Booth?\": John Beach, Brad Booth, or Ulti Ganga?",
     "answer": [
       "Brad Booth"
     ],
@@ -17041,7 +17041,7 @@
   {
     "test_id": 535,
     "original_test_id": 133,
-    "question": "For the question \"Who was born first, Patrik Lácha or Brad Booth?\", is the answer Brad Booth or Toen 't licht verdween?",
+    "question": "For the question \"Who was born first, Patrik Lácha or Brad Booth?\", is the answer Brad Booth or John Beach?",
     "answer": [
       "Brad Booth"
     ],
@@ -17077,7 +17077,7 @@
   {
     "test_id": 537,
     "original_test_id": 134,
-    "question": "Someone told me the answer to \"Who is younger, Jonetani Ralulu or Andre Blay?\" is Queen Sofia of Spain. Are they right?",
+    "question": "Someone told me the answer to \"Who is younger, Jonetani Ralulu or Andre Blay?\" is Leukemia, NOS. Are they right?",
     "answer": [
       "no",
       "No",
@@ -17110,7 +17110,7 @@
   {
     "test_id": 538,
     "original_test_id": 134,
-    "question": "Which is correct for \"Who is younger, Jonetani Ralulu or Andre Blay?\": Queen Sofia of Spain, Jonetani Ralulu, or University of Paris (1896-1968)?",
+    "question": "Which is correct for \"Who is younger, Jonetani Ralulu or Andre Blay?\": Leukemia, NOS, Jonetani Ralulu, or London, UK?",
     "answer": [
       "Jonetani Ralulu"
     ],
@@ -17222,7 +17222,7 @@
   {
     "test_id": 542,
     "original_test_id": 135,
-    "question": "Would French Republic be the right answer to \"Which film came out earlier, Gran Torino or Rivaaj?\"?",
+    "question": "Would Kids of the Round Table be the right answer to \"Which film came out earlier, Gran Torino or Rivaaj?\"?",
     "answer": [
       "no",
       "No",
@@ -17385,7 +17385,7 @@
   {
     "test_id": 547,
     "original_test_id": 136,
-    "question": "For the question \"Who was born later, Charles Burls or George Hypolite?\", is the answer George Hypolite or Pakistan?",
+    "question": "For the question \"Who was born later, Charles Burls or George Hypolite?\", is the answer George Hypolite or London, UK?",
     "answer": [
       "George Hypolite"
     ],
@@ -17459,7 +17459,7 @@
   {
     "test_id": 550,
     "original_test_id": 137,
-    "question": "Would Les Resultats du feminisme be the right answer to \"Which film was released more recently, Horas Marcadas or Tiny Times 3?\"?",
+    "question": "Would Pavia be the right answer to \"Which film was released more recently, Horas Marcadas or Tiny Times 3?\"?",
     "answer": [
       "no",
       "No",
@@ -17492,7 +17492,7 @@
   {
     "test_id": 551,
     "original_test_id": 137,
-    "question": "Someone told me the answer to \"Which film was released more recently, Horas Marcadas or Tiny Times 3?\" is Les Resultats du feminisme. Are they right?",
+    "question": "Someone told me the answer to \"Which film was released more recently, Horas Marcadas or Tiny Times 3?\" is Pavia. Are they right?",
     "answer": [
       "no",
       "No",
@@ -17541,7 +17541,7 @@
   {
     "test_id": 553,
     "original_test_id": 138,
-    "question": "The answer to \"Which film was released more recently, Last Of The Long-Haired Boys or Age Of The Dragons?\" is definitely not Hackney, correct?",
+    "question": "The answer to \"Which film was released more recently, Last Of The Long-Haired Boys or Age Of The Dragons?\" is definitely not The Hidden One, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -17671,7 +17671,7 @@
   {
     "test_id": 557,
     "original_test_id": 139,
-    "question": "Is it true that the answer to \"Which film was released more recently, How Poets Are Enjoying Their Lives or Os Faroleiros\" is María Barranco?",
+    "question": "Is it true that the answer to \"Which film was released more recently, How Poets Are Enjoying Their Lives or Os Faroleiros\" is Osterholz?",
     "answer": [
       "no",
       "No",
@@ -17742,7 +17742,7 @@
   {
     "test_id": 559,
     "original_test_id": 139,
-    "question": "Which is correct for \"Which film was released more recently, How Poets Are Enjoying Their Lives or Os Faroleiros?\": María Barranco, How Poets Are Enjoying Their Lives, or Kreuzlingen?",
+    "question": "Which is correct for \"Which film was released more recently, How Poets Are Enjoying Their Lives or Os Faroleiros?\": Osterholz, How Poets Are Enjoying Their Lives, or Schedroe Leto?",
     "answer": [
       "How Poets Are Enjoying Their Lives"
     ],
@@ -18216,7 +18216,7 @@
   {
     "test_id": 577,
     "original_test_id": 144,
-    "question": "Is it true that the answer to \"Who is older, William Henry Rodes Green or Eleanor Of Lancaster\" is Rupert, King of Germany?",
+    "question": "Is it true that the answer to \"Who is older, William Henry Rodes Green or Eleanor Of Lancaster\" is 12 June 1516?",
     "answer": [
       "no",
       "No",
@@ -18249,7 +18249,7 @@
   {
     "test_id": 578,
     "original_test_id": 144,
-    "question": "Please verify: is Rupert, King of Germany the correct response to \"Who is older, William Henry Rodes Green or Eleanor Of Lancaster?\"?",
+    "question": "Please verify: is 12 June 1516 the correct response to \"Who is older, William Henry Rodes Green or Eleanor Of Lancaster?\"?",
     "answer": [
       "no",
       "No",
@@ -18369,7 +18369,7 @@
   {
     "test_id": 582,
     "original_test_id": 145,
-    "question": "Would D.C. be the right answer to \"Which film was released earlier, Farewell To The King or Brother Liu And Brother Wang On The Roads In Taiwan?\"?",
+    "question": "Would Königsberg i. Pr. be the right answer to \"Which film was released earlier, Farewell To The King or Brother Liu And Brother Wang On The Roads In Taiwan?\"?",
     "answer": [
       "no",
       "No",
@@ -18494,7 +18494,7 @@
   {
     "test_id": 586,
     "original_test_id": 146,
-    "question": "True or false: The answer to \"Who lived longer, Bernhard Afinger or Melvin Kranzberg\" is Missoula.",
+    "question": "True or false: The answer to \"Who lived longer, Bernhard Afinger or Melvin Kranzberg\" is Tisch School of the Arts.",
     "answer": [
       "false",
       "False",
@@ -18522,7 +18522,7 @@
   {
     "test_id": 587,
     "original_test_id": 146,
-    "question": "For the question \"Who lived longer, Bernhard Afinger or Melvin Kranzberg?\", is the answer Melvin Kranzberg or Missoula?",
+    "question": "For the question \"Who lived longer, Bernhard Afinger or Melvin Kranzberg?\", is the answer Melvin Kranzberg or Tisch School of the Arts?",
     "answer": [
       "Melvin Kranzberg"
     ],
@@ -18881,7 +18881,7 @@
   {
     "test_id": 599,
     "original_test_id": 149,
-    "question": "For the question \"Who died earlier, Chiang Chung-Ling or George Andreadis?\", is the answer Chiang Chung-ling or City of Light?",
+    "question": "For the question \"Who died earlier, Chiang Chung-Ling or George Andreadis?\", is the answer Chiang Chung-ling or Rosario, Santa Fe?",
     "answer": [
       "Chiang Chung-ling"
     ],
@@ -19257,7 +19257,7 @@
   {
     "test_id": 613,
     "original_test_id": 153,
-    "question": "Can you confirm that The Hidden One is the correct answer to \"Which film has more directors, A Night Of Horror or The Whispering Shadow?\"?",
+    "question": "Can you confirm that It Happened at the World's Fair is the correct answer to \"Which film has more directors, A Night Of Horror or The Whispering Shadow?\"?",
     "answer": [
       "no",
       "No",
@@ -19386,7 +19386,7 @@
   {
     "test_id": 617,
     "original_test_id": 154,
-    "question": "Which is correct for \"Who is younger, Vedran Purić or Jenő Kuti?\": Happy as the Grass Was Green, Vedran Purić, or National Film School in Łódź?",
+    "question": "Which is correct for \"Who is younger, Vedran Purić or Jenő Kuti?\": Charles I of Naples, Vedran Purić, or She Wore a Yellow Ribbon?",
     "answer": [
       "Vedran Purić"
     ],
@@ -19407,7 +19407,7 @@
   {
     "test_id": 618,
     "original_test_id": 154,
-    "question": "Is Happy as the Grass Was Green the answer to: Who is younger, Vedran Purić or Jenő Kuti?",
+    "question": "Is Charles I of Naples the answer to: Who is younger, Vedran Purić or Jenő Kuti?",
     "answer": [
       "no",
       "No",
@@ -19497,7 +19497,7 @@
   {
     "test_id": 621,
     "original_test_id": 155,
-    "question": "Can you confirm that Stampede Wrestling is the correct answer to \"Which film was released earlier, Gangai Karai Paattu or God In Heaven... Arizona On Earth?\"?",
+    "question": "Can you confirm that Falcon in San Francisco is the correct answer to \"Which film was released earlier, Gangai Karai Paattu or God In Heaven... Arizona On Earth?\"?",
     "answer": [
       "no",
       "No",
@@ -19531,7 +19531,7 @@
   {
     "test_id": 622,
     "original_test_id": 155,
-    "question": "Please verify: is Stampede Wrestling the correct response to \"Which film was released earlier, Gangai Karai Paattu or God In Heaven... Arizona On Earth?\"?",
+    "question": "Please verify: is Falcon in San Francisco the correct response to \"Which film was released earlier, Gangai Karai Paattu or God In Heaven... Arizona On Earth?\"?",
     "answer": [
       "no",
       "No",
@@ -19565,7 +19565,7 @@
   {
     "test_id": 623,
     "original_test_id": 155,
-    "question": "For the question \"Which film was released earlier, Gangai Karai Paattu or God In Heaven... Arizona On Earth?\", is the answer Una bala marcada or Stampede Wrestling?",
+    "question": "For the question \"Which film was released earlier, Gangai Karai Paattu or God In Heaven... Arizona On Earth?\", is the answer Una bala marcada or Falcon in San Francisco?",
     "answer": [
       "Una bala marcada"
     ],
@@ -19724,7 +19724,7 @@
   {
     "test_id": 629,
     "original_test_id": 157,
-    "question": "Is Kujō Michiie the answer to: Who was born first out of Johan Bardoul and Peter Seton Hay?",
+    "question": "Is Jeanne d'Albret the answer to: Who was born first out of Johan Bardoul and Peter Seton Hay?",
     "answer": [
       "no",
       "No",
@@ -19968,7 +19968,7 @@
   {
     "test_id": 637,
     "original_test_id": 159,
-    "question": "Is it true that the answer to \"Which film came out first, Legend Of The Sea Wolf or Irvine Welsh'S Ecstasy\" is Bernard-Roger, Count of Bigorre?",
+    "question": "Is it true that the answer to \"Which film came out first, Legend Of The Sea Wolf or Irvine Welsh'S Ecstasy\" is Princess Raiyah bint Hussein?",
     "answer": [
       "no",
       "No",
@@ -20029,7 +20029,7 @@
   {
     "test_id": 639,
     "original_test_id": 159,
-    "question": "Which is correct for \"Which film came out first, Legend Of The Sea Wolf or Irvine Welsh'S Ecstasy?\": Bernard-Roger, Count of Bigorre, Legend of the Sea Wolf, or Moscow, USSR?",
+    "question": "Which is correct for \"Which film came out first, Legend Of The Sea Wolf or Irvine Welsh'S Ecstasy?\": Princess Raiyah bint Hussein, Legend of the Sea Wolf, or Toolbox Murders?",
     "answer": [
       "Legend of the Sea Wolf"
     ],
@@ -20528,7 +20528,7 @@
   {
     "test_id": 657,
     "original_test_id": 164,
-    "question": "Can you confirm that Jean Hersholt Humanitarian Award is the correct answer to \"Who was born first, Thomas Rolfe or Roger Miret?\"?",
+    "question": "Can you confirm that Emmy of Stork's Nest is the correct answer to \"Who was born first, Thomas Rolfe or Roger Miret?\"?",
     "answer": [
       "no",
       "No",
@@ -20561,7 +20561,7 @@
   {
     "test_id": 658,
     "original_test_id": 164,
-    "question": "Someone told me the answer to \"Who was born first, Thomas Rolfe or Roger Miret?\" is Jean Hersholt Humanitarian Award. Are they right?",
+    "question": "Someone told me the answer to \"Who was born first, Thomas Rolfe or Roger Miret?\" is Emmy of Stork's Nest. Are they right?",
     "answer": [
       "no",
       "No",
@@ -20594,7 +20594,7 @@
   {
     "test_id": 659,
     "original_test_id": 164,
-    "question": "Is Jean Hersholt Humanitarian Award the answer to: Who was born first, Thomas Rolfe or Roger Miret?",
+    "question": "Is Emmy of Stork's Nest the answer to: Who was born first, Thomas Rolfe or Roger Miret?",
     "answer": [
       "no",
       "No",
@@ -20644,7 +20644,7 @@
   {
     "test_id": 661,
     "original_test_id": 165,
-    "question": "Is Bhoomiyude Avakashikal the answer to: Who lived longer, Claes-Ulrik Winberg or André Piters?",
+    "question": "Is Herstal the answer to: Who lived longer, Claes-Ulrik Winberg or André Piters?",
     "answer": [
       "no",
       "No",
@@ -20717,7 +20717,7 @@
   {
     "test_id": 663,
     "original_test_id": 165,
-    "question": "Which is correct for \"Who lived longer, Claes-Ulrik Winberg or André Piters?\": Bhoomiyude Avakashikal, André Piters, or Charlotte Spurkeland?",
+    "question": "Which is correct for \"Who lived longer, Claes-Ulrik Winberg or André Piters?\": Herstal, André Piters, or Heroes of the Street?",
     "answer": [
       "André Piters"
     ],
@@ -20792,7 +20792,7 @@
   {
     "test_id": 666,
     "original_test_id": 166,
-    "question": "Regarding the question \"Was Ralf Wohlleben or Ilya Tyapkin born first?\": is María Barranco correct?",
+    "question": "Regarding the question \"Was Ralf Wohlleben or Ilya Tyapkin born first?\": is SE correct?",
     "answer": [
       "no",
       "No",
@@ -20825,7 +20825,7 @@
   {
     "test_id": 667,
     "original_test_id": 166,
-    "question": "Is it true that the answer to \"Was Ralf Wohlleben or Ilya Tyapkin born first\" is María Barranco?",
+    "question": "Is it true that the answer to \"Was Ralf Wohlleben or Ilya Tyapkin born first\" is SE?",
     "answer": [
       "no",
       "No",
@@ -20874,7 +20874,7 @@
   {
     "test_id": 669,
     "original_test_id": 167,
-    "question": "Would Kreuzlingen be the right answer to \"Which university was established first, Universidad Autónoma De La Laguna or Penang Free School?\"?",
+    "question": "Would Toen 't licht verdween be the right answer to \"Which university was established first, Universidad Autónoma De La Laguna or Penang Free School?\"?",
     "answer": [
       "no",
       "No",
@@ -20945,7 +20945,7 @@
   {
     "test_id": 671,
     "original_test_id": 167,
-    "question": "Please verify: is Kreuzlingen the correct response to \"Which university was established first, Universidad Autónoma De La Laguna or Penang Free School?\"?",
+    "question": "Please verify: is Toen 't licht verdween the correct response to \"Which university was established first, Universidad Autónoma De La Laguna or Penang Free School?\"?",
     "answer": [
       "no",
       "No",
@@ -21096,7 +21096,7 @@
   {
     "test_id": 677,
     "original_test_id": 169,
-    "question": "Regarding the question \"Who died first, Marguerite De Navarre or Leo Lankinen?\": is nl correct?",
+    "question": "Regarding the question \"Who died first, Marguerite De Navarre or Leo Lankinen?\": is 22 January 1794 correct?",
     "answer": [
       "no",
       "No",
@@ -21131,7 +21131,7 @@
   {
     "test_id": 678,
     "original_test_id": 169,
-    "question": "Which is correct for \"Who died first, Marguerite De Navarre or Leo Lankinen?\": nl, Marguerite d'Alençon, or Brooklyn?",
+    "question": "Which is correct for \"Who died first, Marguerite De Navarre or Leo Lankinen?\": 22 January 1794, Marguerite d'Alençon, or Jerez de la Frontera?",
     "answer": [
       "Marguerite d'Alençon"
     ],
@@ -21153,7 +21153,7 @@
   {
     "test_id": 679,
     "original_test_id": 169,
-    "question": "For the question \"Who died first, Marguerite De Navarre or Leo Lankinen?\", is the answer Marguerite d'Alençon or nl?",
+    "question": "For the question \"Who died first, Marguerite De Navarre or Leo Lankinen?\", is the answer Marguerite d'Alençon or 22 January 1794?",
     "answer": [
       "Marguerite d'Alençon"
     ],
@@ -21303,7 +21303,7 @@
   {
     "test_id": 685,
     "original_test_id": 171,
-    "question": "Would Winnipeg be the right answer to \"Which film came out earlier, To Touch The Soul or Contragolpe?\"?",
+    "question": "Would Kujō Michiie be the right answer to \"Which film came out earlier, To Touch The Soul or Contragolpe?\"?",
     "answer": [
       "no",
       "No",
@@ -21374,7 +21374,7 @@
   {
     "test_id": 687,
     "original_test_id": 171,
-    "question": "Between Winnipeg and Contragolpe, which correctly answers \"Which film came out earlier, To Touch The Soul or Contragolpe?\"?",
+    "question": "Between Kujō Michiie and Contragolpe, which correctly answers \"Which film came out earlier, To Touch The Soul or Contragolpe?\"?",
     "answer": [
       "Contragolpe"
     ],
@@ -21520,7 +21520,7 @@
   {
     "test_id": 693,
     "original_test_id": 173,
-    "question": "The answer to \"Who was born first out of Eliza Ritchie and Benjamin Nash?\" is definitely not 1080, correct?",
+    "question": "The answer to \"Who was born first out of Eliza Ritchie and Benjamin Nash?\" is definitely not U.K., correct?",
     "answer": [
       "yes",
       "Yes",
@@ -21584,7 +21584,7 @@
   {
     "test_id": 695,
     "original_test_id": 173,
-    "question": "Can you confirm that 1080 is the correct answer to \"Who was born first out of Eliza Ritchie and Benjamin Nash?\"?",
+    "question": "Can you confirm that U.K. is the correct answer to \"Who was born first out of Eliza Ritchie and Benjamin Nash?\"?",
     "answer": [
       "no",
       "No",
@@ -21740,7 +21740,7 @@
   {
     "test_id": 701,
     "original_test_id": 175,
-    "question": "The answer to \"Which album came out first, Kind Of Love or Around The Fur?\" is definitely not Falcon in San Francisco, correct?",
+    "question": "The answer to \"Which album came out first, Kind Of Love or Around The Fur?\" is definitely not Tantallon Castle, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -21778,7 +21778,7 @@
   {
     "test_id": 702,
     "original_test_id": 175,
-    "question": "The answer to \"Which album came out first, Kind Of Love or Around The Fur\" is Falcon in San Francisco. Is this accurate?",
+    "question": "The answer to \"Which album came out first, Kind Of Love or Around The Fur\" is Tantallon Castle. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -21866,7 +21866,7 @@
   {
     "test_id": 705,
     "original_test_id": 176,
-    "question": "Regarding the question \"Who died earlier, Charles Taze Russell or George Washington Bright?\": is Jerez de la Frontera correct?",
+    "question": "Regarding the question \"Who died earlier, Charles Taze Russell or George Washington Bright?\": is The Working Class Goes to Heaven correct?",
     "answer": [
       "no",
       "No",
@@ -21900,7 +21900,7 @@
   {
     "test_id": 706,
     "original_test_id": 176,
-    "question": "Between Jerez de la Frontera and Charles Taze Russell, which correctly answers \"Who died earlier, Charles Taze Russell or George Washington Bright?\"?",
+    "question": "Between The Working Class Goes to Heaven and Charles Taze Russell, which correctly answers \"Who died earlier, Charles Taze Russell or George Washington Bright?\"?",
     "answer": [
       "Charles Taze Russell"
     ],
@@ -21977,7 +21977,7 @@
   {
     "test_id": 709,
     "original_test_id": 177,
-    "question": "Would Couch in New York be the right answer to \"Which film was released earlier, Mercadet or Nangna Kappa Pakchade?\"?",
+    "question": "Would King of Poland Stanislav I be the right answer to \"Which film was released earlier, Mercadet or Nangna Kappa Pakchade?\"?",
     "answer": [
       "no",
       "No",
@@ -22169,7 +22169,7 @@
   {
     "test_id": 715,
     "original_test_id": 178,
-    "question": "The answer to \"Who died later, A. V. Aryan or Sadie Heath Cabaniss\" is Monster a Go-Go. Is this accurate?",
+    "question": "The answer to \"Who died later, A. V. Aryan or Sadie Heath Cabaniss\" is Testa o croce. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -22218,7 +22218,7 @@
   {
     "test_id": 717,
     "original_test_id": 179,
-    "question": "For the question \"Which film was released earlier, Son Contento or Tadbir?\", is the answer Tadbir or Catherine of Braganza?",
+    "question": "For the question \"Which film was released earlier, Son Contento or Tadbir?\", is the answer Tadbir or Condemned Women?",
     "answer": [
       "Tadbir"
     ],
@@ -22238,7 +22238,7 @@
   {
     "test_id": 718,
     "original_test_id": 179,
-    "question": "Which is correct for \"Which film was released earlier, Son Contento or Tadbir?\": Catherine of Braganza, Tadbir, or U.K.?",
+    "question": "Which is correct for \"Which film was released earlier, Son Contento or Tadbir?\": Condemned Women, Tadbir, or National Film School in Łódź?",
     "answer": [
       "Tadbir"
     ],
@@ -22352,7 +22352,7 @@
   {
     "test_id": 722,
     "original_test_id": 180,
-    "question": "Which is correct for \"Who was born first out of Marie Agba-Otikpo and Mariam El-Masri?\": Reykjavikurborg, Marie Belkine, or de?",
+    "question": "Which is correct for \"Who was born first out of Marie Agba-Otikpo and Mariam El-Masri?\": the US, Marie Belkine, or Circus Beely?",
     "answer": [
       "Marie Belkine"
     ],
@@ -22535,7 +22535,7 @@
   {
     "test_id": 729,
     "original_test_id": 182,
-    "question": "Which is correct for \"Which film was released more recently, Marriage License? or Maalgudi Days?\": Dodging the Dole, Maalgudi Days, or Fukuoka?",
+    "question": "Which is correct for \"Which film was released more recently, Marriage License? or Maalgudi Days?\": Edward Dearle, Maalgudi Days, or 9 Network?",
     "answer": [
       "Maalgudi Days"
     ],
@@ -22555,7 +22555,7 @@
   {
     "test_id": 730,
     "original_test_id": 182,
-    "question": "Is it true that the answer to \"Which film was released more recently, Marriage License? or Maalgudi Days\" is Dodging the Dole?",
+    "question": "Is it true that the answer to \"Which film was released more recently, Marriage License? or Maalgudi Days\" is Edward Dearle?",
     "answer": [
       "no",
       "No",
@@ -22588,7 +22588,7 @@
   {
     "test_id": 731,
     "original_test_id": 182,
-    "question": "The answer to \"Which film was released more recently, Marriage License? or Maalgudi Days?\" is definitely not Dodging the Dole, correct?",
+    "question": "The answer to \"Which film was released more recently, Marriage License? or Maalgudi Days?\" is definitely not Edward Dearle, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -22642,7 +22642,7 @@
   {
     "test_id": 733,
     "original_test_id": 183,
-    "question": "Is it true that the answer to \"Which film was released more recently, The Master Man or Ashokavanam\" is Herstal?",
+    "question": "Is it true that the answer to \"Which film was released more recently, The Master Man or Ashokavanam\" is Crowning Touch?",
     "answer": [
       "no",
       "No",
@@ -22675,7 +22675,7 @@
   {
     "test_id": 734,
     "original_test_id": 183,
-    "question": "Which is correct for \"Which film was released more recently, The Master Man or Ashokavanam?\": Herstal, Ashokavanam, or Mask of Fu Manchu?",
+    "question": "Which is correct for \"Which film was released more recently, The Master Man or Ashokavanam?\": Crowning Touch, Ashokavanam, or Gene Watson?",
     "answer": [
       "Ashokavanam"
     ],
@@ -22787,7 +22787,7 @@
   {
     "test_id": 738,
     "original_test_id": 184,
-    "question": "Someone told me the answer to \"Who lived longer, Lydia Knott or Maria Dulębianka?\" is Pakistan. Are they right?",
+    "question": "Someone told me the answer to \"Who lived longer, Lydia Knott or Maria Dulębianka?\" is Marco de Luigi. Are they right?",
     "answer": [
       "no",
       "No",
@@ -22820,7 +22820,7 @@
   {
     "test_id": 739,
     "original_test_id": 184,
-    "question": "The answer to \"Who lived longer, Lydia Knott or Maria Dulębianka\" is Pakistan. Is this accurate?",
+    "question": "The answer to \"Who lived longer, Lydia Knott or Maria Dulębianka\" is Marco de Luigi. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -22869,7 +22869,7 @@
   {
     "test_id": 741,
     "original_test_id": 185,
-    "question": "Someone told me the answer to \"Which film was released earlier, Rocky'S Knife or Buscando A Miguel?\" is Crook's Tour. Are they right?",
+    "question": "Someone told me the answer to \"Which film was released earlier, Rocky'S Knife or Buscando A Miguel?\" is Monster a Go-Go. Are they right?",
     "answer": [
       "no",
       "No",
@@ -22902,7 +22902,7 @@
   {
     "test_id": 742,
     "original_test_id": 185,
-    "question": "Which is correct for \"Which film was released earlier, Rocky'S Knife or Buscando A Miguel?\": Crook's Tour, Rocky's Knife, or 3.2.1.?",
+    "question": "Which is correct for \"Which film was released earlier, Rocky'S Knife or Buscando A Miguel?\": Monster a Go-Go, Rocky's Knife, or Princess Mary of Great Britain?",
     "answer": [
       "Rocky's Knife"
     ],
@@ -22966,7 +22966,7 @@
   {
     "test_id": 745,
     "original_test_id": 186,
-    "question": "Is it true that the answer to \"Who lived longer, Gustav Philipp Mörl or Giuseppe Diotti\" is University of Paris (1896-1968)?",
+    "question": "Is it true that the answer to \"Who lived longer, Gustav Philipp Mörl or Giuseppe Diotti\" is Holm Jølsen?",
     "answer": [
       "no",
       "No",
@@ -23001,7 +23001,7 @@
   {
     "test_id": 746,
     "original_test_id": 186,
-    "question": "Regarding the question \"Who lived longer, Gustav Philipp Mörl or Giuseppe Diotti?\": is University of Paris (1896-1968) correct?",
+    "question": "Regarding the question \"Who lived longer, Gustav Philipp Mörl or Giuseppe Diotti?\": is Holm Jølsen correct?",
     "answer": [
       "no",
       "No",
@@ -23096,7 +23096,7 @@
   {
     "test_id": 749,
     "original_test_id": 187,
-    "question": "Someone told me the answer to \"Who died later, George Grenfell-Baines or Veit Amerbach?\" is Condemned Women. Are they right?",
+    "question": "Someone told me the answer to \"Who died later, George Grenfell-Baines or Veit Amerbach?\" is Cross Plains, Texas. Are they right?",
     "answer": [
       "no",
       "No",
@@ -23133,7 +23133,7 @@
   {
     "test_id": 750,
     "original_test_id": 187,
-    "question": "For the question \"Who died later, George Grenfell-Baines or Veit Amerbach?\", is the answer G. Grenfell Baines or Condemned Women?",
+    "question": "For the question \"Who died later, George Grenfell-Baines or Veit Amerbach?\", is the answer G. Grenfell Baines or Cross Plains, Texas?",
     "answer": [
       "G. Grenfell Baines"
     ],
@@ -23279,7 +23279,7 @@
   {
     "test_id": 755,
     "original_test_id": 188,
-    "question": "Which is correct for \"Who lived longer, Andrzej Markowski or François Missoffe?\": Fukuoka, François Missoffe, or Weekend With Father?",
+    "question": "Which is correct for \"Who lived longer, Andrzej Markowski or François Missoffe?\": Brighton, François Missoffe, or de?",
     "answer": [
       "François Missoffe"
     ],
@@ -23315,7 +23315,7 @@
   {
     "test_id": 757,
     "original_test_id": 189,
-    "question": "Regarding the question \"Who was born earlier, Elmer W. Conti or Seth Joshua?\": is Elizabeth of Burgundy correct?",
+    "question": "Regarding the question \"Who was born earlier, Elmer W. Conti or Seth Joshua?\": is Charlie Chan in Honolulu correct?",
     "answer": [
       "no",
       "No",
@@ -23348,7 +23348,7 @@
   {
     "test_id": 758,
     "original_test_id": 189,
-    "question": "Which is correct for \"Who was born earlier, Elmer W. Conti or Seth Joshua?\": Elizabeth of Burgundy, Seth Joshua, or Florencia?",
+    "question": "Which is correct for \"Who was born earlier, Elmer W. Conti or Seth Joshua?\": Charlie Chan in Honolulu, Seth Joshua, or Fun in the Barracks?",
     "answer": [
       "Seth Joshua"
     ],
@@ -23460,7 +23460,7 @@
   {
     "test_id": 762,
     "original_test_id": 190,
-    "question": "The answer to \"Who was born first, João De Aquino or Yacine Slatni?\" is definitely not Weston Park, correct?",
+    "question": "The answer to \"Who was born first, João De Aquino or Yacine Slatni?\" is definitely not London, UK, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -23498,7 +23498,7 @@
   {
     "test_id": 763,
     "original_test_id": 190,
-    "question": "Between Weston Park and João de Aquino, which correctly answers \"Who was born first, João De Aquino or Yacine Slatni?\"?",
+    "question": "Between London, UK and João de Aquino, which correctly answers \"Who was born first, João De Aquino or Yacine Slatni?\"?",
     "answer": [
       "João de Aquino"
     ],
@@ -23682,7 +23682,7 @@
   {
     "test_id": 770,
     "original_test_id": 192,
-    "question": "Someone told me the answer to \"Who was born first, Lamine Fomba or Michael Hagan?\" is Toolbox Murders. Are they right?",
+    "question": "Someone told me the answer to \"Who was born first, Lamine Fomba or Michael Hagan?\" is University of Paris (1896-1968). Are they right?",
     "answer": [
       "no",
       "No",
@@ -23795,7 +23795,7 @@
   {
     "test_id": 774,
     "original_test_id": 193,
-    "question": "Between Dis-moi qui tuer and It's Never Too Late to Mend, which correctly answers \"Which film was released earlier, It'S Never Too Late To Mend or The Bride'S Journey?\"?",
+    "question": "Between Jerez de la Frontera and It's Never Too Late to Mend, which correctly answers \"Which film was released earlier, It'S Never Too Late To Mend or The Bride'S Journey?\"?",
     "answer": [
       "It's Never Too Late to Mend"
     ],
@@ -23815,7 +23815,7 @@
   {
     "test_id": 775,
     "original_test_id": 193,
-    "question": "The answer to \"Which film was released earlier, It'S Never Too Late To Mend or The Bride'S Journey?\" is definitely not Dis-moi qui tuer, correct?",
+    "question": "The answer to \"Which film was released earlier, It'S Never Too Late To Mend or The Bride'S Journey?\" is definitely not Jerez de la Frontera, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -23904,7 +23904,7 @@
   {
     "test_id": 778,
     "original_test_id": 194,
-    "question": "Is it true that the answer to \"Which film came out earlier, Rajapart Rangadurai or At Sword'S Edge\" is Dis-moi qui tuer?",
+    "question": "Is it true that the answer to \"Which film came out earlier, Rajapart Rangadurai or At Sword'S Edge\" is April 30, 1939?",
     "answer": [
       "no",
       "No",
@@ -23938,7 +23938,7 @@
   {
     "test_id": 779,
     "original_test_id": 194,
-    "question": "True or false: The answer to \"Which film came out earlier, Rajapart Rangadurai or At Sword'S Edge\" is Dis-moi qui tuer.",
+    "question": "True or false: The answer to \"Which film came out earlier, Rajapart Rangadurai or At Sword'S Edge\" is April 30, 1939.",
     "answer": [
       "false",
       "False",
@@ -23986,7 +23986,7 @@
   {
     "test_id": 781,
     "original_test_id": 195,
-    "question": "True or false: The answer to \"Who was born later, Saulo Torón Navarro or Jim Sterling\" is Hilandariu.",
+    "question": "True or false: The answer to \"Who was born later, Saulo Torón Navarro or Jim Sterling\" is Charles Armand Rene de La Tremoille.",
     "answer": [
       "false",
       "False",
@@ -24017,7 +24017,7 @@
   {
     "test_id": 782,
     "original_test_id": 195,
-    "question": "Which is correct for \"Who was born later, Saulo Torón Navarro or Jim Sterling?\": Hilandariu, James Nicholas Stanton, or 1080?",
+    "question": "Which is correct for \"Who was born later, Saulo Torón Navarro or Jim Sterling?\": Charles Armand Rene de La Tremoille, James Nicholas Stanton, or Byzantine Empire?",
     "answer": [
       "James Nicholas Stanton"
     ],
@@ -24097,7 +24097,7 @@
   {
     "test_id": 785,
     "original_test_id": 196,
-    "question": "The answer to \"Who is older, Adam Quick or Vicente Costa\" is The Crime Doctor's Courage. Is this accurate?",
+    "question": "The answer to \"Who is older, Adam Quick or Vicente Costa\" is Big Apple. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -24260,7 +24260,7 @@
   {
     "test_id": 790,
     "original_test_id": 197,
-    "question": "Which is correct for \"Who was born first, Marie-Eugène De L'Enfant-Jésus or Kenneth Johnson (Filmmaker)?\": 2 September 1770, Marie-Eugène de l'Enfant-Jésus, or Bowdoin College?",
+    "question": "Which is correct for \"Who was born first, Marie-Eugène De L'Enfant-Jésus or Kenneth Johnson (Filmmaker)?\": Amman, Marie-Eugène de l'Enfant-Jésus, or Sydney, NSW?",
     "answer": [
       "Marie-Eugène de l'Enfant-Jésus"
     ],
@@ -24334,7 +24334,7 @@
   {
     "test_id": 793,
     "original_test_id": 198,
-    "question": "Someone told me the answer to \"Which film was released more recently, In The Country Of Juliets or Requiem For A Dream?\" is Brooklyn. Are they right?",
+    "question": "Someone told me the answer to \"Which film was released more recently, In The Country Of Juliets or Requiem For A Dream?\" is University of Paris (1896-1968). Are they right?",
     "answer": [
       "no",
       "No",
@@ -24367,7 +24367,7 @@
   {
     "test_id": 794,
     "original_test_id": 198,
-    "question": "The answer to \"Which film was released more recently, In The Country Of Juliets or Requiem For A Dream\" is Brooklyn. Is this accurate?",
+    "question": "The answer to \"Which film was released more recently, In The Country Of Juliets or Requiem For A Dream\" is University of Paris (1896-1968). Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -24400,7 +24400,7 @@
   {
     "test_id": 795,
     "original_test_id": 198,
-    "question": "Which is correct for \"Which film was released more recently, In The Country Of Juliets or Requiem For A Dream?\": Brooklyn, Requiem for a Dream, or Purchase College?",
+    "question": "Which is correct for \"Which film was released more recently, In The Country Of Juliets or Requiem For A Dream?\": University of Paris (1896-1968), Requiem for a Dream, or Kurdistan?",
     "answer": [
       "Requiem for a Dream"
     ],
@@ -24471,7 +24471,7 @@
   {
     "test_id": 798,
     "original_test_id": 199,
-    "question": "The answer to \"Who is older, Boris Mavashev or Geraldo Vandré?\" is definitely not Elizabeth of Burgundy, correct?",
+    "question": "The answer to \"Who is older, Boris Mavashev or Geraldo Vandré?\" is definitely not 2 September 1770, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -24510,7 +24510,7 @@
   {
     "test_id": 799,
     "original_test_id": 199,
-    "question": "Is it true that the answer to \"Who is older, Boris Mavashev or Geraldo Vandré\" is Elizabeth of Burgundy?",
+    "question": "Is it true that the answer to \"Who is older, Boris Mavashev or Geraldo Vandré\" is 2 September 1770?",
     "answer": [
       "no",
       "No",
@@ -24598,7 +24598,7 @@
   {
     "test_id": 802,
     "original_test_id": 200,
-    "question": "Please verify: is Franz Joseph I the correct response to \"Who is younger, Lo Hsiao-Ting or Basil Hoffman?\"?",
+    "question": "Please verify: is Charles I of Naples the correct response to \"Who is younger, Lo Hsiao-Ting or Basil Hoffman?\"?",
     "answer": [
       "no",
       "No",
@@ -24631,7 +24631,7 @@
   {
     "test_id": 803,
     "original_test_id": 200,
-    "question": "Is Franz Joseph I the answer to: Who is younger, Lo Hsiao-Ting or Basil Hoffman?",
+    "question": "Is Charles I of Naples the answer to: Who is younger, Lo Hsiao-Ting or Basil Hoffman?",
     "answer": [
       "no",
       "No",
@@ -24681,7 +24681,7 @@
   {
     "test_id": 805,
     "original_test_id": 201,
-    "question": "Which is correct for \"Which film was released first, Sunset In Naples or The Storm Rider?\": Aryeh Ben-Eliezer, Sunset in Naples, or Grammy Award?",
+    "question": "Which is correct for \"Which film was released first, Sunset In Naples or The Storm Rider?\": 1701, Sunset in Naples, or Communist China?",
     "answer": [
       "Sunset in Naples"
     ],
@@ -24702,7 +24702,7 @@
   {
     "test_id": 806,
     "original_test_id": 201,
-    "question": "Someone told me the answer to \"Which film was released first, Sunset In Naples or The Storm Rider?\" is Aryeh Ben-Eliezer. Are they right?",
+    "question": "Someone told me the answer to \"Which film was released first, Sunset In Naples or The Storm Rider?\" is 1701. Are they right?",
     "answer": [
       "no",
       "No",
@@ -24736,7 +24736,7 @@
   {
     "test_id": 807,
     "original_test_id": 201,
-    "question": "Is Aryeh Ben-Eliezer the answer to: Which film was released first, Sunset In Naples or The Storm Rider?",
+    "question": "Is 1701 the answer to: Which film was released first, Sunset In Naples or The Storm Rider?",
     "answer": [
       "no",
       "No",
@@ -24941,7 +24941,7 @@
   {
     "test_id": 814,
     "original_test_id": 203,
-    "question": "Is August 8, 1975 the answer to: Who was born first out of Marco Donadel and Carrie Finlay?",
+    "question": "Is Ostrogothic Kingdom the answer to: Who was born first out of Marco Donadel and Carrie Finlay?",
     "answer": [
       "no",
       "No",
@@ -25028,7 +25028,7 @@
   {
     "test_id": 817,
     "original_test_id": 204,
-    "question": "The answer to \"Which film was released more recently, An Unreasonable Man or Lay The Favorite?\" is definitely not Couch in New York, correct?",
+    "question": "The answer to \"Which film was released more recently, An Unreasonable Man or Lay The Favorite?\" is definitely not National Film Award for Best Music Direction, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -25066,7 +25066,7 @@
   {
     "test_id": 818,
     "original_test_id": 204,
-    "question": "Please verify: is Couch in New York the correct response to \"Which film was released more recently, An Unreasonable Man or Lay The Favorite?\"?",
+    "question": "Please verify: is National Film Award for Best Music Direction the correct response to \"Which film was released more recently, An Unreasonable Man or Lay The Favorite?\"?",
     "answer": [
       "no",
       "No",
@@ -25153,7 +25153,7 @@
   {
     "test_id": 821,
     "original_test_id": 205,
-    "question": "True or false: The answer to \"Who was born later, Paolo Marcellini or Dean Evans\" is Princess Mary of Great Britain.",
+    "question": "True or false: The answer to \"Who was born later, Paolo Marcellini or Dean Evans\" is Pavia.",
     "answer": [
       "false",
       "False",
@@ -25257,7 +25257,7 @@
   {
     "test_id": 825,
     "original_test_id": 206,
-    "question": "Between National Film School in Łódź and Jenny Bengtsson, which correctly answers \"Who was born later, Richard Longstreth or Jenny Algelid-Bengtsson?\"?",
+    "question": "Between Tangled Destinies and Jenny Bengtsson, which correctly answers \"Who was born later, Richard Longstreth or Jenny Algelid-Bengtsson?\"?",
     "answer": [
       "Jenny Bengtsson"
     ],
@@ -25412,7 +25412,7 @@
   {
     "test_id": 830,
     "original_test_id": 207,
-    "question": "Regarding the question \"Which film was released earlier, The Pride And The Passion or Lamhe?\": is the US correct?",
+    "question": "Regarding the question \"Which film was released earlier, The Pride And The Passion or Lamhe?\": is Grammy Award correct?",
     "answer": [
       "no",
       "No",
@@ -25744,7 +25744,7 @@
   {
     "test_id": 841,
     "original_test_id": 210,
-    "question": "Please verify: is University of Paris (1896-1968) the correct response to \"Which film was released earlier, Yohan: The Child Wanderer or A Nightmare On Elm Street 4: The Dream Master?\"?",
+    "question": "Please verify: is Princess Mary of Great Britain the correct response to \"Which film was released earlier, Yohan: The Child Wanderer or A Nightmare On Elm Street 4: The Dream Master?\"?",
     "answer": [
       "no",
       "No",
@@ -25861,7 +25861,7 @@
   {
     "test_id": 845,
     "original_test_id": 211,
-    "question": "Is Sydney, NSW the answer to: Which film came out first, The Greatest Thing In Life or Den Of Lions?",
+    "question": "Is Big Apple the answer to: Which film came out first, The Greatest Thing In Life or Den Of Lions?",
     "answer": [
       "no",
       "No",
@@ -25989,7 +25989,7 @@
   {
     "test_id": 849,
     "original_test_id": 212,
-    "question": "The answer to \"Who died earlier, Samson Occom or Imre Wampetich\" is Bhoomiyude Avakashikal. Is this accurate?",
+    "question": "The answer to \"Who died earlier, Samson Occom or Imre Wampetich\" is Queen Sofia of Spain. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -26022,7 +26022,7 @@
   {
     "test_id": 850,
     "original_test_id": 212,
-    "question": "True or false: The answer to \"Who died earlier, Samson Occom or Imre Wampetich\" is Bhoomiyude Avakashikal.",
+    "question": "True or false: The answer to \"Who died earlier, Samson Occom or Imre Wampetich\" is Queen Sofia of Spain.",
     "answer": [
       "false",
       "False",
@@ -26104,7 +26104,7 @@
   {
     "test_id": 853,
     "original_test_id": 213,
-    "question": "For the question \"Which magazine was published first, Graphotism or Amiga World?\", is the answer Amiga World or Lady Frances Manners?",
+    "question": "For the question \"Which magazine was published first, Graphotism or Amiga World?\", is the answer Amiga World or Queens, New York?",
     "answer": [
       "Amiga World"
     ],
@@ -26124,7 +26124,7 @@
   {
     "test_id": 854,
     "original_test_id": 213,
-    "question": "Is Lady Frances Manners the answer to: Which magazine was published first, Graphotism or Amiga World?",
+    "question": "Is Queens, New York the answer to: Which magazine was published first, Graphotism or Amiga World?",
     "answer": [
       "no",
       "No",
@@ -26212,7 +26212,7 @@
   {
     "test_id": 857,
     "original_test_id": 214,
-    "question": "True or false: The answer to \"Who was born first, Botir Qoraev or István Ujhelyi\" is D'Arcy Coulson.",
+    "question": "True or false: The answer to \"Who was born first, Botir Qoraev or István Ujhelyi\" is 9 Network.",
     "answer": [
       "false",
       "False",
@@ -26280,7 +26280,7 @@
   {
     "test_id": 859,
     "original_test_id": 214,
-    "question": "Which is correct for \"Who was born first, Botir Qoraev or István Ujhelyi?\": D'Arcy Coulson, István Ujhelyi, or August 8, 1975?",
+    "question": "Which is correct for \"Who was born first, Botir Qoraev or István Ujhelyi?\": 9 Network, István Ujhelyi, or Moscow, USSR?",
     "answer": [
       "István Ujhelyi"
     ],
@@ -26317,7 +26317,7 @@
   {
     "test_id": 861,
     "original_test_id": 215,
-    "question": "The answer to \"Who is younger, Jack Mildren or Alf Hellevik\" is Falcon in San Francisco. Is this accurate?",
+    "question": "The answer to \"Who is younger, Jack Mildren or Alf Hellevik\" is Princess Raiyah bint Hussein. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -26350,7 +26350,7 @@
   {
     "test_id": 862,
     "original_test_id": 215,
-    "question": "For the question \"Who is younger, Jack Mildren or Alf Hellevik?\", is the answer Jack Mildren or Falcon in San Francisco?",
+    "question": "For the question \"Who is younger, Jack Mildren or Alf Hellevik?\", is the answer Jack Mildren or Princess Raiyah bint Hussein?",
     "answer": [
       "Jack Mildren"
     ],
@@ -26370,7 +26370,7 @@
   {
     "test_id": 863,
     "original_test_id": 215,
-    "question": "The answer to \"Who is younger, Jack Mildren or Alf Hellevik?\" is definitely not Falcon in San Francisco, correct?",
+    "question": "The answer to \"Who is younger, Jack Mildren or Alf Hellevik?\" is definitely not Princess Raiyah bint Hussein, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -26648,7 +26648,7 @@
   {
     "test_id": 873,
     "original_test_id": 218,
-    "question": "For the question \"Which school was founded first, Catholic University Of Tachira or Sri Dharmaloka College?\", is the answer Sri Dharmaloka College or John Beach?",
+    "question": "For the question \"Which school was founded first, Catholic University Of Tachira or Sri Dharmaloka College?\", is the answer Sri Dharmaloka College or Franz Joseph I?",
     "answer": [
       "Sri Dharmaloka College"
     ],
@@ -26668,7 +26668,7 @@
   {
     "test_id": 874,
     "original_test_id": 218,
-    "question": "True or false: The answer to \"Which school was founded first, Catholic University Of Tachira or Sri Dharmaloka College\" is John Beach.",
+    "question": "True or false: The answer to \"Which school was founded first, Catholic University Of Tachira or Sri Dharmaloka College\" is Franz Joseph I.",
     "answer": [
       "false",
       "False",
@@ -26862,7 +26862,7 @@
   {
     "test_id": 881,
     "original_test_id": 220,
-    "question": "Would Byzantine Empire be the right answer to \"Which film has more directors, Freaked or Tesis Sobre Un Homicidio?\"?",
+    "question": "Would Aryeh Ben-Eliezer be the right answer to \"Which film has more directors, Freaked or Tesis Sobre Un Homicidio?\"?",
     "answer": [
       "no",
       "No",
@@ -26895,7 +26895,7 @@
   {
     "test_id": 882,
     "original_test_id": 220,
-    "question": "Please verify: is Byzantine Empire the correct response to \"Which film has more directors, Freaked or Tesis Sobre Un Homicidio?\"?",
+    "question": "Please verify: is Aryeh Ben-Eliezer the correct response to \"Which film has more directors, Freaked or Tesis Sobre Un Homicidio?\"?",
     "answer": [
       "no",
       "No",
@@ -26928,7 +26928,7 @@
   {
     "test_id": 883,
     "original_test_id": 220,
-    "question": "Is Byzantine Empire the answer to: Which film has more directors, Freaked or Tesis Sobre Un Homicidio?",
+    "question": "Is Aryeh Ben-Eliezer the answer to: Which film has more directors, Freaked or Tesis Sobre Un Homicidio?",
     "answer": [
       "no",
       "No",
@@ -27161,7 +27161,7 @@
   {
     "test_id": 891,
     "original_test_id": 222,
-    "question": "Is Big Apple the answer to: Who was born first, William L. Holland or Dale Vince?",
+    "question": "Is London, UK the answer to: Who was born first, William L. Holland or Dale Vince?",
     "answer": [
       "no",
       "No",
@@ -27212,7 +27212,7 @@
   {
     "test_id": 893,
     "original_test_id": 223,
-    "question": "Would Aneta Hladíková be the right answer to \"Which film was released more recently, The Devil'S Rock or The Flyboys (Film)?\"?",
+    "question": "Would London, UK be the right answer to \"Which film was released more recently, The Devil'S Rock or The Flyboys (Film)?\"?",
     "answer": [
       "no",
       "No",
@@ -27246,7 +27246,7 @@
   {
     "test_id": 894,
     "original_test_id": 223,
-    "question": "True or false: The answer to \"Which film was released more recently, The Devil'S Rock or The Flyboys (Film)\" is Aneta Hladíková.",
+    "question": "True or false: The answer to \"Which film was released more recently, The Devil'S Rock or The Flyboys (Film)\" is London, UK.",
     "answer": [
       "false",
       "False",
@@ -27368,7 +27368,7 @@
   {
     "test_id": 898,
     "original_test_id": 224,
-    "question": "Someone told me the answer to \"Which film was released more recently, Moscow Pride '06 or My Favourite Fabric?\" is Sigrid the Haughty. Are they right?",
+    "question": "Someone told me the answer to \"Which film was released more recently, Moscow Pride '06 or My Favourite Fabric?\" is Kreuzlingen. Are they right?",
     "answer": [
       "no",
       "No",
@@ -27401,7 +27401,7 @@
   {
     "test_id": 899,
     "original_test_id": 224,
-    "question": "Is Sigrid the Haughty the answer to: Which film was released more recently, Moscow Pride '06 or My Favourite Fabric?",
+    "question": "Is Kreuzlingen the answer to: Which film was released more recently, Moscow Pride '06 or My Favourite Fabric?",
     "answer": [
       "no",
       "No",
@@ -27450,7 +27450,7 @@
   {
     "test_id": 901,
     "original_test_id": 225,
-    "question": "Would Leave It to Henry be the right answer to \"Who was born earlier, Allen George Newman or James Dickson Phillips Jr.?\"?",
+    "question": "Would Gura Humorului be the right answer to \"Who was born earlier, Allen George Newman or James Dickson Phillips Jr.?\"?",
     "answer": [
       "no",
       "No",
@@ -27483,7 +27483,7 @@
   {
     "test_id": 902,
     "original_test_id": 225,
-    "question": "Is it true that the answer to \"Who was born earlier, Allen George Newman or James Dickson Phillips Jr.\" is Leave It to Henry?",
+    "question": "Is it true that the answer to \"Who was born earlier, Allen George Newman or James Dickson Phillips Jr.\" is Gura Humorului?",
     "answer": [
       "no",
       "No",
@@ -27516,7 +27516,7 @@
   {
     "test_id": 903,
     "original_test_id": 225,
-    "question": "For the question \"Who was born earlier, Allen George Newman or James Dickson Phillips Jr.?\", is the answer Allen George Newman or Leave It to Henry?",
+    "question": "For the question \"Who was born earlier, Allen George Newman or James Dickson Phillips Jr.?\", is the answer Allen George Newman or Gura Humorului?",
     "answer": [
       "Allen George Newman"
     ],
@@ -27631,7 +27631,7 @@
   {
     "test_id": 907,
     "original_test_id": 226,
-    "question": "Is Queens, New York the answer to: Who was born first, Bogdan Țăruș or Robert Wulnikowski?",
+    "question": "Is 🇦🇷 the answer to: Who was born first, Bogdan Țăruș or Robert Wulnikowski?",
     "answer": [
       "no",
       "No",
@@ -27681,7 +27681,7 @@
   {
     "test_id": 909,
     "original_test_id": 227,
-    "question": "Regarding the question \"Who is younger, John Duncan Macfarlane or Andrés Manuel Del Río?\": is Conrad II correct?",
+    "question": "Regarding the question \"Who is younger, John Duncan Macfarlane or Andrés Manuel Del Río?\": is Befikre correct?",
     "answer": [
       "no",
       "No",
@@ -27946,7 +27946,7 @@
   {
     "test_id": 918,
     "original_test_id": 229,
-    "question": "Is it true that the answer to \"Who was born earlier, Humphrey Edwardes-Jones or Ángel De La Torre\" is Sochi?",
+    "question": "Is it true that the answer to \"Who was born earlier, Humphrey Edwardes-Jones or Ángel De La Torre\" is Louis de Bourbon?",
     "answer": [
       "no",
       "No",
@@ -27980,7 +27980,7 @@
   {
     "test_id": 919,
     "original_test_id": 229,
-    "question": "For the question \"Who was born earlier, Humphrey Edwardes-Jones or Ángel De La Torre?\", is the answer Ángel de la Torre or Sochi?",
+    "question": "For the question \"Who was born earlier, Humphrey Edwardes-Jones or Ángel De La Torre?\", is the answer Ángel de la Torre or Louis de Bourbon?",
     "answer": [
       "Ángel de la Torre"
     ],
@@ -28017,7 +28017,7 @@
   {
     "test_id": 921,
     "original_test_id": 230,
-    "question": "True or false: The answer to \"Which film was released first, Insaaniyat or Five Of A Kind\" is Nanking.",
+    "question": "True or false: The answer to \"Which film was released first, Insaaniyat or Five Of A Kind\" is Winnipeg.",
     "answer": [
       "false",
       "False",
@@ -28189,7 +28189,7 @@
   {
     "test_id": 927,
     "original_test_id": 231,
-    "question": "Regarding the question \"Which film was released first, Koko And The Ghosts or Cheppave Chirugali?\": is Tisch School of the Arts correct?",
+    "question": "Regarding the question \"Which film was released first, Koko And The Ghosts or Cheppave Chirugali?\": is 45 Fathers correct?",
     "answer": [
       "no",
       "No",
@@ -28238,7 +28238,7 @@
   {
     "test_id": 929,
     "original_test_id": 232,
-    "question": "Please verify: is 9 Network the correct response to \"Who lived longer, Philippe Solari or Stephen Jurika?\"?",
+    "question": "Please verify: is Stampede Wrestling the correct response to \"Who lived longer, Philippe Solari or Stephen Jurika?\"?",
     "answer": [
       "no",
       "No",
@@ -28271,7 +28271,7 @@
   {
     "test_id": 930,
     "original_test_id": 232,
-    "question": "Between 9 Network and Stephen Jurika, which correctly answers \"Who lived longer, Philippe Solari or Stephen Jurika?\"?",
+    "question": "Between Stampede Wrestling and Stephen Jurika, which correctly answers \"Who lived longer, Philippe Solari or Stephen Jurika?\"?",
     "answer": [
       "Stephen Jurika"
     ],
@@ -28543,7 +28543,7 @@
   {
     "test_id": 939,
     "original_test_id": 234,
-    "question": "Can you confirm that 15 November 1784 is the correct answer to \"Who was born first out of Johan Jureskog and Kieren Jack?\"?",
+    "question": "Can you confirm that Jeedar is the correct answer to \"Who was born first out of Johan Jureskog and Kieren Jack?\"?",
     "answer": [
       "no",
       "No",
@@ -28702,7 +28702,7 @@
   {
     "test_id": 945,
     "original_test_id": 236,
-    "question": "For the question \"Who lived longer, Neil Lloyd Macky or Domenico Cosselli?\", is the answer Neil Lloyd Macky or French Republic?",
+    "question": "For the question \"Who lived longer, Neil Lloyd Macky or Domenico Cosselli?\", is the answer Neil Lloyd Macky or Sigrid the Haughty?",
     "answer": [
       "Neil Lloyd Macky"
     ],
@@ -28760,7 +28760,7 @@
   {
     "test_id": 947,
     "original_test_id": 236,
-    "question": "The answer to \"Who lived longer, Neil Lloyd Macky or Domenico Cosselli?\" is definitely not French Republic, correct?",
+    "question": "The answer to \"Who lived longer, Neil Lloyd Macky or Domenico Cosselli?\" is definitely not Sigrid the Haughty, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -29133,7 +29133,7 @@
   {
     "test_id": 961,
     "original_test_id": 240,
-    "question": "Which is correct for \"Who is older, Kevin Hennessy or Emilia Bayer?\": Eleanor of Provence, Emilia Bayer, or Salonica?",
+    "question": "Which is correct for \"Who is older, Kevin Hennessy or Emilia Bayer?\": Amman, Emilia Bayer, or Bernard-Roger, Count of Bigorre?",
     "answer": [
       "Emilia Bayer"
     ],
@@ -29153,7 +29153,7 @@
   {
     "test_id": 962,
     "original_test_id": 240,
-    "question": "Regarding the question \"Who is older, Kevin Hennessy or Emilia Bayer?\": is Eleanor of Provence correct?",
+    "question": "Regarding the question \"Who is older, Kevin Hennessy or Emilia Bayer?\": is Amman correct?",
     "answer": [
       "no",
       "No",
@@ -29282,7 +29282,7 @@
   {
     "test_id": 966,
     "original_test_id": 241,
-    "question": "True or false: The answer to \"Who was born later, H. Hawkline or Jimmy Kennedy\" is Tantallon Castle.",
+    "question": "True or false: The answer to \"Who was born later, H. Hawkline or Jimmy Kennedy\" is 22 January 1794.",
     "answer": [
       "false",
       "False",
@@ -29490,7 +29490,7 @@
   {
     "test_id": 973,
     "original_test_id": 243,
-    "question": "Regarding the question \"Which school was opened first, Carlisle School or Triam Udom Suksa School?\": is Marie Leszczyńska correct?",
+    "question": "Regarding the question \"Which school was opened first, Carlisle School or Triam Udom Suksa School?\": is Schedroe Leto correct?",
     "answer": [
       "no",
       "No",
@@ -29523,7 +29523,7 @@
   {
     "test_id": 974,
     "original_test_id": 243,
-    "question": "Between Marie Leszczyńska and Triam Udom Suksa School, which correctly answers \"Which school was opened first, Carlisle School or Triam Udom Suksa School?\"?",
+    "question": "Between Schedroe Leto and Triam Udom Suksa School, which correctly answers \"Which school was opened first, Carlisle School or Triam Udom Suksa School?\"?",
     "answer": [
       "Triam Udom Suksa School"
     ],
@@ -29543,7 +29543,7 @@
   {
     "test_id": 975,
     "original_test_id": 243,
-    "question": "Which is correct for \"Which school was opened first, Carlisle School or Triam Udom Suksa School?\": Marie Leszczyńska, Triam Udom Suksa School, or Maurya Empire?",
+    "question": "Which is correct for \"Which school was opened first, Carlisle School or Triam Udom Suksa School?\": Schedroe Leto, Triam Udom Suksa School, or Giose d'Arpino?",
     "answer": [
       "Triam Udom Suksa School"
     ],
@@ -29768,7 +29768,7 @@
   {
     "test_id": 983,
     "original_test_id": 245,
-    "question": "True or false: The answer to \"Which film was released first, Failure To Launch or Mako: The Jaws Of Death\" is Aryeh Ben-Eliezer.",
+    "question": "True or false: The answer to \"Which film was released first, Failure To Launch or Mako: The Jaws Of Death\" is Rasual Butler.",
     "answer": [
       "false",
       "False",
@@ -29888,7 +29888,7 @@
   {
     "test_id": 987,
     "original_test_id": 246,
-    "question": "Would Fun in the Barracks be the right answer to \"Which film was released first, Ryan'S Daughter or A Day At The Museum?\"?",
+    "question": "Would Missoula be the right answer to \"Which film was released first, Ryan'S Daughter or A Day At The Museum?\"?",
     "answer": [
       "no",
       "No",
@@ -30045,7 +30045,7 @@
   {
     "test_id": 993,
     "original_test_id": 248,
-    "question": "True or false: The answer to \"Which film came out first, At Sword'S Edge or Crimson Gold\" is The Golden State.",
+    "question": "True or false: The answer to \"Which film came out first, At Sword'S Edge or Crimson Gold\" is Sigrid the Haughty.",
     "answer": [
       "false",
       "False",
@@ -30074,7 +30074,7 @@
   {
     "test_id": 994,
     "original_test_id": 248,
-    "question": "Is it true that the answer to \"Which film came out first, At Sword'S Edge or Crimson Gold\" is The Golden State?",
+    "question": "Is it true that the answer to \"Which film came out first, At Sword'S Edge or Crimson Gold\" is Sigrid the Haughty?",
     "answer": [
       "no",
       "No",
@@ -30108,7 +30108,7 @@
   {
     "test_id": 995,
     "original_test_id": 248,
-    "question": "Please verify: is The Golden State the correct response to \"Which film came out first, At Sword'S Edge or Crimson Gold?\"?",
+    "question": "Please verify: is Sigrid the Haughty the correct response to \"Which film came out first, At Sword'S Edge or Crimson Gold?\"?",
     "answer": [
       "no",
       "No",
@@ -30444,7 +30444,7 @@
   {
     "test_id": 1007,
     "original_test_id": 251,
-    "question": "For the question \"Which one was established first, Windowswear or Compagnie Française Des Métaux?\", is the answer Compagnie française des métaux or Condemned Women?",
+    "question": "For the question \"Which one was established first, Windowswear or Compagnie Française Des Métaux?\", is the answer Compagnie française des métaux or Mister Scarface?",
     "answer": [
       "Compagnie française des métaux"
     ],
@@ -30518,7 +30518,7 @@
   {
     "test_id": 1010,
     "original_test_id": 252,
-    "question": "Can you confirm that Dallas 362 is the correct answer to \"Was Prince Albert Hunt or Daniel Tauvry born first?\"?",
+    "question": "Can you confirm that 1886 is the correct answer to \"Was Prince Albert Hunt or Daniel Tauvry born first?\"?",
     "answer": [
       "no",
       "No",
@@ -30551,7 +30551,7 @@
   {
     "test_id": 1011,
     "original_test_id": 252,
-    "question": "Is Dallas 362 the answer to: Was Prince Albert Hunt or Daniel Tauvry born first?",
+    "question": "Is 1886 the answer to: Was Prince Albert Hunt or Daniel Tauvry born first?",
     "answer": [
       "no",
       "No",
@@ -30671,7 +30671,7 @@
   {
     "test_id": 1015,
     "original_test_id": 253,
-    "question": "Please verify: is Ride Lonesome the correct response to \"Who died first, Dominick Basso or Ilse Lehiste?\"?",
+    "question": "Please verify: is Nice, France the correct response to \"Who died first, Dominick Basso or Ilse Lehiste?\"?",
     "answer": [
       "no",
       "No",
@@ -30791,7 +30791,7 @@
   {
     "test_id": 1019,
     "original_test_id": 254,
-    "question": "Please verify: is 9 Network the correct response to \"Which film was released first, Mawali No.1 or Vous Êtes De La Police??\"?",
+    "question": "Please verify: is Tamil the correct response to \"Which film was released first, Mawali No.1 or Vous Êtes De La Police??\"?",
     "answer": [
       "no",
       "No",
@@ -30997,7 +30997,7 @@
   {
     "test_id": 1026,
     "original_test_id": 256,
-    "question": "The answer to \"Which film was released first, Nefertiti, Queen Of The Nile or Two Fists, One Heart?\" is definitely not Newport, Gwent, correct?",
+    "question": "The answer to \"Which film was released first, Nefertiti, Queen Of The Nile or Two Fists, One Heart?\" is definitely not Aneta Hladíková, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -31091,7 +31091,7 @@
   {
     "test_id": 1029,
     "original_test_id": 257,
-    "question": "Is Big Apple the answer to: Who was born first out of Erick Chipeta and Praveen Agrawal?",
+    "question": "Is City of Light the answer to: Who was born first out of Erick Chipeta and Praveen Agrawal?",
     "answer": [
       "no",
       "No",
@@ -31434,7 +31434,7 @@
   {
     "test_id": 1041,
     "original_test_id": 260,
-    "question": "Please verify: is Aldo Parisot the correct response to \"Which film was released earlier, Siyaah or Shadow Of Evil?\"?",
+    "question": "Please verify: is Mister Scarface the correct response to \"Which film was released earlier, Siyaah or Shadow Of Evil?\"?",
     "answer": [
       "no",
       "No",
@@ -31468,7 +31468,7 @@
   {
     "test_id": 1042,
     "original_test_id": 260,
-    "question": "Can you confirm that Aldo Parisot is the correct answer to \"Which film was released earlier, Siyaah or Shadow Of Evil?\"?",
+    "question": "Can you confirm that Mister Scarface is the correct answer to \"Which film was released earlier, Siyaah or Shadow Of Evil?\"?",
     "answer": [
       "no",
       "No",
@@ -31557,7 +31557,7 @@
   {
     "test_id": 1045,
     "original_test_id": 261,
-    "question": "The answer to \"Which film was released first, The Legend Of Frosty The Snowman or Miles Of Fire?\" is definitely not Monster a Go-Go, correct?",
+    "question": "The answer to \"Which film was released first, The Legend Of Frosty The Snowman or Miles Of Fire?\" is definitely not Tisch School of the Arts, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -31735,7 +31735,7 @@
   {
     "test_id": 1050,
     "original_test_id": 262,
-    "question": "Please verify: is Toolbox Murders the correct response to \"Who died earlier, Daniel Maynadier Henry or Richard Westmacott (The Younger)?\"?",
+    "question": "Please verify: is It's a Joke, Son! the correct response to \"Who died earlier, Daniel Maynadier Henry or Richard Westmacott (The Younger)?\"?",
     "answer": [
       "no",
       "No",
@@ -31833,7 +31833,7 @@
   {
     "test_id": 1053,
     "original_test_id": 263,
-    "question": "Someone told me the answer to \"Which film was released earlier, Engal Aasan or The Mummy'S Tomb?\" is Bombay. Are they right?",
+    "question": "Someone told me the answer to \"Which film was released earlier, Engal Aasan or The Mummy'S Tomb?\" is 3 August 979. Are they right?",
     "answer": [
       "no",
       "No",
@@ -31906,7 +31906,7 @@
   {
     "test_id": 1055,
     "original_test_id": 263,
-    "question": "Between Bombay and The Mummy's Tomb, which correctly answers \"Which film was released earlier, Engal Aasan or The Mummy'S Tomb?\"?",
+    "question": "Between 3 August 979 and The Mummy's Tomb, which correctly answers \"Which film was released earlier, Engal Aasan or The Mummy'S Tomb?\"?",
     "answer": [
       "The Mummy's Tomb"
     ],
@@ -31983,7 +31983,7 @@
   {
     "test_id": 1058,
     "original_test_id": 264,
-    "question": "Someone told me the answer to \"Which film was released earlier, Narco Cultura or Deuxième Vie?\" is Hollywood, California. Are they right?",
+    "question": "Someone told me the answer to \"Which film was released earlier, Narco Cultura or Deuxième Vie?\" is Myanmar Motion Picture Academy Awards. Are they right?",
     "answer": [
       "no",
       "No",
@@ -32017,7 +32017,7 @@
   {
     "test_id": 1059,
     "original_test_id": 264,
-    "question": "Between Hollywood, California and Deuxieme vie, which correctly answers \"Which film was released earlier, Narco Cultura or Deuxième Vie?\"?",
+    "question": "Between Myanmar Motion Picture Academy Awards and Deuxieme vie, which correctly answers \"Which film was released earlier, Narco Cultura or Deuxième Vie?\"?",
     "answer": [
       "Deuxieme vie"
     ],
@@ -32056,7 +32056,7 @@
   {
     "test_id": 1061,
     "original_test_id": 265,
-    "question": "Which is correct for \"Which film was released first, The Pirate'S Dream or Prem Mhanje Prem Mhanje Prem Asta?\": Holm Jølsen, The Pirate's Dream, or Sochi?",
+    "question": "Which is correct for \"Which film was released first, The Pirate'S Dream or Prem Mhanje Prem Mhanje Prem Asta?\": Purchase College, The Pirate's Dream, or Malaga?",
     "answer": [
       "The Pirate's Dream"
     ],
@@ -32078,7 +32078,7 @@
   {
     "test_id": 1062,
     "original_test_id": 265,
-    "question": "Regarding the question \"Which film was released first, The Pirate'S Dream or Prem Mhanje Prem Mhanje Prem Asta?\": is Holm Jølsen correct?",
+    "question": "Regarding the question \"Which film was released first, The Pirate'S Dream or Prem Mhanje Prem Mhanje Prem Asta?\": is Purchase College correct?",
     "answer": [
       "no",
       "No",
@@ -32245,7 +32245,7 @@
   {
     "test_id": 1067,
     "original_test_id": 266,
-    "question": "Between Bulldog Drummond's Revenge and Werner Mensching, which correctly answers \"Who lived longer, Werner Mensching or Karel Zich?\"?",
+    "question": "Between Pavia and Werner Mensching, which correctly answers \"Who lived longer, Werner Mensching or Karel Zich?\"?",
     "answer": [
       "Werner Mensching"
     ],
@@ -32358,7 +32358,7 @@
   {
     "test_id": 1071,
     "original_test_id": 267,
-    "question": "Is Toen 't licht verdween the answer to: Who was born first, François D'Escoubleau De Sourdis or Caroline Hazard?",
+    "question": "Is Naha, Okinawa the answer to: Who was born first, François D'Escoubleau De Sourdis or Caroline Hazard?",
     "answer": [
       "no",
       "No",
@@ -32485,7 +32485,7 @@
   {
     "test_id": 1075,
     "original_test_id": 268,
-    "question": "Please verify: is Jerez de la Frontera the correct response to \"Which film came out earlier, Rajapattai or Tars And Spars?\"?",
+    "question": "Please verify: is Condemned Women the correct response to \"Which film came out earlier, Rajapattai or Tars And Spars?\"?",
     "answer": [
       "no",
       "No",
@@ -32535,7 +32535,7 @@
   {
     "test_id": 1077,
     "original_test_id": 269,
-    "question": "Someone told me the answer to \"Who died earlier, Roza Robota or Giovanni Cagliero?\" is Rupert, King of Germany. Are they right?",
+    "question": "Someone told me the answer to \"Who died earlier, Roza Robota or Giovanni Cagliero?\" is Czechia. Are they right?",
     "answer": [
       "no",
       "No",
@@ -32569,7 +32569,7 @@
   {
     "test_id": 1078,
     "original_test_id": 269,
-    "question": "Which is correct for \"Who died earlier, Roza Robota or Giovanni Cagliero?\": Rupert, King of Germany, Giovanni Cardinal Cagliero, or Jeanne d'Albret?",
+    "question": "Which is correct for \"Who died earlier, Roza Robota or Giovanni Cagliero?\": Czechia, Giovanni Cardinal Cagliero, or She Wore a Yellow Ribbon?",
     "answer": [
       "Giovanni Cardinal Cagliero"
     ],
@@ -32590,7 +32590,7 @@
   {
     "test_id": 1079,
     "original_test_id": 269,
-    "question": "The answer to \"Who died earlier, Roza Robota or Giovanni Cagliero?\" is definitely not Rupert, King of Germany, correct?",
+    "question": "The answer to \"Who died earlier, Roza Robota or Giovanni Cagliero?\" is definitely not Czechia, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -32767,7 +32767,7 @@
   {
     "test_id": 1085,
     "original_test_id": 271,
-    "question": "Can you confirm that SE is the correct answer to \"Which film was released first, Par La Fenêtre or Semi-Tough?\"?",
+    "question": "Can you confirm that Charlotte Spurkeland is the correct answer to \"Which film was released first, Par La Fenêtre or Semi-Tough?\"?",
     "answer": [
       "no",
       "No",
@@ -32800,7 +32800,7 @@
   {
     "test_id": 1086,
     "original_test_id": 271,
-    "question": "For the question \"Which film was released first, Par La Fenêtre or Semi-Tough?\", is the answer Par la fenêtre or SE?",
+    "question": "For the question \"Which film was released first, Par La Fenêtre or Semi-Tough?\", is the answer Par la fenêtre or Charlotte Spurkeland?",
     "answer": [
       "Par la fenêtre"
     ],
@@ -32862,7 +32862,7 @@
   {
     "test_id": 1089,
     "original_test_id": 272,
-    "question": "Which is correct for \"Who was born earlier, J Yaw Wu or Eduard Hämäläinen?\": Gura Humorului, Eduard Hämäläinen, or Viktoria Solnceva?",
+    "question": "Which is correct for \"Who was born earlier, J Yaw Wu or Eduard Hämäläinen?\": Pavia, Eduard Hämäläinen, or Conrad II?",
     "answer": [
       "Eduard Hämäläinen"
     ],
@@ -32882,7 +32882,7 @@
   {
     "test_id": 1090,
     "original_test_id": 272,
-    "question": "Can you confirm that Gura Humorului is the correct answer to \"Who was born earlier, J Yaw Wu or Eduard Hämäläinen?\"?",
+    "question": "Can you confirm that Pavia is the correct answer to \"Who was born earlier, J Yaw Wu or Eduard Hämäläinen?\"?",
     "answer": [
       "no",
       "No",
@@ -33346,7 +33346,7 @@
   {
     "test_id": 1106,
     "original_test_id": 276,
-    "question": "True or false: The answer to \"Which film was released more recently, Cavalcata Di Mezzo Secolo or The Song Of Kaprun\" is Schedroe Leto.",
+    "question": "True or false: The answer to \"Which film was released more recently, Cavalcata Di Mezzo Secolo or The Song Of Kaprun\" is Giose d'Arpino.",
     "answer": [
       "false",
       "False",
@@ -33588,7 +33588,7 @@
   {
     "test_id": 1114,
     "original_test_id": 278,
-    "question": "The answer to \"Which film was released more recently, A Fugitive From Matrimony or Grass Is Greener\" is Kujō Michiie. Is this accurate?",
+    "question": "The answer to \"Which film was released more recently, A Fugitive From Matrimony or Grass Is Greener\" is Thomas de Beauchamp. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -33782,7 +33782,7 @@
   {
     "test_id": 1121,
     "original_test_id": 280,
-    "question": "Please verify: is Kull the Conqueror the correct response to \"Which film was released more recently, Thema Syneidiseos or My Magic?\"?",
+    "question": "Please verify: is Celine: Through the Eyes of the World the correct response to \"Which film was released more recently, Thema Syneidiseos or My Magic?\"?",
     "answer": [
       "no",
       "No",
@@ -33853,7 +33853,7 @@
   {
     "test_id": 1123,
     "original_test_id": 280,
-    "question": "True or false: The answer to \"Which film was released more recently, Thema Syneidiseos or My Magic\" is Kull the Conqueror.",
+    "question": "True or false: The answer to \"Which film was released more recently, Thema Syneidiseos or My Magic\" is Celine: Through the Eyes of the World.",
     "answer": [
       "false",
       "False",
@@ -33961,7 +33961,7 @@
   {
     "test_id": 1127,
     "original_test_id": 281,
-    "question": "Between Cross Plains, Texas and A.-M. Julien, which correctly answers \"Who lived longer, A.-M. Julien or Ernst Zu Münster?\"?",
+    "question": "Between Louis the Iron and A.-M. Julien, which correctly answers \"Who lived longer, A.-M. Julien or Ernst Zu Münster?\"?",
     "answer": [
       "A.-M. Julien"
     ],
@@ -34130,7 +34130,7 @@
   {
     "test_id": 1134,
     "original_test_id": 283,
-    "question": "Would Xenoa be the right answer to \"Which song came out first, Sunny And 75 or Miss Me Blind?\"?",
+    "question": "Would U.K. be the right answer to \"Which song came out first, Sunny And 75 or Miss Me Blind?\"?",
     "answer": [
       "no",
       "No",
@@ -34163,7 +34163,7 @@
   {
     "test_id": 1135,
     "original_test_id": 283,
-    "question": "True or false: The answer to \"Which song came out first, Sunny And 75 or Miss Me Blind\" is Xenoa.",
+    "question": "True or false: The answer to \"Which song came out first, Sunny And 75 or Miss Me Blind\" is U.K..",
     "answer": [
       "false",
       "False",
@@ -34207,7 +34207,7 @@
   {
     "test_id": 1137,
     "original_test_id": 284,
-    "question": "Is Jerez de la Frontera the answer to: Who is younger, Barry Donald or Halle Cioffi?",
+    "question": "Is Kreuzlingen the answer to: Who is younger, Barry Donald or Halle Cioffi?",
     "answer": [
       "no",
       "No",
@@ -34240,7 +34240,7 @@
   {
     "test_id": 1138,
     "original_test_id": 284,
-    "question": "Please verify: is Jerez de la Frontera the correct response to \"Who is younger, Barry Donald or Halle Cioffi?\"?",
+    "question": "Please verify: is Kreuzlingen the correct response to \"Who is younger, Barry Donald or Halle Cioffi?\"?",
     "answer": [
       "no",
       "No",
@@ -34273,7 +34273,7 @@
   {
     "test_id": 1139,
     "original_test_id": 284,
-    "question": "True or false: The answer to \"Who is younger, Barry Donald or Halle Cioffi\" is Jerez de la Frontera.",
+    "question": "True or false: The answer to \"Who is younger, Barry Donald or Halle Cioffi\" is Kreuzlingen.",
     "answer": [
       "false",
       "False",
@@ -34317,7 +34317,7 @@
   {
     "test_id": 1141,
     "original_test_id": 285,
-    "question": "Between Couch in New York and Michel Le Denmat, which correctly answers \"Who was born later, Tadeusz Śliwak or Michel Le Denmat?\"?",
+    "question": "Between Cahiers du cinema and Michel Le Denmat, which correctly answers \"Who was born later, Tadeusz Śliwak or Michel Le Denmat?\"?",
     "answer": [
       "Michel Le Denmat"
     ],
@@ -34337,7 +34337,7 @@
   {
     "test_id": 1142,
     "original_test_id": 285,
-    "question": "The answer to \"Who was born later, Tadeusz Śliwak or Michel Le Denmat?\" is definitely not Couch in New York, correct?",
+    "question": "The answer to \"Who was born later, Tadeusz Śliwak or Michel Le Denmat?\" is definitely not Cahiers du cinema, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -34375,7 +34375,7 @@
   {
     "test_id": 1143,
     "original_test_id": 285,
-    "question": "Which is correct for \"Who was born later, Tadeusz Śliwak or Michel Le Denmat?\": Couch in New York, Michel Le Denmat, or Aryeh Ben-Eliezer?",
+    "question": "Which is correct for \"Who was born later, Tadeusz Śliwak or Michel Le Denmat?\": Cahiers du cinema, Michel Le Denmat, or Tantallon Castle?",
     "answer": [
       "Michel Le Denmat"
     ],
@@ -34411,7 +34411,7 @@
   {
     "test_id": 1145,
     "original_test_id": 286,
-    "question": "Regarding the question \"Who was born earlier, Marco Bortolami or Yan Yan Chan?\": is Henry Scheffé correct?",
+    "question": "Regarding the question \"Who was born earlier, Marco Bortolami or Yan Yan Chan?\": is U.K. correct?",
     "answer": [
       "no",
       "No",
@@ -34444,7 +34444,7 @@
   {
     "test_id": 1146,
     "original_test_id": 286,
-    "question": "Is it true that the answer to \"Who was born earlier, Marco Bortolami or Yan Yan Chan\" is Henry Scheffé?",
+    "question": "Is it true that the answer to \"Who was born earlier, Marco Bortolami or Yan Yan Chan\" is U.K.?",
     "answer": [
       "no",
       "No",
@@ -34571,7 +34571,7 @@
   {
     "test_id": 1150,
     "original_test_id": 287,
-    "question": "Is it true that the answer to \"Which film was released more recently, The Doberman Gang or King Of The Newsboys\" is University of Harvard?",
+    "question": "Is it true that the answer to \"Which film was released more recently, The Doberman Gang or King Of The Newsboys\" is The Great Flamarion?",
     "answer": [
       "no",
       "No",
@@ -34736,7 +34736,7 @@
   {
     "test_id": 1155,
     "original_test_id": 288,
-    "question": "Can you confirm that Princess Augusta of Schwarzburg-Sondershausen is the correct answer to \"Which film was released more recently, Sacred Silence or Ek Haseena Thi Ek Deewana Tha?\"?",
+    "question": "Can you confirm that Gura Humorului is the correct answer to \"Which film was released more recently, Sacred Silence or Ek Haseena Thi Ek Deewana Tha?\"?",
     "answer": [
       "no",
       "No",
@@ -34881,7 +34881,7 @@
   {
     "test_id": 1161,
     "original_test_id": 290,
-    "question": "The answer to \"Who was born earlier, Seth Andrews or Seo Bong-Soo?\" is definitely not Ptolemy IX Soter II, correct?",
+    "question": "The answer to \"Who was born earlier, Seth Andrews or Seo Bong-Soo?\" is definitely not 3.2.1., correct?",
     "answer": [
       "yes",
       "Yes",
@@ -34959,7 +34959,7 @@
   {
     "test_id": 1163,
     "original_test_id": 290,
-    "question": "Would Ptolemy IX Soter II be the right answer to \"Who was born earlier, Seth Andrews or Seo Bong-Soo?\"?",
+    "question": "Would 3.2.1. be the right answer to \"Who was born earlier, Seth Andrews or Seo Bong-Soo?\"?",
     "answer": [
       "no",
       "No",
@@ -35009,7 +35009,7 @@
   {
     "test_id": 1165,
     "original_test_id": 291,
-    "question": "For the question \"Which film was released earlier, Schlußakkord or Bettler Gmbh?\", is the answer Bettler GmbH or Fleetwood Sheppard?",
+    "question": "For the question \"Which film was released earlier, Schlußakkord or Bettler Gmbh?\", is the answer Bettler GmbH or United Nations?",
     "answer": [
       "Bettler GmbH"
     ],
@@ -35067,7 +35067,7 @@
   {
     "test_id": 1167,
     "original_test_id": 291,
-    "question": "The answer to \"Which film was released earlier, Schlußakkord or Bettler Gmbh\" is Fleetwood Sheppard. Is this accurate?",
+    "question": "The answer to \"Which film was released earlier, Schlußakkord or Bettler Gmbh\" is United Nations. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -35201,7 +35201,7 @@
   {
     "test_id": 1171,
     "original_test_id": 292,
-    "question": "Is Salonica the answer to: Was Joe Ollmann or Abdón Cifuentes born first?",
+    "question": "Is French Republic the answer to: Was Joe Ollmann or Abdón Cifuentes born first?",
     "answer": [
       "no",
       "No",
@@ -35372,7 +35372,7 @@
   {
     "test_id": 1177,
     "original_test_id": 294,
-    "question": "For the question \"Who was born first out of A. K. M. Nurul Islam and Lajos Kelemen?\", is the answer A K M Nurul Islam or Queens, New York?",
+    "question": "For the question \"Who was born first out of A. K. M. Nurul Islam and Lajos Kelemen?\", is the answer A K M Nurul Islam or UKGBI?",
     "answer": [
       "A K M Nurul Islam"
     ],
@@ -35393,7 +35393,7 @@
   {
     "test_id": 1178,
     "original_test_id": 294,
-    "question": "Please verify: is Queens, New York the correct response to \"Who was born first out of A. K. M. Nurul Islam and Lajos Kelemen?\"?",
+    "question": "Please verify: is UKGBI the correct response to \"Who was born first out of A. K. M. Nurul Islam and Lajos Kelemen?\"?",
     "answer": [
       "no",
       "No",
@@ -35427,7 +35427,7 @@
   {
     "test_id": 1179,
     "original_test_id": 294,
-    "question": "Is Queens, New York the answer to: Who was born first out of A. K. M. Nurul Islam and Lajos Kelemen?",
+    "question": "Is UKGBI the answer to: Who was born first out of A. K. M. Nurul Islam and Lajos Kelemen?",
     "answer": [
       "no",
       "No",
@@ -35681,7 +35681,7 @@
   {
     "test_id": 1187,
     "original_test_id": 296,
-    "question": "True or false: The answer to \"Which film was released more recently, A Wicked Tale or There Were Two Bachelors\" is University of Harvard.",
+    "question": "True or false: The answer to \"Which film was released more recently, A Wicked Tale or There Were Two Bachelors\" is 🇦🇷.",
     "answer": [
       "false",
       "False",
@@ -35802,7 +35802,7 @@
   {
     "test_id": 1191,
     "original_test_id": 297,
-    "question": "Someone told me the answer to \"Who was born earlier, Achraf Tadili or Diego De Miguel?\" is Inigo Velez de Guevara, 7th Count of Onate. Are they right?",
+    "question": "Someone told me the answer to \"Who was born earlier, Achraf Tadili or Diego De Miguel?\" is James B. Harris. Are they right?",
     "answer": [
       "no",
       "No",
@@ -35963,7 +35963,7 @@
   {
     "test_id": 1197,
     "original_test_id": 299,
-    "question": "Someone told me the answer to \"Who was born first, Lương Hoàng Nam or Ross Mcmillan?\" is Madame Pasca. Are they right?",
+    "question": "Someone told me the answer to \"Who was born first, Lương Hoàng Nam or Ross Mcmillan?\" is French Republic. Are they right?",
     "answer": [
       "no",
       "No",
@@ -35996,7 +35996,7 @@
   {
     "test_id": 1198,
     "original_test_id": 299,
-    "question": "Which is correct for \"Who was born first, Lương Hoàng Nam or Ross Mcmillan?\": Madame Pasca, Ross McMillan, or Gene Watson?",
+    "question": "Which is correct for \"Who was born first, Lương Hoàng Nam or Ross Mcmillan?\": French Republic, Ross McMillan, or Noreg?",
     "answer": [
       "Ross McMillan"
     ],
@@ -36016,7 +36016,7 @@
   {
     "test_id": 1199,
     "original_test_id": 299,
-    "question": "Between Madame Pasca and Ross McMillan, which correctly answers \"Who was born first, Lương Hoàng Nam or Ross Mcmillan?\"?",
+    "question": "Between French Republic and Ross McMillan, which correctly answers \"Who was born first, Lương Hoàng Nam or Ross Mcmillan?\"?",
     "answer": [
       "Ross McMillan"
     ],

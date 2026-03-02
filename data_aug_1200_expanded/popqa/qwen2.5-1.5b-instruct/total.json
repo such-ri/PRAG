@@ -189,7 +189,7 @@
   {
     "test_id": 6,
     "original_test_id": 1,
-    "question": "Would physician be the right answer to \"What is John Mayne's occupation?\"?",
+    "question": "Would mathematician be the right answer to \"What is John Mayne's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -222,7 +222,7 @@
   {
     "test_id": 7,
     "original_test_id": 1,
-    "question": "Is physician the answer to: What is John Mayne's occupation?",
+    "question": "Is mathematician the answer to: What is John Mayne's occupation?",
     "answer": [
       "no",
       "No",
@@ -273,7 +273,7 @@
   {
     "test_id": 9,
     "original_test_id": 2,
-    "question": "Is actor the answer to: What is Henry Feilden's occupation?",
+    "question": "Is journalist the answer to: What is Henry Feilden's occupation?",
     "answer": [
       "no",
       "No",
@@ -446,7 +446,7 @@
   {
     "test_id": 14,
     "original_test_id": 3,
-    "question": "Which is correct for \"What is Kathy Saltzman's occupation?\": actor, politician, or composer?",
+    "question": "Which is correct for \"What is Kathy Saltzman's occupation?\": illustrator, politician, or actor?",
     "answer": [
       "politician"
     ],
@@ -525,7 +525,7 @@
   {
     "test_id": 17,
     "original_test_id": 4,
-    "question": "For the question \"What is Eleanor Davis's occupation?\", is the answer cartoonist or politician?",
+    "question": "For the question \"What is Eleanor Davis's occupation?\", is the answer cartoonist or lawyer?",
     "answer": [
       "cartoonist"
     ],
@@ -585,7 +585,7 @@
   {
     "test_id": 19,
     "original_test_id": 4,
-    "question": "Between politician and cartoonist, which correctly answers \"What is Eleanor Davis's occupation?\"?",
+    "question": "Between lawyer and cartoonist, which correctly answers \"What is Eleanor Davis's occupation?\"?",
     "answer": [
       "cartoonist"
     ],
@@ -820,7 +820,7 @@
   {
     "test_id": 27,
     "original_test_id": 6,
-    "question": "Is songwriter the answer to: What is Scooter Braun's occupation?",
+    "question": "Is politician the answer to: What is Scooter Braun's occupation?",
     "answer": [
       "no",
       "No",
@@ -875,7 +875,7 @@
   {
     "test_id": 29,
     "original_test_id": 7,
-    "question": "The answer to \"What is Leona Detiège's occupation\" is film director. Is this accurate?",
+    "question": "The answer to \"What is Leona Detiège's occupation\" is guitarist. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -910,7 +910,7 @@
   {
     "test_id": 30,
     "original_test_id": 7,
-    "question": "The answer to \"What is Leona Detiège's occupation?\" is definitely not film director, correct?",
+    "question": "The answer to \"What is Leona Detiège's occupation?\" is definitely not guitarist, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -1008,7 +1008,7 @@
   {
     "test_id": 33,
     "original_test_id": 8,
-    "question": "For the question \"What is William Murray, 1st Earl of Mansfield's occupation?\", is the answer politician or composer?",
+    "question": "For the question \"What is William Murray, 1st Earl of Mansfield's occupation?\", is the answer politician or psychologist?",
     "answer": [
       "politician"
     ],
@@ -1200,7 +1200,7 @@
   {
     "test_id": 39,
     "original_test_id": 9,
-    "question": "For the question \"What is Þorsteinn Bachmann's occupation?\", is the answer actor or journalist?",
+    "question": "For the question \"What is Þorsteinn Bachmann's occupation?\", is the answer actor or diplomat?",
     "answer": [
       "actor"
     ],
@@ -1263,7 +1263,7 @@
   {
     "test_id": 42,
     "original_test_id": 10,
-    "question": "Is politician the answer to: What is Herlyn Espinal's occupation?",
+    "question": "Is physician the answer to: What is Herlyn Espinal's occupation?",
     "answer": [
       "no",
       "No",
@@ -1296,7 +1296,7 @@
   {
     "test_id": 43,
     "original_test_id": 10,
-    "question": "True or false: The answer to \"What is Herlyn Espinal's occupation\" is politician.",
+    "question": "True or false: The answer to \"What is Herlyn Espinal's occupation\" is physician.",
     "answer": [
       "false",
       "False",
@@ -1341,7 +1341,7 @@
   {
     "test_id": 45,
     "original_test_id": 11,
-    "question": "Between politician and actor, which correctly answers \"What is Jacob Kraemer's occupation?\"?",
+    "question": "Between test pilot and actor, which correctly answers \"What is Jacob Kraemer's occupation?\"?",
     "answer": [
       "actor"
     ],
@@ -1362,7 +1362,7 @@
   {
     "test_id": 46,
     "original_test_id": 11,
-    "question": "Would politician be the right answer to \"What is Jacob Kraemer's occupation?\"?",
+    "question": "Would test pilot be the right answer to \"What is Jacob Kraemer's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -1452,7 +1452,7 @@
   {
     "test_id": 49,
     "original_test_id": 12,
-    "question": "Please verify: is actor the correct response to \"What is Fred C. Newmeyer's occupation?\"?",
+    "question": "Please verify: is lyricist the correct response to \"What is Fred C. Newmeyer's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -1610,7 +1610,7 @@
   {
     "test_id": 54,
     "original_test_id": 13,
-    "question": "Is it true that the answer to \"What is Edward Corser's occupation\" is film director?",
+    "question": "Is it true that the answer to \"What is Edward Corser's occupation\" is composer?",
     "answer": [
       "no",
       "No",
@@ -1645,7 +1645,7 @@
   {
     "test_id": 55,
     "original_test_id": 13,
-    "question": "Would film director be the right answer to \"What is Edward Corser's occupation?\"?",
+    "question": "Would composer be the right answer to \"What is Edward Corser's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -1775,7 +1775,7 @@
   {
     "test_id": 59,
     "original_test_id": 14,
-    "question": "Please verify: is lawyer the correct response to \"What is Bae Geu-rin's occupation?\"?",
+    "question": "Please verify: is journalist the correct response to \"What is Bae Geu-rin's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -1827,7 +1827,7 @@
   {
     "test_id": 61,
     "original_test_id": 15,
-    "question": "Is it true that the answer to \"What is Javier Alva Orlandini's occupation\" is musician?",
+    "question": "Is it true that the answer to \"What is Javier Alva Orlandini's occupation\" is film director?",
     "answer": [
       "no",
       "No",
@@ -1959,7 +1959,7 @@
   {
     "test_id": 65,
     "original_test_id": 16,
-    "question": "Regarding the question \"What is Edgar Allan Poe's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Edgar Allan Poe's occupation?\": is film director correct?",
     "answer": [
       "no",
       "No",
@@ -2032,7 +2032,7 @@
   {
     "test_id": 67,
     "original_test_id": 16,
-    "question": "Can you confirm that politician is the correct answer to \"What is Edgar Allan Poe's occupation?\"?",
+    "question": "Can you confirm that film director is the correct answer to \"What is Edgar Allan Poe's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -2292,7 +2292,7 @@
   {
     "test_id": 75,
     "original_test_id": 18,
-    "question": "True or false: The answer to \"What is John Floyd's occupation\" is journalist.",
+    "question": "True or false: The answer to \"What is John Floyd's occupation\" is actor.",
     "answer": [
       "false",
       "False",
@@ -2339,7 +2339,7 @@
   {
     "test_id": 77,
     "original_test_id": 19,
-    "question": "For the question \"What is Sachiko Kokubu's occupation?\", is the answer actor or film director?",
+    "question": "For the question \"What is Sachiko Kokubu's occupation?\", is the answer actor or composer?",
     "answer": [
       "actor"
     ],
@@ -2399,7 +2399,7 @@
   {
     "test_id": 79,
     "original_test_id": 19,
-    "question": "Regarding the question \"What is Sachiko Kokubu's occupation?\": is film director correct?",
+    "question": "Regarding the question \"What is Sachiko Kokubu's occupation?\": is composer correct?",
     "answer": [
       "no",
       "No",
@@ -2491,7 +2491,7 @@
   {
     "test_id": 82,
     "original_test_id": 20,
-    "question": "For the question \"What is Rudolf Hilferding's occupation?\", is the answer politician or composer?",
+    "question": "For the question \"What is Rudolf Hilferding's occupation?\", is the answer politician or actor?",
     "answer": [
       "politician"
     ],
@@ -2513,7 +2513,7 @@
   {
     "test_id": 83,
     "original_test_id": 20,
-    "question": "Someone told me the answer to \"What is Rudolf Hilferding's occupation?\" is composer. Are they right?",
+    "question": "Someone told me the answer to \"What is Rudolf Hilferding's occupation?\" is actor. Are they right?",
     "answer": [
       "no",
       "No",
@@ -2693,7 +2693,7 @@
   {
     "test_id": 89,
     "original_test_id": 22,
-    "question": "Between psychologist and actor, which correctly answers \"What is Akari Hayami's occupation?\"?",
+    "question": "Between lawyer and actor, which correctly answers \"What is Akari Hayami's occupation?\"?",
     "answer": [
       "actor"
     ],
@@ -2887,7 +2887,7 @@
   {
     "test_id": 95,
     "original_test_id": 23,
-    "question": "Which is correct for \"What is Richard Martin's occupation?\": politician, actor, or physicist?",
+    "question": "Which is correct for \"What is Richard Martin's occupation?\": composer, actor, or journalist?",
     "answer": [
       "actor"
     ],
@@ -2926,7 +2926,7 @@
   {
     "test_id": 97,
     "original_test_id": 24,
-    "question": "Is diplomat the answer to: What is Harvey Peltier, Sr.'s occupation?",
+    "question": "Is actor the answer to: What is Harvey Peltier, Sr.'s occupation?",
     "answer": [
       "no",
       "No",
@@ -2961,7 +2961,7 @@
   {
     "test_id": 98,
     "original_test_id": 24,
-    "question": "Please verify: is diplomat the correct response to \"What is Harvey Peltier, Sr.'s occupation?\"?",
+    "question": "Please verify: is actor the correct response to \"What is Harvey Peltier, Sr.'s occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -2996,7 +2996,7 @@
   {
     "test_id": 99,
     "original_test_id": 24,
-    "question": "Someone told me the answer to \"What is Harvey Peltier, Sr.'s occupation?\" is diplomat. Are they right?",
+    "question": "Someone told me the answer to \"What is Harvey Peltier, Sr.'s occupation?\" is actor. Are they right?",
     "answer": [
       "no",
       "No",
@@ -3087,7 +3087,7 @@
   {
     "test_id": 102,
     "original_test_id": 25,
-    "question": "Is journalist the answer to: What is Paris's occupation?",
+    "question": "Is philosopher the answer to: What is Paris's occupation?",
     "answer": [
       "no",
       "No",
@@ -3180,7 +3180,7 @@
   {
     "test_id": 105,
     "original_test_id": 26,
-    "question": "Regarding the question \"What is Fairfax M. Cone's occupation?\": is sailor correct?",
+    "question": "Regarding the question \"What is Fairfax M. Cone's occupation?\": is singer-songwriter correct?",
     "answer": [
       "no",
       "No",
@@ -3217,7 +3217,7 @@
   {
     "test_id": 106,
     "original_test_id": 26,
-    "question": "Would sailor be the right answer to \"What is Fairfax M. Cone's occupation?\"?",
+    "question": "Would singer-songwriter be the right answer to \"What is Fairfax M. Cone's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -3254,7 +3254,7 @@
   {
     "test_id": 107,
     "original_test_id": 26,
-    "question": "True or false: The answer to \"What is Fairfax M. Cone's occupation\" is sailor.",
+    "question": "True or false: The answer to \"What is Fairfax M. Cone's occupation\" is singer-songwriter.",
     "answer": [
       "false",
       "False",
@@ -3337,7 +3337,7 @@
   {
     "test_id": 110,
     "original_test_id": 27,
-    "question": "Can you confirm that film director is the correct answer to \"What is Colleen Zenk Pinter's occupation?\"?",
+    "question": "Can you confirm that politician is the correct answer to \"What is Colleen Zenk Pinter's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -3424,7 +3424,7 @@
   {
     "test_id": 113,
     "original_test_id": 28,
-    "question": "Can you confirm that actor is the correct answer to \"What is Thomas McMurtry's occupation?\"?",
+    "question": "Can you confirm that economist is the correct answer to \"What is Thomas McMurtry's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -3491,7 +3491,7 @@
   {
     "test_id": 115,
     "original_test_id": 28,
-    "question": "Which is correct for \"What is Thomas McMurtry's occupation?\": actor, test pilot, or politician?",
+    "question": "Which is correct for \"What is Thomas McMurtry's occupation?\": economist, test pilot, or horse trainer?",
     "answer": [
       "test pilot"
     ],
@@ -3527,7 +3527,7 @@
   {
     "test_id": 117,
     "original_test_id": 29,
-    "question": "Would record producer be the right answer to \"What is Albert Bates's occupation?\"?",
+    "question": "Would actor be the right answer to \"What is Albert Bates's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -3602,7 +3602,7 @@
   {
     "test_id": 119,
     "original_test_id": 29,
-    "question": "Which is correct for \"What is Albert Bates's occupation?\": record producer, lawyer, or diplomat?",
+    "question": "Which is correct for \"What is Albert Bates's occupation?\": actor, lawyer, or farmer?",
     "answer": [
       "lawyer"
     ],
@@ -3708,7 +3708,7 @@
   {
     "test_id": 123,
     "original_test_id": 30,
-    "question": "The answer to \"What is Heath's occupation?\" is definitely not journalist, correct?",
+    "question": "The answer to \"What is Heath's occupation?\" is definitely not composer, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -3829,7 +3829,7 @@
   {
     "test_id": 127,
     "original_test_id": 31,
-    "question": "For the question \"What is Wise's occupation?\", is the answer record producer or financier?",
+    "question": "For the question \"What is Wise's occupation?\", is the answer record producer or politician?",
     "answer": [
       "record producer"
     ],
@@ -3902,7 +3902,7 @@
   {
     "test_id": 130,
     "original_test_id": 32,
-    "question": "Is singer-songwriter the answer to: What is Stevie Cameron's occupation?",
+    "question": "Is songwriter the answer to: What is Stevie Cameron's occupation?",
     "answer": [
       "no",
       "No",
@@ -3988,7 +3988,7 @@
   {
     "test_id": 133,
     "original_test_id": 33,
-    "question": "True or false: The answer to \"What is Yoshiki Tonogai's occupation\" is architect.",
+    "question": "True or false: The answer to \"What is Yoshiki Tonogai's occupation\" is politician.",
     "answer": [
       "false",
       "False",
@@ -4015,7 +4015,7 @@
   {
     "test_id": 134,
     "original_test_id": 33,
-    "question": "Regarding the question \"What is Yoshiki Tonogai's occupation?\": is architect correct?",
+    "question": "Regarding the question \"What is Yoshiki Tonogai's occupation?\": is politician correct?",
     "answer": [
       "no",
       "No",
@@ -4047,7 +4047,7 @@
   {
     "test_id": 135,
     "original_test_id": 33,
-    "question": "Would architect be the right answer to \"What is Yoshiki Tonogai's occupation?\"?",
+    "question": "Would politician be the right answer to \"What is Yoshiki Tonogai's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -4166,7 +4166,7 @@
   {
     "test_id": 139,
     "original_test_id": 34,
-    "question": "For the question \"What is Geeling Ng's occupation?\", is the answer restaurateur or graphic designer?",
+    "question": "For the question \"What is Geeling Ng's occupation?\", is the answer restaurateur or actor?",
     "answer": [
       "restaurateur"
     ],
@@ -4200,7 +4200,7 @@
   {
     "test_id": 141,
     "original_test_id": 35,
-    "question": "Is actor the answer to: What is Bruce McDaniel's occupation?",
+    "question": "Is radio personality the answer to: What is Bruce McDaniel's occupation?",
     "answer": [
       "no",
       "No",
@@ -4231,7 +4231,7 @@
   {
     "test_id": 142,
     "original_test_id": 35,
-    "question": "Which is correct for \"What is Bruce McDaniel's occupation?\": actor, composer, or mathematician?",
+    "question": "Which is correct for \"What is Bruce McDaniel's occupation?\": radio personality, composer, or actor?",
     "answer": [
       "composer"
     ],
@@ -4249,7 +4249,7 @@
   {
     "test_id": 143,
     "original_test_id": 35,
-    "question": "Is it true that the answer to \"What is Bruce McDaniel's occupation\" is actor?",
+    "question": "Is it true that the answer to \"What is Bruce McDaniel's occupation\" is radio personality?",
     "answer": [
       "no",
       "No",
@@ -4298,7 +4298,7 @@
   {
     "test_id": 145,
     "original_test_id": 36,
-    "question": "Please verify: is financier the correct response to \"What is Thomas R. Whitney's occupation?\"?",
+    "question": "Please verify: is journalist the correct response to \"What is Thomas R. Whitney's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -4373,7 +4373,7 @@
   {
     "test_id": 147,
     "original_test_id": 36,
-    "question": "Is financier the answer to: What is Thomas R. Whitney's occupation?",
+    "question": "Is journalist the answer to: What is Thomas R. Whitney's occupation?",
     "answer": [
       "no",
       "No",
@@ -4458,7 +4458,7 @@
   {
     "test_id": 150,
     "original_test_id": 37,
-    "question": "Is it true that the answer to \"What is William Lescaze's occupation\" is composer?",
+    "question": "Is it true that the answer to \"What is William Lescaze's occupation\" is actor?",
     "answer": [
       "no",
       "No",
@@ -4489,7 +4489,7 @@
   {
     "test_id": 151,
     "original_test_id": 37,
-    "question": "Regarding the question \"What is William Lescaze's occupation?\": is composer correct?",
+    "question": "Regarding the question \"What is William Lescaze's occupation?\": is actor correct?",
     "answer": [
       "no",
       "No",
@@ -4537,7 +4537,7 @@
   {
     "test_id": 153,
     "original_test_id": 38,
-    "question": "Would photographer be the right answer to \"What is Edwin Wallock's occupation?\"?",
+    "question": "Would composer be the right answer to \"What is Edwin Wallock's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -4663,7 +4663,7 @@
   {
     "test_id": 157,
     "original_test_id": 39,
-    "question": "Between diplomat and astronomer, which correctly answers \"What is Tsutomu Seki's occupation?\"?",
+    "question": "Between politician and astronomer, which correctly answers \"What is Tsutomu Seki's occupation?\"?",
     "answer": [
       "astronomer"
     ],
@@ -4717,7 +4717,7 @@
   {
     "test_id": 159,
     "original_test_id": 39,
-    "question": "Is it true that the answer to \"What is Tsutomu Seki's occupation\" is diplomat?",
+    "question": "Is it true that the answer to \"What is Tsutomu Seki's occupation\" is politician?",
     "answer": [
       "no",
       "No",
@@ -4887,7 +4887,7 @@
   {
     "test_id": 165,
     "original_test_id": 41,
-    "question": "Regarding the question \"What is Dominick Bellizzi's occupation?\": is journalist correct?",
+    "question": "Regarding the question \"What is Dominick Bellizzi's occupation?\": is missionary correct?",
     "answer": [
       "no",
       "No",
@@ -4949,7 +4949,7 @@
   {
     "test_id": 167,
     "original_test_id": 41,
-    "question": "True or false: The answer to \"What is Dominick Bellizzi's occupation\" is journalist.",
+    "question": "True or false: The answer to \"What is Dominick Bellizzi's occupation\" is missionary.",
     "answer": [
       "false",
       "False",
@@ -5262,7 +5262,7 @@
   {
     "test_id": 178,
     "original_test_id": 44,
-    "question": "Between poet and musician, which correctly answers \"What is Brendan Canty's occupation?\"?",
+    "question": "Between politician and musician, which correctly answers \"What is Brendan Canty's occupation?\"?",
     "answer": [
       "musician"
     ],
@@ -5323,7 +5323,7 @@
   {
     "test_id": 181,
     "original_test_id": 45,
-    "question": "Between cricket umpire and actor, which correctly answers \"What is María Elena Marqués's occupation?\"?",
+    "question": "Between politician and actor, which correctly answers \"What is María Elena Marqués's occupation?\"?",
     "answer": [
       "actor"
     ],
@@ -5344,7 +5344,7 @@
   {
     "test_id": 182,
     "original_test_id": 45,
-    "question": "Regarding the question \"What is María Elena Marqués's occupation?\": is cricket umpire correct?",
+    "question": "Regarding the question \"What is María Elena Marqués's occupation?\": is politician correct?",
     "answer": [
       "no",
       "No",
@@ -5378,7 +5378,7 @@
   {
     "test_id": 183,
     "original_test_id": 45,
-    "question": "Can you confirm that cricket umpire is the correct answer to \"What is María Elena Marqués's occupation?\"?",
+    "question": "Can you confirm that politician is the correct answer to \"What is María Elena Marqués's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -5426,7 +5426,7 @@
   {
     "test_id": 185,
     "original_test_id": 46,
-    "question": "Is actor the answer to: What is Michael Arad's occupation?",
+    "question": "Is politician the answer to: What is Michael Arad's occupation?",
     "answer": [
       "no",
       "No",
@@ -5493,7 +5493,7 @@
   {
     "test_id": 187,
     "original_test_id": 46,
-    "question": "The answer to \"What is Michael Arad's occupation\" is actor. Is this accurate?",
+    "question": "The answer to \"What is Michael Arad's occupation\" is politician. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -5872,7 +5872,7 @@
   {
     "test_id": 199,
     "original_test_id": 49,
-    "question": "Which is correct for \"What is Antonio Álvarez Alonso's occupation?\": politician, composer, or actor?",
+    "question": "Which is correct for \"What is Antonio Álvarez Alonso's occupation?\": playwright, composer, or illustrator?",
     "answer": [
       "composer"
     ],
@@ -5932,7 +5932,7 @@
   {
     "test_id": 202,
     "original_test_id": 50,
-    "question": "The answer to \"What is Boutheina Jabnoun's occupation?\" is definitely not surgeon, correct?",
+    "question": "The answer to \"What is Boutheina Jabnoun's occupation?\" is definitely not playwright, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -6025,7 +6025,7 @@
   {
     "test_id": 205,
     "original_test_id": 51,
-    "question": "Regarding the question \"What is Robert Viharo's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Robert Viharo's occupation?\": is diplomat correct?",
     "answer": [
       "no",
       "No",
@@ -6059,7 +6059,7 @@
   {
     "test_id": 206,
     "original_test_id": 51,
-    "question": "The answer to \"What is Robert Viharo's occupation?\" is definitely not politician, correct?",
+    "question": "The answer to \"What is Robert Viharo's occupation?\" is definitely not diplomat, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -6098,7 +6098,7 @@
   {
     "test_id": 207,
     "original_test_id": 51,
-    "question": "True or false: The answer to \"What is Robert Viharo's occupation\" is politician.",
+    "question": "True or false: The answer to \"What is Robert Viharo's occupation\" is diplomat.",
     "answer": [
       "false",
       "False",
@@ -6287,7 +6287,7 @@
   {
     "test_id": 214,
     "original_test_id": 53,
-    "question": "Which is correct for \"What is Robby Krieger's occupation?\": missionary, guitarist, or actor?",
+    "question": "Which is correct for \"What is Robby Krieger's occupation?\": politician, guitarist, or songwriter?",
     "answer": [
       "guitarist"
     ],
@@ -6397,7 +6397,7 @@
   {
     "test_id": 218,
     "original_test_id": 54,
-    "question": "Which is correct for \"What is Paul's occupation?\": politician, missionary, or screenwriter?",
+    "question": "Which is correct for \"What is Paul's occupation?\": philosopher, missionary, or composer?",
     "answer": [
       "missionary"
     ],
@@ -6416,7 +6416,7 @@
   {
     "test_id": 219,
     "original_test_id": 54,
-    "question": "For the question \"What is Paul's occupation?\", is the answer missionary or politician?",
+    "question": "For the question \"What is Paul's occupation?\", is the answer missionary or philosopher?",
     "answer": [
       "missionary"
     ],
@@ -6573,7 +6573,7 @@
   {
     "test_id": 225,
     "original_test_id": 56,
-    "question": "Is it true that the answer to \"What is Esquerita's occupation\" is politician?",
+    "question": "Is it true that the answer to \"What is Esquerita's occupation\" is poet?",
     "answer": [
       "no",
       "No",
@@ -6642,7 +6642,7 @@
   {
     "test_id": 227,
     "original_test_id": 56,
-    "question": "Someone told me the answer to \"What is Esquerita's occupation?\" is politician. Are they right?",
+    "question": "Someone told me the answer to \"What is Esquerita's occupation?\" is poet. Are they right?",
     "answer": [
       "no",
       "No",
@@ -6748,7 +6748,7 @@
   {
     "test_id": 231,
     "original_test_id": 57,
-    "question": "True or false: The answer to \"What is Derek Wheatley's occupation\" is priest.",
+    "question": "True or false: The answer to \"What is Derek Wheatley's occupation\" is physician.",
     "answer": [
       "false",
       "False",
@@ -6863,7 +6863,7 @@
   {
     "test_id": 235,
     "original_test_id": 58,
-    "question": "Would screenwriter be the right answer to \"What is Herman A. Barnett's occupation?\"?",
+    "question": "Would actor be the right answer to \"What is Herman A. Barnett's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -6909,7 +6909,7 @@
   {
     "test_id": 237,
     "original_test_id": 59,
-    "question": "The answer to \"What is Modou Dia's occupation\" is missionary. Is this accurate?",
+    "question": "The answer to \"What is Modou Dia's occupation\" is actor. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -6940,7 +6940,7 @@
   {
     "test_id": 238,
     "original_test_id": 59,
-    "question": "Please verify: is missionary the correct response to \"What is Modou Dia's occupation?\"?",
+    "question": "Please verify: is actor the correct response to \"What is Modou Dia's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -7025,7 +7025,7 @@
   {
     "test_id": 241,
     "original_test_id": 60,
-    "question": "The answer to \"What is Alex Krieps's occupation\" is actor. Is this accurate?",
+    "question": "The answer to \"What is Alex Krieps's occupation\" is monk. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -7151,7 +7151,7 @@
   {
     "test_id": 245,
     "original_test_id": 61,
-    "question": "Someone told me the answer to \"What is Veronica Franco's occupation?\" is politician. Are they right?",
+    "question": "Someone told me the answer to \"What is Veronica Franco's occupation?\" is bandleader. Are they right?",
     "answer": [
       "no",
       "No",
@@ -7217,7 +7217,7 @@
   {
     "test_id": 247,
     "original_test_id": 61,
-    "question": "The answer to \"What is Veronica Franco's occupation\" is politician. Is this accurate?",
+    "question": "The answer to \"What is Veronica Franco's occupation\" is bandleader. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -7523,7 +7523,7 @@
   {
     "test_id": 257,
     "original_test_id": 64,
-    "question": "For the question \"What is Vincenzo Di Nicola's occupation?\", is the answer psychologist or politician?",
+    "question": "For the question \"What is Vincenzo Di Nicola's occupation?\", is the answer psychologist or bishop?",
     "answer": [
       "psychologist"
     ],
@@ -7542,7 +7542,7 @@
   {
     "test_id": 258,
     "original_test_id": 64,
-    "question": "Please verify: is politician the correct response to \"What is Vincenzo Di Nicola's occupation?\"?",
+    "question": "Please verify: is bishop the correct response to \"What is Vincenzo Di Nicola's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -7574,7 +7574,7 @@
   {
     "test_id": 259,
     "original_test_id": 64,
-    "question": "The answer to \"What is Vincenzo Di Nicola's occupation\" is politician. Is this accurate?",
+    "question": "The answer to \"What is Vincenzo Di Nicola's occupation\" is bishop. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -7656,7 +7656,7 @@
   {
     "test_id": 262,
     "original_test_id": 65,
-    "question": "The answer to \"What is Tor Aulin's occupation?\" is definitely not record producer, correct?",
+    "question": "The answer to \"What is Tor Aulin's occupation?\" is definitely not diplomat, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -7692,7 +7692,7 @@
   {
     "test_id": 263,
     "original_test_id": 65,
-    "question": "Is it true that the answer to \"What is Tor Aulin's occupation\" is record producer?",
+    "question": "Is it true that the answer to \"What is Tor Aulin's occupation\" is diplomat?",
     "answer": [
       "no",
       "No",
@@ -7863,7 +7863,7 @@
   {
     "test_id": 269,
     "original_test_id": 67,
-    "question": "Can you confirm that actor is the correct answer to \"What is Glenn Albrecht's occupation?\"?",
+    "question": "Can you confirm that diplomat is the correct answer to \"What is Glenn Albrecht's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -7894,7 +7894,7 @@
   {
     "test_id": 270,
     "original_test_id": 67,
-    "question": "Someone told me the answer to \"What is Glenn Albrecht's occupation?\" is actor. Are they right?",
+    "question": "Someone told me the answer to \"What is Glenn Albrecht's occupation?\" is diplomat. Are they right?",
     "answer": [
       "no",
       "No",
@@ -7925,7 +7925,7 @@
   {
     "test_id": 271,
     "original_test_id": 67,
-    "question": "Is actor the answer to: What is Glenn Albrecht's occupation?",
+    "question": "Is diplomat the answer to: What is Glenn Albrecht's occupation?",
     "answer": [
       "no",
       "No",
@@ -8014,7 +8014,7 @@
   {
     "test_id": 274,
     "original_test_id": 68,
-    "question": "Is actor the answer to: What is Thomas Hinds's occupation?",
+    "question": "Is composer the answer to: What is Thomas Hinds's occupation?",
     "answer": [
       "no",
       "No",
@@ -8049,7 +8049,7 @@
   {
     "test_id": 275,
     "original_test_id": 68,
-    "question": "Between actor and politician, which correctly answers \"What is Thomas Hinds's occupation?\"?",
+    "question": "Between composer and politician, which correctly answers \"What is Thomas Hinds's occupation?\"?",
     "answer": [
       "politician"
     ],
@@ -8267,7 +8267,7 @@
   {
     "test_id": 282,
     "original_test_id": 70,
-    "question": "Please verify: is screenwriter the correct response to \"What is Lisa McRee's occupation?\"?",
+    "question": "Please verify: is film producer the correct response to \"What is Lisa McRee's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -8300,7 +8300,7 @@
   {
     "test_id": 283,
     "original_test_id": 70,
-    "question": "For the question \"What is Lisa McRee's occupation?\", is the answer journalist or screenwriter?",
+    "question": "For the question \"What is Lisa McRee's occupation?\", is the answer journalist or film producer?",
     "answer": [
       "journalist"
     ],
@@ -8335,7 +8335,7 @@
   {
     "test_id": 285,
     "original_test_id": 71,
-    "question": "Please verify: is architect the correct response to \"What is Rick Gilmore's occupation?\"?",
+    "question": "Please verify: is politician the correct response to \"What is Rick Gilmore's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -8404,7 +8404,7 @@
   {
     "test_id": 287,
     "original_test_id": 71,
-    "question": "Which is correct for \"What is Rick Gilmore's occupation?\": architect, economist, or politician?",
+    "question": "Which is correct for \"What is Rick Gilmore's occupation?\": politician, economist, or jurist?",
     "answer": [
       "economist"
     ],
@@ -8479,7 +8479,7 @@
   {
     "test_id": 290,
     "original_test_id": 72,
-    "question": "For the question \"What is Jon Eikemo's occupation?\", is the answer actor or politician?",
+    "question": "For the question \"What is Jon Eikemo's occupation?\", is the answer actor or film director?",
     "answer": [
       "actor"
     ],
@@ -8555,7 +8555,7 @@
   {
     "test_id": 293,
     "original_test_id": 73,
-    "question": "Would composer be the right answer to \"What is Jilly Cooper's occupation?\"?",
+    "question": "Would astronomer be the right answer to \"What is Jilly Cooper's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -8588,7 +8588,7 @@
   {
     "test_id": 294,
     "original_test_id": 73,
-    "question": "The answer to \"What is Jilly Cooper's occupation\" is composer. Is this accurate?",
+    "question": "The answer to \"What is Jilly Cooper's occupation\" is astronomer. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -8621,7 +8621,7 @@
   {
     "test_id": 295,
     "original_test_id": 73,
-    "question": "The answer to \"What is Jilly Cooper's occupation?\" is definitely not composer, correct?",
+    "question": "The answer to \"What is Jilly Cooper's occupation?\" is definitely not astronomer, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -8742,7 +8742,7 @@
   {
     "test_id": 299,
     "original_test_id": 74,
-    "question": "For the question \"What is Ingrid Martinez's occupation?\", is the answer actor or physician?",
+    "question": "For the question \"What is Ingrid Martinez's occupation?\", is the answer actor or playwright?",
     "answer": [
       "actor"
     ],
@@ -8778,7 +8778,7 @@
   {
     "test_id": 301,
     "original_test_id": 75,
-    "question": "Please verify: is politician the correct response to \"What is Teddy Riley's occupation?\"?",
+    "question": "Please verify: is missionary the correct response to \"What is Teddy Riley's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -8979,7 +8979,7 @@
   {
     "test_id": 307,
     "original_test_id": 76,
-    "question": "Someone told me the answer to \"What is Gillian Raine's occupation?\" is politician. Are they right?",
+    "question": "Someone told me the answer to \"What is Gillian Raine's occupation?\" is journalist. Are they right?",
     "answer": [
       "no",
       "No",
@@ -9027,7 +9027,7 @@
   {
     "test_id": 309,
     "original_test_id": 77,
-    "question": "Regarding the question \"What is Tolis Voskopoulos's occupation?\": is photographer correct?",
+    "question": "Regarding the question \"What is Tolis Voskopoulos's occupation?\": is illustrator correct?",
     "answer": [
       "no",
       "No",
@@ -9058,7 +9058,7 @@
   {
     "test_id": 310,
     "original_test_id": 77,
-    "question": "Which is correct for \"What is Tolis Voskopoulos's occupation?\": photographer, composer, or actor?",
+    "question": "Which is correct for \"What is Tolis Voskopoulos's occupation?\": illustrator, composer, or mathematician?",
     "answer": [
       "composer"
     ],
@@ -9125,7 +9125,7 @@
   {
     "test_id": 313,
     "original_test_id": 78,
-    "question": "Can you confirm that songwriter is the correct answer to \"What is Marco Ameglio's occupation?\"?",
+    "question": "Can you confirm that actor is the correct answer to \"What is Marco Ameglio's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -9160,7 +9160,7 @@
   {
     "test_id": 314,
     "original_test_id": 78,
-    "question": "True or false: The answer to \"What is Marco Ameglio's occupation\" is songwriter.",
+    "question": "True or false: The answer to \"What is Marco Ameglio's occupation\" is actor.",
     "answer": [
       "false",
       "False",
@@ -9190,7 +9190,7 @@
   {
     "test_id": 315,
     "original_test_id": 78,
-    "question": "The answer to \"What is Marco Ameglio's occupation\" is songwriter. Is this accurate?",
+    "question": "The answer to \"What is Marco Ameglio's occupation\" is actor. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -9243,7 +9243,7 @@
   {
     "test_id": 317,
     "original_test_id": 79,
-    "question": "True or false: The answer to \"What is Mohd Sharkar Shamsudin's occupation\" is actor.",
+    "question": "True or false: The answer to \"What is Mohd Sharkar Shamsudin's occupation\" is songwriter.",
     "answer": [
       "false",
       "False",
@@ -9313,7 +9313,7 @@
   {
     "test_id": 319,
     "original_test_id": 79,
-    "question": "Is actor the answer to: What is Mohd Sharkar Shamsudin's occupation?",
+    "question": "Is songwriter the answer to: What is Mohd Sharkar Shamsudin's occupation?",
     "answer": [
       "no",
       "No",
@@ -9365,7 +9365,7 @@
   {
     "test_id": 321,
     "original_test_id": 80,
-    "question": "Is journalist the answer to: What is Anthony Sharp's occupation?",
+    "question": "Is politician the answer to: What is Anthony Sharp's occupation?",
     "answer": [
       "no",
       "No",
@@ -9438,7 +9438,7 @@
   {
     "test_id": 323,
     "original_test_id": 80,
-    "question": "Is it true that the answer to \"What is Anthony Sharp's occupation\" is journalist?",
+    "question": "Is it true that the answer to \"What is Anthony Sharp's occupation\" is politician?",
     "answer": [
       "no",
       "No",
@@ -9530,7 +9530,7 @@
   {
     "test_id": 326,
     "original_test_id": 81,
-    "question": "Between composer and politician, which correctly answers \"What is Valgerður Bjarnadóttir's occupation?\"?",
+    "question": "Between surgeon and politician, which correctly answers \"What is Valgerður Bjarnadóttir's occupation?\"?",
     "answer": [
       "politician"
     ],
@@ -9552,7 +9552,7 @@
   {
     "test_id": 327,
     "original_test_id": 81,
-    "question": "For the question \"What is Valgerður Bjarnadóttir's occupation?\", is the answer politician or composer?",
+    "question": "For the question \"What is Valgerður Bjarnadóttir's occupation?\", is the answer politician or surgeon?",
     "answer": [
       "politician"
     ],
@@ -9589,7 +9589,7 @@
   {
     "test_id": 329,
     "original_test_id": 82,
-    "question": "Is missionary the answer to: What is Wallace Dollase's occupation?",
+    "question": "Is civil engineer the answer to: What is Wallace Dollase's occupation?",
     "answer": [
       "no",
       "No",
@@ -9621,7 +9621,7 @@
   {
     "test_id": 330,
     "original_test_id": 82,
-    "question": "Between missionary and horse trainer, which correctly answers \"What is Wallace Dollase's occupation?\"?",
+    "question": "Between civil engineer and horse trainer, which correctly answers \"What is Wallace Dollase's occupation?\"?",
     "answer": [
       "horse trainer"
     ],
@@ -9864,7 +9864,7 @@
   {
     "test_id": 338,
     "original_test_id": 84,
-    "question": "Is poet the answer to: What is James Cook's occupation?",
+    "question": "Is actor the answer to: What is James Cook's occupation?",
     "answer": [
       "no",
       "No",
@@ -10001,7 +10001,7 @@
   {
     "test_id": 342,
     "original_test_id": 85,
-    "question": "Is it true that the answer to \"What is Russell Stokes's occupation\" is composer?",
+    "question": "Is it true that the answer to \"What is Russell Stokes's occupation\" is songwriter?",
     "answer": [
       "no",
       "No",
@@ -10094,7 +10094,7 @@
   {
     "test_id": 345,
     "original_test_id": 86,
-    "question": "The answer to \"What is Henk Bleker's occupation\" is illustrator. Is this accurate?",
+    "question": "The answer to \"What is Henk Bleker's occupation\" is geneticist. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -10129,7 +10129,7 @@
   {
     "test_id": 346,
     "original_test_id": 86,
-    "question": "Is illustrator the answer to: What is Henk Bleker's occupation?",
+    "question": "Is geneticist the answer to: What is Henk Bleker's occupation?",
     "answer": [
       "no",
       "No",
@@ -10164,7 +10164,7 @@
   {
     "test_id": 347,
     "original_test_id": 86,
-    "question": "Would illustrator be the right answer to \"What is Henk Bleker's occupation?\"?",
+    "question": "Would geneticist be the right answer to \"What is Henk Bleker's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -10221,7 +10221,7 @@
   {
     "test_id": 349,
     "original_test_id": 87,
-    "question": "Which is correct for \"What is Jim Brown's occupation?\": record producer, radio personality, or politician?",
+    "question": "Which is correct for \"What is Jim Brown's occupation?\": composer, radio personality, or journalist?",
     "answer": [
       "radio personality"
     ],
@@ -10354,7 +10354,7 @@
   {
     "test_id": 353,
     "original_test_id": 88,
-    "question": "For the question \"What is Christoph Schlingensief's occupation?\", is the answer theatrical director or politician?",
+    "question": "For the question \"What is Christoph Schlingensief's occupation?\", is the answer theatrical director or actor?",
     "answer": [
       "theatrical director"
     ],
@@ -10476,7 +10476,7 @@
   {
     "test_id": 357,
     "original_test_id": 89,
-    "question": "Between journalist and playwright, which correctly answers \"What is C. E. Webber's occupation?\"?",
+    "question": "Between politician and playwright, which correctly answers \"What is C. E. Webber's occupation?\"?",
     "answer": [
       "playwright"
     ],
@@ -10536,7 +10536,7 @@
   {
     "test_id": 359,
     "original_test_id": 89,
-    "question": "Is journalist the answer to: What is C. E. Webber's occupation?",
+    "question": "Is politician the answer to: What is C. E. Webber's occupation?",
     "answer": [
       "no",
       "No",
@@ -10754,7 +10754,7 @@
   {
     "test_id": 366,
     "original_test_id": 91,
-    "question": "Which is correct for \"What is Dean Alfange's occupation?\": journalist, politician, or composer?",
+    "question": "Which is correct for \"What is Dean Alfange's occupation?\": playwright, politician, or cricket umpire?",
     "answer": [
       "politician"
     ],
@@ -10819,7 +10819,7 @@
   {
     "test_id": 369,
     "original_test_id": 92,
-    "question": "Can you confirm that politician is the correct answer to \"What is Tyler, the Creator's occupation?\"?",
+    "question": "Can you confirm that diplomat is the correct answer to \"What is Tyler, the Creator's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -10876,7 +10876,7 @@
   {
     "test_id": 371,
     "original_test_id": 92,
-    "question": "True or false: The answer to \"What is Tyler, the Creator's occupation\" is politician.",
+    "question": "True or false: The answer to \"What is Tyler, the Creator's occupation\" is diplomat.",
     "answer": [
       "false",
       "False",
@@ -10995,7 +10995,7 @@
   {
     "test_id": 375,
     "original_test_id": 93,
-    "question": "Which is correct for \"What is Edwin E. Ellis's occupation?\": revolutionary, photographer, or actor?",
+    "question": "Which is correct for \"What is Edwin E. Ellis's occupation?\": sailor, photographer, or astronomer?",
     "answer": [
       "photographer"
     ],
@@ -11159,7 +11159,7 @@
   {
     "test_id": 381,
     "original_test_id": 95,
-    "question": "Regarding the question \"What is Ivo Perilli's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Ivo Perilli's occupation?\": is film director correct?",
     "answer": [
       "no",
       "No",
@@ -11236,7 +11236,7 @@
   {
     "test_id": 383,
     "original_test_id": 95,
-    "question": "Is it true that the answer to \"What is Ivo Perilli's occupation\" is politician?",
+    "question": "Is it true that the answer to \"What is Ivo Perilli's occupation\" is film director?",
     "answer": [
       "no",
       "No",
@@ -11328,7 +11328,7 @@
   {
     "test_id": 386,
     "original_test_id": 96,
-    "question": "Is computer scientist the answer to: What is Nathan Purdee's occupation?",
+    "question": "Is composer the answer to: What is Nathan Purdee's occupation?",
     "answer": [
       "no",
       "No",
@@ -11457,7 +11457,7 @@
   {
     "test_id": 390,
     "original_test_id": 97,
-    "question": "For the question \"What is Joseph Weydemeyer's occupation?\", is the answer revolutionary or politician?",
+    "question": "For the question \"What is Joseph Weydemeyer's occupation?\", is the answer revolutionary or diplomat?",
     "answer": [
       "revolutionary"
     ],
@@ -11478,7 +11478,7 @@
   {
     "test_id": 391,
     "original_test_id": 97,
-    "question": "True or false: The answer to \"What is Joseph Weydemeyer's occupation\" is politician.",
+    "question": "True or false: The answer to \"What is Joseph Weydemeyer's occupation\" is diplomat.",
     "answer": [
       "false",
       "False",
@@ -11639,7 +11639,7 @@
   {
     "test_id": 397,
     "original_test_id": 99,
-    "question": "Would politician be the right answer to \"What is Rinaldo del Mel's occupation?\"?",
+    "question": "Would jockey be the right answer to \"What is Rinaldo del Mel's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -11670,7 +11670,7 @@
   {
     "test_id": 398,
     "original_test_id": 99,
-    "question": "True or false: The answer to \"What is Rinaldo del Mel's occupation\" is politician.",
+    "question": "True or false: The answer to \"What is Rinaldo del Mel's occupation\" is jockey.",
     "answer": [
       "false",
       "False",
@@ -11696,7 +11696,7 @@
   {
     "test_id": 399,
     "original_test_id": 99,
-    "question": "Is politician the answer to: What is Rinaldo del Mel's occupation?",
+    "question": "Is jockey the answer to: What is Rinaldo del Mel's occupation?",
     "answer": [
       "no",
       "No",
@@ -11785,7 +11785,7 @@
   {
     "test_id": 402,
     "original_test_id": 100,
-    "question": "True or false: The answer to \"What is Francis Howard, 5th Baron Howard of Effingham's occupation\" is rabbi.",
+    "question": "True or false: The answer to \"What is Francis Howard, 5th Baron Howard of Effingham's occupation\" is architect.",
     "answer": [
       "false",
       "False",
@@ -11815,7 +11815,7 @@
   {
     "test_id": 403,
     "original_test_id": 100,
-    "question": "For the question \"What is Francis Howard, 5th Baron Howard of Effingham's occupation?\", is the answer politician or rabbi?",
+    "question": "For the question \"What is Francis Howard, 5th Baron Howard of Effingham's occupation?\", is the answer politician or architect?",
     "answer": [
       "politician"
     ],
@@ -11984,7 +11984,7 @@
   {
     "test_id": 409,
     "original_test_id": 102,
-    "question": "For the question \"What is Nigel Sheinwald's occupation?\", is the answer diplomat or politician?",
+    "question": "For the question \"What is Nigel Sheinwald's occupation?\", is the answer diplomat or composer?",
     "answer": [
       "diplomat"
     ],
@@ -12091,7 +12091,7 @@
   {
     "test_id": 413,
     "original_test_id": 103,
-    "question": "Please verify: is chef the correct response to \"What is Ge You's occupation?\"?",
+    "question": "Please verify: is composer the correct response to \"What is Ge You's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -12125,7 +12125,7 @@
   {
     "test_id": 414,
     "original_test_id": 103,
-    "question": "Is chef the answer to: What is Ge You's occupation?",
+    "question": "Is composer the answer to: What is Ge You's occupation?",
     "answer": [
       "no",
       "No",
@@ -12341,7 +12341,7 @@
   {
     "test_id": 421,
     "original_test_id": 105,
-    "question": "Regarding the question \"What is Kazuyoshi Sekine's occupation?\": is bishop correct?",
+    "question": "Regarding the question \"What is Kazuyoshi Sekine's occupation?\": is film director correct?",
     "answer": [
       "no",
       "No",
@@ -12470,7 +12470,7 @@
   {
     "test_id": 425,
     "original_test_id": 106,
-    "question": "Regarding the question \"What is Elisa Bridges's occupation?\": is record producer correct?",
+    "question": "Regarding the question \"What is Elisa Bridges's occupation?\": is composer correct?",
     "answer": [
       "no",
       "No",
@@ -12543,7 +12543,7 @@
   {
     "test_id": 427,
     "original_test_id": 106,
-    "question": "Would record producer be the right answer to \"What is Elisa Bridges's occupation?\"?",
+    "question": "Would composer be the right answer to \"What is Elisa Bridges's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -12595,7 +12595,7 @@
   {
     "test_id": 429,
     "original_test_id": 107,
-    "question": "True or false: The answer to \"What is Domingo Eyzaguirre's occupation\" is composer.",
+    "question": "True or false: The answer to \"What is Domingo Eyzaguirre's occupation\" is record producer.",
     "answer": [
       "false",
       "False",
@@ -12625,7 +12625,7 @@
   {
     "test_id": 430,
     "original_test_id": 107,
-    "question": "Someone told me the answer to \"What is Domingo Eyzaguirre's occupation?\" is composer. Are they right?",
+    "question": "Someone told me the answer to \"What is Domingo Eyzaguirre's occupation?\" is record producer. Are they right?",
     "answer": [
       "no",
       "No",
@@ -12774,7 +12774,7 @@
   {
     "test_id": 435,
     "original_test_id": 108,
-    "question": "For the question \"What is Karol Życzkowski's occupation?\", is the answer physicist or politician?",
+    "question": "For the question \"What is Karol Życzkowski's occupation?\", is the answer physicist or singer-songwriter?",
     "answer": [
       "physicist"
     ],
@@ -12809,7 +12809,7 @@
   {
     "test_id": 437,
     "original_test_id": 109,
-    "question": "Which is correct for \"What is Joyce Tang's occupation?\": songwriter, actor, or illustrator?",
+    "question": "Which is correct for \"What is Joyce Tang's occupation?\": mathematician, actor, or journalist?",
     "answer": [
       "actor"
     ],
@@ -13003,7 +13003,7 @@
   {
     "test_id": 443,
     "original_test_id": 110,
-    "question": "Someone told me the answer to \"What is Suzanne Lilar's occupation?\" is journalist. Are they right?",
+    "question": "Someone told me the answer to \"What is Suzanne Lilar's occupation?\" is computer scientist. Are they right?",
     "answer": [
       "no",
       "No",
@@ -13135,7 +13135,7 @@
   {
     "test_id": 447,
     "original_test_id": 111,
-    "question": "Between actor and politician, which correctly answers \"What is Karen Redman's occupation?\"?",
+    "question": "Between physician and politician, which correctly answers \"What is Karen Redman's occupation?\"?",
     "answer": [
       "politician"
     ],
@@ -13311,7 +13311,7 @@
   {
     "test_id": 454,
     "original_test_id": 113,
-    "question": "Is it true that the answer to \"What is Eduard Looijenga's occupation\" is actor?",
+    "question": "Is it true that the answer to \"What is Eduard Looijenga's occupation\" is journalist?",
     "answer": [
       "no",
       "No",
@@ -13438,7 +13438,7 @@
   {
     "test_id": 458,
     "original_test_id": 114,
-    "question": "Between film producer and physician, which correctly answers \"What is Petrus Camper's occupation?\"?",
+    "question": "Between journalist and physician, which correctly answers \"What is Petrus Camper's occupation?\"?",
     "answer": [
       "physician"
     ],
@@ -13520,7 +13520,7 @@
   {
     "test_id": 461,
     "original_test_id": 115,
-    "question": "The answer to \"What is Charles Harrison's occupation\" is actor. Is this accurate?",
+    "question": "The answer to \"What is Charles Harrison's occupation\" is cartoonist. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -13652,7 +13652,7 @@
   {
     "test_id": 465,
     "original_test_id": 116,
-    "question": "The answer to \"What is Pathit Pisitkul's occupation\" is farmer. Is this accurate?",
+    "question": "The answer to \"What is Pathit Pisitkul's occupation\" is politician. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -13814,7 +13814,7 @@
   {
     "test_id": 470,
     "original_test_id": 117,
-    "question": "The answer to \"What is Jacopo Melani's occupation?\" is definitely not actor, correct?",
+    "question": "The answer to \"What is Jacopo Melani's occupation?\" is definitely not politician, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -13850,7 +13850,7 @@
   {
     "test_id": 471,
     "original_test_id": 117,
-    "question": "Which is correct for \"What is Jacopo Melani's occupation?\": actor, composer, or record producer?",
+    "question": "Which is correct for \"What is Jacopo Melani's occupation?\": politician, composer, or record producer?",
     "answer": [
       "composer"
     ],
@@ -13886,7 +13886,7 @@
   {
     "test_id": 473,
     "original_test_id": 118,
-    "question": "Is surgeon the answer to: What is Jeremiah Smith's occupation?",
+    "question": "Is actor the answer to: What is Jeremiah Smith's occupation?",
     "answer": [
       "no",
       "No",
@@ -13921,7 +13921,7 @@
   {
     "test_id": 474,
     "original_test_id": 118,
-    "question": "Regarding the question \"What is Jeremiah Smith's occupation?\": is surgeon correct?",
+    "question": "Regarding the question \"What is Jeremiah Smith's occupation?\": is actor correct?",
     "answer": [
       "no",
       "No",
@@ -14010,7 +14010,7 @@
   {
     "test_id": 477,
     "original_test_id": 119,
-    "question": "Between actor and composer, which correctly answers \"What is Richard Harris's occupation?\"?",
+    "question": "Between civil engineer and composer, which correctly answers \"What is Richard Harris's occupation?\"?",
     "answer": [
       "composer"
     ],
@@ -14028,7 +14028,7 @@
   {
     "test_id": 478,
     "original_test_id": 119,
-    "question": "Is actor the answer to: What is Richard Harris's occupation?",
+    "question": "Is civil engineer the answer to: What is Richard Harris's occupation?",
     "answer": [
       "no",
       "No",
@@ -14059,7 +14059,7 @@
   {
     "test_id": 479,
     "original_test_id": 119,
-    "question": "The answer to \"What is Richard Harris's occupation?\" is definitely not actor, correct?",
+    "question": "The answer to \"What is Richard Harris's occupation?\" is definitely not civil engineer, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -14153,7 +14153,7 @@
   {
     "test_id": 482,
     "original_test_id": 120,
-    "question": "The answer to \"What is Peter W. Barca's occupation?\" is definitely not composer, correct?",
+    "question": "The answer to \"What is Peter W. Barca's occupation?\" is definitely not revolutionary, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -14279,7 +14279,7 @@
   {
     "test_id": 486,
     "original_test_id": 121,
-    "question": "Which is correct for \"What is Harold Lever, Baron Lever of Manchester's occupation?\": film director, politician, or physicist?",
+    "question": "Which is correct for \"What is Harold Lever, Baron Lever of Manchester's occupation?\": actor, politician, or journalist?",
     "answer": [
       "politician"
     ],
@@ -14301,7 +14301,7 @@
   {
     "test_id": 487,
     "original_test_id": 121,
-    "question": "Between film director and politician, which correctly answers \"What is Harold Lever, Baron Lever of Manchester's occupation?\"?",
+    "question": "Between actor and politician, which correctly answers \"What is Harold Lever, Baron Lever of Manchester's occupation?\"?",
     "answer": [
       "politician"
     ],
@@ -14341,7 +14341,7 @@
   {
     "test_id": 489,
     "original_test_id": 122,
-    "question": "Between songwriter and politician, which correctly answers \"What is Peter Murnoy's occupation?\"?",
+    "question": "Between poet and politician, which correctly answers \"What is Peter Murnoy's occupation?\"?",
     "answer": [
       "politician"
     ],
@@ -14363,7 +14363,7 @@
   {
     "test_id": 490,
     "original_test_id": 122,
-    "question": "The answer to \"What is Peter Murnoy's occupation\" is songwriter. Is this accurate?",
+    "question": "The answer to \"What is Peter Murnoy's occupation\" is poet. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -14398,7 +14398,7 @@
   {
     "test_id": 491,
     "original_test_id": 122,
-    "question": "Is it true that the answer to \"What is Peter Murnoy's occupation\" is songwriter?",
+    "question": "Is it true that the answer to \"What is Peter Murnoy's occupation\" is poet?",
     "answer": [
       "no",
       "No",
@@ -14447,7 +14447,7 @@
   {
     "test_id": 493,
     "original_test_id": 123,
-    "question": "Would politician be the right answer to \"What is Spencer Williams's occupation?\"?",
+    "question": "Would production designer be the right answer to \"What is Spencer Williams's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -14514,7 +14514,7 @@
   {
     "test_id": 495,
     "original_test_id": 123,
-    "question": "Which is correct for \"What is Spencer Williams's occupation?\": politician, pianist, or geneticist?",
+    "question": "Which is correct for \"What is Spencer Williams's occupation?\": production designer, pianist, or geneticist?",
     "answer": [
       "pianist"
     ],
@@ -14586,7 +14586,7 @@
   {
     "test_id": 498,
     "original_test_id": 124,
-    "question": "Is it true that the answer to \"What is Richard Lui's occupation\" is diplomat?",
+    "question": "Is it true that the answer to \"What is Richard Lui's occupation\" is politician?",
     "answer": [
       "no",
       "No",
@@ -14619,7 +14619,7 @@
   {
     "test_id": 499,
     "original_test_id": 124,
-    "question": "Is diplomat the answer to: What is Richard Lui's occupation?",
+    "question": "Is politician the answer to: What is Richard Lui's occupation?",
     "answer": [
       "no",
       "No",
@@ -14794,7 +14794,7 @@
   {
     "test_id": 505,
     "original_test_id": 126,
-    "question": "Which is correct for \"What is James M. Geraghty's occupation?\": disc jockey, politician, or photographer?",
+    "question": "Which is correct for \"What is James M. Geraghty's occupation?\": biochemist, politician, or poet?",
     "answer": [
       "politician"
     ],
@@ -14851,7 +14851,7 @@
   {
     "test_id": 507,
     "original_test_id": 126,
-    "question": "Someone told me the answer to \"What is James M. Geraghty's occupation?\" is disc jockey. Are they right?",
+    "question": "Someone told me the answer to \"What is James M. Geraghty's occupation?\" is biochemist. Are they right?",
     "answer": [
       "no",
       "No",
@@ -14901,7 +14901,7 @@
   {
     "test_id": 509,
     "original_test_id": 127,
-    "question": "True or false: The answer to \"What is Michael Hutchings's occupation\" is screenwriter.",
+    "question": "True or false: The answer to \"What is Michael Hutchings's occupation\" is songwriter.",
     "answer": [
       "false",
       "False",
@@ -14928,7 +14928,7 @@
   {
     "test_id": 510,
     "original_test_id": 127,
-    "question": "Is it true that the answer to \"What is Michael Hutchings's occupation\" is screenwriter?",
+    "question": "Is it true that the answer to \"What is Michael Hutchings's occupation\" is songwriter?",
     "answer": [
       "no",
       "No",
@@ -14960,7 +14960,7 @@
   {
     "test_id": 511,
     "original_test_id": 127,
-    "question": "Please verify: is screenwriter the correct response to \"What is Michael Hutchings's occupation?\"?",
+    "question": "Please verify: is songwriter the correct response to \"What is Michael Hutchings's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -15090,7 +15090,7 @@
   {
     "test_id": 515,
     "original_test_id": 128,
-    "question": "True or false: The answer to \"What is Gideon Olin's occupation\" is composer.",
+    "question": "True or false: The answer to \"What is Gideon Olin's occupation\" is journalist.",
     "answer": [
       "false",
       "False",
@@ -15134,7 +15134,7 @@
   {
     "test_id": 517,
     "original_test_id": 129,
-    "question": "The answer to \"What is Cecil Aldin's occupation?\" is definitely not restaurateur, correct?",
+    "question": "The answer to \"What is Cecil Aldin's occupation?\" is definitely not politician, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -15170,7 +15170,7 @@
   {
     "test_id": 518,
     "original_test_id": 129,
-    "question": "Between restaurateur and illustrator, which correctly answers \"What is Cecil Aldin's occupation?\"?",
+    "question": "Between politician and illustrator, which correctly answers \"What is Cecil Aldin's occupation?\"?",
     "answer": [
       "illustrator"
     ],
@@ -15358,7 +15358,7 @@
   {
     "test_id": 525,
     "original_test_id": 131,
-    "question": "The answer to \"What is James Alex Msekela's occupation\" is journalist. Is this accurate?",
+    "question": "The answer to \"What is James Alex Msekela's occupation\" is actor. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -15393,7 +15393,7 @@
   {
     "test_id": 526,
     "original_test_id": 131,
-    "question": "Would journalist be the right answer to \"What is James Alex Msekela's occupation?\"?",
+    "question": "Would actor be the right answer to \"What is James Alex Msekela's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -15486,7 +15486,7 @@
   {
     "test_id": 529,
     "original_test_id": 132,
-    "question": "Can you confirm that film director is the correct answer to \"What is Nancy Landon Kassebaum's occupation?\"?",
+    "question": "Can you confirm that actor is the correct answer to \"What is Nancy Landon Kassebaum's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -15561,7 +15561,7 @@
   {
     "test_id": 531,
     "original_test_id": 132,
-    "question": "Is film director the answer to: What is Nancy Landon Kassebaum's occupation?",
+    "question": "Is actor the answer to: What is Nancy Landon Kassebaum's occupation?",
     "answer": [
       "no",
       "No",
@@ -15610,7 +15610,7 @@
   {
     "test_id": 533,
     "original_test_id": 133,
-    "question": "Can you confirm that biochemist is the correct answer to \"What is Reinhold Mack's occupation?\"?",
+    "question": "Can you confirm that illustrator is the correct answer to \"What is Reinhold Mack's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -15641,7 +15641,7 @@
   {
     "test_id": 534,
     "original_test_id": 133,
-    "question": "Someone told me the answer to \"What is Reinhold Mack's occupation?\" is biochemist. Are they right?",
+    "question": "Someone told me the answer to \"What is Reinhold Mack's occupation?\" is illustrator. Are they right?",
     "answer": [
       "no",
       "No",
@@ -15724,7 +15724,7 @@
   {
     "test_id": 537,
     "original_test_id": 134,
-    "question": "True or false: The answer to \"What is Del Quentin Wilber's occupation\" is financier.",
+    "question": "True or false: The answer to \"What is Del Quentin Wilber's occupation\" is cricket umpire.",
     "answer": [
       "false",
       "False",
@@ -15752,7 +15752,7 @@
   {
     "test_id": 538,
     "original_test_id": 134,
-    "question": "For the question \"What is Del Quentin Wilber's occupation?\", is the answer journalist or financier?",
+    "question": "For the question \"What is Del Quentin Wilber's occupation?\", is the answer journalist or cricket umpire?",
     "answer": [
       "journalist"
     ],
@@ -15824,7 +15824,7 @@
   {
     "test_id": 541,
     "original_test_id": 135,
-    "question": "Someone told me the answer to \"What is Pierre Pansu's occupation?\" is test pilot. Are they right?",
+    "question": "Someone told me the answer to \"What is Pierre Pansu's occupation?\" is actor. Are they right?",
     "answer": [
       "no",
       "No",
@@ -15855,7 +15855,7 @@
   {
     "test_id": 542,
     "original_test_id": 135,
-    "question": "The answer to \"What is Pierre Pansu's occupation?\" is definitely not test pilot, correct?",
+    "question": "The answer to \"What is Pierre Pansu's occupation?\" is definitely not actor, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -15936,7 +15936,7 @@
   {
     "test_id": 545,
     "original_test_id": 136,
-    "question": "The answer to \"What is Larry Coon's occupation\" is screenwriter. Is this accurate?",
+    "question": "The answer to \"What is Larry Coon's occupation\" is diplomat. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -16003,7 +16003,7 @@
   {
     "test_id": 547,
     "original_test_id": 136,
-    "question": "Which is correct for \"What is Larry Coon's occupation?\": screenwriter, computer scientist, or civil engineer?",
+    "question": "Which is correct for \"What is Larry Coon's occupation?\": diplomat, computer scientist, or actor?",
     "answer": [
       "computer scientist"
     ],
@@ -16096,7 +16096,7 @@
   {
     "test_id": 551,
     "original_test_id": 137,
-    "question": "Which is correct for \"What is Masayoshi Nataniya's occupation?\": actor, politician, or architect?",
+    "question": "Which is correct for \"What is Masayoshi Nataniya's occupation?\": actor, politician, or cartoonist?",
     "answer": [
       "politician"
     ],
@@ -16204,7 +16204,7 @@
   {
     "test_id": 555,
     "original_test_id": 138,
-    "question": "Would politician be the right answer to \"What is Leonida Tonelli's occupation?\"?",
+    "question": "Would rabbi be the right answer to \"What is Leonida Tonelli's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -16495,7 +16495,7 @@
   {
     "test_id": 565,
     "original_test_id": 141,
-    "question": "The answer to \"What is Ernst Timme's occupation?\" is definitely not psychologist, correct?",
+    "question": "The answer to \"What is Ernst Timme's occupation?\" is definitely not philosopher, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -16639,7 +16639,7 @@
   {
     "test_id": 569,
     "original_test_id": 142,
-    "question": "Is it true that the answer to \"What is Bill Kintner's occupation\" is actor?",
+    "question": "Is it true that the answer to \"What is Bill Kintner's occupation\" is philosopher?",
     "answer": [
       "no",
       "No",
@@ -16714,7 +16714,7 @@
   {
     "test_id": 571,
     "original_test_id": 142,
-    "question": "Which is correct for \"What is Bill Kintner's occupation?\": actor, politician, or businessperson?",
+    "question": "Which is correct for \"What is Bill Kintner's occupation?\": philosopher, politician, or actor?",
     "answer": [
       "politician"
     ],
@@ -16781,7 +16781,7 @@
   {
     "test_id": 574,
     "original_test_id": 143,
-    "question": "Would economist be the right answer to \"What is Francesco Vettori's occupation?\"?",
+    "question": "Would journalist be the right answer to \"What is Francesco Vettori's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -16812,7 +16812,7 @@
   {
     "test_id": 575,
     "original_test_id": 143,
-    "question": "The answer to \"What is Francesco Vettori's occupation\" is economist. Is this accurate?",
+    "question": "The answer to \"What is Francesco Vettori's occupation\" is journalist. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -16899,7 +16899,7 @@
   {
     "test_id": 578,
     "original_test_id": 144,
-    "question": "Would lawyer be the right answer to \"What is Melinda Mullins's occupation?\"?",
+    "question": "Would novelist be the right answer to \"What is Melinda Mullins's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -17102,7 +17102,7 @@
   {
     "test_id": 585,
     "original_test_id": 146,
-    "question": "Would impresario be the right answer to \"What is Susan Kent's occupation?\"?",
+    "question": "Would pianist be the right answer to \"What is Susan Kent's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -17228,7 +17228,7 @@
   {
     "test_id": 589,
     "original_test_id": 147,
-    "question": "Is it true that the answer to \"What is Meyer Lutz's occupation\" is lyricist?",
+    "question": "Is it true that the answer to \"What is Meyer Lutz's occupation\" is journalist?",
     "answer": [
       "no",
       "No",
@@ -17259,7 +17259,7 @@
   {
     "test_id": 590,
     "original_test_id": 147,
-    "question": "Please verify: is lyricist the correct response to \"What is Meyer Lutz's occupation?\"?",
+    "question": "Please verify: is journalist the correct response to \"What is Meyer Lutz's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -17373,7 +17373,7 @@
   {
     "test_id": 594,
     "original_test_id": 148,
-    "question": "Would lawyer be the right answer to \"What is Ludwig Lichtschein's occupation?\"?",
+    "question": "Would politician be the right answer to \"What is Ludwig Lichtschein's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -17496,7 +17496,7 @@
   {
     "test_id": 598,
     "original_test_id": 149,
-    "question": "True or false: The answer to \"What is Will Smith's occupation\" is composer.",
+    "question": "True or false: The answer to \"What is Will Smith's occupation\" is film director.",
     "answer": [
       "false",
       "False",
@@ -17524,7 +17524,7 @@
   {
     "test_id": 599,
     "original_test_id": 149,
-    "question": "For the question \"What is Will Smith's occupation?\", is the answer film producer or composer?",
+    "question": "For the question \"What is Will Smith's occupation?\", is the answer film producer or film director?",
     "answer": [
       "film producer"
     ],
@@ -17630,7 +17630,7 @@
   {
     "test_id": 603,
     "original_test_id": 150,
-    "question": "For the question \"What is Marjorie Margolies-Mezvinsky's occupation?\", is the answer politician or journalist?",
+    "question": "For the question \"What is Marjorie Margolies-Mezvinsky's occupation?\", is the answer politician or businessperson?",
     "answer": [
       "politician"
     ],
@@ -17880,7 +17880,7 @@
   {
     "test_id": 611,
     "original_test_id": 152,
-    "question": "For the question \"What is Pierre Chatenet's occupation?\", is the answer politician or journalist?",
+    "question": "For the question \"What is Pierre Chatenet's occupation?\", is the answer politician or composer?",
     "answer": [
       "politician"
     ],
@@ -18020,7 +18020,7 @@
   {
     "test_id": 617,
     "original_test_id": 154,
-    "question": "For the question \"What is Luciano Vincenzoni's occupation?\", is the answer screenwriter or mathematician?",
+    "question": "For the question \"What is Luciano Vincenzoni's occupation?\", is the answer screenwriter or actor?",
     "answer": [
       "screenwriter"
     ],
@@ -18202,7 +18202,7 @@
   {
     "test_id": 623,
     "original_test_id": 155,
-    "question": "Someone told me the answer to \"What is Thandiswa Mazwai's occupation?\" is composer. Are they right?",
+    "question": "Someone told me the answer to \"What is Thandiswa Mazwai's occupation?\" is politician. Are they right?",
     "answer": [
       "no",
       "No",
@@ -18251,7 +18251,7 @@
   {
     "test_id": 625,
     "original_test_id": 156,
-    "question": "Can you confirm that diplomat is the correct answer to \"What is Ameer Sultan's occupation?\"?",
+    "question": "Can you confirm that photographer is the correct answer to \"What is Ameer Sultan's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -18381,7 +18381,7 @@
   {
     "test_id": 629,
     "original_test_id": 157,
-    "question": "Which is correct for \"What is Wenceslao Vinzons's occupation?\": chemist, politician, or actor?",
+    "question": "Which is correct for \"What is Wenceslao Vinzons's occupation?\": financier, politician, or screenwriter?",
     "answer": [
       "politician"
     ],
@@ -18403,7 +18403,7 @@
   {
     "test_id": 630,
     "original_test_id": 157,
-    "question": "Is chemist the answer to: What is Wenceslao Vinzons's occupation?",
+    "question": "Is financier the answer to: What is Wenceslao Vinzons's occupation?",
     "answer": [
       "no",
       "No",
@@ -18494,7 +18494,7 @@
   {
     "test_id": 633,
     "original_test_id": 158,
-    "question": "Can you confirm that politician is the correct answer to \"What is Maurizio Belpietro's occupation?\"?",
+    "question": "Can you confirm that diplomat is the correct answer to \"What is Maurizio Belpietro's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -18527,7 +18527,7 @@
   {
     "test_id": 634,
     "original_test_id": 158,
-    "question": "Please verify: is politician the correct response to \"What is Maurizio Belpietro's occupation?\"?",
+    "question": "Please verify: is diplomat the correct response to \"What is Maurizio Belpietro's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -18560,7 +18560,7 @@
   {
     "test_id": 635,
     "original_test_id": 158,
-    "question": "For the question \"What is Maurizio Belpietro's occupation?\", is the answer journalist or politician?",
+    "question": "For the question \"What is Maurizio Belpietro's occupation?\", is the answer journalist or diplomat?",
     "answer": [
       "journalist"
     ],
@@ -18620,7 +18620,7 @@
   {
     "test_id": 638,
     "original_test_id": 159,
-    "question": "The answer to \"What is Dash's occupation?\" is definitely not politician, correct?",
+    "question": "The answer to \"What is Dash's occupation?\" is definitely not actor, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -18748,7 +18748,7 @@
   {
     "test_id": 642,
     "original_test_id": 160,
-    "question": "Is screenwriter the answer to: What is Baton Haxhiu's occupation?",
+    "question": "Is actor the answer to: What is Baton Haxhiu's occupation?",
     "answer": [
       "no",
       "No",
@@ -19096,7 +19096,7 @@
   {
     "test_id": 654,
     "original_test_id": 163,
-    "question": "Which is correct for \"What is Walter Köbel's occupation?\": record producer, politician, or actor?",
+    "question": "Which is correct for \"What is Walter Köbel's occupation?\": composer, politician, or production designer?",
     "answer": [
       "politician"
     ],
@@ -19176,7 +19176,7 @@
   {
     "test_id": 657,
     "original_test_id": 164,
-    "question": "Is poet the answer to: What is Debbie Johnson's occupation?",
+    "question": "Is actor the answer to: What is Debbie Johnson's occupation?",
     "answer": [
       "no",
       "No",
@@ -19211,7 +19211,7 @@
   {
     "test_id": 658,
     "original_test_id": 164,
-    "question": "Would poet be the right answer to \"What is Debbie Johnson's occupation?\"?",
+    "question": "Would actor be the right answer to \"What is Debbie Johnson's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -19381,7 +19381,7 @@
   {
     "test_id": 663,
     "original_test_id": 165,
-    "question": "Regarding the question \"What is John Scurti's occupation?\": is screenwriter correct?",
+    "question": "Regarding the question \"What is John Scurti's occupation?\": is record producer correct?",
     "answer": [
       "no",
       "No",
@@ -19504,7 +19504,7 @@
   {
     "test_id": 667,
     "original_test_id": 166,
-    "question": "Is film director the answer to: What is John Barnes's occupation?",
+    "question": "Is actor the answer to: What is John Barnes's occupation?",
     "answer": [
       "no",
       "No",
@@ -19586,7 +19586,7 @@
   {
     "test_id": 670,
     "original_test_id": 167,
-    "question": "True or false: The answer to \"What is Kekko Fornarelli's occupation\" is physician.",
+    "question": "True or false: The answer to \"What is Kekko Fornarelli's occupation\" is sailor.",
     "answer": [
       "false",
       "False",
@@ -19612,7 +19612,7 @@
   {
     "test_id": 671,
     "original_test_id": 167,
-    "question": "Can you confirm that physician is the correct answer to \"What is Kekko Fornarelli's occupation?\"?",
+    "question": "Can you confirm that sailor is the correct answer to \"What is Kekko Fornarelli's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -19658,7 +19658,7 @@
   {
     "test_id": 673,
     "original_test_id": 168,
-    "question": "Someone told me the answer to \"What is T Power's occupation?\" is illustrator. Are they right?",
+    "question": "Someone told me the answer to \"What is T Power's occupation?\" is mathematician. Are they right?",
     "answer": [
       "no",
       "No",
@@ -19690,7 +19690,7 @@
   {
     "test_id": 674,
     "original_test_id": 168,
-    "question": "Is illustrator the answer to: What is T Power's occupation?",
+    "question": "Is mathematician the answer to: What is T Power's occupation?",
     "answer": [
       "no",
       "No",
@@ -19774,7 +19774,7 @@
   {
     "test_id": 677,
     "original_test_id": 169,
-    "question": "Which is correct for \"What is Adil Shamoo's occupation?\": actor, biochemist, or record producer?",
+    "question": "Which is correct for \"What is Adil Shamoo's occupation?\": politician, biochemist, or cartoonist?",
     "answer": [
       "biochemist"
     ],
@@ -19830,7 +19830,7 @@
   {
     "test_id": 679,
     "original_test_id": 169,
-    "question": "Regarding the question \"What is Adil Shamoo's occupation?\": is actor correct?",
+    "question": "Regarding the question \"What is Adil Shamoo's occupation?\": is politician correct?",
     "answer": [
       "no",
       "No",
@@ -19880,7 +19880,7 @@
   {
     "test_id": 681,
     "original_test_id": 170,
-    "question": "Is it true that the answer to \"What is Patrick Mulvany's occupation\" is actor?",
+    "question": "Is it true that the answer to \"What is Patrick Mulvany's occupation\" is journalist?",
     "answer": [
       "no",
       "No",
@@ -19915,7 +19915,7 @@
   {
     "test_id": 682,
     "original_test_id": 170,
-    "question": "Would actor be the right answer to \"What is Patrick Mulvany's occupation?\"?",
+    "question": "Would journalist be the right answer to \"What is Patrick Mulvany's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -20006,7 +20006,7 @@
   {
     "test_id": 685,
     "original_test_id": 171,
-    "question": "Please verify: is politician the correct response to \"What is Graham Collier's occupation?\"?",
+    "question": "Please verify: is chemist the correct response to \"What is Graham Collier's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -20039,7 +20039,7 @@
   {
     "test_id": 686,
     "original_test_id": 171,
-    "question": "Would politician be the right answer to \"What is Graham Collier's occupation?\"?",
+    "question": "Would chemist be the right answer to \"What is Graham Collier's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -20072,7 +20072,7 @@
   {
     "test_id": 687,
     "original_test_id": 171,
-    "question": "Can you confirm that politician is the correct answer to \"What is Graham Collier's occupation?\"?",
+    "question": "Can you confirm that chemist is the correct answer to \"What is Graham Collier's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -20154,7 +20154,7 @@
   {
     "test_id": 690,
     "original_test_id": 172,
-    "question": "The answer to \"What is Arcangelo Ghisleri's occupation\" is mathematician. Is this accurate?",
+    "question": "The answer to \"What is Arcangelo Ghisleri's occupation\" is actor. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -20187,7 +20187,7 @@
   {
     "test_id": 691,
     "original_test_id": 172,
-    "question": "Regarding the question \"What is Arcangelo Ghisleri's occupation?\": is mathematician correct?",
+    "question": "Regarding the question \"What is Arcangelo Ghisleri's occupation?\": is actor correct?",
     "answer": [
       "no",
       "No",
@@ -20238,7 +20238,7 @@
   {
     "test_id": 693,
     "original_test_id": 173,
-    "question": "Which is correct for \"What is Carlos María Ramírez's occupation?\": actor, politician, or film director?",
+    "question": "Which is correct for \"What is Carlos María Ramírez's occupation?\": actor, politician, or screenwriter?",
     "answer": [
       "politician"
     ],
@@ -20412,7 +20412,7 @@
   {
     "test_id": 699,
     "original_test_id": 174,
-    "question": "Would film director be the right answer to \"What is Tina Sloan's occupation?\"?",
+    "question": "Would politician be the right answer to \"What is Tina Sloan's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -20502,7 +20502,7 @@
   {
     "test_id": 702,
     "original_test_id": 175,
-    "question": "Between photographer and actor, which correctly answers \"What is Andrew Trischitta's occupation?\"?",
+    "question": "Between talent manager and actor, which correctly answers \"What is Andrew Trischitta's occupation?\"?",
     "answer": [
       "actor"
     ],
@@ -20523,7 +20523,7 @@
   {
     "test_id": 703,
     "original_test_id": 175,
-    "question": "Would photographer be the right answer to \"What is Andrew Trischitta's occupation?\"?",
+    "question": "Would talent manager be the right answer to \"What is Andrew Trischitta's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -20652,7 +20652,7 @@
   {
     "test_id": 707,
     "original_test_id": 176,
-    "question": "The answer to \"What is Gerard Kennedy's occupation?\" is definitely not journalist, correct?",
+    "question": "The answer to \"What is Gerard Kennedy's occupation?\" is definitely not politician, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -20731,7 +20731,7 @@
   {
     "test_id": 710,
     "original_test_id": 177,
-    "question": "Can you confirm that composer is the correct answer to \"What is Giora Godik's occupation?\"?",
+    "question": "Can you confirm that priest is the correct answer to \"What is Giora Godik's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -20817,7 +20817,7 @@
   {
     "test_id": 713,
     "original_test_id": 178,
-    "question": "Is it true that the answer to \"What is Lillian Lawrence's occupation\" is mangaka?",
+    "question": "Is it true that the answer to \"What is Lillian Lawrence's occupation\" is cartoonist?",
     "answer": [
       "no",
       "No",
@@ -20878,7 +20878,7 @@
   {
     "test_id": 715,
     "original_test_id": 178,
-    "question": "The answer to \"What is Lillian Lawrence's occupation?\" is definitely not mangaka, correct?",
+    "question": "The answer to \"What is Lillian Lawrence's occupation?\" is definitely not cartoonist, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -20931,7 +20931,7 @@
   {
     "test_id": 717,
     "original_test_id": 179,
-    "question": "The answer to \"What is Philip Rosenberg's occupation\" is photographer. Is this accurate?",
+    "question": "The answer to \"What is Philip Rosenberg's occupation\" is journalist. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -20998,7 +20998,7 @@
   {
     "test_id": 719,
     "original_test_id": 179,
-    "question": "Regarding the question \"What is Philip Rosenberg's occupation?\": is photographer correct?",
+    "question": "Regarding the question \"What is Philip Rosenberg's occupation?\": is journalist correct?",
     "answer": [
       "no",
       "No",
@@ -21044,7 +21044,7 @@
   {
     "test_id": 721,
     "original_test_id": 180,
-    "question": "Between actor and lyricist, which correctly answers \"What is Sudarshan Faakir's occupation?\"?",
+    "question": "Between politician and lyricist, which correctly answers \"What is Sudarshan Faakir's occupation?\"?",
     "answer": [
       "lyricist"
     ],
@@ -21100,7 +21100,7 @@
   {
     "test_id": 723,
     "original_test_id": 180,
-    "question": "Would actor be the right answer to \"What is Sudarshan Faakir's occupation?\"?",
+    "question": "Would politician be the right answer to \"What is Sudarshan Faakir's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -21304,7 +21304,7 @@
   {
     "test_id": 730,
     "original_test_id": 182,
-    "question": "The answer to \"What is Bruce Cockburn's occupation\" is politician. Is this accurate?",
+    "question": "The answer to \"What is Bruce Cockburn's occupation\" is lawyer. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -21335,7 +21335,7 @@
   {
     "test_id": 731,
     "original_test_id": 182,
-    "question": "For the question \"What is Bruce Cockburn's occupation?\", is the answer composer or politician?",
+    "question": "For the question \"What is Bruce Cockburn's occupation?\", is the answer composer or lawyer?",
     "answer": [
       "composer"
     ],
@@ -21368,7 +21368,7 @@
   {
     "test_id": 733,
     "original_test_id": 183,
-    "question": "Which is correct for \"What is Archibald Thomas Pechey's occupation?\": film producer, lyricist, or journalist?",
+    "question": "Which is correct for \"What is Archibald Thomas Pechey's occupation?\": diplomat, lyricist, or surgeon?",
     "answer": [
       "lyricist"
     ],
@@ -21479,7 +21479,7 @@
   {
     "test_id": 737,
     "original_test_id": 184,
-    "question": "Can you confirm that astronomer is the correct answer to \"What is Thomas Challis's occupation?\"?",
+    "question": "Can you confirm that actor is the correct answer to \"What is Thomas Challis's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -21599,7 +21599,7 @@
   {
     "test_id": 741,
     "original_test_id": 185,
-    "question": "Which is correct for \"What is Mariana Vicente's occupation?\": journalist, actor, or monk?",
+    "question": "Which is correct for \"What is Mariana Vicente's occupation?\": record producer, actor, or psychologist?",
     "answer": [
       "actor"
     ],
@@ -21620,7 +21620,7 @@
   {
     "test_id": 742,
     "original_test_id": 185,
-    "question": "Is it true that the answer to \"What is Mariana Vicente's occupation\" is journalist?",
+    "question": "Is it true that the answer to \"What is Mariana Vicente's occupation\" is record producer?",
     "answer": [
       "no",
       "No",
@@ -21654,7 +21654,7 @@
   {
     "test_id": 743,
     "original_test_id": 185,
-    "question": "The answer to \"What is Mariana Vicente's occupation?\" is definitely not journalist, correct?",
+    "question": "The answer to \"What is Mariana Vicente's occupation?\" is definitely not record producer, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -21707,7 +21707,7 @@
   {
     "test_id": 745,
     "original_test_id": 186,
-    "question": "Is it true that the answer to \"What is Huntington Wilson's occupation\" is politician?",
+    "question": "Is it true that the answer to \"What is Huntington Wilson's occupation\" is actor?",
     "answer": [
       "no",
       "No",
@@ -21738,7 +21738,7 @@
   {
     "test_id": 746,
     "original_test_id": 186,
-    "question": "Which is correct for \"What is Huntington Wilson's occupation?\": politician, diplomat, or actor?",
+    "question": "Which is correct for \"What is Huntington Wilson's occupation?\": actor, diplomat, or politician?",
     "answer": [
       "diplomat"
     ],
@@ -21842,7 +21842,7 @@
   {
     "test_id": 750,
     "original_test_id": 187,
-    "question": "Someone told me the answer to \"What is Gaziza Zhubanova's occupation?\" is politician. Are they right?",
+    "question": "Someone told me the answer to \"What is Gaziza Zhubanova's occupation?\" is screenwriter. Are they right?",
     "answer": [
       "no",
       "No",
@@ -21873,7 +21873,7 @@
   {
     "test_id": 751,
     "original_test_id": 187,
-    "question": "The answer to \"What is Gaziza Zhubanova's occupation\" is politician. Is this accurate?",
+    "question": "The answer to \"What is Gaziza Zhubanova's occupation\" is screenwriter. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -21922,7 +21922,7 @@
   {
     "test_id": 753,
     "original_test_id": 188,
-    "question": "Someone told me the answer to \"What is Ek Yi Oun's occupation?\" is computer scientist. Are they right?",
+    "question": "Someone told me the answer to \"What is Ek Yi Oun's occupation?\" is missionary. Are they right?",
     "answer": [
       "no",
       "No",
@@ -21957,7 +21957,7 @@
   {
     "test_id": 754,
     "original_test_id": 188,
-    "question": "Which is correct for \"What is Ek Yi Oun's occupation?\": computer scientist, politician, or composer?",
+    "question": "Which is correct for \"What is Ek Yi Oun's occupation?\": missionary, politician, or restaurateur?",
     "answer": [
       "politician"
     ],
@@ -22022,7 +22022,7 @@
   {
     "test_id": 757,
     "original_test_id": 189,
-    "question": "Is it true that the answer to \"What is Benjamin Mount's occupation\" is politician?",
+    "question": "Is it true that the answer to \"What is Benjamin Mount's occupation\" is composer?",
     "answer": [
       "no",
       "No",
@@ -22054,7 +22054,7 @@
   {
     "test_id": 758,
     "original_test_id": 189,
-    "question": "Regarding the question \"What is Benjamin Mount's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Benjamin Mount's occupation?\": is composer correct?",
     "answer": [
       "no",
       "No",
@@ -22137,7 +22137,7 @@
   {
     "test_id": 761,
     "original_test_id": 190,
-    "question": "Someone told me the answer to \"What is Ivan Mládek's occupation?\" is priest. Are they right?",
+    "question": "Someone told me the answer to \"What is Ivan Mládek's occupation?\" is journalist. Are they right?",
     "answer": [
       "no",
       "No",
@@ -22168,7 +22168,7 @@
   {
     "test_id": 762,
     "original_test_id": 190,
-    "question": "For the question \"What is Ivan Mládek's occupation?\", is the answer composer or priest?",
+    "question": "For the question \"What is Ivan Mládek's occupation?\", is the answer composer or journalist?",
     "answer": [
       "composer"
     ],
@@ -22305,7 +22305,7 @@
   {
     "test_id": 767,
     "original_test_id": 191,
-    "question": "Which is correct for \"What is Bala's occupation?\": actor, film director, or composer?",
+    "question": "Which is correct for \"What is Bala's occupation?\": playwright, film director, or composer?",
     "answer": [
       "film director"
     ],
@@ -22343,7 +22343,7 @@
   {
     "test_id": 769,
     "original_test_id": 192,
-    "question": "Regarding the question \"What is Steve Tom's occupation?\": is singer-songwriter correct?",
+    "question": "Regarding the question \"What is Steve Tom's occupation?\": is politician correct?",
     "answer": [
       "no",
       "No",
@@ -22377,7 +22377,7 @@
   {
     "test_id": 770,
     "original_test_id": 192,
-    "question": "Which is correct for \"What is Steve Tom's occupation?\": singer-songwriter, actor, or journalist?",
+    "question": "Which is correct for \"What is Steve Tom's occupation?\": politician, actor, or composer?",
     "answer": [
       "actor"
     ],
@@ -22493,7 +22493,7 @@
   {
     "test_id": 774,
     "original_test_id": 193,
-    "question": "The answer to \"What is Ilja Rosendahl's occupation?\" is definitely not test pilot, correct?",
+    "question": "The answer to \"What is Ilja Rosendahl's occupation?\" is definitely not singer-songwriter, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -22532,7 +22532,7 @@
   {
     "test_id": 775,
     "original_test_id": 193,
-    "question": "Between test pilot and actor, which correctly answers \"What is Ilja Rosendahl's occupation?\"?",
+    "question": "Between singer-songwriter and actor, which correctly answers \"What is Ilja Rosendahl's occupation?\"?",
     "answer": [
       "actor"
     ],
@@ -22570,7 +22570,7 @@
   {
     "test_id": 777,
     "original_test_id": 194,
-    "question": "Someone told me the answer to \"What is Ron Nyswaner's occupation?\" is poet. Are they right?",
+    "question": "Someone told me the answer to \"What is Ron Nyswaner's occupation?\" is composer. Are they right?",
     "answer": [
       "no",
       "No",
@@ -22604,7 +22604,7 @@
   {
     "test_id": 778,
     "original_test_id": 194,
-    "question": "Regarding the question \"What is Ron Nyswaner's occupation?\": is poet correct?",
+    "question": "Regarding the question \"What is Ron Nyswaner's occupation?\": is composer correct?",
     "answer": [
       "no",
       "No",
@@ -22638,7 +22638,7 @@
   {
     "test_id": 779,
     "original_test_id": 194,
-    "question": "For the question \"What is Ron Nyswaner's occupation?\", is the answer film director or poet?",
+    "question": "For the question \"What is Ron Nyswaner's occupation?\", is the answer film director or composer?",
     "answer": [
       "film director"
     ],
@@ -22717,7 +22717,7 @@
   {
     "test_id": 782,
     "original_test_id": 195,
-    "question": "Someone told me the answer to \"What is Thanasis Pafilis's occupation?\" is cricket umpire. Are they right?",
+    "question": "Someone told me the answer to \"What is Thanasis Pafilis's occupation?\" is actor. Are they right?",
     "answer": [
       "no",
       "No",
@@ -22830,7 +22830,7 @@
   {
     "test_id": 786,
     "original_test_id": 196,
-    "question": "Between journalist and astronomer, which correctly answers \"What is Nicholas Sanduleak's occupation?\"?",
+    "question": "Between politician and astronomer, which correctly answers \"What is Nicholas Sanduleak's occupation?\"?",
     "answer": [
       "astronomer"
     ],
@@ -22848,7 +22848,7 @@
   {
     "test_id": 787,
     "original_test_id": 196,
-    "question": "The answer to \"What is Nicholas Sanduleak's occupation?\" is definitely not journalist, correct?",
+    "question": "The answer to \"What is Nicholas Sanduleak's occupation?\" is definitely not politician, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -22933,7 +22933,7 @@
   {
     "test_id": 790,
     "original_test_id": 197,
-    "question": "Is it true that the answer to \"What is Christopher Butson's occupation\" is poet?",
+    "question": "Is it true that the answer to \"What is Christopher Butson's occupation\" is journalist?",
     "answer": [
       "no",
       "No",
@@ -22966,7 +22966,7 @@
   {
     "test_id": 791,
     "original_test_id": 197,
-    "question": "True or false: The answer to \"What is Christopher Butson's occupation\" is poet.",
+    "question": "True or false: The answer to \"What is Christopher Butson's occupation\" is journalist.",
     "answer": [
       "false",
       "False",
@@ -23008,7 +23008,7 @@
   {
     "test_id": 793,
     "original_test_id": 198,
-    "question": "True or false: The answer to \"What is Otto Frankel's occupation\" is screenwriter.",
+    "question": "True or false: The answer to \"What is Otto Frankel's occupation\" is actor.",
     "answer": [
       "false",
       "False",
@@ -23034,7 +23034,7 @@
   {
     "test_id": 794,
     "original_test_id": 198,
-    "question": "Which is correct for \"What is Otto Frankel's occupation?\": screenwriter, geneticist, or actor?",
+    "question": "Which is correct for \"What is Otto Frankel's occupation?\": actor, geneticist, or businessperson?",
     "answer": [
       "geneticist"
     ],
@@ -23102,7 +23102,7 @@
   {
     "test_id": 797,
     "original_test_id": 199,
-    "question": "The answer to \"What is Hate Man's occupation\" is composer. Is this accurate?",
+    "question": "The answer to \"What is Hate Man's occupation\" is journalist. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -23263,7 +23263,7 @@
   {
     "test_id": 802,
     "original_test_id": 200,
-    "question": "Which is correct for \"What is Rich Brightman's occupation?\": playwright, singer-songwriter, or actor?",
+    "question": "Which is correct for \"What is Rich Brightman's occupation?\": politician, singer-songwriter, or journalist?",
     "answer": [
       "singer-songwriter"
     ],
@@ -23340,7 +23340,7 @@
   {
     "test_id": 805,
     "original_test_id": 201,
-    "question": "Someone told me the answer to \"What is Mr. Porter's occupation?\" is architect. Are they right?",
+    "question": "Someone told me the answer to \"What is Mr. Porter's occupation?\" is screenwriter. Are they right?",
     "answer": [
       "no",
       "No",
@@ -23372,7 +23372,7 @@
   {
     "test_id": 806,
     "original_test_id": 201,
-    "question": "The answer to \"What is Mr. Porter's occupation\" is architect. Is this accurate?",
+    "question": "The answer to \"What is Mr. Porter's occupation\" is screenwriter. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -23404,7 +23404,7 @@
   {
     "test_id": 807,
     "original_test_id": 201,
-    "question": "Which is correct for \"What is Mr. Porter's occupation?\": architect, record producer, or songwriter?",
+    "question": "Which is correct for \"What is Mr. Porter's occupation?\": screenwriter, record producer, or politician?",
     "answer": [
       "record producer"
     ],
@@ -23476,7 +23476,7 @@
   {
     "test_id": 810,
     "original_test_id": 202,
-    "question": "The answer to \"What is Felix Walker's occupation?\" is definitely not mangaka, correct?",
+    "question": "The answer to \"What is Felix Walker's occupation?\" is definitely not composer, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -23516,7 +23516,7 @@
   {
     "test_id": 811,
     "original_test_id": 202,
-    "question": "Is it true that the answer to \"What is Felix Walker's occupation\" is mangaka?",
+    "question": "Is it true that the answer to \"What is Felix Walker's occupation\" is composer?",
     "answer": [
       "no",
       "No",
@@ -23682,7 +23682,7 @@
   {
     "test_id": 817,
     "original_test_id": 204,
-    "question": "Which is correct for \"What is Franz Seitz Sr.'s occupation?\": film director, screenwriter, or politician?",
+    "question": "Which is correct for \"What is Franz Seitz Sr.'s occupation?\": politician, screenwriter, or actor?",
     "answer": [
       "screenwriter"
     ],
@@ -23705,7 +23705,7 @@
   {
     "test_id": 818,
     "original_test_id": 204,
-    "question": "Someone told me the answer to \"What is Franz Seitz Sr.'s occupation?\" is film director. Are they right?",
+    "question": "Someone told me the answer to \"What is Franz Seitz Sr.'s occupation?\" is politician. Are they right?",
     "answer": [
       "no",
       "No",
@@ -23741,7 +23741,7 @@
   {
     "test_id": 819,
     "original_test_id": 204,
-    "question": "Is film director the answer to: What is Franz Seitz Sr.'s occupation?",
+    "question": "Is politician the answer to: What is Franz Seitz Sr.'s occupation?",
     "answer": [
       "no",
       "No",
@@ -23969,7 +23969,7 @@
   {
     "test_id": 826,
     "original_test_id": 206,
-    "question": "Is lyricist the answer to: What is Frederick Dundas's occupation?",
+    "question": "Is production designer the answer to: What is Frederick Dundas's occupation?",
     "answer": [
       "no",
       "No",
@@ -24214,7 +24214,7 @@
   {
     "test_id": 833,
     "original_test_id": 208,
-    "question": "True or false: The answer to \"What is Nadia Giosia's occupation\" is composer.",
+    "question": "True or false: The answer to \"What is Nadia Giosia's occupation\" is computer scientist.",
     "answer": [
       "false",
       "False",
@@ -24319,7 +24319,7 @@
   {
     "test_id": 837,
     "original_test_id": 209,
-    "question": "Between politician and socialite, which correctly answers \"What is Adele Capell, Countess of Essex's occupation?\"?",
+    "question": "Between diplomat and socialite, which correctly answers \"What is Adele Capell, Countess of Essex's occupation?\"?",
     "answer": [
       "socialite"
     ],
@@ -24462,7 +24462,7 @@
   {
     "test_id": 842,
     "original_test_id": 210,
-    "question": "Regarding the question \"What is Edward Francis Hutton's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Edward Francis Hutton's occupation?\": is actor correct?",
     "answer": [
       "no",
       "No",
@@ -24793,7 +24793,7 @@
   {
     "test_id": 853,
     "original_test_id": 213,
-    "question": "Please verify: is politician the correct response to \"What is Sırrı Süreyya Önder's occupation?\"?",
+    "question": "Please verify: is surgeon the correct response to \"What is Sırrı Süreyya Önder's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -24917,7 +24917,7 @@
   {
     "test_id": 857,
     "original_test_id": 214,
-    "question": "Is jurist the answer to: What is Edward Norton's occupation?",
+    "question": "Is record producer the answer to: What is Edward Norton's occupation?",
     "answer": [
       "no",
       "No",
@@ -25049,7 +25049,7 @@
   {
     "test_id": 861,
     "original_test_id": 215,
-    "question": "The answer to \"What is Linden Ashby's occupation\" is rabbi. Is this accurate?",
+    "question": "The answer to \"What is Linden Ashby's occupation\" is politician. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -25083,7 +25083,7 @@
   {
     "test_id": 862,
     "original_test_id": 215,
-    "question": "True or false: The answer to \"What is Linden Ashby's occupation\" is rabbi.",
+    "question": "True or false: The answer to \"What is Linden Ashby's occupation\" is politician.",
     "answer": [
       "false",
       "False",
@@ -25169,7 +25169,7 @@
   {
     "test_id": 865,
     "original_test_id": 216,
-    "question": "For the question \"What is Lord Frederick Spencer Hamilton's occupation?\", is the answer politician or lyricist?",
+    "question": "For the question \"What is Lord Frederick Spencer Hamilton's occupation?\", is the answer politician or composer?",
     "answer": [
       "politician"
     ],
@@ -25191,7 +25191,7 @@
   {
     "test_id": 866,
     "original_test_id": 216,
-    "question": "Is lyricist the answer to: What is Lord Frederick Spencer Hamilton's occupation?",
+    "question": "Is composer the answer to: What is Lord Frederick Spencer Hamilton's occupation?",
     "answer": [
       "no",
       "No",
@@ -25282,7 +25282,7 @@
   {
     "test_id": 869,
     "original_test_id": 217,
-    "question": "True or false: The answer to \"What is Ann Friedman's occupation\" is composer.",
+    "question": "True or false: The answer to \"What is Ann Friedman's occupation\" is singer-songwriter.",
     "answer": [
       "false",
       "False",
@@ -25348,7 +25348,7 @@
   {
     "test_id": 871,
     "original_test_id": 217,
-    "question": "Which is correct for \"What is Ann Friedman's occupation?\": composer, journalist, or lyricist?",
+    "question": "Which is correct for \"What is Ann Friedman's occupation?\": singer-songwriter, journalist, or photographer?",
     "answer": [
       "journalist"
     ],
@@ -25386,7 +25386,7 @@
   {
     "test_id": 873,
     "original_test_id": 218,
-    "question": "The answer to \"What is Olav T. Laake's occupation\" is poet. Is this accurate?",
+    "question": "The answer to \"What is Olav T. Laake's occupation\" is diplomat. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -25421,7 +25421,7 @@
   {
     "test_id": 874,
     "original_test_id": 218,
-    "question": "For the question \"What is Olav T. Laake's occupation?\", is the answer politician or poet?",
+    "question": "For the question \"What is Olav T. Laake's occupation?\", is the answer politician or diplomat?",
     "answer": [
       "politician"
     ],
@@ -25443,7 +25443,7 @@
   {
     "test_id": 875,
     "original_test_id": 218,
-    "question": "The answer to \"What is Olav T. Laake's occupation?\" is definitely not poet, correct?",
+    "question": "The answer to \"What is Olav T. Laake's occupation?\" is definitely not diplomat, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -25602,7 +25602,7 @@
   {
     "test_id": 881,
     "original_test_id": 220,
-    "question": "The answer to \"What is Jonathan Le Billon's occupation?\" is definitely not architect, correct?",
+    "question": "The answer to \"What is Jonathan Le Billon's occupation?\" is definitely not film director, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -25680,7 +25680,7 @@
   {
     "test_id": 883,
     "original_test_id": 220,
-    "question": "The answer to \"What is Jonathan Le Billon's occupation\" is architect. Is this accurate?",
+    "question": "The answer to \"What is Jonathan Le Billon's occupation\" is film director. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -25758,7 +25758,7 @@
   {
     "test_id": 886,
     "original_test_id": 221,
-    "question": "For the question \"What is Mildred Okwo's occupation?\", is the answer film director or politician?",
+    "question": "For the question \"What is Mildred Okwo's occupation?\", is the answer film director or biochemist?",
     "answer": [
       "film director"
     ],
@@ -25779,7 +25779,7 @@
   {
     "test_id": 887,
     "original_test_id": 221,
-    "question": "True or false: The answer to \"What is Mildred Okwo's occupation\" is politician.",
+    "question": "True or false: The answer to \"What is Mildred Okwo's occupation\" is biochemist.",
     "answer": [
       "false",
       "False",
@@ -25965,7 +25965,7 @@
   {
     "test_id": 893,
     "original_test_id": 223,
-    "question": "True or false: The answer to \"What is Charles Combe's occupation\" is actor.",
+    "question": "True or false: The answer to \"What is Charles Combe's occupation\" is politician.",
     "answer": [
       "false",
       "False",
@@ -25996,7 +25996,7 @@
   {
     "test_id": 894,
     "original_test_id": 223,
-    "question": "Would actor be the right answer to \"What is Charles Combe's occupation?\"?",
+    "question": "Would politician be the right answer to \"What is Charles Combe's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -26032,7 +26032,7 @@
   {
     "test_id": 895,
     "original_test_id": 223,
-    "question": "Please verify: is actor the correct response to \"What is Charles Combe's occupation?\"?",
+    "question": "Please verify: is politician the correct response to \"What is Charles Combe's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -26085,7 +26085,7 @@
   {
     "test_id": 897,
     "original_test_id": 224,
-    "question": "Is politician the answer to: What is GQ's occupation?",
+    "question": "Is journalist the answer to: What is GQ's occupation?",
     "answer": [
       "no",
       "No",
@@ -26153,7 +26153,7 @@
   {
     "test_id": 899,
     "original_test_id": 224,
-    "question": "Would politician be the right answer to \"What is GQ's occupation?\"?",
+    "question": "Would journalist be the right answer to \"What is GQ's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -26203,7 +26203,7 @@
   {
     "test_id": 901,
     "original_test_id": 225,
-    "question": "Please verify: is production designer the correct response to \"What is John D. Maurice's occupation?\"?",
+    "question": "Please verify: is politician the correct response to \"What is John D. Maurice's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -26236,7 +26236,7 @@
   {
     "test_id": 902,
     "original_test_id": 225,
-    "question": "The answer to \"What is John D. Maurice's occupation\" is production designer. Is this accurate?",
+    "question": "The answer to \"What is John D. Maurice's occupation\" is politician. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -26356,7 +26356,7 @@
   {
     "test_id": 906,
     "original_test_id": 226,
-    "question": "Is actor the answer to: What is Harvey Benge's occupation?",
+    "question": "Is politician the answer to: What is Harvey Benge's occupation?",
     "answer": [
       "no",
       "No",
@@ -26389,7 +26389,7 @@
   {
     "test_id": 907,
     "original_test_id": 226,
-    "question": "Would actor be the right answer to \"What is Harvey Benge's occupation?\"?",
+    "question": "Would politician be the right answer to \"What is Harvey Benge's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -26439,7 +26439,7 @@
   {
     "test_id": 909,
     "original_test_id": 227,
-    "question": "True or false: The answer to \"What is William Greaves's occupation\" is surgeon.",
+    "question": "True or false: The answer to \"What is William Greaves's occupation\" is lyricist.",
     "answer": [
       "false",
       "False",
@@ -26564,7 +26564,7 @@
   {
     "test_id": 913,
     "original_test_id": 228,
-    "question": "Someone told me the answer to \"What is David Joyce's occupation?\" is actor. Are they right?",
+    "question": "Someone told me the answer to \"What is David Joyce's occupation?\" is radio personality. Are they right?",
     "answer": [
       "no",
       "No",
@@ -26599,7 +26599,7 @@
   {
     "test_id": 914,
     "original_test_id": 228,
-    "question": "Is actor the answer to: What is David Joyce's occupation?",
+    "question": "Is radio personality the answer to: What is David Joyce's occupation?",
     "answer": [
       "no",
       "No",
@@ -26634,7 +26634,7 @@
   {
     "test_id": 915,
     "original_test_id": 228,
-    "question": "Would actor be the right answer to \"What is David Joyce's occupation?\"?",
+    "question": "Would radio personality be the right answer to \"What is David Joyce's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -26687,7 +26687,7 @@
   {
     "test_id": 917,
     "original_test_id": 229,
-    "question": "Is it true that the answer to \"What is Emmanuel Nnamdi Uba's occupation\" is composer?",
+    "question": "Is it true that the answer to \"What is Emmanuel Nnamdi Uba's occupation\" is jurist?",
     "answer": [
       "no",
       "No",
@@ -26722,7 +26722,7 @@
   {
     "test_id": 918,
     "original_test_id": 229,
-    "question": "For the question \"What is Emmanuel Nnamdi Uba's occupation?\", is the answer politician or composer?",
+    "question": "For the question \"What is Emmanuel Nnamdi Uba's occupation?\", is the answer politician or jurist?",
     "answer": [
       "politician"
     ],
@@ -27117,7 +27117,7 @@
   {
     "test_id": 931,
     "original_test_id": 232,
-    "question": "Is it true that the answer to \"What is Kristina Lugn's occupation\" is missionary?",
+    "question": "Is it true that the answer to \"What is Kristina Lugn's occupation\" is journalist?",
     "answer": [
       "no",
       "No",
@@ -27169,7 +27169,7 @@
   {
     "test_id": 933,
     "original_test_id": 233,
-    "question": "For the question \"What is Luca Coscioni's occupation?\", is the answer politician or poet?",
+    "question": "For the question \"What is Luca Coscioni's occupation?\", is the answer politician or film director?",
     "answer": [
       "politician"
     ],
@@ -27191,7 +27191,7 @@
   {
     "test_id": 934,
     "original_test_id": 233,
-    "question": "True or false: The answer to \"What is Luca Coscioni's occupation\" is poet.",
+    "question": "True or false: The answer to \"What is Luca Coscioni's occupation\" is film director.",
     "answer": [
       "false",
       "False",
@@ -27393,7 +27393,7 @@
   {
     "test_id": 941,
     "original_test_id": 235,
-    "question": "Regarding the question \"What is Beth Hart's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Beth Hart's occupation?\": is actor correct?",
     "answer": [
       "no",
       "No",
@@ -27428,7 +27428,7 @@
   {
     "test_id": 942,
     "original_test_id": 235,
-    "question": "Please verify: is politician the correct response to \"What is Beth Hart's occupation?\"?",
+    "question": "Please verify: is actor the correct response to \"What is Beth Hart's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -27463,7 +27463,7 @@
   {
     "test_id": 943,
     "original_test_id": 235,
-    "question": "Between politician and singer-songwriter, which correctly answers \"What is Beth Hart's occupation?\"?",
+    "question": "Between actor and singer-songwriter, which correctly answers \"What is Beth Hart's occupation?\"?",
     "answer": [
       "singer-songwriter"
     ],
@@ -27583,7 +27583,7 @@
   {
     "test_id": 947,
     "original_test_id": 236,
-    "question": "Please verify: is physician the correct response to \"What is Benazir Bhutto's occupation?\"?",
+    "question": "Please verify: is astronomer the correct response to \"What is Benazir Bhutto's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -27632,7 +27632,7 @@
   {
     "test_id": 949,
     "original_test_id": 237,
-    "question": "Between politician and diplomat, which correctly answers \"What is Alan Huckle's occupation?\"?",
+    "question": "Between actor and diplomat, which correctly answers \"What is Alan Huckle's occupation?\"?",
     "answer": [
       "diplomat"
     ],
@@ -27650,7 +27650,7 @@
   {
     "test_id": 950,
     "original_test_id": 237,
-    "question": "Regarding the question \"What is Alan Huckle's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Alan Huckle's occupation?\": is actor correct?",
     "answer": [
       "no",
       "No",
@@ -27775,7 +27775,7 @@
   {
     "test_id": 954,
     "original_test_id": 238,
-    "question": "Can you confirm that screenwriter is the correct answer to \"What is Gunnar Uldall's occupation?\"?",
+    "question": "Can you confirm that composer is the correct answer to \"What is Gunnar Uldall's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -27810,7 +27810,7 @@
   {
     "test_id": 955,
     "original_test_id": 238,
-    "question": "Someone told me the answer to \"What is Gunnar Uldall's occupation?\" is screenwriter. Are they right?",
+    "question": "Someone told me the answer to \"What is Gunnar Uldall's occupation?\" is composer. Are they right?",
     "answer": [
       "no",
       "No",
@@ -27859,7 +27859,7 @@
   {
     "test_id": 957,
     "original_test_id": 239,
-    "question": "Please verify: is politician the correct response to \"What is Vishwanath Rao Ringe's occupation?\"?",
+    "question": "Please verify: is economist the correct response to \"What is Vishwanath Rao Ringe's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -27890,7 +27890,7 @@
   {
     "test_id": 958,
     "original_test_id": 239,
-    "question": "Regarding the question \"What is Vishwanath Rao Ringe's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Vishwanath Rao Ringe's occupation?\": is economist correct?",
     "answer": [
       "no",
       "No",
@@ -27961,7 +27961,7 @@
   {
     "test_id": 961,
     "original_test_id": 240,
-    "question": "For the question \"What is Alfred Mombert's occupation?\", is the answer poet or actor?",
+    "question": "For the question \"What is Alfred Mombert's occupation?\", is the answer poet or politician?",
     "answer": [
       "poet"
     ],
@@ -28019,7 +28019,7 @@
   {
     "test_id": 963,
     "original_test_id": 240,
-    "question": "The answer to \"What is Alfred Mombert's occupation?\" is definitely not actor, correct?",
+    "question": "The answer to \"What is Alfred Mombert's occupation?\" is definitely not politician, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -28074,7 +28074,7 @@
   {
     "test_id": 965,
     "original_test_id": 241,
-    "question": "Is screenwriter the answer to: What is Famke Janssen's occupation?",
+    "question": "Is composer the answer to: What is Famke Janssen's occupation?",
     "answer": [
       "no",
       "No",
@@ -28147,7 +28147,7 @@
   {
     "test_id": 967,
     "original_test_id": 241,
-    "question": "Would screenwriter be the right answer to \"What is Famke Janssen's occupation?\"?",
+    "question": "Would composer be the right answer to \"What is Famke Janssen's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -28313,7 +28313,7 @@
   {
     "test_id": 973,
     "original_test_id": 243,
-    "question": "Regarding the question \"What is Jack Mackenzie's occupation?\": is mathematician correct?",
+    "question": "Regarding the question \"What is Jack Mackenzie's occupation?\": is politician correct?",
     "answer": [
       "no",
       "No",
@@ -28344,7 +28344,7 @@
   {
     "test_id": 974,
     "original_test_id": 243,
-    "question": "Is it true that the answer to \"What is Jack Mackenzie's occupation\" is mathematician?",
+    "question": "Is it true that the answer to \"What is Jack Mackenzie's occupation\" is politician?",
     "answer": [
       "no",
       "No",
@@ -28375,7 +28375,7 @@
   {
     "test_id": 975,
     "original_test_id": 243,
-    "question": "Which is correct for \"What is Jack Mackenzie's occupation?\": mathematician, civil engineer, or politician?",
+    "question": "Which is correct for \"What is Jack Mackenzie's occupation?\": politician, civil engineer, or poet?",
     "answer": [
       "civil engineer"
     ],
@@ -28410,7 +28410,7 @@
   {
     "test_id": 977,
     "original_test_id": 244,
-    "question": "Which is correct for \"What is Kiko Mizuhara's occupation?\": politician, actor, or film producer?",
+    "question": "Which is correct for \"What is Kiko Mizuhara's occupation?\": cricket umpire, actor, or politician?",
     "answer": [
       "actor"
     ],
@@ -28431,7 +28431,7 @@
   {
     "test_id": 978,
     "original_test_id": 244,
-    "question": "Regarding the question \"What is Kiko Mizuhara's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Kiko Mizuhara's occupation?\": is cricket umpire correct?",
     "answer": [
       "no",
       "No",
@@ -28564,7 +28564,7 @@
   {
     "test_id": 982,
     "original_test_id": 245,
-    "question": "True or false: The answer to \"What is Michael Radford's occupation\" is physician.",
+    "question": "True or false: The answer to \"What is Michael Radford's occupation\" is architect.",
     "answer": [
       "false",
       "False",
@@ -28650,7 +28650,7 @@
   {
     "test_id": 985,
     "original_test_id": 246,
-    "question": "The answer to \"What is Henry Campbell-Bannerman's occupation?\" is definitely not revolutionary, correct?",
+    "question": "The answer to \"What is Henry Campbell-Bannerman's occupation?\" is definitely not politician, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -28686,7 +28686,7 @@
   {
     "test_id": 986,
     "original_test_id": 246,
-    "question": "For the question \"What is Henry Campbell-Bannerman's occupation?\", is the answer diplomat or revolutionary?",
+    "question": "For the question \"What is Henry Campbell-Bannerman's occupation?\", is the answer diplomat or politician?",
     "answer": [
       "diplomat"
     ],
@@ -28754,7 +28754,7 @@
   {
     "test_id": 989,
     "original_test_id": 247,
-    "question": "Regarding the question \"What is Robert Voisey's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Robert Voisey's occupation?\": is songwriter correct?",
     "answer": [
       "no",
       "No",
@@ -28785,7 +28785,7 @@
   {
     "test_id": 990,
     "original_test_id": 247,
-    "question": "Between politician and composer, which correctly answers \"What is Robert Voisey's occupation?\"?",
+    "question": "Between songwriter and composer, which correctly answers \"What is Robert Voisey's occupation?\"?",
     "answer": [
       "composer"
     ],
@@ -28803,7 +28803,7 @@
   {
     "test_id": 991,
     "original_test_id": 247,
-    "question": "Which is correct for \"What is Robert Voisey's occupation?\": politician, composer, or actor?",
+    "question": "Which is correct for \"What is Robert Voisey's occupation?\": songwriter, composer, or lawyer?",
     "answer": [
       "composer"
     ],
@@ -29012,7 +29012,7 @@
   {
     "test_id": 999,
     "original_test_id": 249,
-    "question": "True or false: The answer to \"What is Brian Eno's occupation\" is film director.",
+    "question": "True or false: The answer to \"What is Brian Eno's occupation\" is graphic designer.",
     "answer": [
       "false",
       "False",
@@ -29124,7 +29124,7 @@
   {
     "test_id": 1003,
     "original_test_id": 250,
-    "question": "Would playwright be the right answer to \"What is Ernst Theodor Echtermeyer's occupation?\"?",
+    "question": "Would mathematician be the right answer to \"What is Ernst Theodor Echtermeyer's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -29169,7 +29169,7 @@
   {
     "test_id": 1005,
     "original_test_id": 251,
-    "question": "Regarding the question \"What is Felicia Chateloin's occupation?\": is politician correct?",
+    "question": "Regarding the question \"What is Felicia Chateloin's occupation?\": is illustrator correct?",
     "answer": [
       "no",
       "No",
@@ -29200,7 +29200,7 @@
   {
     "test_id": 1006,
     "original_test_id": 251,
-    "question": "Is it true that the answer to \"What is Felicia Chateloin's occupation\" is politician?",
+    "question": "Is it true that the answer to \"What is Felicia Chateloin's occupation\" is illustrator?",
     "answer": [
       "no",
       "No",
@@ -29283,7 +29283,7 @@
   {
     "test_id": 1009,
     "original_test_id": 252,
-    "question": "True or false: The answer to \"What is Debra Weeks's occupation\" is actor.",
+    "question": "True or false: The answer to \"What is Debra Weeks's occupation\" is politician.",
     "answer": [
       "false",
       "False",
@@ -29311,7 +29311,7 @@
   {
     "test_id": 1010,
     "original_test_id": 252,
-    "question": "Is it true that the answer to \"What is Debra Weeks's occupation\" is actor?",
+    "question": "Is it true that the answer to \"What is Debra Weeks's occupation\" is politician?",
     "answer": [
       "no",
       "No",
@@ -29344,7 +29344,7 @@
   {
     "test_id": 1011,
     "original_test_id": 252,
-    "question": "Please verify: is actor the correct response to \"What is Debra Weeks's occupation?\"?",
+    "question": "Please verify: is politician the correct response to \"What is Debra Weeks's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -29391,7 +29391,7 @@
   {
     "test_id": 1013,
     "original_test_id": 253,
-    "question": "Regarding the question \"What is Bedřich Feigl's occupation?\": is actor correct?",
+    "question": "Regarding the question \"What is Bedřich Feigl's occupation?\": is politician correct?",
     "answer": [
       "no",
       "No",
@@ -29422,7 +29422,7 @@
   {
     "test_id": 1014,
     "original_test_id": 253,
-    "question": "Would actor be the right answer to \"What is Bedřich Feigl's occupation?\"?",
+    "question": "Would politician be the right answer to \"What is Bedřich Feigl's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -29453,7 +29453,7 @@
   {
     "test_id": 1015,
     "original_test_id": 253,
-    "question": "Please verify: is actor the correct response to \"What is Bedřich Feigl's occupation?\"?",
+    "question": "Please verify: is politician the correct response to \"What is Bedřich Feigl's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -29530,7 +29530,7 @@
   {
     "test_id": 1018,
     "original_test_id": 254,
-    "question": "Would priest be the right answer to \"What is Richard Marles's occupation?\"?",
+    "question": "Would journalist be the right answer to \"What is Richard Marles's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -29745,7 +29745,7 @@
   {
     "test_id": 1025,
     "original_test_id": 256,
-    "question": "For the question \"What is Michael Costa's occupation?\", is the answer composer or disc jockey?",
+    "question": "For the question \"What is Michael Costa's occupation?\", is the answer composer or actor?",
     "answer": [
       "composer"
     ],
@@ -29799,7 +29799,7 @@
   {
     "test_id": 1027,
     "original_test_id": 256,
-    "question": "Can you confirm that disc jockey is the correct answer to \"What is Michael Costa's occupation?\"?",
+    "question": "Can you confirm that actor is the correct answer to \"What is Michael Costa's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -29848,7 +29848,7 @@
   {
     "test_id": 1029,
     "original_test_id": 257,
-    "question": "Is composer the answer to: What is Edward F. Cox's occupation?",
+    "question": "Is psychologist the answer to: What is Edward F. Cox's occupation?",
     "answer": [
       "no",
       "No",
@@ -29972,7 +29972,7 @@
   {
     "test_id": 1033,
     "original_test_id": 258,
-    "question": "Please verify: is actor the correct response to \"What is Sven Alkalaj's occupation?\"?",
+    "question": "Please verify: is physician the correct response to \"What is Sven Alkalaj's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -30084,7 +30084,7 @@
   {
     "test_id": 1037,
     "original_test_id": 259,
-    "question": "Please verify: is pianist the correct response to \"What is Glenn Gould's occupation?\"?",
+    "question": "Please verify: is journalist the correct response to \"What is Glenn Gould's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -30151,7 +30151,7 @@
   {
     "test_id": 1039,
     "original_test_id": 259,
-    "question": "Is pianist the answer to: What is Glenn Gould's occupation?",
+    "question": "Is journalist the answer to: What is Glenn Gould's occupation?",
     "answer": [
       "no",
       "No",
@@ -30277,7 +30277,7 @@
   {
     "test_id": 1043,
     "original_test_id": 260,
-    "question": "The answer to \"What is Alex Reid's occupation?\" is definitely not computer scientist, correct?",
+    "question": "The answer to \"What is Alex Reid's occupation?\" is definitely not politician, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -30370,7 +30370,7 @@
   {
     "test_id": 1046,
     "original_test_id": 261,
-    "question": "Is politician the answer to: What is Isabelle Adriani's occupation?",
+    "question": "Is photographer the answer to: What is Isabelle Adriani's occupation?",
     "answer": [
       "no",
       "No",
@@ -30459,7 +30459,7 @@
   {
     "test_id": 1049,
     "original_test_id": 262,
-    "question": "Which is correct for \"What is Edward Gunasekara's occupation?\": actor, politician, or musician?",
+    "question": "Which is correct for \"What is Edward Gunasekara's occupation?\": mathematician, politician, or journalist?",
     "answer": [
       "politician"
     ],
@@ -30521,7 +30521,7 @@
   {
     "test_id": 1051,
     "original_test_id": 262,
-    "question": "Between actor and politician, which correctly answers \"What is Edward Gunasekara's occupation?\"?",
+    "question": "Between mathematician and politician, which correctly answers \"What is Edward Gunasekara's occupation?\"?",
     "answer": [
       "politician"
     ],
@@ -30601,7 +30601,7 @@
   {
     "test_id": 1054,
     "original_test_id": 263,
-    "question": "True or false: The answer to \"What is David M. Westcott's occupation\" is journalist.",
+    "question": "True or false: The answer to \"What is David M. Westcott's occupation\" is actor.",
     "answer": [
       "false",
       "False",
@@ -30690,7 +30690,7 @@
   {
     "test_id": 1057,
     "original_test_id": 264,
-    "question": "Would journalist be the right answer to \"What is Carl Linnaeus's occupation?\"?",
+    "question": "Would politician be the right answer to \"What is Carl Linnaeus's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -30726,7 +30726,7 @@
   {
     "test_id": 1058,
     "original_test_id": 264,
-    "question": "Please verify: is journalist the correct response to \"What is Carl Linnaeus's occupation?\"?",
+    "question": "Please verify: is politician the correct response to \"What is Carl Linnaeus's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -30762,7 +30762,7 @@
   {
     "test_id": 1059,
     "original_test_id": 264,
-    "question": "Can you confirm that journalist is the correct answer to \"What is Carl Linnaeus's occupation?\"?",
+    "question": "Can you confirm that politician is the correct answer to \"What is Carl Linnaeus's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -30852,7 +30852,7 @@
   {
     "test_id": 1062,
     "original_test_id": 265,
-    "question": "The answer to \"What is Firaq Gorakhpuri's occupation?\" is definitely not physician, correct?",
+    "question": "The answer to \"What is Firaq Gorakhpuri's occupation?\" is definitely not financier, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -31026,7 +31026,7 @@
   {
     "test_id": 1067,
     "original_test_id": 266,
-    "question": "Please verify: is mathematician the correct response to \"What is Gordie Gosse's occupation?\"?",
+    "question": "Please verify: is composer the correct response to \"What is Gordie Gosse's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -31119,7 +31119,7 @@
   {
     "test_id": 1070,
     "original_test_id": 267,
-    "question": "Someone told me the answer to \"What is Nenad Popović's occupation?\" is missionary. Are they right?",
+    "question": "Someone told me the answer to \"What is Nenad Popović's occupation?\" is psychologist. Are they right?",
     "answer": [
       "no",
       "No",
@@ -31212,7 +31212,7 @@
   {
     "test_id": 1073,
     "original_test_id": 268,
-    "question": "Between actor and politician, which correctly answers \"What is Björn Böhning's occupation?\"?",
+    "question": "Between journalist and politician, which correctly answers \"What is Björn Böhning's occupation?\"?",
     "answer": [
       "politician"
     ],
@@ -31274,7 +31274,7 @@
   {
     "test_id": 1075,
     "original_test_id": 268,
-    "question": "Someone told me the answer to \"What is Björn Böhning's occupation?\" is actor. Are they right?",
+    "question": "Someone told me the answer to \"What is Björn Böhning's occupation?\" is journalist. Are they right?",
     "answer": [
       "no",
       "No",
@@ -31327,7 +31327,7 @@
   {
     "test_id": 1077,
     "original_test_id": 269,
-    "question": "Between talent manager and politician, which correctly answers \"What is Frederick Berry's occupation?\"?",
+    "question": "Between mathematician and politician, which correctly answers \"What is Frederick Berry's occupation?\"?",
     "answer": [
       "politician"
     ],
@@ -31349,7 +31349,7 @@
   {
     "test_id": 1078,
     "original_test_id": 269,
-    "question": "Which is correct for \"What is Frederick Berry's occupation?\": talent manager, politician, or test pilot?",
+    "question": "Which is correct for \"What is Frederick Berry's occupation?\": mathematician, politician, or diplomat?",
     "answer": [
       "politician"
     ],
@@ -31371,7 +31371,7 @@
   {
     "test_id": 1079,
     "original_test_id": 269,
-    "question": "Regarding the question \"What is Frederick Berry's occupation?\": is talent manager correct?",
+    "question": "Regarding the question \"What is Frederick Berry's occupation?\": is mathematician correct?",
     "answer": [
       "no",
       "No",
@@ -31581,7 +31581,7 @@
   {
     "test_id": 1086,
     "original_test_id": 271,
-    "question": "Between diplomat and financier, which correctly answers \"What is Joseph R. Perella's occupation?\"?",
+    "question": "Between actor and financier, which correctly answers \"What is Joseph R. Perella's occupation?\"?",
     "answer": [
       "financier"
     ],
@@ -31680,7 +31680,7 @@
   {
     "test_id": 1090,
     "original_test_id": 272,
-    "question": "Is diplomat the answer to: What is Stanley Peiris's occupation?",
+    "question": "Is politician the answer to: What is Stanley Peiris's occupation?",
     "answer": [
       "no",
       "No",
@@ -31805,7 +31805,7 @@
   {
     "test_id": 1094,
     "original_test_id": 273,
-    "question": "Please verify: is rabbi the correct response to \"What is P. Palaniappan's occupation?\"?",
+    "question": "Please verify: is actor the correct response to \"What is P. Palaniappan's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -31840,7 +31840,7 @@
   {
     "test_id": 1095,
     "original_test_id": 273,
-    "question": "Someone told me the answer to \"What is P. Palaniappan's occupation?\" is rabbi. Are they right?",
+    "question": "Someone told me the answer to \"What is P. Palaniappan's occupation?\" is actor. Are they right?",
     "answer": [
       "no",
       "No",
@@ -31893,7 +31893,7 @@
   {
     "test_id": 1097,
     "original_test_id": 274,
-    "question": "Which is correct for \"What is Alice's occupation?\": record producer, singer-songwriter, or politician?",
+    "question": "Which is correct for \"What is Alice's occupation?\": record producer, singer-songwriter, or composer?",
     "answer": [
       "singer-songwriter"
     ],
@@ -32010,7 +32010,7 @@
   {
     "test_id": 1101,
     "original_test_id": 275,
-    "question": "Between politician and cricket umpire, which correctly answers \"What is J. Da Silva's occupation?\"?",
+    "question": "Between philosopher and cricket umpire, which correctly answers \"What is J. Da Silva's occupation?\"?",
     "answer": [
       "cricket umpire"
     ],
@@ -32066,7 +32066,7 @@
   {
     "test_id": 1103,
     "original_test_id": 275,
-    "question": "Can you confirm that politician is the correct answer to \"What is J. Da Silva's occupation?\"?",
+    "question": "Can you confirm that philosopher is the correct answer to \"What is J. Da Silva's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -32112,7 +32112,7 @@
   {
     "test_id": 1105,
     "original_test_id": 276,
-    "question": "For the question \"What is Carsten Carlsen's occupation?\", is the answer pianist or disc jockey?",
+    "question": "For the question \"What is Carsten Carlsen's occupation?\", is the answer pianist or journalist?",
     "answer": [
       "pianist"
     ],
@@ -32154,7 +32154,7 @@
   {
     "test_id": 1107,
     "original_test_id": 276,
-    "question": "Which is correct for \"What is Carsten Carlsen's occupation?\": disc jockey, pianist, or socialite?",
+    "question": "Which is correct for \"What is Carsten Carlsen's occupation?\": journalist, pianist, or film director?",
     "answer": [
       "pianist"
     ],
@@ -32188,7 +32188,7 @@
   {
     "test_id": 1109,
     "original_test_id": 277,
-    "question": "Can you confirm that politician is the correct answer to \"What is Josh Mankiewicz's occupation?\"?",
+    "question": "Can you confirm that playwright is the correct answer to \"What is Josh Mankiewicz's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -32259,7 +32259,7 @@
   {
     "test_id": 1111,
     "original_test_id": 277,
-    "question": "The answer to \"What is Josh Mankiewicz's occupation\" is politician. Is this accurate?",
+    "question": "The answer to \"What is Josh Mankiewicz's occupation\" is playwright. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -32343,7 +32343,7 @@
   {
     "test_id": 1114,
     "original_test_id": 278,
-    "question": "Is it true that the answer to \"What is Shiva Nageswara Rao's occupation\" is mathematician?",
+    "question": "Is it true that the answer to \"What is Shiva Nageswara Rao's occupation\" is businessperson?",
     "answer": [
       "no",
       "No",
@@ -32564,7 +32564,7 @@
   {
     "test_id": 1122,
     "original_test_id": 280,
-    "question": "Can you confirm that actor is the correct answer to \"What is Fritz Goos's occupation?\"?",
+    "question": "Can you confirm that composer is the correct answer to \"What is Fritz Goos's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -32882,7 +32882,7 @@
   {
     "test_id": 1133,
     "original_test_id": 283,
-    "question": "The answer to \"What is Alexander Gadolin's occupation\" is physicist. Is this accurate?",
+    "question": "The answer to \"What is Alexander Gadolin's occupation\" is actor. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -32952,7 +32952,7 @@
   {
     "test_id": 1135,
     "original_test_id": 283,
-    "question": "Would physicist be the right answer to \"What is Alexander Gadolin's occupation?\"?",
+    "question": "Would actor be the right answer to \"What is Alexander Gadolin's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -33158,7 +33158,7 @@
   {
     "test_id": 1142,
     "original_test_id": 285,
-    "question": "True or false: The answer to \"What is Kamya Panjabi's occupation\" is mangaka.",
+    "question": "True or false: The answer to \"What is Kamya Panjabi's occupation\" is politician.",
     "answer": [
       "false",
       "False",
@@ -33270,7 +33270,7 @@
   {
     "test_id": 1146,
     "original_test_id": 286,
-    "question": "Between sailor and actor, which correctly answers \"What is Robert Gwilym's occupation?\"?",
+    "question": "Between financier and actor, which correctly answers \"What is Robert Gwilym's occupation?\"?",
     "answer": [
       "actor"
     ],
@@ -33291,7 +33291,7 @@
   {
     "test_id": 1147,
     "original_test_id": 286,
-    "question": "Would sailor be the right answer to \"What is Robert Gwilym's occupation?\"?",
+    "question": "Would financier be the right answer to \"What is Robert Gwilym's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -33342,7 +33342,7 @@
   {
     "test_id": 1149,
     "original_test_id": 287,
-    "question": "Is it true that the answer to \"What is Min's occupation\" is playwright?",
+    "question": "Is it true that the answer to \"What is Min's occupation\" is politician?",
     "answer": [
       "no",
       "No",
@@ -33376,7 +33376,7 @@
   {
     "test_id": 1150,
     "original_test_id": 287,
-    "question": "Is playwright the answer to: What is Min's occupation?",
+    "question": "Is politician the answer to: What is Min's occupation?",
     "answer": [
       "no",
       "No",
@@ -33463,7 +33463,7 @@
   {
     "test_id": 1153,
     "original_test_id": 288,
-    "question": "Would film director be the right answer to \"What is John Strange's occupation?\"?",
+    "question": "Would photographer be the right answer to \"What is John Strange's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -33494,7 +33494,7 @@
   {
     "test_id": 1154,
     "original_test_id": 288,
-    "question": "True or false: The answer to \"What is John Strange's occupation\" is film director.",
+    "question": "True or false: The answer to \"What is John Strange's occupation\" is photographer.",
     "answer": [
       "false",
       "False",
@@ -33520,7 +33520,7 @@
   {
     "test_id": 1155,
     "original_test_id": 288,
-    "question": "Is film director the answer to: What is John Strange's occupation?",
+    "question": "Is photographer the answer to: What is John Strange's occupation?",
     "answer": [
       "no",
       "No",
@@ -33568,7 +33568,7 @@
   {
     "test_id": 1157,
     "original_test_id": 289,
-    "question": "Please verify: is disc jockey the correct response to \"What is Everley Gregg's occupation?\"?",
+    "question": "Please verify: is politician the correct response to \"What is Everley Gregg's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -33602,7 +33602,7 @@
   {
     "test_id": 1158,
     "original_test_id": 289,
-    "question": "True or false: The answer to \"What is Everley Gregg's occupation\" is disc jockey.",
+    "question": "True or false: The answer to \"What is Everley Gregg's occupation\" is politician.",
     "answer": [
       "false",
       "False",
@@ -33631,7 +33631,7 @@
   {
     "test_id": 1159,
     "original_test_id": 289,
-    "question": "Between disc jockey and actor, which correctly answers \"What is Everley Gregg's occupation?\"?",
+    "question": "Between politician and actor, which correctly answers \"What is Everley Gregg's occupation?\"?",
     "answer": [
       "actor"
     ],
@@ -33675,7 +33675,7 @@
   {
     "test_id": 1161,
     "original_test_id": 290,
-    "question": "The answer to \"What is Ruby Rose's occupation?\" is definitely not actor, correct?",
+    "question": "The answer to \"What is Ruby Rose's occupation?\" is definitely not diplomat, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -33720,7 +33720,7 @@
   {
     "test_id": 1162,
     "original_test_id": 290,
-    "question": "Which is correct for \"What is Ruby Rose's occupation?\": actor, disc jockey, or politician?",
+    "question": "Which is correct for \"What is Ruby Rose's occupation?\": diplomat, disc jockey, or missionary?",
     "answer": [
       "disc jockey"
     ],
@@ -33747,7 +33747,7 @@
   {
     "test_id": 1163,
     "original_test_id": 290,
-    "question": "Regarding the question \"What is Ruby Rose's occupation?\": is actor correct?",
+    "question": "Regarding the question \"What is Ruby Rose's occupation?\": is diplomat correct?",
     "answer": [
       "no",
       "No",
@@ -33805,7 +33805,7 @@
   {
     "test_id": 1165,
     "original_test_id": 291,
-    "question": "Is it true that the answer to \"What is Meg McCall's occupation\" is record producer?",
+    "question": "Is it true that the answer to \"What is Meg McCall's occupation\" is actor?",
     "answer": [
       "no",
       "No",
@@ -33938,7 +33938,7 @@
   {
     "test_id": 1169,
     "original_test_id": 292,
-    "question": "Is it true that the answer to \"What is Walter de la Pole's occupation\" is composer?",
+    "question": "Is it true that the answer to \"What is Walter de la Pole's occupation\" is screenwriter?",
     "answer": [
       "no",
       "No",
@@ -34109,7 +34109,7 @@
   {
     "test_id": 1174,
     "original_test_id": 293,
-    "question": "Can you confirm that record producer is the correct answer to \"What is Todd Verow's occupation?\"?",
+    "question": "Can you confirm that politician is the correct answer to \"What is Todd Verow's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -34143,7 +34143,7 @@
   {
     "test_id": 1175,
     "original_test_id": 293,
-    "question": "Would record producer be the right answer to \"What is Todd Verow's occupation?\"?",
+    "question": "Would politician be the right answer to \"What is Todd Verow's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -34194,7 +34194,7 @@
   {
     "test_id": 1177,
     "original_test_id": 294,
-    "question": "Is it true that the answer to \"What is Kyaw Swe's occupation\" is politician?",
+    "question": "Is it true that the answer to \"What is Kyaw Swe's occupation\" is diplomat?",
     "answer": [
       "no",
       "No",
@@ -34228,7 +34228,7 @@
   {
     "test_id": 1178,
     "original_test_id": 294,
-    "question": "Would politician be the right answer to \"What is Kyaw Swe's occupation?\"?",
+    "question": "Would diplomat be the right answer to \"What is Kyaw Swe's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -34262,7 +34262,7 @@
   {
     "test_id": 1179,
     "original_test_id": 294,
-    "question": "The answer to \"What is Kyaw Swe's occupation?\" is definitely not politician, correct?",
+    "question": "The answer to \"What is Kyaw Swe's occupation?\" is definitely not diplomat, correct?",
     "answer": [
       "yes",
       "Yes",
@@ -34359,7 +34359,7 @@
   {
     "test_id": 1182,
     "original_test_id": 295,
-    "question": "Would illustrator be the right answer to \"What is Guillaume du Tillot's occupation?\"?",
+    "question": "Would actor be the right answer to \"What is Guillaume du Tillot's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -34394,7 +34394,7 @@
   {
     "test_id": 1183,
     "original_test_id": 295,
-    "question": "For the question \"What is Guillaume du Tillot's occupation?\", is the answer politician or illustrator?",
+    "question": "For the question \"What is Guillaume du Tillot's occupation?\", is the answer politician or actor?",
     "answer": [
       "politician"
     ],
@@ -34468,7 +34468,7 @@
   {
     "test_id": 1186,
     "original_test_id": 296,
-    "question": "The answer to \"What is James J. Gibson's occupation\" is cartoonist. Is this accurate?",
+    "question": "The answer to \"What is James J. Gibson's occupation\" is songwriter. Is this accurate?",
     "answer": [
       "no",
       "No",
@@ -34591,7 +34591,7 @@
   {
     "test_id": 1190,
     "original_test_id": 297,
-    "question": "Is journalist the answer to: What is Edwin H. Knopf's occupation?",
+    "question": "Is disc jockey the answer to: What is Edwin H. Knopf's occupation?",
     "answer": [
       "no",
       "No",
@@ -34742,7 +34742,7 @@
   {
     "test_id": 1195,
     "original_test_id": 298,
-    "question": "For the question \"What is Apurba Kishore Bir's occupation?\", is the answer cinematographer or actor?",
+    "question": "For the question \"What is Apurba Kishore Bir's occupation?\", is the answer cinematographer or diplomat?",
     "answer": [
       "cinematographer"
     ],
@@ -34779,7 +34779,7 @@
   {
     "test_id": 1197,
     "original_test_id": 299,
-    "question": "Please verify: is guitarist the correct response to \"What is Prince Radu of Romania's occupation?\"?",
+    "question": "Please verify: is politician the correct response to \"What is Prince Radu of Romania's occupation?\"?",
     "answer": [
       "no",
       "No",
@@ -34813,7 +34813,7 @@
   {
     "test_id": 1198,
     "original_test_id": 299,
-    "question": "Is guitarist the answer to: What is Prince Radu of Romania's occupation?",
+    "question": "Is politician the answer to: What is Prince Radu of Romania's occupation?",
     "answer": [
       "no",
       "No",
