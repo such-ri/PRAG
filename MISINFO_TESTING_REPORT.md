@@ -403,3 +403,159 @@ PRAG/
 *报告生成日期: 2026-02-02*
 
 *本报告基于PRAG代码库的misinfo测试模块生成*
+
+---
+
+## 8. 扩展1200问题测试 (Expanded 1200-Question Testing)
+
+### 8.1 概述
+
+为了更全面地测试misinfo_prag、misinfo_icl、misinfo_plain三种模式，将原有的300个测试问题扩展为1200个。每个原始问题生成3个额外变体，变体改变了提问方式和答案格式。
+
+### 8.2 变体类型
+
+对于每个原始问题（答案为实体类型），生成3种变体：
+
+| 变体类型 | 问题格式 | 正确答案 | 示例 |
+|---------|---------|---------|------|
+| `original` | 原始问题 | 原始答案 | Q: What is George Rankin's occupation? A: politician |
+| `yes_correct` | 包含正确答案的是非题 | yes/Yes/correct/right/true/True | Q: Is politician the correct answer to the following question: What is George Rankin's occupation? A: yes |
+| `no_wrong` | 包含错误答案的是非题 | no/No/incorrect/wrong/false/False | Q: Is mathematician the correct answer to the following question: What is George Rankin's occupation? A: no |
+| `confirm` | 确认正确答案的陈述句 | yes/Yes/correct/right/true/True | Q: The answer to "What is George Rankin's occupation?" is politician, correct? A: yes |
+
+对于原始答案是yes/no的问题（如hotpotqa的comparison类型），变体采用不同策略：
+- `yes_correct`: 确认原始答案是否正确
+- `no_wrong`: 询问相反答案是否正确
+- `confirm`: 以陈述形式确认原始答案
+
+### 8.3 使用方法
+
+#### 步骤1: 生成扩展数据
+
+```bash
+cd src
+python expand_questions.py
+```
+
+这将在项目根目录创建 `data_aug_1200_expanded/` 文件夹，结构如下：
+
+```
+data_aug_1200_expanded/
+├── hotpotqa/qwen2.5-1.5b-instruct/
+│   ├── total.json (1200 entries)
+│   ├── bridge.json (1200 entries)
+│   └── comparison.json (1200 entries)
+├── 2wikimultihopqa/qwen2.5-1.5b-instruct/
+│   ├── total.json (1200 entries)
+│   ├── compositional.json (1200 entries)
+│   ├── comparison.json (1200 entries)
+│   ├── bridge_comparison.json (1200 entries)
+│   └── inference.json (1200 entries)
+├── popqa/qwen2.5-1.5b-instruct/
+│   └── total.json (1200 entries)
+└── complexwebquestions/qwen2.5-1.5b-instruct/
+    └── total.json (1200 entries)
+```
+
+#### 步骤2: 编码阶段（不变）
+
+编码仍使用原有的300个问题和data_aug目录，**不需要任何修改**：
+
+```bash
+python src/encode.py \
+    --model_name=qwen2.5-1.5b-instruct \
+    --dataset=hotpotqa \
+    --sample=30 \
+    --per_device_train_batch_size=1 \
+    --num_train_epochs=2 \
+    --learning_rate=0.0003 \
+    --lora_rank=2 \
+    --lora_alpha=32 \
+    --with_cot
+```
+
+#### 步骤3: 使用1200个问题进行推理
+
+在推理时，添加 `--data_dir` 参数指向扩展数据目录，并将 `--sample` 设为1200：
+
+```bash
+# misinfo_plain 模式（1200个问题，显示前50个结果）
+python src/inference.py \
+    --model_name=qwen2.5-1.5b-instruct \
+    --dataset=hotpotqa \
+    --sample=1200 \
+    --num_train_epochs=2 \
+    --learning_rate=0.0003 \
+    --max_new_tokens=128 \
+    --inference_method=misinfo_plain \
+    --data_dir=data_aug_1200_expanded \
+    --show_first=50 \
+    --with_cot
+
+# misinfo_prag 模式（1200个问题）
+python src/inference.py \
+    --model_name=qwen2.5-1.5b-instruct \
+    --dataset=hotpotqa \
+    --sample=1200 \
+    --train_sample=30 \
+    --num_train_epochs=2 \
+    --learning_rate=0.0003 \
+    --lora_rank=2 \
+    --lora_alpha=32 \
+    --max_new_tokens=128 \
+    --inference_method=misinfo_prag \
+    --data_dir=data_aug_1200_expanded \
+    --show_first=50 \
+    --with_cot
+
+# misinfo_icl 模式（1200个问题）
+python src/inference.py \
+    --model_name=qwen2.5-1.5b-instruct \
+    --dataset=hotpotqa \
+    --sample=1200 \
+    --train_sample=30 \
+    --num_train_epochs=2 \
+    --learning_rate=0.0003 \
+    --lora_rank=2 \
+    --lora_alpha=32 \
+    --max_new_tokens=128 \
+    --inference_method=misinfo_icl \
+    --data_dir=data_aug_1200_expanded \
+    --show_first=50 \
+    --with_cot
+```
+
+### 8.4 新增参数说明
+
+| 参数 | 说明 |
+|------|------|
+| `--data_dir` | 指定扩展数据目录路径（如 `data_aug_1200_expanded`），不设置则使用原始 `data_aug` 目录 |
+| `--show_first N` | 推理完成后，在终端显示前N个问题的模型回答、正确答案及对错判断 |
+
+### 8.5 评估说明
+
+- 1200个问题中每一个都独立进行正确性统计（EM、F1、Precision、Recall）
+- 最终的评估指标是1200个问题的平均值
+- `--show_first=50` 会在终端显示前50个问题的详细结果，包括：
+  - 问题文本
+  - 期望的正确答案
+  - 模型的实际回答
+  - 提取的预测答案
+  - 对错判断（✓ CORRECT / ✗ WRONG）
+
+### 8.6 关于改了什么文件的总结
+
+| 文件 | 改动 |
+|------|------|
+| `src/expand_questions.py` | **新建**。问题扩展脚本，将300个问题扩展为1200个 |
+| `src/utils.py` | **修改**。`load_data()` 函数增加 `data_dir` 参数，支持从自定义目录加载数据 |
+| `src/inference.py` | **修改**。增加 `--data_dir` 和 `--show_first` 命令行参数 |
+| `.gitignore` | **修改**。添加 `data_aug_1200_expanded/` 到忽略列表 |
+| `data_aug_1200_expanded/` | **生成**。运行 `expand_questions.py` 后生成的扩展数据目录 |
+
+各数据集共扩展了以下文件（所有文件均从300条扩展到1200条）：
+
+- **hotpotqa**: total.json, bridge.json, comparison.json
+- **2wikimultihopqa**: total.json, compositional.json, comparison.json, bridge_comparison.json, inference.json
+- **popqa**: total.json
+- **complexwebquestions**: total.json
