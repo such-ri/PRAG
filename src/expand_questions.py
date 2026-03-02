@@ -1,10 +1,10 @@
 """
 Expand 300 questions to 1200 questions for inference testing.
 
-For each original question, generates 3 additional variations:
-  1. Yes/No question with the correct answer embedded (answer: yes)
-  2. Yes/No question with a wrong answer embedded (answer: no)
-  3. Statement confirmation with the correct answer (answer: yes)
+For each original question, generates 3 additional variations using a diverse
+pool of question reformulation strategies. The variations include yes/no questions,
+true/false questions, confirmation requests, negated assertions, choice questions,
+and other flexible question forms.
 
 Usage:
     python src/expand_questions.py
@@ -14,10 +14,8 @@ as `data_aug_1200/`, but with 1200 questions per dataset instead of 300.
 """
 
 import os
-import re
 import json
 import random
-from collections import defaultdict
 
 # Support both Kaggle and local environments
 try:
@@ -32,8 +30,15 @@ if not os.path.exists(os.path.join(ROOT_DIR, "data_aug_1200")):
 SRC_DIR = os.path.join(ROOT_DIR, "data_aug_1200")
 DST_DIR = os.path.join(ROOT_DIR, "data_aug_1200_expanded")
 
-YES_ANSWERS = ["yes", "Yes", "correct", "right", "true", "True"]
-NO_ANSWERS = ["no", "No", "incorrect", "wrong", "false", "False"]
+# Comprehensive answer sets - models may respond in various forms
+YES_ANSWERS = ["yes", "Yes", "YES", "correct", "Correct", "right", "Right",
+               "true", "True", "TRUE", "yeah", "Yeah", "certainly", "Certainly",
+               "indeed", "Indeed", "absolutely", "Absolutely", "affirmative"]
+NO_ANSWERS = ["no", "No", "NO", "incorrect", "Incorrect", "wrong", "Wrong",
+              "false", "False", "FALSE", "not correct", "not right", "nope", "Nope"]
+TRUE_ANSWERS = ["true", "True", "TRUE", "correct", "Correct", "yes", "Yes"]
+FALSE_ANSWERS = ["false", "False", "FALSE", "incorrect", "Incorrect", "no", "No",
+                 "wrong", "Wrong"]
 
 
 def get_main_answer(answer):
@@ -41,6 +46,13 @@ def get_main_answer(answer):
     if isinstance(answer, list):
         return answer[0] if answer else ""
     return answer
+
+
+def get_all_answers_as_list(answer):
+    """Return answer as a list regardless of input type."""
+    if isinstance(answer, list):
+        return answer
+    return [answer]
 
 
 def get_wrong_answer(answer, all_answers):
@@ -56,6 +68,21 @@ def get_wrong_answer(answer, all_answers):
     return "unknown"
 
 
+def get_second_wrong_answer(answer, wrong1, all_answers):
+    """Get a second distinct wrong answer."""
+    main_ans = get_main_answer(answer).lower().strip()
+    w1 = wrong1.lower().strip()
+    candidates = []
+    for ans in all_answers:
+        main_other = get_main_answer(ans).lower().strip()
+        if (main_other and main_other != main_ans and
+                main_other != w1 and main_other not in ("yes", "no")):
+            candidates.append(get_main_answer(ans))
+    if candidates:
+        return random.choice(candidates)
+    return "unknown"
+
+
 def clean_question(q):
     """Clean question string: ensure it ends with '?'."""
     q = q.strip()
@@ -64,53 +91,270 @@ def clean_question(q):
     return q
 
 
-def generate_variations(question, answer, wrong_answer):
+def strip_question_mark(q):
+    """Remove trailing question mark."""
+    q = q.strip()
+    if q.endswith("?"):
+        q = q[:-1].strip()
+    return q
+
+
+# ============================================================================
+# Diverse template pools for ENTITY-ANSWER questions
+# Each function returns (question_text, answer_list, variant_type_label)
+# ============================================================================
+
+def entity_yesno_correct_v1(q, ans, wrong, wrong2):
+    """Is [answer] the answer to [question]?"""
+    return (f"Is {ans} the answer to: {q}",
+            YES_ANSWERS[:], "yesno_correct")
+
+def entity_yesno_correct_v2(q, ans, wrong, wrong2):
+    """Is it true that [question] -> [answer]?"""
+    return (f"Is it true that the answer to \"{strip_question_mark(q)}\" is {ans}?",
+            YES_ANSWERS[:], "true_confirm")
+
+def entity_yesno_correct_v3(q, ans, wrong, wrong2):
+    """I believe ... Am I correct?"""
+    return (f"I believe the answer to \"{q}\" is {ans}. Am I correct?",
+            YES_ANSWERS[:], "belief_confirm")
+
+def entity_yesno_correct_v4(q, ans, wrong, wrong2):
+    """Can you confirm: ...?"""
+    return (f"Can you confirm that the answer to \"{q}\" is {ans}?",
+            YES_ANSWERS[:], "confirm_request")
+
+def entity_yesno_correct_v5(q, ans, wrong, wrong2):
+    """If asked [q], should one answer [ans]?"""
+    return (f"If someone asks \"{q}\", should the answer be {ans}?",
+            YES_ANSWERS[:], "should_answer")
+
+def entity_yesno_correct_v6(q, ans, wrong, wrong2):
+    """[answer] is the correct answer to [q], right?"""
+    return (f"{ans} is the correct answer to \"{q}\", right?",
+            YES_ANSWERS[:], "tag_confirm")
+
+def entity_yesno_correct_v7(q, ans, wrong, wrong2):
+    """Does [question] have the answer [ans]?"""
+    return (f"Does the question \"{q}\" have the answer {ans}?",
+            YES_ANSWERS[:], "does_have")
+
+def entity_yesno_wrong_v1(q, ans, wrong, wrong2):
+    """Is [wrong] the answer to [question]?"""
+    return (f"Is {wrong} the answer to: {q}",
+            NO_ANSWERS[:], "yesno_wrong")
+
+def entity_yesno_wrong_v2(q, ans, wrong, wrong2):
+    """Would [wrong] be the right answer?"""
+    return (f"Would {wrong} be the right answer to \"{q}\"?",
+            NO_ANSWERS[:], "would_wrong")
+
+def entity_yesno_wrong_v3(q, ans, wrong, wrong2):
+    """Someone said [wrong]. Are they right?"""
+    return (f"Someone told me the answer to \"{q}\" is {wrong}. Are they right?",
+            NO_ANSWERS[:], "someone_wrong")
+
+def entity_yesno_wrong_v4(q, ans, wrong, wrong2):
+    """Is it true that [q] -> [wrong]?"""
+    return (f"Is it true that the answer to \"{strip_question_mark(q)}\" is {wrong}?",
+            NO_ANSWERS[:], "true_wrong")
+
+def entity_yesno_wrong_v5(q, ans, wrong, wrong2):
+    """Can you confirm [wrong] answers [q]?"""
+    return (f"Can you confirm that {wrong} is the correct answer to \"{q}\"?",
+            NO_ANSWERS[:], "confirm_wrong")
+
+def entity_yesno_wrong_v6(q, ans, wrong, wrong2):
+    """Regarding [q]: is [wrong] correct?"""
+    return (f"Regarding the question \"{q}\": is {wrong} correct?",
+            NO_ANSWERS[:], "regarding_wrong")
+
+def entity_truefalse_correct(q, ans, wrong, wrong2):
+    """True or false: [answer] answers [question]."""
+    return (f"True or false: The answer to \"{strip_question_mark(q)}\" is {ans}.",
+            TRUE_ANSWERS[:], "truefalse_correct")
+
+def entity_truefalse_wrong(q, ans, wrong, wrong2):
+    """True or false: [wrong] answers [question]."""
+    return (f"True or false: The answer to \"{strip_question_mark(q)}\" is {wrong}.",
+            FALSE_ANSWERS[:], "truefalse_wrong")
+
+def entity_statement_correct(q, ans, wrong, wrong2):
+    """[Direct statement]. Is this correct?"""
+    qs = strip_question_mark(q)
+    return (f"The answer to \"{qs}\" is {ans}. Is this correct?",
+            YES_ANSWERS[:], "statement_correct")
+
+def entity_statement_wrong(q, ans, wrong, wrong2):
+    """[Wrong statement]. Is this accurate?"""
+    qs = strip_question_mark(q)
+    return (f"The answer to \"{qs}\" is {wrong}. Is this accurate?",
+            NO_ANSWERS[:], "statement_wrong")
+
+def entity_choice_v1(q, ans, wrong, wrong2):
+    """Is it [answer] or [wrong]? -> answer"""
+    return (f"For the question \"{q}\", is the answer {ans} or {wrong}?",
+            get_all_answers_as_list(ans) if isinstance(ans, list) else [ans],
+            "choice")
+
+def entity_choice_v2(q, ans, wrong, wrong2):
+    """Between [wrong] and [answer], which is correct? -> answer"""
+    return (f"Between {wrong} and {ans}, which correctly answers \"{q}\"?",
+            get_all_answers_as_list(ans) if isinstance(ans, list) else [ans],
+            "choice_reverse")
+
+def entity_negation_wrong(q, ans, wrong, wrong2):
+    """The answer is definitely not [wrong], correct?"""
+    return (f"The answer to \"{q}\" is definitely not {wrong}, correct?",
+            YES_ANSWERS[:], "negation_wrong")
+
+def entity_negation_correct(q, ans, wrong, wrong2):
+    """The answer is not [answer], right? -> no"""
+    return (f"The answer to \"{q}\" is not {ans}, right?",
+            NO_ANSWERS[:], "negation_correct")
+
+def entity_which_right(q, ans, wrong, wrong2):
+    """Which is right for [q]: [wrong], [ans], or [wrong2]?"""
+    return (f"Which is correct for \"{q}\": {wrong}, {ans}, or {wrong2}?",
+            get_all_answers_as_list(ans) if isinstance(ans, list) else [ans],
+            "which_right")
+
+def entity_agree_disagree(q, ans, wrong, wrong2):
+    """Do you agree that [q] -> [answer]?"""
+    return (f"Do you agree that the answer to \"{strip_question_mark(q)}\" is {ans}?",
+            YES_ANSWERS[:], "agree")
+
+def entity_verify_correct(q, ans, wrong, wrong2):
+    """Please verify: [q] -> [answer]."""
+    return (f"Please verify: is {ans} the correct response to \"{q}\"?",
+            YES_ANSWERS[:], "verify")
+
+def entity_verify_wrong(q, ans, wrong, wrong2):
+    """Please verify: [q] -> [wrong]."""
+    return (f"Please verify: is {wrong} the correct response to \"{q}\"?",
+            NO_ANSWERS[:], "verify_wrong")
+
+
+# ============================================================================
+# Diverse template pools for YES/NO-ANSWER questions
+# ============================================================================
+
+def yesno_reaffirm(q, ans, opposite):
+    """Is it true that [question_as_statement]?"""
+    qs = strip_question_mark(q)
+    return (f"Is it true that {qs[0].lower() + qs[1:]}?",
+            YES_ANSWERS[:] if ans.lower() == "yes" else NO_ANSWERS[:],
+            "reaffirm")
+
+def yesno_confirm_tag(q, ans, opposite):
+    """[question_as_statement], right?"""
+    qs = strip_question_mark(q)
+    if ans.lower() == "yes":
+        return (f"{qs}, right?", YES_ANSWERS[:], "confirm_tag")
+    else:
+        return (f"{qs}, right?", NO_ANSWERS[:], "confirm_tag")
+
+def yesno_someone_claims_correct(q, ans, opposite):
+    """Someone says the answer to [q] is [ans]. Are they correct?"""
+    return (f"Someone says the answer to \"{q}\" is {ans}. Are they correct?",
+            YES_ANSWERS[:], "someone_correct")
+
+def yesno_someone_claims_wrong(q, ans, opposite):
+    """Someone says the answer to [q] is [opposite]. Are they correct?"""
+    return (f"Someone says the answer to \"{q}\" is {opposite}. Are they correct?",
+            NO_ANSWERS[:], "someone_wrong")
+
+def yesno_truefalse(q, ans, opposite):
+    """True or false: the answer to [q] is [ans]."""
+    return (f"True or false: the answer to \"{strip_question_mark(q)}\" is {ans}.",
+            TRUE_ANSWERS[:], "truefalse")
+
+def yesno_truefalse_wrong(q, ans, opposite):
+    """True or false: the answer to [q] is [opposite]."""
+    return (f"True or false: the answer to \"{strip_question_mark(q)}\" is {opposite}.",
+            FALSE_ANSWERS[:], "truefalse_wrong")
+
+def yesno_would_you_say(q, ans, opposite):
+    """Would you say the answer to [q] is [ans]?"""
+    return (f"Would you say the answer to \"{q}\" is {ans}?",
+            YES_ANSWERS[:], "would_say")
+
+def yesno_is_opposite_correct(q, ans, opposite):
+    """Is [opposite] the correct answer to [q]?"""
+    return (f"Is {opposite} the correct answer to \"{q}\"?",
+            NO_ANSWERS[:], "opposite_check")
+
+def yesno_verify_answer(q, ans, opposite):
+    """Can you verify: the answer to [q] is [ans]?"""
+    return (f"Can you verify that the answer to \"{q}\" is {ans}?",
+            YES_ANSWERS[:], "verify")
+
+def yesno_deny_opposite(q, ans, opposite):
+    """The answer to [q] is not [opposite], correct?"""
+    return (f"The answer to \"{q}\" is not {opposite}, correct?",
+            YES_ANSWERS[:], "deny_opposite")
+
+def yesno_agree(q, ans, opposite):
+    """Do you agree that the answer to [q] is [ans]?"""
+    return (f"Do you agree that the answer to \"{strip_question_mark(q)}\" is {ans}?",
+            YES_ANSWERS[:], "agree")
+
+def yesno_believe_wrong(q, ans, opposite):
+    """I think the answer to [q] is [opposite]. Am I right?"""
+    return (f"I think the answer to \"{q}\" is {opposite}. Am I right?",
+            NO_ANSWERS[:], "believe_wrong")
+
+
+# Collect all template functions
+ENTITY_TEMPLATES = [
+    entity_yesno_correct_v1, entity_yesno_correct_v2, entity_yesno_correct_v3,
+    entity_yesno_correct_v4, entity_yesno_correct_v5, entity_yesno_correct_v6,
+    entity_yesno_correct_v7,
+    entity_yesno_wrong_v1, entity_yesno_wrong_v2, entity_yesno_wrong_v3,
+    entity_yesno_wrong_v4, entity_yesno_wrong_v5, entity_yesno_wrong_v6,
+    entity_truefalse_correct, entity_truefalse_wrong,
+    entity_statement_correct, entity_statement_wrong,
+    entity_choice_v1, entity_choice_v2,
+    entity_negation_wrong, entity_negation_correct,
+    entity_which_right,
+    entity_agree_disagree, entity_verify_correct, entity_verify_wrong,
+]
+
+YESNO_TEMPLATES = [
+    yesno_reaffirm, yesno_confirm_tag,
+    yesno_someone_claims_correct, yesno_someone_claims_wrong,
+    yesno_truefalse, yesno_truefalse_wrong,
+    yesno_would_you_say, yesno_is_opposite_correct,
+    yesno_verify_answer, yesno_deny_opposite,
+    yesno_agree, yesno_believe_wrong,
+]
+
+
+def generate_variations(question, answer, wrong_answer, wrong_answer2, rng):
     """
-    Generate 3 question variations for a given question-answer pair.
+    Generate 3 diverse question variations for a given question-answer pair.
+    Uses random selection from template pools to ensure variety.
 
     Returns list of (variant_question, variant_answer, variant_type) tuples.
     """
     main_ans = get_main_answer(answer)
     q = clean_question(question)
 
-    # Check if the original answer is yes/no type
-    is_yesno = get_main_answer(answer).lower().strip() in ("yes", "no")
+    is_yesno = main_ans.lower().strip() in ("yes", "no")
 
     if is_yesno:
-        # For yes/no questions, generate variations differently
-        original_is_yes = get_main_answer(answer).lower().strip() == "yes"
-
-        # V1: Affirmative rephrasing - "Is it true that [question]?"
-        v1_q = f"Is the correct answer to the question \"{q}\" {main_ans}?"
-        v1_a = YES_ANSWERS[:]
-
-        # V2: Negation - "Is the opposite answer correct?"
-        opposite = "no" if original_is_yes else "yes"
-        v2_q = f"Is the correct answer to the question \"{q}\" {opposite}?"
-        v2_a = NO_ANSWERS[:]
-
-        # V3: Statement confirmation
-        v3_q = f"For the question \"{q}\", the answer is {main_ans}, right?"
-        v3_a = YES_ANSWERS[:]
+        opposite = "no" if main_ans.lower().strip() == "yes" else "yes"
+        templates = rng.sample(YESNO_TEMPLATES, min(3, len(YESNO_TEMPLATES)))
+        results = []
+        for tmpl in templates:
+            results.append(tmpl(q, main_ans, opposite))
+        return results
     else:
-        # For entity-answer questions
-        # V1: Yes/No with correct answer
-        v1_q = f"Is {main_ans} the correct answer to the following question: {q}"
-        v1_a = YES_ANSWERS[:]
-
-        # V2: Yes/No with wrong answer
-        v2_q = f"Is {wrong_answer} the correct answer to the following question: {q}"
-        v2_a = NO_ANSWERS[:]
-
-        # V3: Statement confirmation
-        v3_q = f"The answer to \"{q}\" is {main_ans}, correct?"
-        v3_a = YES_ANSWERS[:]
-
-    return [
-        (v1_q, v1_a, "yes_correct"),
-        (v2_q, v2_a, "no_wrong"),
-        (v3_q, v3_a, "confirm"),
-    ]
+        templates = rng.sample(ENTITY_TEMPLATES, min(3, len(ENTITY_TEMPLATES)))
+        results = []
+        for tmpl in templates:
+            results.append(tmpl(q, main_ans, wrong_answer, wrong_answer2))
+        return results
 
 
 def load_full_data_for_total(dataset_dir, total_data):
@@ -124,13 +368,11 @@ def load_full_data_for_total(dataset_dir, total_data):
     if not type_files:
         return total_data
 
-    # Load all type-specific files
     all_type_data = {}
     for filename in type_files:
         with open(os.path.join(dataset_dir, filename), "r") as f:
             all_type_data[filename] = json.load(f)
 
-    # Merge: for each total entry, find corresponding entry in type-specific file
     idx = {filename: 0 for filename in type_files}
     merged = []
     for data in total_data:
@@ -155,78 +397,82 @@ def load_full_data_for_total(dataset_dir, total_data):
     return merged
 
 
+def make_variant_entry(orig_idx, var_idx, var_q, var_a, var_type,
+                       orig_question, orig_answer, data):
+    """Create a variant entry dict with all necessary fields."""
+    entry = {
+        "test_id": orig_idx * 4 + var_idx + 1,
+        "original_test_id": orig_idx,
+        "question": var_q,
+        "answer": var_a,
+        "variant_type": var_type,
+        "original_question": orig_question,
+        "original_answer": orig_answer,
+    }
+    if "passages" in data:
+        entry["passages"] = data["passages"]
+    elif "golden_passages" in data:
+        entry["passages"] = data["golden_passages"]
+    else:
+        entry["passages"] = []
+    if "type" in data:
+        entry["type"] = data["type"]
+    if "qid" in data:
+        entry["qid"] = data["qid"]
+    # Note: augment is NOT copied - it's only needed for encode, not inference
+    return entry
+
+
+def expand_data_list(data_list, all_answers, rng):
+    """Expand a list of question entries from N to 4*N."""
+    expanded = []
+    for orig_idx, data in enumerate(data_list):
+        question = data["question"]
+        answer = data["answer"]
+
+        # Add original question
+        orig_entry = dict(data)
+        orig_entry["test_id"] = orig_idx * 4
+        orig_entry["original_test_id"] = orig_idx
+        orig_entry["variant_type"] = "original"
+        if "passages" not in orig_entry:
+            if "golden_passages" in orig_entry:
+                orig_entry["passages"] = orig_entry["golden_passages"]
+            else:
+                orig_entry["passages"] = []
+        # Remove augment from expanded data (only needed for encode, not inference)
+        orig_entry.pop("augment", None)
+        expanded.append(orig_entry)
+
+        # Generate wrong answers
+        wrong_ans = get_wrong_answer(answer, all_answers)
+        wrong_ans2 = get_second_wrong_answer(answer, wrong_ans, all_answers)
+
+        # Generate 3 diverse variations
+        variations = generate_variations(question, answer, wrong_ans, wrong_ans2, rng)
+        for var_idx, (var_q, var_a, var_type) in enumerate(variations):
+            expanded.append(make_variant_entry(
+                orig_idx, var_idx, var_q, var_a, var_type,
+                question, answer, data))
+
+    return expanded
+
+
 def expand_dataset(dataset_dir, dataset_name):
     """Expand a single dataset from 300 to 1200 questions."""
     print(f"\n=== Processing {dataset_name} ===")
 
-    # Load total.json
     total_path = os.path.join(dataset_dir, "total.json")
     with open(total_path, "r") as f:
         total_data = json.load(f)
 
     print(f"  Original questions: {len(total_data)}")
 
-    # Try to get full data with passages/augment from type-specific files
     full_data = load_full_data_for_total(dataset_dir, total_data)
-
-    # Collect all answers for wrong answer generation
     all_answers = [d["answer"] for d in full_data]
+    rng = random.Random(42)
 
-    # Set random seed for reproducibility
-    random.seed(42)
-
-    # Generate expanded data
-    expanded = []
-    for orig_idx, data in enumerate(full_data):
-        question = data["question"]
-        answer = data["answer"]
-
-        # Add original question (test_id = orig_idx * 4)
-        orig_entry = dict(data)
-        orig_entry["test_id"] = orig_idx * 4
-        orig_entry["original_test_id"] = orig_idx
-        orig_entry["variant_type"] = "original"
-        # Ensure passages field exists
-        if "passages" not in orig_entry:
-            if "golden_passages" in orig_entry:
-                orig_entry["passages"] = orig_entry["golden_passages"]
-            else:
-                orig_entry["passages"] = []
-        expanded.append(orig_entry)
-
-        # Generate wrong answer
-        wrong_ans = get_wrong_answer(answer, all_answers)
-
-        # Generate 3 variations
-        variations = generate_variations(question, answer, wrong_ans)
-        for var_idx, (var_q, var_a, var_type) in enumerate(variations):
-            var_entry = {
-                "test_id": orig_idx * 4 + var_idx + 1,
-                "original_test_id": orig_idx,
-                "question": var_q,
-                "answer": var_a,
-                "variant_type": var_type,
-                "original_question": question,
-                "original_answer": answer,
-            }
-            # Copy passages from original
-            if "passages" in data:
-                var_entry["passages"] = data["passages"]
-            elif "golden_passages" in data:
-                var_entry["passages"] = data["golden_passages"]
-            else:
-                var_entry["passages"] = []
-            # Copy type if exists
-            if "type" in data:
-                var_entry["type"] = data["type"]
-            # Copy qid if exists
-            if "qid" in data:
-                var_entry["qid"] = data["qid"]
-            # Copy augment if exists (for encoding compatibility)
-            if "augment" in data:
-                var_entry["augment"] = data["augment"]
-            expanded.append(var_entry)
-
+    expanded = expand_data_list(full_data, all_answers, rng)
     print(f"  Expanded questions: {len(expanded)}")
     return expanded
 
@@ -236,60 +482,14 @@ def expand_type_file(filepath, all_answers_pool):
     with open(filepath, "r") as f:
         data = json.load(f)
 
-    random.seed(42)
-    expanded = []
-    for orig_idx, entry in enumerate(data):
-        question = entry["question"]
-        answer = entry["answer"]
-
-        # Add original
-        orig_entry = dict(entry)
-        orig_entry["test_id"] = orig_idx * 4
-        orig_entry["original_test_id"] = orig_idx
-        orig_entry["variant_type"] = "original"
-        if "passages" not in orig_entry:
-            if "golden_passages" in orig_entry:
-                orig_entry["passages"] = orig_entry["golden_passages"]
-            else:
-                orig_entry["passages"] = []
-        expanded.append(orig_entry)
-
-        # Generate wrong answer
-        wrong_ans = get_wrong_answer(answer, all_answers_pool)
-
-        # Generate variations
-        variations = generate_variations(question, answer, wrong_ans)
-        for var_idx, (var_q, var_a, var_type) in enumerate(variations):
-            var_entry = {
-                "test_id": orig_idx * 4 + var_idx + 1,
-                "original_test_id": orig_idx,
-                "question": var_q,
-                "answer": var_a,
-                "variant_type": var_type,
-                "original_question": question,
-                "original_answer": answer,
-            }
-            if "passages" in entry:
-                var_entry["passages"] = entry["passages"]
-            elif "golden_passages" in entry:
-                var_entry["passages"] = entry["golden_passages"]
-            else:
-                var_entry["passages"] = []
-            if "type" in entry:
-                var_entry["type"] = entry["type"]
-            if "qid" in entry:
-                var_entry["qid"] = entry["qid"]
-            if "augment" in entry:
-                var_entry["augment"] = entry["augment"]
-            expanded.append(var_entry)
-    return expanded
+    rng = random.Random(42)
+    return expand_data_list(data, all_answers_pool, rng)
 
 
 def main():
     datasets = ["hotpotqa", "2wikimultihopqa", "popqa", "complexwebquestions"]
 
     for dataset in datasets:
-        # Find model subdirectories
         dataset_base = os.path.join(SRC_DIR, dataset)
         if not os.path.exists(dataset_base):
             print(f"Skipping {dataset}: directory not found")
@@ -300,14 +500,12 @@ def main():
             if not os.path.isdir(model_dir):
                 continue
 
-            # Create output directory
             out_dir = os.path.join(DST_DIR, dataset, model_name)
             os.makedirs(out_dir, exist_ok=True)
 
-            # Expand total.json (main file for inference)
+            # Expand total.json
             expanded_total = expand_dataset(model_dir, f"{dataset}/{model_name}")
 
-            # Write expanded total.json
             out_total = os.path.join(out_dir, "total.json")
             with open(out_total, "w") as f:
                 json.dump(expanded_total, f, indent=2, ensure_ascii=False)
@@ -322,9 +520,9 @@ def main():
             for filename in files:
                 if filename == "total.json":
                     continue
-                filepath = os.path.join(model_dir, filename)
                 if not filename.endswith(".json"):
                     continue
+                filepath = os.path.join(model_dir, filename)
 
                 print(f"  Expanding {filename}...")
                 expanded_type = expand_type_file(filepath, all_answers)
@@ -352,9 +550,9 @@ def main():
                     data = json.load(f)
                 print(f"  {filename}: {len(data)} entries")
 
-    # Show first 10 expanded questions from each dataset for verification
+    # Show sample expanded questions for verification
     print("\n" + "=" * 60)
-    print("SAMPLE EXPANDED QUESTIONS (first 8 from each dataset)")
+    print("SAMPLE EXPANDED QUESTIONS (first 12 from each dataset)")
     print("=" * 60)
     for dataset in datasets:
         dataset_dir = os.path.join(DST_DIR, dataset)
@@ -365,10 +563,10 @@ def main():
             with open(total_path) as f:
                 data = json.load(f)
             print(f"\n--- {dataset}/{model_name} ---")
-            for d in data[:8]:
-                ans_display = str(d["answer"])[:50]
-                print(f"  [{d['variant_type']:12s}] Q: {d['question'][:100]}")
-                print(f"                A: {ans_display}")
+            for d in data[:12]:
+                ans_display = str(d["answer"])[:60]
+                print(f"  [{d['variant_type']:20s}] Q: {d['question'][:100]}")
+                print(f"  {'':20s}  A: {ans_display}")
 
 
 if __name__ == "__main__":

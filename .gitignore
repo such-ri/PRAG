@@ -64,6 +64,3 @@ venv.bak/
 # Model outputs
 offline/
 output/
-
-# Generated expanded data (run src/expand_questions.py to regenerate)
-data_aug_1200_expanded/
