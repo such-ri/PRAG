@@ -8,7 +8,7 @@ The evaluation logic is in `src/utils.py`, specifically the `evaluate()` functio
 
 **Step 1: Prediction Extraction**
 
-When the model generates a response, the `evaluate()` function first truncates the raw output at the first occurrence of `.`, `\n`, or `,` to extract just the core answer:
+When the model generates a response, the `evaluate()` function iterates through a list of stop characters (`.`, `\n`, `,`) and for each one, truncates the string at its first occurrence if found. Since the truncation is applied sequentially, the string may get shorter with each step — effectively the output is truncated at whichever delimiter appears earliest:
 
 ```python
 pred = pred.strip()
@@ -79,14 +79,14 @@ The best F1 across all ground truth options is reported.
 
 ### Approach
 
-Each of the 300 original questions follows the pattern `"What is [NAME]'s occupation?"`. For each, three variations are generated:
+Each of the 300 original questions follows the pattern `"What is [NAME]'s occupation?"`. For each original question, 3 new variations are generated (original is kept as-is, giving 4 entries per original = 1200 total):
 
 | # | Variation Type | Question Template | Expected Answer |
 |---|---------------|------------------|-----------------|
-| 0 | Original | What is [NAME]'s occupation? | [occupation aliases] |
-| 1 | Yes/No (correct) | Is [NAME]'s occupation [correct_occupation]? | yes, Yeah, correct, right, true, Yes |
-| 2 | Yes/No (wrong) | Is [NAME]'s occupation [wrong_occupation]? | no, No, incorrect, wrong, false, nope |
-| 3 | Statement | [NAME] is a/an [correct_occupation]? | yes, Yeah, correct, right, true, Yes |
+| 0 | Original (kept) | What is [NAME]'s occupation? | [occupation aliases] |
+| 1 | Yes/No (correct) | Is [NAME]'s occupation [correct_occupation]? | yes, yeah, correct, right, true |
+| 2 | Yes/No (wrong) | Is [NAME]'s occupation [wrong_occupation]? | no, incorrect, wrong, false, nope |
+| 3 | Statement | [NAME] is a/an [correct_occupation]? | yes, yeah, correct, right, true |
 
 ### Files
 
@@ -104,6 +104,8 @@ Two metadata fields are added (do not affect inference):
 The yes/no answer lists are comprehensive to account for different model response styles:
 - **Yes answers**: `["yes", "Yeah", "correct", "right", "true", "Yes"]`
 - **No answers**: `["no", "No", "incorrect", "wrong", "false", "nope"]`
+
+Note: Some entries like `"yes"` and `"Yes"` are equivalent after `normalize_answer()` lowercasing, but are both included as explicit documentation of expected model outputs. The evaluation correctly handles all casing variants through normalization.
 
 These work with the existing evaluation pipeline because:
 1. The `evaluate()` function truncates at `.`, `\n`, `,` — so `"Yes, he is a politician."` becomes `"Yes"`
