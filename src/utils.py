@@ -75,9 +75,10 @@ class BaseDataset:
         return final_metric
 
 
-def load_data(data_name, data_type, model_name):
+def load_data(data_name, data_type, model_name, data_root_dir=None):
     solve_dataset = []
-    input_dir = os.path.join(DATA_ROOT_DIR, data_name, model_name)
+    root_dir = data_root_dir if data_root_dir else DATA_ROOT_DIR
+    input_dir = os.path.join(root_dir, data_name, model_name)
     files = [f for f in os.listdir(input_dir)]
 
 

@@ -276,6 +276,49 @@ python3 src/inference.py \
     --with_cot
 ```
 
+### Testing with Expanded 1200-Question Dataset
+
+The `data_aug_1200_expanded` folder contains an expanded version of the original 300-question test set. Each original question is augmented with 3 additional variants (1200 total), using different question forms:
+
+- **Variant 1**: Yes/no confirmation with the correct answer (e.g., "Is George Rankin's occupation politician?")
+- **Variant 2**: Yes/no question with an incorrect answer (e.g., "Is George Rankin's occupation journalist?") or negated form for yes/no questions (e.g., "Weren't X and Y of the same nationality?")
+- **Variant 3**: Statement verification (e.g., "George Rankin is a politician, correct?") or tag question form
+
+Each of the 1200 questions is evaluated individually. The encoding step still uses the original 300 questions.
+
+**Usage with `--data_root`:**
+
+```bash
+# Step 1: Encode with original 300 questions (no change needed)
+python3 src/encode.py \
+    --model_name=qwen2.5-1.5b-instruct \
+    --dataset=hotpotqa \
+    --sample=30 \
+    --per_device_train_batch_size=1 \
+    --num_train_epochs=2 \
+    --learning_rate=0.0003 \
+    --lora_rank=2 \
+    --lora_alpha=32 \
+    --with_cot
+
+# Step 2: Inference with expanded 1200 questions using --data_root
+python3 src/inference.py \
+    --model_name=qwen2.5-1.5b-instruct \
+    --dataset=hotpotqa \
+    --sample=1200 \
+    --train_sample=30 \
+    --num_train_epochs=2 \
+    --learning_rate=0.0003 \
+    --lora_rank=2 \
+    --lora_alpha=32 \
+    --max_new_tokens=128 \
+    --inference_method=misinfo_prag \
+    --data_root=data_aug_1200_expanded \
+    --with_cot
+```
+
+The `--data_root` argument specifies the data directory for inference. When omitted, the original `data_aug` directory is used (same behavior as before). Set `--sample=1200` to test all 1200 questions.
+
 All generated results are stored in the `output` folder. The specific location of the parameter files is as follows:
 
 ```plain

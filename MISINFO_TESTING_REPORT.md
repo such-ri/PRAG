@@ -300,6 +300,60 @@ elif args.inference_method == "misinfo_prag":
 2. **注意力机制**: 模型可能对特定词汇产生强烈关注，即使它们不相关
 3. **序列依赖**: Transformer的自回归特性使早期干扰传播到后续生成
 
+### 5.4 Augmented Test Data
+
+To obtain more reliable and statistically sound experimental results, we augmented the evaluation test set by expanding the original 300 questions per model per inference mode to 1,200 questions. Concretely, for each original question we generated three additional variant questions, yielding a four-fold increase in evaluation scale while preserving the same retrieved passages and ground-truth context for every variant group.
+
+#### 5.4.1 Motivation
+
+Evaluating on only 300 questions introduces considerable sampling variance: a handful of "lucky" or "unlucky" predictions can shift aggregate metrics such as Exact Match (EM) and F1 by several percentage points. By increasing the test set to 1,200 questions we (i) reduce the standard error of the mean by a factor of 2 (since SE ∝ 1/√n and the sample size is quadrupled), (ii) expose the model to a broader variety of question phrasings, and (iii) obtain a more representative picture of each inference mode's true performance.
+
+#### 5.4.2 Question Variant Design
+
+Each original question *q* is expanded into three variants that probe the same underlying knowledge from different linguistic angles:
+
+| Variant | Strategy | Example (original: *"What is George Rankin's occupation?"*, answer: *politician*) |
+|---------|----------|---------------------------------------------------------------------------------|
+| **Original** | The unmodified question from the dataset | *What is George Rankin's occupation?* |
+| **Variant 1** | Yes/no confirmation with the **correct** answer | *Regarding the question "What is George Rankin's occupation", is the answer politician?*  (expected: **yes**) |
+| **Variant 2** | Yes/no question with an **incorrect** answer (or negated form for yes/no originals) | *Regarding the question "What is George Rankin's occupation", is the answer journalist?*  (expected: **no**) |
+| **Variant 3** | Statement verification / tag question with the **correct** answer | *The answer to "What is George Rankin's occupation" is politician, correct?*  (expected: **yes**) |
+
+For questions whose original answer is already *yes* or *no*, the variants are adapted accordingly. For instance, a *yes*-answer question such as *"Were Scott Derrickson and Ed Wood of the same nationality?"* yields:
+
+* **Variant 1**: appended *", yes or no?"* (expected: **yes**)
+* **Variant 2**: negated form *"Weren't Scott Derrickson and Ed Wood of the same nationality?"* (expected: **no**)
+* **Variant 3**: tag question *"Were Scott Derrickson and Ed Wood of the same nationality, right?"* (expected: **yes**)
+
+Crucially, every variant within a group inherits the same set of retrieved passages from the original question, ensuring that any performance differences across variants are attributable to the question phrasing rather than to changes in the provided context.
+
+#### 5.4.3 Dataset Composition
+
+The augmented test data is applied uniformly across all four benchmark datasets:
+
+| Dataset | Original Questions | Variants per Question | Total Questions |
+|---------|-------------------:|----------------------:|----------------:|
+| HotpotQA | 300 | 3 | 1,200 |
+| 2WikiMultihopQA | 300 | 3 | 1,200 |
+| PopQA | 300 | 3 | 1,200 |
+| ComplexWebQuestions | 300 | 3 | 1,200 |
+
+Each dataset therefore contains exactly 300 original questions and 900 variant questions (300 each for Variant 1, 2, and 3), totaling 1,200 evaluation instances per model per inference mode.
+
+#### 5.4.4 Impact on Result Stability
+
+Expanding the evaluation set from 300 to 1,200 questions yields several concrete benefits for the reliability of our experimental conclusions:
+
+1. **Reduced variance.** With four times as many evaluation samples, the standard error of aggregate metrics (EM, F1) is halved (SE ∝ 1/√n, and √4 = 2), making observed differences between inference modes more statistically meaningful. Small fluctuations caused by individual "easy" or "hard" questions are averaged out over the larger sample.
+
+2. **Robustness to question phrasing.** Real-world users formulate the same informational need in many different ways. By evaluating on multiple phrasings of each question, we test whether the model's accuracy is robust to superficial linguistic variation or whether it is brittle and phrasing-dependent. A method that maintains consistent performance across all variants demonstrates deeper language understanding rather than pattern-matching on specific surface forms.
+
+3. **Balanced positive/negative probes.** Variant 1 and Variant 3 expect an affirmative answer, while Variant 2 expects a negative answer. This balanced design guards against simple answer biases (e.g., a model that defaults to "yes" would score well on Variants 1 and 3 but poorly on Variant 2), providing a more holistic assessment of each inference mode's true comprehension ability.
+
+4. **Fairer comparison across modes.** Because the same 1,200-question set is shared across all inference modes (misinfo_prag, misinfo_icl, misinfo_plain, and the standard icl/prag methods), performance differences are directly comparable and less likely to be artifacts of a particular subset of questions.
+
+In summary, the augmented 1,200-question evaluation protocol strengthens the statistical foundation of our experiments, improves the generalizability of our findings, and provides a more comprehensive and trustworthy basis for comparing Parametric RAG with In-Context Learning under both standard and misinformation scenarios.
+
 ---
 
 ## 6. 实验参数参考 (Experimental Parameters)
